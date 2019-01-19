@@ -1,0 +1,116 @@
+# Project information
+site_name: D&D Palant edition
+site_description: Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.
+site_author: Антон Палихов aka Palant
+# Repository
+repo_name: 'palikhov/DnD_Palant_edition'
+repo_url: 'https://github.com/palikhov/DnD_Palant_edition'
+# trade marks and copyright
+
+copyright: 'Copyright &copy; 2019 Palant и команда Киборгов и Чародеев'
+
+nav:
+    - Главная: index.md
+    - Домашние правила:
+      - Правила по созданию персонажей: homerules\homerules\character-creation.md
+      - Классы: homerules/classes.md
+      - Классы из Арканиса: homerules/homerules/classes/arcanis-work.md
+      - Варвар: homerules/homerules/classes/barbarian.md
+      - Древние колдуны: homerules/homerules/classes/elder-sorcerer.md
+      - Боец (воин): homerules/homerules/classes/fighter.md
+      - Мистик: homerules/homerules/classes/mystic.md
+      - Рейнджер: homerules\homerules\classes\ranger-rework.md
+      - Специалист (авантюрист): homerules\homerules\classes\rogue.md
+      - Шаман: homerules\homerules\classes\shaman.md
+      - Волшебник (маг): homerules\homerules\classes\wizard.md
+      - Твердыни и последователи:  
+        - Не бовые последователи: homerules\homerules\stronghold_and_followers\non-combat-followers.md
+        - Твердыни: homerules\homerules\stronghold_and_followers\strongholds.md
+        - Злодеи: homerules\homerules\stronghold_and_followers\villains.md
+        - Военное дело: homerules\homerules\stronghold_and_followers\warfare.md
+      - Боевые маневры: homerules\homerules\combat-maneuvers.md
+      - Боевые стили: homerules\homerules\fighting-styles.md
+      - Языки: homerules\homerules\languages.md
+      - Навыки (feats): homerules/feats.md
+      - Заклинания: homerules/spells.md
+      - Снаряжение: homerules\homerules\equipment.md
+      - Волшебные предметы: homerules\homerules\magic-items.md
+      - Ловушки: homerules\homerules\traps.md
+      - Деятельность между приключениями: homerules\downtime-activities.md
+      - Дополнительные правила: homerules/additional_rules.md
+      - Расширенные правила: homerules\homerules\expanded_rules.md
+      - Разное: homerules\misc.md
+    - Мультикампания:
+        - Потребность в игротеке: shared_campaign/needs_organized_play.md
+        - Правила общей кампании: shared_campaign/shared_rules.md
+        - Фракции, известность, слава: shared_campaign\factions-renown-fame.md
+        - Модифицированные правила трех столбов: shared_campaign\three-pillars-modified.md
+    - Шаблон персонажа: character-template.md
+    - Шаблон местности, места: location-template.md
+    - Внешние ссылки: external-links.md
+    - Играя магом: playing-as-mage.md
+    - Противники:
+        - Дроу: drow-units.md
+        - Культы стихийного зла: elemental-evil-cults.md
+# Link as comment before release 
+
+# Configuration
+theme:
+  name: 'material'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  logo:
+    icon: 'library_books'
+  language: 'uk'
+  feature:
+    tabs: true
+    
+# Customization
+extra:
+  search:
+    language: 'en, ru, uk'
+  social:
+    - type: 'github'
+      link: 'https://github.com/palikhov'
+    - type: 'twitter'
+      link: 'https://twitter.com/AVPalikhov'
+    - type: 'linkedin'
+      link: 'https://linkedin.com/in/avpalikhov'
+
+# Extensions
+markdown_extensions:
+    - smarty
+    - abbr
+    - attr_list
+    - def_list
+    - fenced_code
+    - footnotes
+    - tables
+    - admonition
+    - meta
+    - wikilinks
+    - codehilite:
+          guess_lang: false
+    - toc:
+        permalink: True
+    - sane_lists
+    - pymdownx.arithmatex
+    - pymdownx.betterem:
+          smart_enable: all
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.details
+    - pymdownx.emoji:
+          emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.tilde
