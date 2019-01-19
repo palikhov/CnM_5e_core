@@ -1,3 +1,20 @@
+# Cantrips
+
+## Shifting Shadow
+
+Conjuration cantrip 
+
+Casting Time: 1 action 
+
+Range: Self 
+
+Components: S 
+
+Duration: Instantaneous
+
+Too quickly for mortal eyes to perceive, you move no further than the reach of your shadow. Your movement doesn't provoke opportunity attacks for the rest of the turn, and you instantly move to an empty space within 5 feet.
+
+
 # New Spells by Class
 
 

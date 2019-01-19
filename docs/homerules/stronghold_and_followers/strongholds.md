@@ -1,338 +1,73 @@
-# TYPES OF STRONGHOLD
-There are four types of basic stronghold, one complex stronghold, and many varieties. Any character can build or use any stronghold, although why a non-spell¬casting character might build a tower is an exercise left to the reader. Maybe they have a spellcasting NPC ally!
-A keep is a martial stronghold for characters inter¬ested in raising armies and defending the local towns¬folk. Barbarian camps and pirate ships are variations on this.
-A tower is an arcane stronghold for doing spell research and learning battle magic.
-A temple is a divine stronghold for summoning extraplanar allies and learning battle magic. A druid’s grove is a popular variation.
-An establishment is an espionage stronghold for sabotaging your enemies and generating revenue.
+#  Strongholds by Class 
 
-## Many of invest
+Regardless of whether you build a keep, a tower, a temple, or an establishment, your stronghold improves your signature class ability, and attracts followers based on your class.
+The stronghold for each class has a dramatic name—a “bard’s theater,” a “monk’s monastery.” But these names are merely examples chosen for flavor, you are free to imagine and name your stronghold in whatever manner seems best to you. Maybe your bard owns a library! Fantastic excuse to get folks coming in and out each dropping off useful nuggets of infor¬mation. Maybe your barbarian prefers calling it their Horde rather than a camp! It’s entirely up to you.
+Furthermore, many of the following abilities refer¬ence alignment, but that’s purely because I’m old-fash¬ioned and prefer the era when paladins fought for good, and I always assume warlocks are sinister. Feel free to reinterpret the abilities so they benefit you and your allies and harm your enemies, however they’re defined.
 
+**THE RULER AND THE LAND ARE ONE**
 
-### Castles: Complex Strongholds 
+Owning a stronghold, leading people, inspires you and grants you insight. It also allows you to draw power from the land itself. The land you protect serves you just as the workers who built your keep, and you in turn protect the land just as you protect your peasants and serfs. 
+This mystical connection manifests in actual power. When your druid takes on the form of a bear and gains fire breath, or your paladin’s sword cuts through the enemy defenses, this is the power of the land itself coursing through you. Rewarding you for your protec¬tion of it.
+The ruler feels this and knows when the land is ill. The connection between the ruler and their land is real and palpable.
+The area governed by a stronghold is called a demesne (deh-MAYNE) and grows as the stronghold does, expanding the owner’s rule in a radius of hexes equal to the stronghold level. Kingdoms & Warfare will have many more rules for this. The system in both books assumes a 24-mile hex, so all powers affect a 12-mile radius per stronghold level.
 
-A stronghold belongs to whoever pays for it, and they are its master. If Cail the Wizard builds a tower, he gets to decide who gains its benefits. He may allow his sorcerer or warlock pals to do spell research there... until one or both betrays him! Or he, them! Only one character can gain the benefit of a given stronghold at a time, and each character can only benefit from one stronghold ability at a time.
-If multiple characters chip in to pay for a strong¬hold—or one character just spends a lot of money—it is a castle and provides multiple benefits. Complex tasks take proportionally more time and money than simple ones, so a castle costs 10% more and takes 10% longer for every basic stronghold function it incorporates.
+**DEMESNE EFFECTS AND STRONGHOLD ACTIONS**
 
-### Ruins.
+The power of a stronghold changes the land around it in dramatic and sometimes mechanically interesting ways. As the regent of the land, you’ll gain new abili¬ties that only work within your stronghold, the nexus of your power. These stronghold actions are epic! But don’t worry, GMs—stronghold actions only work inside the stronghold (unless otherwise noted), so there’s no danger the player will use them to unbalance your game.
+Building a stronghold makes a statement. You make allies, but also enemies. Having some of those enemies attack the player in their stronghold, perhaps infiltrat¬ing it under cover of night, perhaps gaining entrance under guise of some diplomatic or trade mission, gives the player a chance to feel really badass, which is a core element of this fantasy we’re all engaging with.
+Whenever a stronghold action or demense effect prompts a saving throw, its DC is the stronghold owner’s spellcasting DC, unless otherwise noted.
+Players may be tempted to abuse their stronghold actions, using them to show off in inappropriate cir¬cumstances. Should they abuse this privilege, they may find the land they serve and which grants them this power has limited resources and even less patience.
 
-Repairing a ruin saves you half the time and cost of the final stronghold. 
+**CLASS FEATURE IMPROVEMENTS**
 
-## EXTENDED REST
-Strongholds grant special abilities, which quickly run out of uses and must be recharged by taking an extended rest. An extended rest requires spending a week at your stronghold, touching base with your sub¬jects and followers, and attending to your affairs.
+Founding a stronghold improves your class’ signature feature as your new demesne grants you power. Typi¬cally this improved class feature has a limited number of uses (based on your stronghold level, usually) after which you must take an extended rest (page 15) to refresh the ability.
+Multiclass characters can choose any one of their class abilities to improve, and change this selection after an extended rest.
 
+**DIFFERENT CLASSES, DIFFERENT FOLLOWERS**
 
+Each class has its own unique follower chart, listed below. These charts make certain assumptions about how the different classes are each perceived by society. Two classes may be equally effective in combat, but that doesn’t say anything about how the local artisans or infantry company feel about them.
+Some classes have a wider range of results. Paladins can gain more different followers than Sorcerers. This reflects how normal people view the different classes. Paladins and fighters and clerics tend to be respected, trusted. If they have spells, they often use them to help and heal. But peasants don’t react well to sorcery, to arcane knowledge Man Was Not Meant to Know!
+The follower options for each class reflect this. Mar¬tial classes are more likely to get military units, while classes that use sorcery and delve into hidden places or research forgotten lore are more likely to get special allies (page 67).
+These cultural assumptions reflect the default Fanta¬syland campaign setting, but the assumptions of your setting may be very different. GMs, you can adjust these charts to reflect your world’s assumptions or even let players roll on a chart for a different class if it makes more sense!
+Multiclass characters can roll on any chart for which they have class levels.
+The follower charts in this chapter are meant to inspire you, not limit you. They are based on assump¬tions, some of which you may not agree with! For instance, I tend to think of rangers and rogues as being sneaky, guerilla-type characters, so in this system they cannot attract an agent of law like a paladin. But I don’t know your campaign or your characters! By all means, if you think your player’s ranger would attract a pal¬adin follower, feel free to change their follower chart. Or just award them a paladin follower. No need to roll!
 
-## KEEP
+**WHEN TO ROLL**
 
-### TRAINING
+The GM decides when the player gets to roll on a fol¬lower chart. Here are some typical times to roll:
+•	When the PC spends the money for a strong¬hold and starts construction
+•	When construction of the stronghold finishes
+•	When the PC improves (i.e., levels up) a fin¬ished stronghold
+•	When the PC levels up
+GMs, you’re free to combine these rules, letting the player roll when they improve their stronghold and when they level their character up, for example. It’s more about pacing than anything else. I think a good pace is one roll to attract followers per 32-page adventure, or once per chapter in a major hard¬cover adventure.
+Multiclass characters can roll on any chart for which they have levels. If you are a multiclass paladin/cleric, for instance, you can roll on either the paladin or cleric chart. You make this decision each time you roll.
 
-A keep means an army, and an army requires training! 
+**WHO ROLLS?**
 
-As you train your soldiers, you get better with your own gear, gaining the following bonuses based on the weapons or armor that you use. Choose one of the fol¬lowing training benefits.
-You cannot gain the benefit of training from armor, shields, or weapons you are not proficient in. You can change which training you receive during an extended rest (page 15).
+This book assumes the player rolls on their own chart.
+The problem with this, of course, is that the results are random. There may be some results that you know the player wouldn’t like, or that you think are a bad fit for your campaign or the current adventure. In this case, you have a couple options.
 
-Light Armor Training: You have advantage on Dex¬terity checks while wearing light armor.
+**Make a Unique Chart**
 
-Medium Armor Training: You gain 5 feet of extra movement while wearing medium armor. This move¬ment does not provoke attacks of opportunity. 
+There are enough examples here that if you wanted to, say, cut the idea of units entirely, you could just fill in the gap by adding some more followers or expanding some of the ranges on the roll results. If you know some results will be problematic in your world or for your players, you can just cut them, replace them, and/or adjust the numbers.
+Ultimately, you could even create an entirely custom chart for a given player. This can be a lot of fun,and hopefully there are enough examples here that you’ll feel like you could do this pretty easily if you wanted to.
 
-Heavy Armor Training: You learn to present your most heavily armored facing to your foes. Ranged attacks have disadvantage against you as crossbow bolts bounce and acid arrows splash harmlessly (some¬times) off your armor.
+**The GM Rolls**
 
-Bludgeoning Training: When you score a critical hit, the target has disadvantage on attack rolls, saving throws, and skill checks until the start of your next turn.
+This option solves a lot of problems because you can roll behind the screen and just choose a follower for the player, ignoring the roll. This is called lying. Don’t make that face—all of the game is a fiction, and your job as a GM is to curate the experience of it using the rules as a lingua franca between you and the players.
+Like all such choices, including the choice of what adventure to run, or which monsters to use, or how a given NPC will react, this option gives you the power to curate the experience and pick something you know both the player will like and won’t unbalance your game or make your life hard. And if the player believes the die roll was real, all the better.
+Of course, the player has to be okay with this. If they feel like it’s their roll, then taking it away removes some of their belief in the result, and belief is all we have in this business of GMing. You really need to know your players to make this work.
 
-Finesse Training: When an adjacent enemy dam¬ages you with a melee weapon, you may, as a reaction, make a melee attack against them with your wielded finesse weapon.
+**No Rolls, You Just Pick**
 
-Piercing Training: You deal an extra 1d6 damage to creatures wearing heavy armor.
+I have done this, it can work, it just depends on your player and knowing what the juice is for them. If the juice—the reason they built a stronghold—is that they want to roll on the chart and see the result and know (or believe, which is just as good for our purposes) that this is the real result, then they need to roll on the chart.
+But if it seems like they’re not really interested in actually rolling, only in the result, then you can just pick something for them. “As work finishes on your tower, you see an elf standing at the edge of the clear¬ing, watching...” That elf is their new follower! No roll needed!
 
-Reach Training: If you hit with a reach weapon, you can move the target 5 feet, but they must remain within your reach. This movement does not provoke attacks of opportunity.
-
-Shield Training: If you succeed in a weapon attack while wielding a shield, you can push your target 5 feet away from you. This movement does not provoke attacks of opportunity.
-
-Slashing Training: You deal an extra 1d6 damage to creatures wearing light, natural, or no armor.
- 
-Versatile Training: While wielding a versatile weapon in two hands, you gain +1 AC.
-
-
-### THE BARBARIAN CAMP
-
-Barbarians are famous for keeps! In that under no circumstance would they ever build one. They are why other people build keeps! To a barbarian, the idea of putting all your men in an immobile walled jail seems ridiculous.
-Of course, strictly speaking anyone can build any stronghold. And what counts as a “barbarian” has nothing to do with what’s on your character sheet. You can easily be a fighter or ranger who looks and behaves in a classical barbarian mode.
-
-### THE PIRATE SHIP
-
-Another variation of the Keep is the dreaded Pirate Ship. The Pirate Ship (a galleon, but one dedicated to piracy) is a mobile stronghold like the Barbarian camp. But while the Barbarian camp gets slower the larger it is, a Pirate Ship gets faster! Its larger sails resist the wind much more efficiently than the larger hull drags through the water.1
-The Pirate Ship functions as a Keep with the follow¬ing differences.
-
-•	It attracts units just like a keep, but with restrictions to their Size. The ship may not carry units larger than Size 1d6. If rolling on the Units Raised by Keep chart (page 17) would produce a unit larger than Size 1d6, roll again. The ship can hold and no more units than its stronghold level. A fully upgraded Pirate Ship (level 5) could therefore carry five units. There is no restriction on the type of units a Pirate Ship may carry.
-
-•	The ship can move five sea hexes per day,    plus one hex per level of the ship.
-
-•	If the ship sacks (i.e wins a battle against) a port settlement, the settlement’s Develop¬ment Level is downgraded by one.
-
-•	Spending a week in a port settlement gener¬ates 100 gp. 
-
-## TOWER
-
-
-### SPELL RESEARCH
-
-We know player characters can invent spells—we see them throughout the text of the core game. Famous wizard PCs in the 1970s and the spells their players invented have been with us for the entire history of the game.
-
-So we know it can be done, and it has been done, but back in the day the player would just tell the GM what their idea for a spell was, and the GM would come up with some suitably dangerous and heroic quest to acquire the ingredients and lore for the research, and then, quest complete, the GM would figure out the level of the spell to balance it.
-
-You can still do this and, indeed, you don’t really need rules for it. It’s the kind of thing you do because there are no rules for it.
-The core books have rules for creating new spells, but they’re in the back and I don’t get the sense they’re widely used. They also rely on a combination of player initiative (first, think of a new spell that isn’t already covered by one of the hundreds in the game) and GM approval (and the GM has to find a way to balance it, which is probably not fun), and if you’re already doing that, do you need those rules? They’re mostly just guide¬lines for how much damage spells do at which level.
-
-Spell research should be fun, and one of the reasons it’s fun is that it’s unpredictable. My all-time favorite chart is the old Potion Miscibility table, which I wanted to roll on not because really good things could happen, but because really good things and really bad things could happen! Sometimes simultaneously! Any result was exciting and dramatic, and even if my character exploded, I would have been delighted.
-
-This spell research system is all about rolling on charts, because in my experience as a player, when I see charts like the Potion Miscibility table or the Wild Magic chart, or the old-school Wand of Wonder chart, I just want to roll on them.
-
-In this book, all the results of spell research benefit the caster, but not all of them are equally useful, and some of them are Weird. But because these benefits are rewards for building a stronghold, there are no bad results.
-
-### INVENTING A NEW SPELL
-Inventing a new spell from scratch is sort of a pain in the ass and hard to balance and requires a unique com¬bination of player ingenuity and GM balancing that can be a lot of work and not all of it fun.
-
-But researching an existing spell? Taking a here¬tofore boring spell and making it do something extra and neat and maybe weird? Going into your research laboratory and not knowing exactly what you’re going to get when you come out? That’s magical. Here’s how it works.
-
-#### Pick a Spell
-
-You  can only research arcane spells, not divine spells— gods get really bitchy if you start trying to monkey with their ineffable Will. This means the spell must be on the spell list of the bard, eldritch knight, wizard, warlock, or sorcerer. 5th Edition doesn’t really have the clear division of arcane and divine spells, but you’ll notice that it doesn’t give clerics or druids or paladins access to spells with someone’s name in the title. Named spells are apparently, unique to “arcane spellcasters,” and we like that tradition. 
-The GM can, of course, allow a divine character to research spells, and why not. It’s just not the default assumption.
-You must be able to cast the spell you want to research, and the spell can’t have a proper name in it.
-You may choose to research a cantrip, but the researched cantrip will be a lst-level spell (see Casting the Spell on page 27).
-
-#### Pick the Target of the Spell
-
-These categories aren’t comprehensive, but broadly applicable. Some spells may fall under multiple cate¬gories. “Does damage” applies to many spells that also fit elsewhere on the list. The goal is to let the player choose the category, and the GM interprets the exact target broadly.
-
-The target of the spell can be:
-
-•	Yourself or one ally
-
-•	One enemy
-
-•	All bad guys in an area
-
-•	All allies in an area
-
-•	The spell does damage
-
-Some spells don’t fit into any of these categories, typ¬ically ones that bestow knowledge or that summon or create things. For such spells, the above list has enough effects that you could easily choose something from it or even create a unique list by picking and choosing effects below for a player to roll, but we recommend “yourself or one ally” for spells that don’t otherwise fit a category since presumably the spellcaster is ben¬efiting in some way from the spell.
-
-### Research
-
-Researching a spell takes time and money. The money is spent buying arcane materials to use as prospective components. Many potential components must be tested to determine which is the proper one for this new spell. Special tomes must be procured describing the creation of the original spell, pointing the way towards a means to modify it.
-
-The time spent takes 8 hours of every day, six days a week. The arcanist is able to take breaks a few times each day to speak with their lieutenant and command their followers, oversee the construction of their tower, but they spend the required time in research. If this time is interrupted, the new spells slips from their mind and they must start again.
-
-To research a spell, the magic-user must spend 1 month, plus 1 week per level of the spell, minus 1 week per level of their tower.
-
-
-(Acid) Melting: Objects carried by the target are hit and take damage equal to the spell’s damage.
-
-(Bludgeoning) Sundering: For the spell’s dura¬tion, armor worn by the targets degrades by 2. Sundering effects do not stack.
-
-(Cold) Chilling: Affected targets are grappled until the end of their next turn.
-
-(Fire) Incinerating: Affected targets continue to burn, taking an extra 1d6 damage at the start of each round until they spend an action extinguishing the flames.
-
-(Force) Detonating: Affected targets are knocked prone. On their next turn, they must make a Wisdom saving throw to stand up. On their following turn, they may stand up nor¬mally without making a save.
-
-(Lightning) Shocking: Affected targets have disadvantage on all saving throws until the end of your next turn.
-
-(Necrotic) Unholy:2 1d4 ghouls rise from the ground, each anywhere you choose within 30 feet. They obey your commands for a number of rounds equal to your spellcasting modifier, then crumble to dust.
-
-(Piercing) Puncturing: For 10 minutes, weapon attacks against affected targets score critical hits on attack rolls of 15 or higher.3 (Poison) Nauseating: Affected targets forgo their next turn, spending it vomiting.
- 
-•	(Psychic) Hallucinating: On their next turn, the targets perceive allies as enemies and enemies as allies, and act accordingly.
-
-•	(Radiant) Dazzling: Each target is blind until the end of its next turn.
-
-•	(Slashing) Wounding: Each target takes 1d10 damage at the end of its next turn.
-
-•	(Thunder) Concussive: The targets are pushed 20 feet back.
-
-(Acid) Melting: Objects carried by the target are hit and take damage equal to the spell’s damage.
-
-(Bludgeoning) Sundering: For the spell’s dura¬tion, armor worn by the targets degrades by 2. Sundering effects do not stack.
-
-(Cold) Chilling: Affected targets are grappled until the end of their next turn.
-
-(Fire) Incinerating: Affected targets continue to burn, taking an extra 1d6 damage at the start of each round until they spend an action extinguishing the flames.
-
-(Force) Detonating: Affected targets are knocked prone. On their next turn, they must make a Wisdom saving throw to stand up. On their following turn, they may stand up nor¬mally without making a save.
-
-(Lightning) Shocking: Affected targets have disadvantage on all saving throws until the end of your next turn.
-
-(Necrotic) Unholy:2 1d4 ghouls rise from the ground, each anywhere you choose within 30 feet. They obey your commands for a number of rounds equal to your spellcasting modifier, then crumble to dust.
-
-(Piercing) Puncturing: For 10 minutes, weapon attacks against affected targets score critical hits on attack rolls of 15 or higher.3 (Poison) Nauseating: Affected targets forgo their next turn, spending it vomiting.
-
- 
-•	(Psychic) Hallucinating: On their next turn, the targets perceive allies as enemies and enemies as allies, and act accordingly.
-•	(Radiant) Dazzling: Each target is blind until the end of its next turn.
-•	(Slashing) Wounding: Each target takes 1d10 damage at the end of its next turn.
-•	(Thunder) Concussive: The targets are pushed 20 feet back.
-
-
-## ALTERNATIVE TOWER RULES: TOWERS BY SCHOOL
-
-Here are some simple rules for towers by school, in case you don’t like the spell research system.
-
-Upon finishing a tower, the magic-user must dedicate it to one of the eight schools of magic. It is traditional to give your tower a name based on the school—like, if you choose Divination, you might call your stronghold a Tower of Prophecy. Necromancy...well, a Tower of Necromancy is pretty cool, but also the Tower of Death is pretty badass. Or the Black Tower, or the Tower of Pale Flesh. You get the idea.
-
-A magic-user who studies at their tower for a week can prepare and cast spells from their tower’s school as if the spell were cast at one level higher. In other words, fireball, studied by a 5th-level warlock with an evocation tower, would cast as a 4th-level spell and do an extra 1d6 damage, even though the warlock was using a 3rd-level slot.
-
-A magic-user can only prepare spells in this way a number of times equal to the level of their tower  (so typically once when starting out). After this, they must return home and spend a week researching in their tower.
- 
-Velorin finishes his tower and dedicates it to necromancy. He memorizes bestow curse at 3rd level, but when he casts it, it behaves in all other ways like a 4th-level spell, extending the dura¬tion to "concentration.”
-
-All the necromancy spells he casts that day are cast as though they were one level higher. But because his tower is only 1st level, he cannot pre¬pare his necromantic spells this way again until he spends a week in his tower. After upgrading to a 2nd-level tower, he may now spend 2 days casting necromantic spells at higher level.
-
-You could, of course, decide that towers in your campaign grant both these benefits and spell research (see below).
-
-### Optional Rule: Effort
-
-Another method I’ve used and enjoyed allows the magic-user to cast their specialist spells as though they were one level higher with no limit (other than the normal limits of spells by level per day), but each time they cast a spell at a higher level, they must make a Constitution check of DC 10 plus the spell’s level. If they fail, they suffer one level of exhaustion. A full rest removes one level of exhaustion. 
-
-
-
-## TEMPLE
-
-### CONCORDANCE
-
-The measure of how pleased your deity2 is with you is called concordance. If your deity is pleased enough to reward you, then you are referred to as “in concor¬dance” with your deity. If they are not pleased, then you are out of concordance. Typically, there is no way to know whether you’re in or out before you petition your deity. Your concordance is known only to your GM.
-
-Every deed you do that furthers your god’s ethos increases your concordance and makes your god more likely to grant you a boon in battle. Failing to uphold your patron’s ethos has a similarly negative consequence. A cleric’s Divine Intervention is a much-improved version of this same ability. Concordance is available to everyone but has a downside and only grants specific rewards. Divine Intervention only works for Clerics, has no down¬side and can potentially fix any problem.
-
-The gods consider it your responsibility to know right from wrong. If you are tricked by an enemy into doing their bidding, the gods are just as angry at you as they would be if you helped the enemy willingly. Theydon’t pay very close attention and don’t have time to evaluate the subtleties of situational ethics.
-
-### PETITIONING YOUR DEITY
-
-The number-one way to lose concordance is to use it. As an action, you can petition your deity for aid. The GM3 rolls percentile dice and, depending on your character’s concordance, you may receive aid, be ignored, or punished for your repeated badgering. The gods can help you, but they get really annoyed when you pester them. Each time you petition your god and make a concordance roll, you lose some concordance depending on the result you get (with no loss if you attract a servitor).
-
-Then there’s a temporary penalty based on the number of times you’ve petitioned in the last week. Anyone can petition their deity and hope to get a reply, but unless you’ve been busting your ass (or have a temple), there’s a good chance you’ll be cursed just for being annoying.
-
-### DRUID GROVES
-
-A variant temple, the druid’s grove  gives up the bonus to concordance for owning a temple in exchange for installing a powerful spell, including spells you don’t know or which might not be on the druid spell list, into the grove making it permanent.
-
-The druid chooses one spell from the list below and spends a month in meditation. If the powers that grant them their spells are pleased with their work, they permanently install the spell the druid requested, which can be cast once per period listed in the Grove Spells table
-
-## ESTABLISMENT
-
-Revenue
-Each season (or every four months, depending on the calendar of your campaign world), your establishment generates 1,000 gp per establishment level.
-If your establishment is part of a castle, you can use this money to upgrade your castle, no problem.
- 
-### RUMORS
-During an adventure or in the lead-up to one, you can spend some money and collect some rumors about the quest you’re about to go on. The cost is 100 gp per estab¬lishment level.
-
-On a successful Gather Intel check (see below), you learn the name of one kind of creature you’ll be fight¬ing (goblins, bandits, dragons, oozes, etc.) and roughly how many there will be (a few, a dozen, dozens, a score, scores, etc.). During the adventure, those creatures will be vulnerable to damage from your attacks, for a number of attacks equal to your establishment level.
-
-In addition, the GM can choose to reveal any of the following:
-•	The location of a secret door or a hidden entrance or exit
-•	The location and nature of a trap
-•	A description of one riddle or puzzle
-•	The location and description of one powerful magic item
-
-It may seem like this is taking the fun out of the adventure, but for the player with the establishment it will seem like the opposite. It will make them feel awesome, and at the end of the day, you can always add more traps and secret doors!
-
-
-### GATHERING INTEL
-
-Investigation allows you to do detective work, learning the whereabouts and activities of individuals, but orga¬nizations are larger and more complex. By collecting a little information from everyone who visits, your estab¬lishment lets you spy on organizations and people. This is represented by your Gather Intel skill, gained if you own an establishment.
-
-Intel lets you know what your enemies are up to, along with your allies and those organizations—guilds, orders, countries, and such—who claim to be neutral. What you learn is up to the GM. It will be useful but highly generalized. For example, “The Monks of White Fire know you recovered the sword of a million years and they’re planning on taking it from you,” or “The king is closing trade across the southern border.” Okay, that’s good to know, but it’s narrative. There’s no mechanic tied to these things.
-
-#### Organizations
-An organization is any collection of people who agree to common rules and hierarchy in order to further some agenda, goal, or philosophy. An order of knights, a wizards’ college, a thieves’ guild, a duchy, a barony, a church—though not a single church building, but the network of priests and acolytes who all believe in the same doctrine.
-
-You don’t have to know an organization exists to gather intel on it! In fact, that is a classic use of the Gather Intel skill! “I think there’s a conspiracy to infil¬trate the Knights of the White Hart, but I don’t know by whom. Can I make a roll?”
-
-The GM knows the nature of this villainous orga¬nization and can set the DC accordingly and let the player roll. If they succeed, they learn the name of the organization and possibly something about its makeup and goals.
-
-#### Range
-Obviously you can’t use your establishment to deduce the existence of organizations on the other side of the world. Your establishment is only effective against organizations operating within 24 miles times its estab¬lishment level. On many maps, a hex is 24 miles from side to side.
-
-So, a lst-level establishment could spy on organiza¬tions in its hex and in the six hexes around it (a one-hex radius). A 2nd-level establishment could spy on its hex and the 18 closest hexes (a two-hex radius).
-
-### Making the Check
-
-Gather Intel is a skill granted by your establishment, and it uses your stronghold level as its maximum bonus instead of an ability modifier.  So, a lst-level establish¬ment would let you make Gather Intel checks at a max¬imum bonus of +1. You are automatically proficient in Gather Intel if you have an establishment and add your proficiency modifier.
-
-Gathering intel costs money—it’s expensive to pay folks to spy on people! It costs 100 gp per level of your establishment. Larger establishments with larger bonuses have more people to pay! For each increment of 100 gp you pay, you gain a +1 bonus to the check. No, you can’t pay nothing to roll at +0.
-
-Jennifer has a 3rd-level establishment (a gen¬eral store). If she pays 300 gp, she can make a Gather Intel check at +3. She cannot pay 400 gp to get +4, because she is limited by the level of her establishment. But she could choose to pay 200 gp to get +2 to her roll.
-You may make a number of Gather Intel checks per season equal to your establishment level, but you cannot make more than one check against the same organization during the same season.
-
-### Setting the DC
-Some organizations are easier to spy on than others! Players, when you specify the organization you’re spying on, the GM sets the DC based on the criteria in this section, and you only get results for the organiza¬tion you named, not the smaller organizations it con¬trols.
-
-Exactly how these factors determine the DC of the Gather Intel check is up to the GM, just as there are no hard and fast rules for what counts as “difficult” lore for character making an Arcana check.
-
-How Big Is the Organization? Bigger organizations are easier to spy on than smaller ones, because large organizations have more members and therefore more opportunities to eavesdrop on, blackmail, or infil¬trate them.
-
-Some organizations contain organizations of their own. A church may sponsor a secret order of knights. Spying on the church is easy—it’s a big organization that operates out in the open. But that Gather Intel check won’t tell you what the covert knights are up to. If you want to know that, you’ll have to tell your GM before you roll, and they’ll set the DC higher as a result. 
-
-Is the Organization Covert? Covert organizations are harder to spy on. They work to hide their operations as a matter of course. Duchies and churches are, as a rule, public institutions, and normal people can expect to at least be able to find and petition their agents, even if such an organization is tyrannical and unlikely to heed any such petition. They’re pretty easy to spy on.
-
-In contrast, even large, known covert organizations such as Nine Silver, the guild of spies and assassins in Capital, are still covert. People know they exist! But they have no idea how to contact them or even who belongs to them.
-
-How Protective Is the Organization? Does the orga¬nization know they’re being spied on? Do they have counterintelligence agents who actively oppose the player’s spies? A thieves’ guild is much, much harder to spy on than a merchants’ guild, and powerful rulers can deploy highly trained agents to prevent enemies from spying on them.
- 
-### Results
-Remember that the benefits of a stronghold are a reward for spending money and time. So the results of a successful Gather Intel check should be useful, “actionable,” meaning they should give information that helps the players make a plan, or develop a strat¬egy, or advance the plot.
-
-Avoid confirming suspicions. In other words, if a player says, “I think the Order of Five Stars is secretly in league with the baron,” and they roll well, do not merely say, “Yes that’s true.” That is deeply unsatisfy¬ing, since the player already suspected that.
-
-Instead, give them something to act on. “Yes, it seems like they are in league. Your people overheard a con¬versation that only makes sense if the wizard Luris is selling information to the baron.”
-
-Hey now, that is actionable. Maybe you just made up that wizard, that’s fine! That’s your job! But now the player has something to do. 
-
-### Limits
-Your players will make a Gather Intel check, and you’ll give them some juicy bit of knowledge, but of course you’re not going to tell them everything. Which means they’re going to ask for more. They’ll want to drill down on what you said and pursue it. “Where did I get this info? Who told it to me?”
-
-This just makes your life as GM more complicated because we GMs, of course, have no idea exactly who their spies heard this from, and if we’re suddenly faced with the responsibility of not only inventing an NPC who we didn’t know about five seconds ago, but also figuring out the entire signal path of how this NPC knows what they know and who they got it from, then we’re going to want to ditch this whole system because it just makes more problems than solutions.
-
-So when your players inevitably ask, “How exactly do I know this?” there’s one easy answer: “Someone who works for you, someone you trust, overheard it, but they don’t remember who said it.”
-
-You can even play it out. When the player, out of character, asks, “How do I know this?” You can respond in character. “Don’t know, ma’am. I was workin’ the shop and overheard it. Ooh it musta been a week or more ago?”
-
-The player may not be satisfied by that and may even try to subvert the system by giving orders to their employees to, like, write everything down or keep a journal. At this point, it is perfectly appropriate to tell them, “This is the limit of what your stronghold can do.” No point in misleading them—just give it to them straight. They are looking for a degree of specificity this system does not support.
-
-The best character to deliver the results of the Gather Intel check to the PC is the PC’s lieutenant. This is the character who runs the establishment while the PC is out adventuring and who is a trusted NPC. When pressed, “how did you get this information?” the lieu¬tenant can shrug and say “I didn’t collect it personally, one of the workers we employ overheard it.”
-
-If the player is persistent and really wants to dig down and get more details, that may be reasonable, but it might also require more work on your part to invent an answer. In which case that’s a good reason to ask for another Gather Intel check.
-
-
-## FAVORS
-
-### KEEP
-
-The Keep
-You can buy mercenary units equal in number to your establishment level. But because your establishment is not a Keep, upkeep on these units costs 50% more. You can keep these units for as long as you pay the upkeep. The units are housed in temporary barracks  outside the city or town your establishment is in.
-This is a one-time purchase. If you want to buy more units, you must pay for another favor.
-
-### TOWER
-Choose a modified spell researched by an NPC ally or other party member. You can cast that modified spell a number of times equal to your establishment level before you forget it. Once you forget it, you must pay for another favor in order to cast it again.
-
-### TEMPLE
-Choose an allied NPC or party member with a temple. You can petition their deity and use their concordance once. If you summon a servitor, it remains for a number of rounds equal to your establishment level.
-The money for the favor goes to the ally. A PC ally could refuse to grant the favor but they cannot change how much the favor costs. They may want to negoti¬ate better terms, or get something else in return, but the benefits of the favor originate from the establish¬ment and the power of the network of people in your employ to lie, manipulate, and double-deal so that the folks granting the favor think it was their idea. A PC ally therefore might want to name their own terms, (“I will grant you this favor if...,”) but if they accept the payment, the establishment’s owner gets the favor. As a rule, an NPC ally will not try to negotiate. They will accept the money and the PCs gains the favor. 
-
-
-
-## Demesne effects
-
-## Stronghold actions
-
-## Class feature improvements
-
-## Different classes - differnet followers
-
-STRONGHOLD ACTIONS AND TRAITS
+# STRONGHOLD ACTIONS AND TRAITS
 
 # Barbarian's camp
+
+The barbarian’s camp promises good food and drink as well as contests of strength and bravery, creating one or more of the following effects at the GM’s discretion.
 
 ## Demesne Effects
 
@@ -354,21 +89,97 @@ Whenever you reduce an enemy to 0 hit points, you can choose to make a second at
 ## A Barbarian’s Followers 
 Barbarians prefer followers who are independent and don’t require a lot of oversight. They don’t classically attract a large retinue, they don’t usually build great keeps to house their staff and servants. A barbarian’s follower must be at home in wild places, willing and able to relocate quickly and live by their wits.
 
+
+D100	FOLLOWER
+01-06	ELITE LIGHT INFANTRY (SIZE 1D8), UNIT
+07-12	VETERAN MEDIUM CAVALRY (SIZE 1D4), UNIT
+13-15	REGULAR LIGHT AIRBORNE (SIZE 1D4), UNIT
+16-17	EXARCH (3TH LEVEL), RETAINER
+18-24	WARLORD (3RD LEVEL), RETAINER
+25-29	SKINWALKER (3RD LEVEL), RETAINER
+30-34	BEAST LORD (3RD LEVEL), RETAINER
+35-41	NECROMANCER (3RD LEVEL), RETAINER
+42-47	SWORDMASTER (5TH LEVEL), RETAINER
+48-52	DIABOLIST (5TH LEVEL), RETAINER
+53-55	TRACKER (7TH LEVEL), RETAINER
+56-60	BLACKSMITH
+61-65	MINER
+66-70	SAGE
+71-75	HOBGOBLIN AMBASSADOR
+76-80	GNOLL AMBASSADOR
+81-100	ROLL ON THE SPECIAL ALLIES TABLE (PAGE 67)
+
+	
+
+
 # Bard's theattr
 
+The bard’s theater promises drama and entertainment! Poetry and song. But also rumor and intrigue! It creates one or more of the following effects at the GM’s discre¬tion.
+
 ## DEMESNE
+
 •	Whenever the wind blows through the trees in the bard’s demesne, music plays. Hooves on roads beat out a complex rhythm.
 •	Folks who live for a week in the bard’s demesne find themselves ending conversations with rhyming couplets.
 •	Thunder can be counted on to roll whenever someone in the bard’s demesne says something dramatic. Ravens obediently alight on nearby branches when it is dramatically expected of them.
 
+### 
+
+Class Feature Improvement: Encouraging Inspiration
+
+While an ally has unspent inspiration their proficiency bonus increases by +1. This applies to a number of inspiration dice equal to your stronghold level, after which you must take an extended rest to refresh this ability
+
 ## STRONGHOLD ACTIONS
+
+On initiative count 20 (losing initiative ties), the bard takes a stronghold action with one of the following effects. The bard must be in the same hex or province as their stronghold and cannot use the same effect again until after a short rest.
+•	Until initiative count 20 on the next round, all inspiration dice produce their maximum result when rolled, followed by the sounding of a two-note chord: one root note and another a fifth higher than the root.
+•	A three-piece band arrives singing your praises. Until initiative count 20 on the next turn, enemies make saving throws against your magic by rolling three d20s and using the worst of the three. The band has exceptionally good rhythm and world-class lute fingering, and the singer has an unusually high voice.
+•	You regain all inspiration dice.
+
 
 ## Class Feature Improvement: Encouraging Inspiration
 While an ally has unspent inspiration their proficiency bonus increases by +1. This applies to a number of inspiration dice equal to your stronghold level, after which you must take an extended rest to refresh this ability. 
 
 ## FOLLOWERS
 
+D100	FOLLOWER
+01-03	VETERAN LIGHT INFANTRY (SIZE 1D6), UNIT
+04-06	REGULAR LIGHT CAVALRY (SIZE 1D4), UNIT
+07-09	SEASONED LIGHT ARCHERS (SIZE 1D4), UNIT
+10	REGULAR LIGHT AIRBORNE (SIZE 1D4), UNIT
+11	ENCHANTER (3RD LEVEL), RETAINER
+12	CURATE (3RD LEVEL), RETAINER
+13	HEALER (3RD LEVEL), RETAINER
+14-15	KNIGHT-SORCERER (3RD LEVEL), RETAINER
+16-18	BEAST LORD (3RD LEVEL), RETAINER
+19-20	KNIGHT-SORCERER (5TH LEVEL), RETAINER
+21-23	ILLUSIONIST (5TH LEVEL), RETAINER
+24-27	CHAOS MAGE (5TH LEVEL), RETAINER
+28-31	CUTPURSE (5TH LEVEL), RETAINER
+32-34	THAUMATURGIST (7TH LEVEL), RETAINER
+35-37	EXECUTIONER (7TH LEVEL), RETAINER
+38-40	SHAPER (7TH LEVEL), RETAINER
+41-42	FARMER
+43-44	MASON
+45-46	BLACKSMITH
+47-48	CARPENTER
+49-51	SCRIBE
+52-54	SAGE
+55-57	TAILOR
+58-60	ALCHEMIST
+61-63	SPY
+64-65	CAPTAIN
+66-71	ELF AMBASSADOR
+72-75	DWARF AMBASSADOR
+76-78	DRAGONBORN AMBASSADOR
+79-84	GNOME AMBASSADOR
+85	ORC AMBASSADOR
+86-100	ROLL ON THE SPECIAL ALLIES TABLE (PAGE 67)
+
+
+
 # CLERIC CHURCH
+
+The cleric’s church is a bastion of faith for believers and adherents to their deity’s laws, and a symbol of resistance against those forces that oppose the cleric’s god, creating one or more of the following effects at the GM’s discretion.
 
 ## DEMESNE
 •	Folks who live in the cleric’s demesne are immune to disease.
@@ -381,12 +192,50 @@ On initiative count 20 (losing initiative ties), the cleric takes a stronghold a
 •	Shafts of golden light stab down from the sky, penetrating walls and ceilings. The beams target all undead, demons, and devils within 60 feet of you, even those hidden or invisible. Targets must succeed on a Wisdom saving throw or be annihilated.
 •	You and all allies in the stronghold recover all Hit Dice and gain 30 temporary hit points.
 
-## Class Feature Improvement:
-Manifest Divinity
+## Class Feature Improvement: Manifest Divinity
 
 When using your Channel Divinity class feature, all allies within 30 feet regain 3d8 hit points. You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
+## Cleric's Followers
+
+D100	FOLLOWER
+01-04	REGULAR LIGHT INFANTRY (SIZE 1D8), UNIT
+05-07	REGULAR MEDIUM INFANTRY (SIZE 1D6), UNIT
+08-10	SEASONED MEDIUM INFANTRY (SIZE 1D6), UNIT
+11-13	REGULAR HEAVY INFANTRY (SIZE 1D6), UNIT
+14-15	REGULAR LIGHT CAVALRY (SIZE 1D6), UNIT
+16-17	REGULAR MEDIUM CAVALRY (SIZE 1D4), UNIT
+18-19	SEASONED HEAVY CAVALRY (SIZE 1D4), UNIT
+20	REGULAR MEDIUM ARCHERS (SIZE 1D4), UNIT
+21	LOREMASTER (3RD LEVEL), RETAINER
+22	TROUBADOUR-WARRIOR (3RD LEVEL), RETAINER
+23	SWORDMASTER (3RD LEVEL), RETAINER
+24-25	TRACKER (3RD LEVEL), RETAINER
+26-28	WARLORD (3RD LEVEL), RETAINER
+29-30	KNIGHT-SORCERER (5TH LEVEL), RETAINER
+31-33	MYSTIC (5TH LEVEL), RETAINER
+34-37	GUILD ADEPT (5TH LEVEL), RETAINER
+38-41	ACOLYTE OF THE WAY (5TH LEVEL), RETAINER
+42-44	JUSTICAR (5TH LEVEL), RETAINER
+45-47	ENCHANTER (7TH LEVEL), RETAINER
+48-50	CAVALIER (7TH LEVEL), RETAINER
+51-52	FARMERS
+53-55	MASON
+56-58	BLACKSMITH
+59-60	CARPENTER
+61-62	MINER
+63-65	SCRIBE
+66-68	SAGE
+69-70	TAILOR
+71-75	ELF AMBASSADOR
+76-80	DWARF AMBASSADOR
+81-85	GNOME AMBASSADOR
+86-100	ROLL ON THE SPECIAL ALLIES TABLE (PAGE 67)
+
+
 # DRUID
+
+The druid’s grove is a symbol of nature’s beauty and power, creating one or more of the following effects at the GM’s discretion.
 
 ## DEMESNE
 •	Local birds and mammals in the druid’s demesne can speak Common and Elven. They enjoy talking to new people but will try to find and warn the druid if suspicious strangers enter the demesne.
@@ -400,18 +249,57 @@ At the end of its turn, an affected enemy can make another saving throw to escap
 •	You cast banishment on an enemy, sending them to Arcadia on a failed save.
 •	You summon 1d4+1 shambling mounds who fight for you for 1 minute.
 
-## Class Feature Improvement:
-Savage Shape
+## Class Feature Improvement: Savage Shape
+
 When you assume your Wild Shape, choose a damage type of fire, cold, or poison. While in your Wild Shape form, you gain a breath weapon of that type. As a bonus action on your turn, you can exhale gas of the chosen damage type in a 30-foot cone. Each creature in that area must make a Constitution saving throw against your spell DC, taking 4d6 damage of the chosen type on a failed save, or half as much on a successful one. You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-## FOLLOWERS
+
+## A Druid’s Followers
+Living between civilization and wilderness, the druid attracts followers willing to put up with a life devoted to the health and well-being of nature, defending it and learning its secrets. Few are willing to walk this path but those who do are totally devoted to the druid’s service.
+Druids care little for the command and upkeep of large armies, preferring to use battle magic to raise special units when necessary. This being said, they are one of the classes that can attract flying units, often hawkriders or units mounted on giant owls.
+Few artisans are interested in a life lived outside civilization, but druids are spellcasters and loremasters so it’s natural for alchemists, sages, and scribes to pledge service in exchange for greater knowledge.
+Ambassadors who wish to join a druid’s retinue are usually fey, or aligned with them, or creatures who prefer the swamps and bogs that druids are naturally attracted to as sources of power. And druids have their own short list of special allies they may recruit from among the fey creatures of the wood
+
+
+
+D100	FOLLOWER
+01-05	REGULAR MEDIUM INFANTRY (SIZE 1D6), UNIT
+06-10	SEASONED MEDIUM AIRBORNE (SIZE 1D4), UNIT
+11	LOREMASTER (3RD LEVEL), RETAINER
+12	WARDEN (3RD LEVEL), RETAINER
+13-19	ELEMENTAL ACOLYTE (3RD LEVEL), RETAINER
+20-24	CHAOS MAGE (3RD LEVEL), RETAINER
+25-29	CONJURER (5TH LEVEL), RETAINER
+30-36	EXARCH (5TH LEVEL), RETAINER
+37-42	SPIRIT WARDEN (5TH LEVEL), RETAINER
+43-47	KNIGHT OF THE GREEN ORDER (7TH LEVEL),
+RETAINER
+48-50	BEAST LORD (7TH LEVEL), RETAINER
+51-55	FARMER
+56-60	ALCHEMIST
+61-65	SAGE
+66-71	ELF AMBASSADOR
+72-77	GNOME AMBASSADOR
+78-80	LIZARDFOLK AMBASSADOR
+81-85	ROLL ON THE FEY ALLIES CHART (PAGE 67)
+
+86-100	ROLL ON THE SPECIAL ALLIES TABLE (PAGE 67)
+
 
 # FIGHTER
 
+The fighter’s fortress is a bastion against intruders, and it rewards those who practice their martial training, creating one or more of the following effects at the GM’s discretion.
 •	Fortifications in the fighter’s demesne grant units defending them an extra +2 Morale bonus.
 •	Menhirs appear in the fighter’s demesne, fol¬lowing anyone hostile to those who call this province home, imposing themselves between intruders and the locals.
 •	Archers who train in the fighter’s demesne find their arrows go farther and strike more accu¬rately.
 •	Edged weapons in the fighter’s demesne are keener and do not dull.
+
+## Demesne Effects
+•	Fortifications in the fighter’s demesne grant units defending them an extra +2 Morale bonus.
+•	Menhirs appear in the fighter’s demesne, fol¬lowing anyone hostile to those who call this province home, imposing themselves between intruders and the locals.
+•	Archers who train in the fighter’s demesne find their arrows go farther and strike more accu¬rately.
+•	Edged weapons in the fighter’s demesne are keener and do not dull.
+
 
 ## STRONGHOLD ACTIONS
 On initiative count 20 (losing initiative ties), the fighter takes a stronghold action to cause one of the following effects. The fighter must be in the same hex or province as their stronghold, and can’t use the same effect again until after a short rest.
@@ -419,10 +307,13 @@ On initiative count 20 (losing initiative ties), the fighter takes a stronghold 
 •	Until the end of your next turn, you and all your allies’ weapon attacks hit automatically.
 Roll anyway, though—you might score a crit!
 •	You and all your allies are restored to full hit points.
-Class Feature Improvement:
-Fighting Surge
+
+**Class Feature Improvement: Fighting Surge**
+
 Whenever you attack by using your Action Surge, you automatically score a critical hit. You can do this for a number of surges equal to your stronghold level, after which you must take an extended rest to refresh this ability.
-№
+
+## Fighter's Followers
+7
 D100	FOLLOWER	
 01-04	REGULAR MEDIUM INFANTRY (SIZE 1D8), UNIT	
 05-07	REGULAR HEAVY INFANTRY (SIZE 1D8), UNIT	
@@ -449,7 +340,6 @@ D100	FOLLOWER
 56-58	FARMER	
 59-60	MASON	
 61-63	BLACKSMITH	
-		
 64-65	CARPENTER	
 66-68	MINER	
 69-70	CAPTAIN	
@@ -461,12 +351,12 @@ D100	FOLLOWER
 89	ORC AMBASSADOR	
 90	HOBGOBLIN AMBASSADOR	
 91-100	ROLL ON THE SPECIAL ALLIES TABLE (PAGE 67)
-rJif
-		w
-
 
 
 # MONK
+
+Whenever you attack by using your Action Surge, you automatically score a critical hit. You can do this for a number of surges equal to your stronghold level, after which you must take an extended rest to refresh this ability.
+
 
 ## DEMESNE
 •	Creatures age more slowly within the confines of the monk’s demesne.
@@ -484,55 +374,385 @@ Whenever you are attacked while you have unspent ki, you can ignore all of its e
 
 ## Followers
 
+№
+D100	FOLLOWER	
+01-03	REGULAR LIGHT INFANTRY (SIZE 1D6), UNIT	
+04-06	REGULAR MEDIUM INFANTRY (SIZE 1D6), UNIT	
+07-09	SEASONED LIGHT INFANTRY (SIZE 1D6), UNIT	
+10-11	SEASONED MEDIUM INFANTRY (SIZE 1D4), UNIT	
+12-13	VETERAN LIGHT INFANTRY (SIZE 1D4), UNIT	
+14-15	VETERAN MEDIUM INFANTRY (SIZE 1D4), UNIT	
+16	SEER (3RD LEVEL), RETAINER	
+17	EXORCIST (3RD LEVEL), RETAINER	
+18	KNIGHT OF THE GREEN ORDER (3RD LEVEL), RETAINER	
+19-20	SHAPER (3RD LEVEL), RETAINER	
+21-22	EVOKER (3RD LEVEL), RETAINER	
+23	DIABOLIST (3RD LEVEL), RETAINER	
+24	THEURGIST (5TH LEVEL), RETAINER	
+25-27	WARDEN (5TH LEVEL), RETAINER	
+28-30	CURATE (5TH LEVEL), RETAINER	
+31-33	ALIENIST (5TH LEVEL), RETAINER	
+34-36	CONJURER (5TH LEVEL), RETAINER	
+37-40	ILLUSIONIST (5TH LEVEL), RETAINER	
+41-45	MYSTIC (7TH LEVEL), RETAINER	
+46-50	STORMSPEAKER (7TH LEVEL), RETAINER	
+51-52	FARMER	
+53-55	MASON	
+56-58	BLACKSMITH	
+59-60	CARPENTER	
+61-62	MINER	
+63-65	SCRIBE	
+66-68	SAGE	
+69-70	CAPTAIN	
+71-73	ALCHEMIST	
+74-78	ELF AMBASSADOR	
+79-81	DWARF AMBASSADOR	
+82-83	ORC AMBASSADOR	
+84-85	LIZARDFOLK AMBASSADOR	
+86-100	ROLL ON THE SPECIAL ALLIES TABLE (PAGE 67)
+
+		
 
 # PALADIN
 
+The paladin’s chapel broadcasts the power of good and law across the countryside, creating one or more of the following effects at the GM’s discretion.
+
+## Крепости
+
+Подобно воинам и следопытам, паладины могут строить и защищать замки, форты, храмы и другие типы цитаделей. Но цитадель паладина – нечто большее, чем просто место жительства. Она служит памятником его принципам, дань. его божеству и символом его службы. Она может функционировать как военная база, административная канцелярия, священное место, тюрьма, сокровищница или тренировочный центр. Она может также давать скромный доход от продуктов сельского хозяйства, налогов или арендных плат.
+
+Паладин может приобретать землю в любой момент своей карьеры, но он должен быть по крайней мере 9-го уровня, прежде чем он сможет построить цитадель. Паладинам более низкого уровня недостает репутации и связей, и у них редко есть деньги, нужные для строительства и содержания.
+
+Даже на 9-ом уровне, однако, паладин должен быть осторожен. Крепость требует огромных затрат времени и денег. Часто паладин должен наблюдать за работой рабочих и гарнизоном солдат, большинство которых ожидает регулярного жалованья. Паладин может оказаться перед растущими тратами за строительство, которым он не может пренебречь, - скверная постройка дурно отразится на его репутации и может также быть наказана как нарушение его этоса (см. Главу 3).
+
+Если паладин решает сделать решающий шаг, он должен определить местонахождения его будущей крепости, размеры, вид и цели. Это будет его главное местожительство или он будет наведываться туда время от времени? Является ли получение прибыли главной целью? Будет ли простой народ иметь туда доступ, или она будет открыта только для избранных? Сколько он может позволить себе вложить в нее капитала? Как смотрят на это власти его правительства или церкви, благосклонно или неодобрительно? Они помогут людскими ресурсами, ссудами или материалами?
+
+Нет никакой установленной процедуры для строительства крепости, но следующие шаги обычно делают все. Для большей информации, особенно относительно стоимости и местоположения, консультируйтесь с DMGR2, с Руководством по Замкам.
+
+## Позволение
+
+Если паладин имеет тесно связан с властями или церковью, он должен подать прошение надлежащим должностным лицам относительно разрешения на строительство цитадели. В большинстве случаев должностные лица хотят знать подробные планы паладина, особенно размер будущей цитадели, вид и функции. Должностные лица могут требовать бухгалтерского отчета по экономическому статусу паладина, включая его чистый доход, планируемый доход и текущие долги.
+
+Если паладин имеет хорошую репутацию и ответы на их вопросы удовлетворяют их, должностные лица обычно предоставляют разрешение, зависящее от нескольких условий. Например, паладину, вероятно, придется согласиться жить в цитадели минимальное число месяцев в году или оплачивать ежегодный налог (в дополнение к обычным требованиям). Он может быть лично ответственным за долги всех своих рабочих. Более того, должностные лица могут потребовать право использовать его цитадель для военных целей во время войны. Наконец, они могут настаивать на подписании соглашения, которое навсегда передает цитадель им в руки, если паладин нарушает условия их договора.
+
+## Приобретение Земли
+
+Паладины обычно приобретают землю для своих крепостей через дары или привилегии, данные правительством или официальными представителями церкви. Привилегии позволяют паладину управлять землей более или менее так, как он считает нужным, с должностными лицами, сохраняющими власть. Привилигерованная земля часто находится вне юрисдикции правительства или церкви, что означает то, что паладину, вероятно, придется защищать ее от других претендентов.
+
+Монархи иногда предоставляют собственность в форме бенефиция; то есть паладин управляет собственностью, как считает нужным, в обмен на обещание военной службы. Хотя монархия номинально сохраняет собственность, паладин получает весь доход от сельского хозяйства и других прибыльных отраслей. Привилегия имеет силу, пока паладин выполняет свой военный долг. Плюс монархия соглашается обеспечивать солдат, чтобы помогать защищать цитадель, и воздерживается от вмешательства в решения управления паладина.
+
+Дар передает юридическую собственность непосредственно и напрямую паладину. Лучший дар – прямой подарок, в признательность за блестящую карьеру, или как награда за военные победы или некоторые другие исключительные деяния. Дар Гомстеда дает паладину в собственность участок земли после того, как он прожил и работал там в течение определенного периода (обычно 5-10 лет). Когда монарх делает дар, он также определяет то, что случится с землей, когда паладин умрет. Реверсивный дар возвращает собственность королю (или тому, кому земля принадлежала предварительно). Бессрочный дар дает право паладину называть наследника, чтобы тот унаследовал его землю.
+
+В случае привилегий и даров паладин обычно берет ту землю, которую ему дают. Паладин, желающий лучшего, скажем, по размеру или по виду, должен рассмотреть другие возможности. Он может, например, подать прошение своему сеньору относительно собственности побежденной земли; то есть части территории, конфискованной у вражеской армии или собственности, освобожденной от еретического служителя. Богатые или влиятельные паладины могут покупать землю или заключать арендный договор, платя установленную сумму каждый месяц, которая зависит от цены замка. Стоимость земли весьма изменчива, но паладин может рассчитывать на 50-200 золотых за акр за необработанную землю в хорошем климате в разумных пределах от цивилизации.
+
+Паладин может также быть ответственным за регентство или опеку над участком земли, которыми он не владеет и не получает. Как это установлено его властями или церковью, паладин наблюдает за местом и принимает все решения по управлению им, включая наем служащих и поддержания обороноспособности.
+
+## Определение Местонахождения Участка
+
+Паладины должны выбрать участок для своих цитаделей с видимыми преимуществами для обороны и удобства. Цитадель в долине труднее защитить, чем на вершине холма. Доступ к реке делает создание оборонительного рва более легким. Леса обеспечивают древесину для строительства и пищу для пропитания. Земля в городе может быть более дорогой, чем в маленькой деревне, но там легче обеспечить рабочую силу и материалы. Если паладин хочет обрабатывать землю, или если он в конечном счете планирует расширяться, он должен купить столько земли, сколько ему надо, в начале, а не ждать, пока он не построит цитадель и не поднимется  цена на смежную собственность.
+
+Паладины, испытывающие недостаток ресурсов для покупки земли или не имеющие терпения, чтобы ждать привилегий, могут освоить невостребованную дикую местность. Если паладин имеет сильные связи с правительством или церковью, то от него могут потребовать объявить эту землю принадлежащей его вышестоящим. Однако, если земля достаточно удалена и не имеет никакой очевидной военной или экономической ценности, это требование может только быть простой формальностью; власти могут позволить ему владеть землей безо всяких условий. Конечно, если паладин не имеет никаких связей с правительством или церковью, он имеет право потребовать земли для себя.
+
+Хотя цитадели в диких местностях приносят независимость, они также приносят и проблемы. Если вражеская армия осаждает его, паладин не может обратиться к  правительству за помощью. Он находится на своей собственности, которую должен защитить от монстров и претендентов. Ему может быть трудно находить лекарства, продовольствие и другие материалы. Ущерб от лесных пожаров и других природных бедствий может быть трудно устранить.
+
+## Проект
+
+ Цитадель может быть разной: от маленьких крепостей (по сути, укрепленные дома) до красивых замков со сложной архитектурой и большой обороноспособностью. Однако, материальные и этические соображения обычно ограничивают паладина скромными рамками. Если паладин хочет потратить больше, чем 150 000 gp на цитадель (см. “Время и Деньги” ниже), он должен спросить свое божество о позволении. Если намерения паладина благородны – например, если цитадель предназначена для того, чтобы чтить божество или обеспечить работой бедных  крестьян – позволение будет скорее всего дано. Из-за своих обязательств соблюдения простоты (описанной в Главе 3), паладин никогда не будет основывать доминион или империю.
+
+Любая цитадель паладина включает следующие компоненты:
+
+Внутренний двор. Это открытый внутренний двор, окруженный защитной стеной. Внутренний двор обычно круглый или прямоугольный, хотя точная форма зависит от ландшафта.
+
+Крепость. Основная структура цитадели, крепость – это прямоугольное или цилиндрическое строение с толстыми каменными стенами, достигающее в высоту 50-80 футов. Крепость – главное место жительства паладина, его семейства, и его самых близких помощников. Оно также служит для хранения и убежища для  рабочих и солдат, если враги захватят стены цитадели.
+
+Другие строения цитадели могут включать склады, бараки, сараи и мастерские. Эти строения сделаны из дерева или камня, размером от 20 на 20 футов до 40 на 80 футов. Большинство одноэтажные; некоторые могут иметь два этажа. Здания могут быть построены маленькими группами или связаны крытыми переходами, формируя одну непрерывную структуру.
+
+Ров с водой. Это - ров, заполненный водой или грязью, которая окружает стену цитадели. Чтобы удерживать врагов, ров с водой должен быть по крайней мере шириной 10 футов и глубиной 10 футов.
+
+Защитная Стена. Обычно внешняя стена цитадели - 15-50 футов в высоту и по крайней мере 10 футов в ширину. Стена сделана из камня, часто укреплена секциями из металла или леса. Выступающая вперед постройка, называемый барбаканом, состоит из двух каменных башен, приблизительно высотой 20-30 футов, между ними 20-40 футов. Деревянные ворота, укрепленные металлическими полосами, стоят между башнями. Маленькая сторожка может находиться рядом с воротами; охрана контролирует прибытие и вход посетителей в цитадель. Чтобы дать пройти через ров с водой, охрана опускает разводной мост, состоящий из широкой деревянной платформы, связанной цепями с рычагом. Вход может быть защищен опускающейся решеткой из металла, называемой опускной решеткой, поднимающейся и опускающейся с помощью воротов и веревок.
+
+Открытый парапет, называющийся зубчатой стеной, высится на внешней стене. Защитники цитадели стоят позади зубцов, чтобы защитить себя от вражеских снарядов. Некоторые зубцы простираются по защитной стене, позволяя защитникам швырять камни или лить кипящее масло на захватчиков через отверстия.
+
+Храм. Наряду с крепостью храм (или часовня, собор или церковь, смотря что  соответствует вере паладина) – это наиболее внушительное здание цитадели. Храм обычно сделан из камня, цилиндрический или прямоугольный по форме, и находится неподалеку или непосредственно примыкает к крепости. Паладины предпочитают украшенные храмы, и любые затраты из бюджета обычно идут на дополнительное убранство, художественное оформление и архитектурные изыски. Сады камней и фризы довольно типичны для храмов; скульптуры, фонтаны и орнаменты менее обычны, но весьма желательны.
+
+Башни. Несколько каменных возвышаются вдоль стен, каждая приблизительно 30 футов высотой. Квадратные башни менее крепки и более дорогостоящи, чем круглые, но их легче построить. Солдаты стоят на крышах башни, защищенных парапетами, и бросают копья и камни в захватчиков. Изнутри башни они пускают стрелы через узкие бойницы.
+
+## Время и Деньги
+
+Крепости паладинов не дешевы. Цены трех видов приведены ниже; цены включают рабочую силу, но не землю.
+
+Дешевая. Укрепленная башня (которая служит как оплот) с защитной стеной, и один или два маленьких хранилища и бараков рабочих. Стоимость: 40 000-60 000 gp.
+
+Средняя. Скромная вилла или форт, состоящая из 50-футового укрепления, окруженного рвом с водой и защитной стеной, с маленьким храмом, одной или двумя каменными башнями, и несколькими вспомогательными постройками. Стоимость: 80000-120 000 gp.
+
+Дорогая. Скромный замок, включая 80-футовое укрепление, храм, 50-футовую защитную стену (с зубчатой стеной), ров с водой, три или больше башен и несколько вспомогательных построек (сараи, бараки рабочих, склады). Стоимость: 130 000-170 000 gp.
+
+Украшения (включая высококачественные материалы или произведения искусства), тяжелые условия труда (недостаток квалифицированных рабочих или постоянные дожди), и неожиданные задержки (рухнула стена или прогнила  древесина) может увеличивать стоимость на 50-100%. С другой стороны, большой перерыв может понизить затраты. Например, сочувствующий монарх может жертвовать рабочую силу, или владелец шахты может заключить сделку на камень, приобретенные в большом количестве. В любом случае, Мастер определяет затраты строительства, а также все обстоятельств, которые влияют на окончательную стоимость.
+
+Чтобы оценивать число дней на постройку цитадели, разделите общую стоимость цитадели на 1 000, и умножьте результат на 1d4. Например, строительство замка, стоящего 100 000 gp, требует 100-400 дней. Имейте в виду, однако, что график работ редко продолжается без перерыва. Задержки поставок, плохая погода, больные и раненные рабочие и нападения монстров могут удвоить или даже утроить время. Даже скромный замок может потребовать несколько лет на возведение.
+
+## Обслуга
+
+Даже самая маленькая цитадель требует больше внимания, чем один паладин может на нее обратить. Верные слуги – рабочие, солдаты и несколько обученных специалистов – необходимы для ежедневного обслуживания цитадели и ее защиты.
+
+Нахождение слуг особенно сложно для паладина, так как он не привлекает последователей, подобно другим воинам. Далее, паладин может нанимать только людей законопослушно доброго мировоззрения, ограничивая наем.
+
+Из-за этих ограничений паладин может соблазниться на то, чтобы манкировать своими слугами. Но это влечет большой риск. Цитадель может прийти в плохое состояние без достаточного числа рабочих, собственность обесценится и  сеньоры или церковь паладина сделают ему выговор. Слабая защита поощряет набеги  бандитов, монстров и враждебных армий. Без искусного сенешаля паладин должен сам контролировать жизнь цитадели.
+
+Паладин может начинать поиск служащих, ведя поиск в местных гостиницах, отправляя по почте уведомления и прося помощи у других землевладельцев. Хотя интерес может быть сначала ограниченным, число претендентов, вероятно,  увеличится после распространения репутации паладина как честного и великодушного. Вообще, подходящий кандидат на специфическую работу может появиться примерно каждую неделю; паладин может потратить по крайней мере два или три месяца, чтобы нанять слуг.
+
+От паладина зависит отсев всех некомпетентных претендентов и потенциальных нарушителей спокойствия. Самое главное, он должен установить мировоззрение каждого претендента,  задавая особые вопросы (Вы когда-нибудь находились под арестом? Вам делала выговор ваша церковь?), требуя рекомендации (записи военного ведомства и рекомендации от предыдущих нанимателей), и проводя простые испытания честности (паладин оставляет золотую монету на полу, затем уходит из комнаты; возьмет ли претендент монету или вернет ее?). Если паладин сомневается в мировоззрении претендента по любой причине, в его интересах отказать ему от места. Если слуга позже меняет свое мировоззрение на другое, не законопослушно доброе, паладин должен уволить его; плюс к этому, паладин может быть наказан за нарушение этоса (см. Главу 3).
+
+Если паладин убежден в честности претендента и его навыках, тогда он делает ему формальное предложение, разъясняя обязанности, жалованье, всех льготы, возможности для продвижения по службе, и срок службы. Если все это подходит претенденту, он принимается на работу. Поочередно Мастер может делать тайные броски реакции претендента по Таблице 26. Если разговор пошел исключительно хорошо для обеих сторон, измените бросок на +1. Если паладин сделал необычно щедрое предложение, измените бросок еще на +1.
+
+Реакция Претендента на Работу
+
+Бросок
+
+D10			Реакция
+
+1	Претендент категорически отказывается от предложения.
+
+2	Претендент просит о 1d10 x 10% увеличении предлагаемого жалованья (или просит дополнительные льготы). Если паладин не согласен, претендент отвергает работу. Если паладин соглашается, бросайте снова.
+
+3	Претендент просит 1d10 x 10% увеличении предлагаемого жалованья (или просит дополнительные льготы). Если паладин отказывается, претендент все равно принимает работу.
+
+4-5 Претендент просит о 1-2 неделях, чтобы рассмотреть предложение. Если вакансия остается открытой, бросайте снова.
+
+6-10	Претендент принимает предложение.
+
+Сколько нужно слуг? Это зависит от размера цитадели, образа ее действия (чтобы обрабатывать землю, нужны крестьяне, если цитадель выращивает зерновые), и ее местонахождения (большее количество солдат может быть необходимо на враждебной территории). Паладин должен также рассмотреть свое финансовое состояние; рабочие не будут трудиться на него, если он не может выплачивать ежемесячное жалование. Может потребоваться несколько проб и ошибок, прежде чем паладин получит оптимальное соотношение размера и состава своих служащих. Таблица 27 описывает количество служащих для маленьких, средних и больших цитаделей.
+
+### Количество Служащих для Цитаделей
+
+Должность		 Мал. 	 Ср.      Бол.
+
+Артиллерист 		 - 	 - 	 1-2
+
+Врач 			 - 	 - 	 1-2
+
+Инженер 		 - 	 1 	 1-2
+
+Камергер		 - 	 1 	 1-4
+
+Капитан Стражи 	 - 	 1 	 1-3
+
+Капеллан 		 1 	 1-2 	 1-3
+
+Оружейник 		 - 	 1 	 1-4
+
+Писец 			 - 	 - 	 1-2
+
+Сенешаль 		 1 	 1 	 1-2
+
+Солдаты 		 2-10 	 10-50 	 50-70
+
+Форейтор		 - 	 1 	 1-3
+
+Чернорабочие 		 2-10 	 10-20 	 10-50
+
+Ниже следует описание должностей, внесенных в список в Таблице 27, наряду с рекомендациями по уровню и классу. Также дается рекомендованное ежемесячное жалованье; паладин должен также обеспечить жилье и стол.
+
+Капеллан. Клирик, который разделяет веру паладина, капеллан отвечает за религиозные нужды цитадели. Он предоставляет церковные услуги, утешает больных и обезумевших, и обеспечивает духовное руководство. Некоторые священники осуществляют сбор и должное распределение десятины. (Клирик 3-го - 5-го уровня; 100-500 gp, в зависимости от опыта и обязанностей).
+
+Инженер. Инженер занимается ремонтом, контролирует новое строительство и обслуживает оборудование. Он предугадывает проблемы строительства и предлагает пути, которыми паладин мог бы улучшать свою собственность. Хороший инженер должен платить за себя. (Волшебник 2-го - 4-го уровня с навыком Инженерного дела; 100-200 gp.)
+
+Капитан Стражи. Это – командующий вооруженными силами паладина, обычно боевой ветеран с некоторым административным опытом. Вообще, паладину лучше нанять капитана с самым высоким уровнем, которого он может себе позволить. Однако, паладину с маленьким контингентом солдат не нужен исключительно опытный (и дорогой) капитан. (Воин 3-го - 5-го уровня; 300-500 gp.)
+
+Солдаты. Они включают лучников (Воины 0-го - 1-го уровня; 4 gp), кавалеристов (Воины 1-го - 2-го уровня; 5-10 gp), и пехотинцев (Воины 0-го - 1-го уровня; 1-2 gp). Обычно солдаты - большинство служащих цитадели; минимум 50 солдат необходимо для защиты большого замка.
+
+Форейтор. Ухаживает за лошадьми и конюшнями паладина. Он видит, что животные накормлены, напоены, ухожены и обучены. Он также заботится о больных и раненных лошадях. Паладин все равно заботится лично о своем верном спутнике. (Воин 1-го - 2-го уровня; 10-30 gp.)
+
+Сенешаль. Это - администратор, отвечающий за подготовку продовольствия, уборку и общее домашнее управление. (Волшебник, воин или клирик по крайней мере 1-го уровня; 100-200 gp.)
+
+Чернорабочие. Рабочие: жнецы, пастухи, садовники, каменотесы, повара, швеи, и земледельцы. (Воины 0-го уровня; 1-4 gp.)
+
+Паладин может также рассмотреть возможность наема людей на следующие должности. Ни одна из них не является жизненно необходимой для маленьких цитаделей, но может быть необходима, если у паладина большой замок или если его недвижимости разрастается.
+
+Артиллерист. Если цитадель использует осадное оружие или подобные сложные устройства для защиты, артиллерист ответственен за их обслуживание и работу. (Воин 2-го - 5-го уровня; 100-400 gp)
+
+Камергер. Помощник сенешаля, камергер заботится об одежде и жилых комнатах паладина и его самого близкого окружения. Он также заботится о потребностях гостей и может помочь с запасами продовольствия и уборкой. (Воин 0-го – 1-го уровня или клирик; 5-20 gp.)
+
+Врач. Практикующий медик, который заботится о раненных и больных слугах. (клирик 1-го - 3-го уровня; 100-200 gp.)
+
+Писец. Клерк, отвечающий за ведение книг цитадели, включая бухгалтерский учет и налоговые сборы, записи выплаты десятины, материальные запасы, платежные ведомости, и официальные связи. (Клирик 1-го или 2-го уровня навыком с Чтения/Письма; 10-50 gp.)
+
+Оружейник. Эта персона ответственна за ремонт и содержание вооружения цитадели. Если паладин снабжает его необходимыми материалами, он может создать оружие на пустом месте. (Воин 1-го или 2-го уровня; 100-200 gp.)
+
+## Отношения с Элитой 
+
+Из-за своей надежной репутации паладины могут часто получить аудиенцию у должностных лиц из правительства и церкви. Богатые граждане, известные мудрецы и другие влиятельные неигровые персонажи на территории паладина также оказывают эту любезность, как и элита среди NPC, которых паладин встречает в своих путешествиях. Как только паладина просит аудиенции, влиятельный персонаж обычно устраивает встречу как можно скорее. Встреча не гарантирует того, что NPC поможет паладину или даже будет сочувствовать его тяжелому положению. Однако, паладин может ожидать, что его выслушают.
+
+Если паладин искренен и убедителен, элитарный NPC склонен ответить ему положительно. По усмотрению Мастера паладины получают премию +2 при столкновении с добрыми или нейтральными элитарными NPC, с теми, с кем они имеют урегулированные отношения, и премию +1 для добрых и нейтральных элитарных NPC, которых паладин встречает впервые. Злые NPC, вероятно не будут тронуты рассказом паладина, и не получат никаких специальных премий к броскам реакции.
+
 ## Demesne Effects
+
 • Clear blue skies and warm sun dominate year-round. Rain falls only at night, and thunderstorms avoid the area.
 • Evil creatures in daylight have disadvantage on attack rolls, saving throws, skill checks, and ability checks.
 • The paladin is instantly aware of the presence and location in his demesne of any chaotic or evil creature with more than 7 Hit Dice. The range of this awareness is a number of hexes equal to the level of the paladin’s stronghold.
 
 ## Stronghold Actions
+
 On initiative count 20 (losing initiative ties), the paladin takes a stronghold action to cause one of the following effects. The paladin must be in the same hex or province as their stronghold and can’t use the same effect again until after a short rest.
 • Each chaotic or evil creature (your choice) within 120 feet must succeed on a Constitution saving throw or be bound by gold (anti-evil) or silver (anti-chaos) chains, grappling it until it makes a Strength or Dexterity check as an action against your spell DC.
 • Flying creatures within 120 feet must succeed on a Constitution check or immediately land. They cannot take off again for the remainder of combat.
 • Choose an ally within sight to gain an AC bonus equal to your Charisma bonus, as their armor becomes gold, for the remainder of combat. Each ally can be affected by this ability only once per day. 
 
-Class Feature Improvement: Righteous Smite
+### Class Feature Improvement: Righteous Smite
 Your Divine Smite burns through enemy resistance. Enemies normally resistant to either radiant damage or your weapon damage lose it. Enemies invulnerable to either type of damage are now resistant to it, and enemies without resistance to either divine or weapon damage become vulnerable.
 You can do this for a number of attacks equal to your stronghold level, after which you must take an extended rest to refresh this ability. 
 
-A Paladin’s Mount
+### A Paladin’s Mount
 If you roll really well (91–93), you get a special paladin mount as a follower! This mount replaces the normal horse that you can attract. And, of course, if you roll even higher (94-100) you may attract a dragon. If your dragon is incredibly good-natured and well-disposed to you, it may let you ride it, but this is rare, for dragons are proud creatures. That being said, in times of desperation, your allies may come to your aid in combatespecially when defending your realm—and in these times legends tell of great paladins who rode their dragon allies into battle. Probably the dragon versions of these stories tell a different tale.
 ALICORN
 Natives of Arcadia, the winged unicorn (not to be confused with the horned pegasus) can be summoned by a particularly devout paladin to serve as their mount. 
 They do not particularly like the Mundane World, but they enjoy and find satisfaction in hunting evil and chaos. They will serve as mount and companion to a holy knight only so long as it brings the opportunity to smash evil, a sport they are denied on their home plane
 
-## Ranger's lodge
+## Paladin's Followers
 
-### Demesne Effects
+D100	FOLLOWER
+	SEASONED LIGHT INFANTRY (SIZE 1D8), UNIT
+05-07	SEASONED MEDIUM INFANTRY (SIZE 1D8), UNIT
+08-10	VETERAN LIGHT INFANTRY (SIZE 1D8), UNIT
+11-13	VETERAN HEAVY INFANTRY (SIZE 1D6), UNIT
+14—15	REGULAR MEDIUM CAVALRY (SIZE 1D6), UNIT
+16-17	SEASONED MEDIUM CAVALRY (SIZE 1D6), UNIT
+18—19	VETERAN MEDIUM CAVALRY (SIZE 1D6), UNIT
+20	ELITE LIGHT CAVALRY (SIZE 1D4), UNIT
+21	MYSTIC (3RD LEVEL), RETAINER
+22	ACOLYTE OF THE WAY (3RD LEVEL), RETAINER
+23	LOREMASTER (3RD LEVEL), RETAINER
+24—25	EVOKER (3RD LEVEL), RETAINER
+26—28	SEER (3RD LEVEL), RETAINER
+29—30	BATTLE PRIEST (3RD LEVEL), RETAINER
+31—33	TROUBADOUR-WARRIOR (5TH LEVEL), RETAINER
+34—37	THAUMATURGIST (5TH LEVEL), RETAINER
+38—41	SWORDMASTER (5TH LEVEL), RETAINER
+42—44	CURATE (7TH LEVEL), RETAINER
+45—47	EXORCIST (7TH LEVEL), RETAINER
+48—50	WARLORD (7TH LEVEL), RETAINER
+51—52	FARMER
+53—55	MASON
+56—58	BLACKSMITH
+59—61	CARPENTER
+62—63	MINER
+64—65	SCRIBE
+66—68	SAGE
+69—70	CAPTAIN
+71—74	TAILOR
+75—79	ELF AMBASSADOR
+80—81	DWARF AMBASSADOR
+82—85	DRAGONBORN AMBASSADOR
+86—89	GNOME AMBASSADOR
+90	WINGED ELF AMBASSADOR
+91—93	ROLL ON THE SPECIAL PALADIN MOUNT CHART
+94—100	ROLL ON THE SPECIAL ALLIES TABLE
+
+SPECIAL PALADIN MOUNT
+
+IT	D12	MOUNT	
+	01-04	HIPPOGRIFF	
+	05-07	GRIFFON	
+	08-09	PEGASUS	
+	10-11	UNICORN	
+	12	ALICORN (SEE BELOW)	r-ffT
+		
+## A Paladin's Mount
+If you roll really well (91-93), you get a special paladin mount as a follower! This mount replaces the normal horse that you can attract. And, of course, if you roll even higher (94-100) you may attract a dragon. If your dragon is incredibly good-natured and well-disposed to you, it may let you ride it, but this is rare, for dragons
+
+```autoAlicorn
+Large celestial, lawful good
+ARMOR CLASS 13
+HIT POINTS 76 (9d10 + 27)
+SPEED 60 ft., fly 90 ft.
+STR	DEX	CON	INT	WIS	CHA
+19	16	16	11	17	16
+(+4)	(+3)	(+3)	(+0)	(+3)	(+3)
+SAVING THROWS Dex +5, Wis +4, Cha +3
+SKILLS Perception +6
+DAMAGE IMMUNITIES poison
+CONDITION IMMUNITIES charmed, paralyzed,
+poisoned
+SENSES truesight 60 ft., passive Perception 16 LANGUAGES Celestial, Elvish, Sylvan, telepathy 60 ft.
+CHALLENGE 5 (1,800 XP)
+Charge. If the alicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8), Unit piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+Innate Spellcasting. The alicorn’s innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no components: At will: detect evil and good, druidcraft, pass without trace 1/day each: calm emotions, dispel evil and good, entangle Magic Resistance. The alicorn has advantage on saving throws against spells and other magical effects.
+Magic Weapons. The alicorn’s weapon attacks are magical.
+are proud creatures. That being said, in times of des¬peration, your allies may come to your aid in combat— especially when defending your realm—and in these times legends tell of great paladins who rode their dragon allies into battle. Probably the dragon versions of these stories tell a different tale.
+ALICORN
+Natives of Arcadia, the winged unicorn (not to be con¬fused with the horned pegasus) can be summoned by a particularly devout paladin to serve as their mount. They do not particularly like the Mundane World, but they enjoy and find satisfaction in hunting evil and chaos. They will serve as mount and companion to a holy knight only so long as it brings the opportunity to smash evil, a sport they are denied on their home plane.
+Actions
+Multiattack. The alicorn makes one attack with its hooves and one attack with its horn.
+Hooves. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. Horn. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
+Healing Touch (3/Day). The alicorn touches another creature with its horn. The target magically restores 11 (2d8 + 2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.
+Teleport (1/Day). The alicorn magically teleports itself and up to 3 willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the alicorn is familiar with, up to 1 mile away.
+Legendary Actions
+The alicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The alicorn regains spent legendary actions at the start of its turn.
+Hooves. The alicorn makes one attack with its hooves.
+Prismatic Barrier (Costs 2 Actions). The alicorn creates a prismatic, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the alicorn’s next turn.
+Heal Self (Costs 3 Actions). The alicorn magically restores 11 (2d8 + 2) hit points.```
+
+
+# Rangers lodge
+
+
+## Demesne Effects
+
 • Stags, harts, and other game are always plentiful in the ranger’s demesne, but they are larger and fiercer than normal.
 • Enemies of the ranger and the locals must make DC 15 Survival checks to navigate the ranger’s demesne. On a failure, they are attacked by 2d6 winter wolves.
 • Allies treat the ranger’s demesne as favored terrain when moving their units. Enemy units treat it as difficult terrain.
 
-### Stronghold Actions
+## Stronghold Actions
+
 On initiative count 20 (losing initiative ties), the ranger takes a stronghold action to cause one of the following effects. The ranger must be in the same hex or province as their stronghold and can’t use the same effect again until after a short rest.
 • Small targets appear on the vulnerable spots of nearby enemies. Until initiative count 20 on the next round, all enemies within 60 feet have vulnerability to your attacks.
 • You summon a fog cloud in a 60-foot radius that lasts for 1 minute. You and your allies can see through this fog as though it were merely a hazy mist that did not obscure vision.
 • Until initiative count 20 on the next turn, all of your successful attacks also cause the target to bleed. A bleeding creature takes 3d8 damage at the start of each of its following turns, and can make a DC 18 Constitution save at the end of each of its turns to end the bleeding.
 
-Class Feature Improvement: Chosen Enemy
+### Class Feature Improvement: Chosen Enemy
 Your favored enemy has vulnerability to your attacks. You can do this to a number of damage rolls equal to your stronghold level, after which you must take an extended rest to refresh this ability.
+
+## Ranger's Followers
+
+D100	FOLLOWER
+
+	REGULAR LIGHT ARCHERS (SIZE 1D6), UNIT	
+05-07	SEASONED LIGHT ARCHERS (SIZE 1D6), UNIT	
+08-10	SEASONED LIGHT AIRBORNE (SIZE 1D6), UNIT	
+11-12	THAUMATURGIST (3RD LEVEL), RETAINER	
+13-14	STORMSPEAKER (3RD LEVEL), RETAINER	
+15-16	WARDEN (3RD LEVEL), RETAINER	
+17-19	ACOLYTE OF DARKNESS (3RD LEVEL), RETAINER	
+20-22	HEALER (3RD LEVEL), RETAINER	
+23-24	KNIGHT OF THE GREEN ORDER (5TH LEVEL), RETAINER	
+25-28	EXECUTIONER (5TH LEVEL), RETAINER	
+29-32	CHAOS MAGE (5TH LEVEL), RETAINER	
+33-36	EXORCIST (5TH LEVEL), RETAINER	
+37-40	SKINWALKER (7TH LEVEL), RETAINER	
+41-45	CUTPURSE (7TH LEVEL), RETAINER	
+46-50	ENCHANTER (7TH LEVEL), RETAINER	
+51-53	MASON	
+54-56	BLACKSMITH	
+57-60	CARPENTER	
+61-64	MINER	
+65-67	SAGE	
+68-70	SPY	
+71-74	ELF AMBASSADOR	
+75-76	DWARF AMBASSADOR	
+77-80	GNOME AMBASSADOR	
+81-100	ROLL ON THE SPECIAL ALLIES TABLE (PAGE 67)
+
 
 # Rogue's Tavern
 
-#Demesne Effects
+## Demesne Effects
+
 • One ally per level of the rogue’s stronghold can hide in the rogue’s demesne, and no mundane or magical means will reveal their location. This ability does not work on the owner of the stronghold.
 • Creatures trespassing in the rogue’s demesne have the overwhelming sensation they are being spied upon.
-• When a creature hostile to the rogue and aware of their existence finishes a long rest within the rogue’s demesne, roll a d20. On a 
-roll of 10 or less, the creature triggers a hidden trap, taking 3d8 piercing damage.
+• When a creature hostile to the rogue and aware of their existence finishes a long rest within the rogue’s demesne, roll a d20. On a roll of 10 or less, the creature triggers a hidden trap, taking 3d8 piercing damage.
 
 ## Stronghold Actions
+
 On initiative count 20 (losing initiative ties), the rogue takes a stronghold action to cause one of the following effects. The rogue must be in the same hex or province as their stronghold and can’t use the same effect again until after a short rest.
 • All enemies within 60 feet are marked for death. For the next minute, if you hit a marked enemy, you can remove its mark to deal an extra 6d6 slashing damage.
 • Enemies within 60 feet are revealed, losing stealth and invisibility. • You gain a Coin of Fate. Each time you are hit in combat, you may flip the coin. Heads, the attack misses instead. Tails, the attack hits as normal and you lose the coin.
@@ -541,25 +761,82 @@ On initiative count 20 (losing initiative ties), the rogue takes a stronghold ac
 
 Damage from your Sneak Attack dice also heals you in equal amount. You can do this to a number of attacks equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
+## Rogue's Followers
+
+D100	FOLLOWER	
+01-04	SEASONED LIGHT INFANTRY (SIZE 1D6), UNIT	
+05-07	SEASONED MEDIUM INFANTRY (SIZE 1D4), UNIT	
+08-10	SEASONED MEDIUM ARCHERS (SIZE 1D4), UNIT	
+11-12	THEURGIST (3RD LEVEL), RETAINER	
+13-14	SwORDMASTER (3RD LEVEL), RETAINER	
+15-16	JUSTICAR (3RD LEVEL), RETAINER	
+17-19	EXARCH (3RD LEVEL), RETAINER	
+20-22	ALIENIST (3RD LEVEL), RETAINER	
+23-24	THAMATURGIST (3RD LEVEL), RETAINER	
+25-28	STORMSPEAKER (5TH LEVEL), RETAINER	
+29-32	ILLUSIONIST (5TH LEVEL), RETAINER	
+33-36	DIABOLIST (5TH LEVEL), RETAINER	
+37-40	ACOLYTE OF DARKNESS (7TH LEVEL), RETAINER	
+41-45	SHADOW PRIEST (7TH LEVEL), RETAINER	
+46-50	CONJURER (7TH LEVEL), RETAINER	
+51-53	ALCHEMIST	
+54-56	BLACKSMITH	
+57-59	CARPENTER	
+60-62	SCRIBE	
+63-65	SAGE	
+66-68	TAILOR	
+69-72	SPY	
+73-75	CAPTAIN	
+76-79	ELF AMBASSADOR	
+80-83	DRAGONBORN AMBASSADOR	
+84-87	GNOME AMBASSADOR	
+91-100  ROLL ON THE SPECIAL ALLIES TABLE (PAGE 67)
+
+
 # Sorcerer's Sanctum
 
 ## Demesne Effects
+
 • Curses, blessings, and oaths pronounced within the sorcerer’s demesne have a 15% chance of causing the speaker to roll on the wild Magic table.
 • Folks who live in the sorcerer’s demesne for a season learn one random sorcerer cantrip. They lose the ability to cast it if they ever leave.
 • Raindrops in the sorcerer’s demesne cast dazzling prismatic reflections during the day.
 
 ## Stronghold Actions
+
 On initiative count 20 (losing initiative ties), the sorcerer takes a stronghold action to cause one of the following effects. The sorcerer must be in the same hex or province as their stronghold and can’t use the same effect again until after a short rest.
 • You cast three spells from your list of prepared spells, using spell slots as normal.
 • For the next minute, all of your spells are heightened, as per heighten spell. You cannot use sorcery points to heighten an already heightened spell.
 • You are wreathed by a fire shield. Enemies who strike the shield take 4d8 damage instead of 2d8.
 
-## Class Feature Improvement: 
+### Class Feature Improvement: Source of Magic
 
-## Source of Magic
 While you have unspent sorcery points, if you roll the maximum result on a spell’s damage die (including a rerolled die), you can reroll it5 and add the new roll to the original roll. You can do this for a number of spells6 equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
 ## Sorcerer's followers
+
+Average folks find wizards weird enough, gabbling in strange languages and living up to their eyeballs in books and owl poop. But they, at least, have rules. A sorcerer, on the other hand, gains their power through an innate connection with the forces of magic. No training required. This is even less well understood by normal people. A sorcerer’s followers therefore tend to be folks who enjoy being close to raw power and do not fear what they do not understand.
+A sorcerer’s army is usually light and highly mobile and like other classes that eschew large, slow, heavily armed and armored soldiers, they can attract flying units. Their retainers are almost all spellcasters. Their artisans are folks who enjoy making things and proba¬bly hope being in the court of a sorcerer will grant them the opportunity to create magic items. Their ambassa¬dors come from cultures that do not fear sorcery and whose soldiers would have no problem serving under a commander who can conjure fire through sheer will
+
+D100	FOLLOWER	1
+01-05	VETERAN LIGHT INFANTRY (SIZE 1D4), UNIT	
+06-10	REGULAR LIGHT AIRBORNE (SIZE 1D4), UNIT	
+11-12	BATTLE PRIEST (3RD LEVEL), RETAINER	
+13-14	SHADOW PRIEST (3RD LEVEL), RETAINER	
+15-18	BEAST LORD (3RD LEVEL), RETAINER	
+19-23	GUILD ADEPT (3RD LEVEL), RETAINER	
+24-29	ELEMENTAL ACOLYTE (5TH LEVEL), RETAINER	
+30-35	ALIENIST (5TH LEVEL), RETAINER	
+36-42	SKINWALKER (5TH LEVEL), RETAINER	
+43-50	REAVER (7TH LEVEL), RETAINER	
+51-54	BLACKSMITH	
+55-58	SCRIBE	
+59-62	SAGE	
+63-66	TAILOR	
+67-70	ALCHEMIST	
+71-75	ELF AMBASSADOR	
+76-80	DRAGONBORN AMBASSADOR	
+81-100	ROLL ON THE SPECIAL ALLIES TABLE (PAGE 67)
+
 
 # Warlock's Fane
 
@@ -580,23 +857,58 @@ You qualify for eldritch invocations as though your warlock level were five leve
 
 ## Followers
 
+M
+D100	FOLLOWER	
+01-04	REGULAR LIGHT INFANTRY (SIZE 1D6), UNIT	
+05-08	SEASONED LIGHT INFANTRY (SIZE 1D6), UNIT		
+09-12	VETERAN LIGHT INFANTRY (SIZE 1D4), UNIT	
+13—15	SEASONED MEDIUM ARCHERS (SIZE UNIT)		
+16—17	SPIRIT WARDEN (3RD LEVEL), RETAINER	
+18—19	NECROMANCER (3RD LEVEL), RETAINER		
+20—21	ELEMENTAL ACOLYTE (3RD LEVEL), RETAINER	
+22—24	SEER (3RD LEVEL), RETAINER		
+25—27	SHADOW PRIEST (3RD LEVEL), RETAINER	
+28—29	KNIGHT-SORCERER (3TH LEVEL), RETAINER		
+30—33	REAVER (5TH LEVEL), RETAINER	
+34—37	ACOLYTE OF DARKNESS (5TH LEVEL), RETAINER		
+38—41	GUILD ADEPT (5TH LEVEL), RETAINER	
+42—45	CUTPURSE (5TH LEVEL), RETAINER		
+46—50	EVOKER (7TH LEVEL), RETAINER	
+51—55	EXECUTIONER (7TH LEVEL), RETAINER		
+56—58	MINER	
+59—61	SCRIBE		
+62—64	SAGE	
+65—67	TAILOR		
+68—70	ALCHEMIST	
+71—74	DRAGONBORN AMBASSADOR		
+75—78	LIZARDFOLK AMBASSADOR	
+79—80	GNOLL AMBASSADOR		
+81—100	ROLL ON THE SPECIAL ALLIES TABLE (PAGE 67)
+
+
 # Wizard's Library
 
+The wizard’s library is a bastion of knowledge and research best hidden from the mundane world. It cre¬ates one or more of the following effects at the GM’s dis¬cretion.
+
 ## Demesne Effects
+
 • The library of the wizard’s stronghold has a copy of every nonmagical book anyone brings into the wizard’s demesne.
 • By concentrating for 10 minutes, the wizard can scry on any person or location in their demesne as per the scrying spell. The wizard can do this while anywhere, including another world.
 • Once per day, the wizard can control the weather in their demesne. The wizard doesn’t have to be in their demesne to do this. The effect is otherwise the same as the control weather spell.
 
 ## Stronghold Actions
+
 On initiative count 20 (losing initiative ties), the wizard takes a stronghold action to cause one of the following effects. The wizard must be in the same hex or province as their stronghold, and can’t use the same effect again until after a short rest.
 • You cast a spell from your list of prepared spells. This does not use a spell slot.
 • You cast flesh to stone on all enemies within 60 feet. This does not use a spell slot.
 • You recover all spent spell slots as though you had finished a long rest.
 
 ## Class Feature Improvement: Spellmaster
+
 You can maintain two spells with concentration at once. You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability. 
 
 ## WIZARD FOLLOWERS
+
 D100 FOLLOWER
 01–03	reGular liGhT infanTry (size 1d6), uniT
 04–06	reGular MediuM infanTry (size 1d4), uniT
@@ -630,3 +942,85 @@ D100 FOLLOWER
 79–82 hobGoblin aMbassador
 83–85 Gnoll aMbassador
 86–100 (roll on The special allies Table)
+
+# VILLAIN STRONGHOLDS
+
+The villains of your campaign can—and if your players are using these rules, probably should—have their own stronghold, which grants them villain abilities which will help them threaten PCs with strongholds. GMs, you are encouraged to play fast and loose with what counts as a stronghold for these purposes. Probably the best answer for this is “wherever the bad guy keeps their treasure.”
+They also grant the villain’s minions  special abilities under the premise that everyone trains harder and fights better when they have a cool base.
+
+## Types of Villains and Minions
+
+We could get very noodly indeed here with many kinds and types of villains and minions, but I want to keep it simple, so we go by the Rule of Three. Villains fall into three broad categories—necromancer, shaman, warlord—and minions fall into mindless servants, rampaging hordes, and tactical phalanxes. This covers a lot of ground, but obviously it doesn’t cover every¬thing, so feel free to adjust these terms and abilities to fit your adventure.
+Although it may seem obvious that a necromancer would command mindless servants, it need not be so. The abilities of the villains and minions aren’t designed to synergize in any particular way. A Necromancer may command a Savage Horde, or a Shaman command Mindless Servants. All the abilities will be useful, with¬out any combination turning the encounter into a rout. At least, not on purpose!
+Minions require a leader, though that leader need not be present on the battlefield. Like the heroes’ stronghold abilities, these villain and minion powers are granted through training and a connection with the land itself. If the party finds itself fighting a band of goblins who seem to be critting more often, it’s a sign that they come from a nearby goblin stronghold and serve some villainous leader! Probably a hobgoblin.
+This is a dramatic way to introduce a villain and hint to the players that there must be a nearby enemy stronghold! The players fight undead or goblinoids or cultists, or bandits and they seem much more...capa¬ble than the normal beasties they’re used to fighting. When these enemies charge into battle, they call out something that sounds like it might be a name? Maybe capturing one would be a good idea. Question it. Oops, it didn’t survive long enough to spill the beans. Well, all will become clear once the heroes penetrate the enemy stronghold and fight the leader of these creatures
+
+## Villain Examples
+
+### NECROMANCER
+
+Lady Sariel the Vampire Queen, Cult Leader
+Special Ability: As a reaction make a Wisdom check after a minion takes enough damage to kill it. The DC is 8 plus the Hit Dice of the minion. If successful, the minion does not die and drops to 1 hit point.
+
+### SHAMAN
+
+Lizardfolk chieftain, Troll Shaman
+Special Ability: Minions who can hear you gain advantage on saving throws against magical spells and effects.
+
+### WARLORD
+
+Bonebreaker Dorokor, Bandit king
+Special Ability: As a reaction, when a minion dies, issue a command to your other minions. Those who can hear you gain a reaction they can use to immedi¬ately move again.
+
+## Minion Examples
+
+### MINDLESS SERVANTS
+
+Undead, Oozes, Constructs
+Special Ability: Gain an extra 10 feet of movement.
+
+### SAVAGE HORDE
+
+Orcs, Goblins, Demons, Thugs
+Special Ability: After moving at least 20 feet, the next attack this minion makes is a critical hit on an 18-20.
+
+### TACTICAL PHANLANX
+
+Hobgoblins, Lizardfolk, Devils, Cultists, Bandits
+Special Ability: If an enemy’s attack kills an ally, all minions adjacent to that enemy gain an attack of opportunity against the enemy. 
+
+## SPECIAL ALLIES
+
+Congratulations! You rolled well on your follower chart and attracted a special ally! Allies are like followers in that they approve of what you’re doing in the world and want to help, but allies are powerful beings, often more powerful than your character. They cannot be ordered around, and they can be unreliable. Find your alignment on the chart below and roll a dl2 to see which cool beastie shows up to help you out
+
+### **Demon's Allies**
+
+IT	D12	ALLY	m
+		1-3	UNIT OF QUASITS	
+		4-6	SUCCUBUS	
+		7-8	LESSER MARILITH	
+		9-10	GLABREZU	
+		11	HERZOU	
+	12	LESSER BALOR	
+			
+
+### **DEVIL ALLIES**
+	
+	D12	ALLY	*
+	1-3	1D4 IMPS	
+	4-6	UNIT OF BEARDED DEVILS	
+	7-8	BARBED DEVIL	
+	9-10	LESSER ERINYES	
+	11	CHAIN DEVIL	
+	12	BONE DEVIL	iS
+
+### **FEY ALLIES**
+
+D12	ALLY
+Ü-3	PIXIE
+4-6	SPRITE
+§7-8	SATYR
+9-10	DRYAD
+Hu	UNICORN
+12	TREANT
+

@@ -58,63 +58,78 @@ Armor Cost Armor Class \(AC\) Strength Stealth Weight Buckler 5 gp +1 - - 4 lb T
 **Versatile Damage:** Weapons with this quality have both a primary and a secondary damage type. Your weapon will always do the primary damage type unless you declare otherwise before you roll damage.
 
 **Worn:** Worn weapons augment your unarmed attack damage and may not be disarmed. Putting on or removing a worn weapon takes an action. 
+Bastard Sword This large blade is effectively a longsword with extra length, but it is not quite as long as a greatsword.  It is balanced such that it can effectively be wielded one or two handed. 
+
+ 
+
+Drow War Gauntlet Created by the dark elves, this wicked implement looks like a leather glove covered 
+with odd protrusions.  When a hidden catch is pressed (effectively equivalent to drawing a weapon), twisted blades and spikes spring forth.  When you press the catch, you can choose whether you want to deal slashing or piercing damage.  The gauntlet continues to  deal the type of damage you have chosen 
+until you press the catch to retract the blades.  You can’t be disarmed of this weapon by normal means, but when you press the catch and the blades spring forth, you can’t hold anything in the hand upon 
+which you are wearing the gauntlet. 
+
+Two-handed Morningstar This weapon is simply a larger and heavier version of the standard Morningstar. It is often carried for purposes of sheer intimidation, as it looks wicked indeed.
+
+
 
 
 #### New Weapons Table
+
+**Bastard Sword** This large blade is effectively a longsword with extra length, but it is not quite as long as a greatsword. It is balanced such that it can effectively be wielded one or two handed.
+
+**Drow War Gauntlet** Created by the dark elves, this wicked implement looks like a leather glove covered with odd protrusions. When a hidden catch is pressed (effectively equivalent to drawing a weapon), twisted blades and spikes spring forth. When you press the catch, you can choose whether you want to deal slashing or piercing damage. The gauntlet continues to deal the type of damage you have chosen until you press the catch to retract the blades. You can’t be disarmed of this weapon by normal means, but when you press the catch and the blades spring forth, you can’t hold anything in the hand upon which you are wearing the gauntlet.
+
+**Two-handed Morningstar** This weapon is simply a larger and heavier version of the standard Morningstar. It is often carried for purposes of sheer intimidation, as it looks wicked indeed.
+
+
+**Simple Melee Weapons**
+
+Gauntlet                    1d4 bludgeoning worn
+
 Cestus              5gp 1d4 bludgeoning 2lb Special, worn
 
-Kio sword**         50 gp 1d8 slashing 4 lb. Finesse, versatile (1d10)
-
 Man catcher         40 gp 1d4 piercing - 3 lb. Heavy, two-handed, special
+
+Spiked shield
+
+
+**Simple Ranged Weapon**
+
+
+**Martial Melee Weapon** | Cost |	Damage | Weight |	Properties
+				
+Bastard Sword |	40 gp |	1d10 slashing	| 5 lbs. | Heavy, Versatile (1d12)
+				
+Drow War Gauntlet	| 60 gp	| 1d6 piercing or slashing |	1 lb. |	Finesse, Light, Special
+				
+Morningstar, Two-handed |	25 gp |	1d10 piercing	| 6 lbs.	| Heavy, two-handed
+
+Hooked Shortspear   martial           1d4 piercing 2 lb light, special***
+
+Spiked chain | 30 gp | 1d8 slashing | 5 lb | Finesse, two-handed, reach
+
+Spiked chain        30gp 1d6 piercing 3lb Finesse, two-handed, special
 
 Cutlass             30gp 1d6 slashing 3lb Basket hilt, finesse, light
 
 Gladius             40gp 1d6 piercing 3lb Finesse, light, versatile damage (slashing)
 
+Kio sword**         50 gp 1d8 slashing 4 lb. Finesse, versatile (1d10)
+
 Khopesh             30gp 1d8 slashing 3lb Heavy
 
-Man catcher         40gp 1d4 piercing 3lb Heavy, two-handed, special
-
-Spiked chain        30gp 1d6 piercing 3lb Finesse, two-handed, special
-
-Tail Bracer          20gp 1d8 bludgeoning 3lb Worn
-
-Tralian Hammer      70gp 1d12 bludgeoning 10lb Heavy, two-handed, versatile damage (piercing)
-
-War scythe          30gp 1d12 slashing 8lb Heavy, two-handed
-
-Gauntlet                    1d4 bludgeoning
-
-Spiked chain               1d8  slashing 5 lb Finesse, two-handed, reach
-
-Spiked shield
-
-Hooked Shortspear   martial           1d4 piercing 2 lb light, special***
+**Martial Ranged Weapon**
 
 Light Repeating Crossbow    martial     1d8 piercing lb 40/160 ft range Ammuntion, ****
 
-**Firearms**
+Flintlock pistol 300gp 1d10 piercing 5 lb. Ammunition (range 50/300), loading, firearms
 
-Flintlock pistol 300gp 1d10 piercing 5 lb. Ammunition (range 50/300), loading,
-
-Flintlock rifle 500gp 2d6 piercing 10 lbs. Ammunition (range 100/500), loading, melee use: greatclub, penetrating, special, two-handed
+Flintlock rifle 500gp 2d6 piercing 10 lbs. Ammunition (range 100/500), loading, melee use: greatclub, penetrating, special, two-handed,  firearms
 
 **Ammunition**
 
 Blastpowder and shot (10) 25 gp per weapon 2 lbs. per weapon
 
-Cestus: Popular in the arenas and tavernas of 
-Coryan, this reinforced leather glove consists of 
-a series of leather thongs that are tied over the 
-hand; the thongs secure a set of metal plates, 
-one over the knuckles and the other along the 
-back of the hand. 
-There are two variants of this 
-weapon. The myrmex "limb-piercer" 
-has the versatile damage (piercing) 
-property and the sphairai "bone-
-breaker" has the versatile damage 
-(slashing) property.
+**Cestus:** Popular in the arenas and tavernas of Coryan, this reinforced leather glove consists of a series of leather thongs that are tied over the hand; the thongs secure a set of metal plates, one over the knuckles and the other along the back of the hand. There are two variants of this weapon. The myrmex "limb-piercer" has the versatile damage (piercing) property and the sphairai "bone-breaker" has the versatile damage (slashing) property.
 
 *** On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
 
@@ -124,16 +139,14 @@ Weapon: Like Sarishan steel weapons, weapons made of tempered Sarishan steel are
 If a tempered Sarishan steel weapon is used while smiting an infernal either using a smite spell or the Smite class feature, this weapon deals an additional 1d10 damage instead.
 
 ### About Worn Weapons
-You can use weapons you wear on your body, (worn weapons), to make unarmed strikes. When you make an unarmed strike while wearing a worn weapon, you deal the weapon’s damage instead of your normal unarmed strike damage. You must able to use the part of your body where the weapon is attached to make the unarmed strike. You cannot use a cestus to make an unarmed strike if you are using that hand to wield a 
-sword or hold a lantern. For example, when you attack with a cestus, your unarmed strike deals 1d4 + your Strength modifier bludgeoning damage, assuming you use the fist wearing the cestus to make that unarmed strike. 
+
+```
+You can use weapons you wear on your body, (worn weapons), to make unarmed strikes. When you make an unarmed strike while wearing a worn weapon, you deal the weapon’s damage instead of your normal unarmed strike damage. You must able to use the part of your body where the weapon is attached to make the unarmed strike. You cannot use a cestus to make an unarmed strike if you are using that hand to wield a sword or hold a lantern. For example, when you attack with a cestus, your unarmed strike deals 1d4 + your Strength modifier bludgeoning damage, assuming you use the fist wearing the cestus to make that unarmed strike. 
+
 Worn weapons do allow you to benefit from runes and other magical effects that can be applied to weapons.Any rune or spell that would affect a weapon can be applied to a worn weapon, and the rune or effect applies to your unarmed strikes.
+```
 
-
-Simple Weapons  
-Weapons with special rules are described here, as well as the weapons unique to Arcanis.
-
-
-Flintlocks: Altheria may be a center of knowledge and learning, but it is the power of blastpowder that has kept the Republic of Altheria safe for many years. The Altherians’ advanced understanding of blastpowder and its explosive potential has aided them in the design of their flintlock weapons. 
+**Flintlocks:** Altheria may be a center of knowledge and learning, but it is the power of blastpowder that has kept the Republic of Altheria safe for many years. The Altherians’ advanced understanding of blastpowder and its explosive potential has aided them in the design of their flintlock weapons. 
 Altherian flintlocks are designed to take advantage of specific amounts of blastpowder for every shot, leading to the creation of blastpowder rounds – small paper or cloth packets of blastpowder pre-measured to gain the most efficient and accurate shot. Therefore, these fine weapons are usually easier, safer, and faster to reload and fire.
 
 Altherians, as well as clerics and holy champions of Althares, may purchase flintlocks at the listed price and may carry them regardless of rank.
@@ -145,7 +158,9 @@ Additionally, in Arcanis flintlocks are reinforced and balanced for use as impro
 
 
 
-**Soldier’s Pack (14 gp):** Includes a backpack, a bedroll, a hammer, a mess-kit, 10 pitons, 10 torches, a tinderbox, a tent, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it. 
+**Soldier’s Pack (14 gp):** 
+
+Includes a backpack, a bedroll, a hammer, a mess-kit, 10 pitons, 10 torches, a tinderbox, a tent, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it. 
 
 
 ### Optional Rule: Large Weapons and Armor
@@ -157,7 +172,267 @@ Finding someone with the skill to forge Large-sized equipment is no easy task, a
 If you try to wield a weapon too big for you, you suffer disadvantage on all attack rolls with that weapon, even if you are proficient with it. If you wear armor that is too big for you, you suffer disadvantage on all Dexterity (Stealth) checks and your speed is reduced by 10, no matter your Strength.
 ```
 
+# Beyond Damage Dice
 
+## SWORDS
+
+### GREATSWORD
+
+**Arcing Slash.** When you attack with a greatsword, **once per turn** you may choose to target two creatures within your reach with a single attack. This attack uses the same attack roll for both targets and deals slashing damage equal to id6 plus your Strength modifier to each target. 
+
+**Grinding Halt.** Whenever you must make a Strength saving throw to avoid being moved against your will, you can dig the blade of your greatsword into the ground as a reaction. Roll 2d6 and add the number rolled to the saving throw. If the effect pushing you does not have a saving throw, you move 5 feet fewer.
+
+### LONGSWORD
+
+**Lock Blades.** When a creature attacks you with a weapon, you may use your reaction to attempt to lock blades and parry their attack. Make an attack roll with your longsword. You have advantage on this roll if you are wielding your lpngsword with two hands. If the result of this roll equals or exceeds their attack roll, their attack misses. 
+
+**Short Draw.** As an attack, you may draw a sheathed one-handed sword and make an attack roll to strike the enemy with its pommel, leaving the target gasping for breath. This attack deals no damage, but the next attack roll made against the target has advantage. You must have at least one hand free to take this action.
+
+### RAPIER
+
+**Main Gauche.**^Thle wielding both a rapier and a dagger, you may use a reaction after being attacked to roll a d4 and add the result to your Armor Class until the end of the attacker’s turn. 
+
+**Lock Blades.** When a creature attacks you with a weapon, you may use your reaction to make an attack roll with your rapier. If the result of this roll equals or exceeds their attack roll, their attack misses. ■
+
+### SCIMITAR
+
+**Bloody Wound.** When you hit a living creature with a scimitar, you can choose to make a superficial but bloody wound. The attack deals no damage, but the target takes id6 slashing damage at the beginning of each of its turns until it makes a DC 10 Wisdom \(Medicine\) check as an action to stop the bleeding or until it receives magical healing. A creature can have only one bloody wound at a time. 
+
+**Short Draw.** As an attack, you may draw a sheathed one-handed sword and make an attack roll to strike the enemy with its pommel, leaving the target gasping for breath. This attack deals no damage, but the next attack roll made against the target has advantage. You must have at least one hand free to take this action.
+
+### SHORTSWORD
+
+**Close Quarters Combat.** When you successfully grapple a creature or escape a grapple, you may make a single \_ attack with a short sword as a bonus action. Additionally, whenever a creature fails to escape a grapple with you, you may make a single attack with a short sword as a reaction. 
+
+**Short Draw.** As an attack, you may draw a sheathed one-handed sword and make an attack roll to strike the enemy with its pommel, leaving the target gasping for breath. This attack deals no damage, but the next attack roll made against the target has advantage. You must have at least one hand free to take this action.
+
+## POLEARMS AND AXES
+
+### BATTLEAXE
+
+**Crushing Blow.** As an action, you can make a single attack roll with your battleaxe against an armored or naturally armored creature within 5 feet of you. If the attack hits, the target’s AC is permanently reduced by 1 until its armor is repaired, but cannot be reduced below 10 + the target’s Dexterity modifier. This attack has no effect on creatures with magical armor, unless your battleaxe is also magical.
+
+### GLAIVE
+
+**Disarming Parry.** When a creature attacks you with a **melee** weapon, you may use your reaction to catch their weapon in your glaive’s hook and disarm them. Make an attack roll with your glaive. If the result of this roll equals or exceeds their attack roll, their attack misses and they must succeed on a Strength saving throw or drop their weapon. 
+
+**Trip.** As an attack while you are wielding a glaive, you may sweep your opponent’s legs in an attempt to trip them. Make an attack roll against a Large or smaller creature. If the attack hits, it must succeed on a Strength saving throw or fall prone.
+
+### HALBERD
+
+**Rebuff.** As an attack while you are wielding a halberd, you may use the haft of your weapon to rebuff up to two adjacent creatures. Make a single attack roll against one or two adjacent creatures within 5 feet of you. If the attack hits a target, you push it up to 10 feet away from you. 
+
+**Trip.** As an attack while you are wielding a halberd, you may sweep your opponent’s legs in an attempt to trip them. Make an attack roll against a Large or smaller creature. If the attack hits, it must succeed on a ■ Strength saving throw or fall prone.
+
+### LANCE
+
+**Charge.** If you move at least 20 feet straight toward a creature before hitting it with a lance attack, the target takes an extra 1d12 piercing damage and must make a Strength saving throw. On a failure, the target falls prone. 
+
+**Repel Charge.** As an action, you can set your lance against a charge. If a creature moves at least 20 feet straight toward you and attacks you, you may use your reaction to make an attack with your lance **when this creature enter your reach**. If this attack hits, it is an automatic critical hit and the target must make a Strength saving throw. On a failure, it falls prone and falls off its mount if it is mounted.
+
+### PIKE
+
+As it is a polearm, a pike-wielder always has access to the disarming parry and trip maneuvers \(see “Glaive”\). 
+
+**Phalanx.** If you are adjacent to at least two other pike-wielders, your pike attacks have advantage.
+
+**Repel Charge.** As an action, you can set your pike against a charge. If a creature moves at least 20 feet straight toward you and attacks you, you may use your reaction to make an attack with your pike **when this creature enter your reach**. If this attack hits, it is an automatic critical hit and the target must make a Strength saving throw. On a failure, it falls prone and falls off its mount if it is mounted.
+
+### QUARTERSTAFF 
+
+**Vault**. You can use your quarterstaff to help you leap long distances. You can use an action to double the length of your long jump, allowing you to leap a number of feet up to twice your Strength score \(this jump is part of your movement\). If you land adjacent to a creature at the end of this jump, you can make a single attack with your quarterstaff as part of this action.
+
+### TRIDENT
+
+**Pin.** As an action, make an attack roll against a Medium creature you are grappling. If the attack hits, you catch one of the target’s limbs between the tines and bury the trident in the ground, restraining the creature until the weapon is dislodged. The target may make a Strength or Dexterity saving throw \(their choice\) at the end of each of their turns to escape. 
+
+**Disarming Parry.** When a creature attacks you with a weapon, you may use your reaction to catch their weapon in your trident’s tines and disarm them. Make an attack roll with your trident. If the result of this roll equals or exceeds their attack roll, their attack misses and they must succeed on a Strength saving throw or drop their weapon. 
+
+### OTHER POLEARMS
+
+ ^faether you’re wielding a fauchard, ranseur, or Bohemian earspoon, you can always use the disarming parry and trip maneuvers \(see “Glaive”\).
+
+## HAMMERS AND BLUDGEONS
+
+### CLUB
+
+**Improvised Clobber.** If you are using an improvised weapon that counts as a club, you may choose to strike with such force that your weapon breaks. As an action, make a single club attack. On a hit, this attack is an automatic critical hit and your improvised club breaks. 
+
+**Blackjack**. Make a single attack roll with your club against a humanoid target. If the attack hits, it does no damage, but the target must make a Constitution saving throw or be stunned until the beginning of its next turn.
+
+### FLAIL
+
+**Chain Garrote.** ^^Lile wielding a flail, you may attempt to grapple a creature by looping the chain of your flail around its neck. ^^Lile grappled in this way, the creature cannot speak, cannot breathe, and has disadvantage on attack rolls against you. If you surprised the creature with this grapple, it cannot hold its breath and immediately begins suffocating. Creatures that you cannot grapple or do not need to breathe are unaffected by this maneuver. 
+
+**Shield Snare.** As an action while wielding a flail, you may make a single attack roll against a target carrying a shield or a similar defensive tool. This attack ignores any bonus to AC granted by the shield and deals normal weapon damage. If the attack hits, the target must also make a Strength saving throw. On a failure, its shield is pulled from its grip and lands at its feet.
+
+### GREATCLUB
+
+**Hurling Impact.** As an action, you can make a single attack roll with your greatclub against a Medium or smaller target. If the attack hits, it does normal weapon damage and the target must make a Strength saving throw. On a failure, the target is pushed up to 5 feet away from you. On a critical hit, this attack does 2d8 extra damage and the greatclub breaks.
+
+**Ribshatter.** Make a single attack roll with your greatclub against a humanoid target. This attack does normal weapon damage and the target must make a Constitution saving throw. On a failure, it is stunned until the beginning of its next turn. If the damage you dealt was greater than the creature’s maximum hit dice, it is stunned until the end of its next turn.
+
+### MACE AND MORNINGSTAR
+
+**Bruising Blow.** As an action, make a single attack roll with your mace or morningstar against a living creature. If the attack hits, it deals normal weapon damage and the target must make a Constitution saving throw. On a failure, the target does not add its Dexterity modifier to its AC until the end of your next turn or until it is treated with a DC 10 Wisdom \(Medicine\) check. 
+
+**Ribshatter**. Make a single attack roll with your mace or morningstar against a humanoid target. This attack does normal weapon damage and the target must make a Constitution saving throw. On a failure, it is stunned until the beginning of its next turn. If the damage you dealt was greater than the creature’s maximum hit dice, it is stunned until the end of its next turn.
+
+### MAUL
+
+**Crushing Blow.** As an action, you can make a single attack roll with your maul against an armored or naturally armored creature. If the attack hits, the target’s AC is permanently reduced by 1 until its armor is repaired, but it cannot be reduced below 10 + the target’s Dexterity modifier. This attack has no effect on creatures with magical armor unless your maul is also magical. 
+
+**Hurling Impact.** As an action, you can make a single attack roll with your maul against a Medium or smaller target. If the attack hits, it does normal weapon damage, and the target must make a Strength saving throw. On a failure, the target is pushed up to 15 feet away from you.
+
+### WAR PICK
+
+**Piercing Point.** As an action, you may pinpoint a weak point of an opponent’s armor and make a single attack with your war pick against it. This attack pierces armor, treating the target’s AC as 10 + their Dexterity modifier. On a hit, this attack does normal weapon damage. 
+
+**Trip.** As an attack while you are wielding a war pick, you may hook your opponent’s leg in an attempt to trip them. Make an attack roll against a Medium or Small creature. If the attack hits, it must succeed on a Strength saving throw or fall prone.
+
+### WARHAMMER
+
+**Bruising Blow.** As an action, make a single attack roll with your warhammer against a living i creature. If the attack hits, it deals normal TISJ weapon damage, and the target must make a Constitution saving throw. On a failure, the target does not add its Dexterity modifier to its AC until the end of your next turn or until it is treated with a DC 10 Wisdom \(Medicine\) check. 
+
+**Sundering Strike.** As an attack, make an attack roll with your warhammer against a creature wielding a weapon, including natural weapons. If the attack hits, the weapon is damaged, and all attacks made with this weapon have disadvantage. Another sundering strike destroys the weapon. This attack has no effect on magical weapons unless your warhammer is also magical.
+
+### WHIP
+
+**Bullwhip.** As part of your attack action, make a whip attack against a beast or a creature with an Intelligence score of 2 or lower. The target must make a Wisdom saving throw or be frightened of you until the end of its next turn. 
+
+**Snare.** As part of your attack action, you may snap your whip around a creature or its weapon. If you target the weapon, the creature must make a Strength saving throw or drop its weapon at its feet. If you target the creature, it must make a Strength saving throw or be restrained. It may repeat this saving throw at the end of each of its turns. You cannot make whip attacks until the restrained condition is ended.
+
+## THROWN WEAPONS
+
+### DAGGER
+
+These maneuvers can also be used with dagger-like bladed throwing weapons such as shuriken or kunai. 
+
+**Pinning Point.** When you make a melee or ranged weapon attack with a dagger, you may attempt to pin a Large or smaller creature to a wall or surface by catching their clothing with the knife’s point. This maneuver can be used against creatures without clothing at the GM’s discretion. Make an attack roll; if the attack hits, the target must make a Strength saving throw. On a failure, the target’s speed is reduced to zero until the dagger ' is removed. The target can make another Strength saving throw as an action on its turn. 
+
+**Concealed Blade.** Instead of making a Dexterity \(Stealth\) check to hide yourself, you may make a Dexterity \(Sleight of Hand\) check—contested by an active or passive Wisdom \(Perception\) check—to conceal your dagger. As an action, you may make a weapon attack with a concealed dagger against a creature that has not yet acted in combat. This attack has advantage.
+
+### HANDAXE
+
+**Pinning Edge.** When you make a melee or ranged weapon attack with a hand axe, you may attempt to pin a Large or smaller creature to a wall or surface by catching their clothing with the axe’s edge. This maneuver can be used against creatures without clothing at the GM’s discretion. Make an attack roll; if the attack hits, the target must make a Strength saving throw. On a failure, the target’s speed is reduced to zero until the axe is removed. The target can make another Strength saving throw as an action on its turn.
+
+### JAVELIN
+
+**Fearsome Accuracy.** As an attack, you may throw your VP javelin at a creature at the very limit of your range. Make an attack roll against a creature exactly 120 feet away. If the attack hits, the creature takes normal damage and must make a Wisdom saving throw. On a failure, the creature becomes frightened of you for 1 minute. 
+
+**Trip.** As a melee weapon attack while you are wielding a javelin, you may sweep your opponent’s legs in an attempt to trip them. Make an attack roll against a Large or smaller creature. If the attack hits, it must succeed on a Strength saving throw or fall prone.
+
+### LIGHT HAMMER
+
+**Dazing Blow.** As an action, you may make a single ranged weapon attack with a light hammer. If the attack hits, the target must make a Constitution saving throw or be incapacitated until the end of its next turn. 
+
+**Sunder Joints.** When you make a melee weapon attack against a creature in medium or heavy armor with a light hammer, you may choose to damage the joints of their armor instead of dealing damage to the creature. If the attack hits, the creature’s movement is reduced by 10 feet until the end of their next turn. This reduction is not cumulative.
+
+### NET
+
+Nets have the unique property, **Ensnaring**, described below.
+
+> **Ensnaring:** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net \(AC 10\) also frees the creature without harming it, ending the effect and destroying the net.
+
+**Blinding Binds.** Instead of restraining your foe, you may instead wrap the thick cords of your net around a single creature’s head. A Large or smaller creature hit by a net when you use this maneuver is blinded but is not restrained, until the net is removed. 
+
+**Wing-Wrapping Net.** Instead of restraining a flying creature, you may entangle its wings in your net. A Huge or smaller winged creature hit by a net when you use this maneuver has its fly speed reduced to 0 \(but is not restrained\) until the net is removed.
+
+## RANGED WEAPONS
+
+### BLOWGUN
+
+A blowgun has no specific maneuvers to use in combat, but a character with a poisoner’s kit \(50 gp\) can spend a short rest creating one of the following simple poisons. Applying a poison to a blowgun dart is a bonus action, and each vial of poison has 10 uses before it must be created again. A poison’s effects are in addition to the 1 piercing damage dealt by a blow dart. 
+
+> Deathtoad Toxin. A creature hit by a dart coated with this poison must make a DC 10 Constitution saving throw. On a failure, it takes 2d6 poison damage.
+
+> Chuul Ichor. A creature hit by a dart coated with this poison must make a DC 10 Constitution saving throw. On a failure, it is paralyzed until the beginning of its next turn.
+
+> Svirfneblin Wooziness Tonic. A creature hit by a dart coated with this poison must make a DC 10 Constitution saving throw. On a failure, it is poisoned until the end of its next turn.
+
+
+
+### COMPOSITE BOW
+
+The composite bow’s unique construction gives it an incredibly heavy draw, making it usable only by the strongest archers. Characters with Strength 14 or lower have disadvantage on attacks made with a composite bow. 
+
+**Power Shot.** When you make an attack with a composite bow, you may take a penalty on your attack roll equal to your Strength modifier. This penalty must be applied before the roll is made. If the attack hits, it deals additional damage equal to twice your Strength modifier. 
+
+**Staggering Shot.** As an action while wielding a composite bow, you may make a single ranged weapon attack. If this attack hits, the enemy takes full weapon damage and must make a Constitution saving throw. On a failure, the target’s speed is reduced to 0 until the end of its next turn.
+
+### HEAVY CROSSBOW AND LIGHT CROSSBOW
+
+{% hint style="info" %}
+In campaign settings with firearms, these maneuvers can also be used by a character who wields a rifle. 
+{% endhint %}
+
+**Shrapnel Shot.** As an action, make a single attack with your crossbow against an unattended object. The attack deals double damage to the target. If the object is destroyed, it explodes into a cloud of shrapnel. Choose one of the following options: 
+
+* Creatures within 5 feet of the object must make a Dexterity saving throw, taking id6 piercing damage on a failure. 
+* A creature adjacent to the object must make a Constitution saving throw. On a failure, the creature is blinded until the beginning of your next turn. 
+
+**Patient Shot.** You carefully align your crossbow’s sights over your target. As an action in a turn that you have not moved, you may make a single crossbow attack with advantage.
+
+### HAND CROSSBOW
+
+
+In campaign settings with firearms, these maneuvers can also be used by a character who wields a pistol.
+
+**Concealed Sidearm.** Instead of making a Dexterity \(Stealth\) check to hide yourself, you may make a Dexterity \(Sleight of Hand\) check—contested by an active or passive Wisdom \(Perception\) check—to conceal your hand crossbow. As an action, you may make a weapon attack with a concealed crossbow against a creature that has not yet acted in combat. This attack has advantage. 
+
+**Rapid Shot.** You rapidly reload your hand crossbow, throwing off your aim but allowing you to make an additional attack this turn. As a bonus action, you may reload your hand crossbow and make an attack with it against a target within 30 feet. This attack has disadvantage.
+
+### LONGBOW AND SHORTBOW
+
+**Pinning Shot.** When you make an attack with a bow, you may attempt to pin a Large or smaller creature to a wall or surface by catching their clothing with the arrow’s point. This maneuver can be used against creatures without clothing at the GM’s discretion. Make an attack roll; if the attack hits, the target must make a Strength saving throw. On a failure, the target’s speed is reduced to 0 until the arrow is removed. The target can make another Strength saving throw as an action on its turn. 
+
+**Distracting Shot.** As an action, make a single attack with your bow. You intentionally miss your target but give an ally the chance to attack while it is distracted. The next attack roll against the target has advantage if it is made before the beginning of the target’s next turn. 
+
+**Trick Shot.** As an action, make a single stylish bow attack with disadvantage. If the lower roll would also hit the target, you automatically score a critical hit.
+
+### SLING
+
+**Underdog Strike**. As an action, you may make a single ranged weapon attack with your sling against a creature at least 1 size category larger than you. This attack deals normal weapon damage, and an extra id4 bludgeoning damage per size category difference. 
+
+**Headcrack.** As an action, you may make a single ranged weapon attack with your sling. If the attack hits, the target must make a Constitution saving throw or be stunned until the beginning of its next turn.
+
+
+### NORDMANSCH GREATAXE
+
+
+The nordmansch greataxe likely originated with the foresters and lumberjacks of the Ordenn forest, who found a way of making axe heads they continue to keep secret. The nordmansch make more axes than their woodsmen actually need. The nordmansch greataxe is a two-handed weapon built to sunder other weapons. Its edge is hardened especially for this purpose, and its haft is likewise set with trapping prongs to catch and hold a foe’s weapon. At the GM’s discretion, typical greataxes may also use the sundering strike maneuver. 
+
+**Sundering Strike.** As part of the attack action, make a single attack roll with your nordmansch against a creature wielding a weapon, including natural weapons. If the attack hits, the weapon is damaged, and all attacks made with this weapon have disadvantage. Another sundering strike destroys the weapon. This attack has no effect on magical weapons, unless your nordmansch is also magical. 
+
+**Disarming Parry.** When a creature attacks you with a weapon, you may use your reaction to catch their weapon in your nordmansch’s prongs and disarm them. Make an attack roll with your nordmansch. If the result of this roll equals or exceeds their attack roll, their attack misses, and they must succeed on a Strength saving throw or drop their weapon.
+
+### NORTHLANDS ESTOC
+
+
+A hand-and-a-half sword designed to pierce heavy armor and sharpened only on the tip, an estoc is 4 feet long, sometimes with a second crossguard. It is said to have been used first by the knights ofVaelTurog and Balinor against the elves, but now is used by dwarven mercenaries and human knights who expect to fight other heavily armored warriors. Its anti-armor properties make it popular with monster hunters and dragon slayers as well. Sometimes called the “tuck.” The estoc also has the following special property. Special: The estoc deals an additional id6 damage to creatures wearing heavy armor, or naturally armored creatures with an AC of 16 or higher. 
+
+
+**Armor-Piercing Thrust.** As an action, you may pinpoint a weak point of an opponent’s armor and make a single attack with your estoc against it. This attack pierces armor, treating the target’s AC as io + their Dexterity modifier. On a hit, this attack does normal weapon damage, and does not deal the additional damage granted by the estoc’s special property \(above\). 
+
+**Blunted Bash**. Instead of dealing piercing damage, you can choose to deal bludgeoning damage by striking the target with the estoc’s unsharpened blade. This attack’s damage die is one size smaller than normal \(id4 if one-handed, id6 if two-handed\), and cannot benefit from the estoc’s special property \(below\).
+
+### ROTHENIAN PONIARD
+
+This longsword has a spring-loaded poniard concealed in the hilt, which quickly extends when the hilt is gripped in a particular way. It is particularly beloved by rogues, as the concealed blade helps them sneak attack opponents already locked in combat. Kariv of a crueler bent have been known to poison the secondary blade. Thanks to its hidden blade, the Rothenian poniard has the following special ability: 
+
+> **Special:** The larger blade is a versatile weapon, and the secondary blade is a light weapon. You may make an attack with the secondary blade as bonus action, as if you were two-weapon fighting. Retracting the poniard requires an action.
+
+**Hidden Poniard.** If the poniard is still concealed within your sword’s hilt, you may make a Dexterity \(Sleight of Hand\) check opposed by a target creature’s Wisdom \(Perception\) check. If you win this contest, you may make a single attack roll with the concealed poniard against that target. This attack has advantage. 
+
+## SOUTHLANDS WEAPONS
+
+### DIKAMA \(FANG BLADE\)
+
+First crafted by the bronzesmiths of the Lion Kingdom of Omphaya, the wicked dikama fang blade is shaped like a serrated, oversized lion’s tooth. 
+
+**Bloody Wound.** When you hit a living creature with a dikama, you can choose to make a superficial but bloody wound. The attack deals no damage, but the target takes id6 slashing damage at the beginning of each of its turns until it or another creature makes a DC 10 Wisdom \(Medicine\) check as an action to stop the bleeding or until it receives magical healing. 
+
+**Serrated Twist.** When you deal damage to a living creature with a dikama \(not including damage from the Bloody Wound maneuver\), you may twist the serrated blade as a bonus action. The creature must make a Constitution saving throw or take 2d4 slashing damage.
 
 
 
@@ -226,10 +501,8 @@ Shields: A shield forged from glass steel weighs only 3 lbs.
 # Alchemical equipment
 
 Alchemical Items
-Alchemical items are not products of magic, but of science. 
-All these items have one thing in common; they may only 
-be used once. Unlike magic items, alchemical items can be 
-easily purchased.
+Alchemical items are not products of magic, but of science. All these items have one thing in common; they may only be used once. Unlike magic items, alchemical items can be easily purchased.
+
 Alchemical Items Cost
 Blood Paste 40gp
 Combustible Sphere 50gp
@@ -241,7 +514,9 @@ Moon Ink 25gp
 Refreshing Brew 40gp
 Smelling Salts 40gp
 Sweet Water 25gp
-Blood Paste
+
+**Blood Paste**
+
 Alchemical equipment
 Description: Created from a mixture of several different 
 herbs, blood paste is a sweet smelling red paste that heals all 
@@ -250,8 +525,11 @@ Abilities/Effects: During a short rest, you may apply
 this paste to heal 1d6 hit points. A creature may not 
 benefit from another application of the paste until they 
 complete a long rest.
-Combustible Sphere
+
+**Combustible Sphere**
+
 Alchemical equipment
+
 Description: These small spheres are filled with a 
 mixture of alcohol, flint chips and blast powder.
 Abilities/Effects: As an action you can throw this 
@@ -264,20 +542,22 @@ thunder damage. This explosion is
 quite loud and can be clearly heard 
 hundreds of feet away.
 
-Flash Sphere
+**Flash Sphere**
+
 Alchemical equipment
 
 Description: This small sphere is filled with a gray powder thatmay be thrown, causing a splash attack, bursting in a flash of searing light.
 Abilities/Effects: As an action you can throw this flask at a creature, object, or empty space up to 20 feet away, shattering it on impact. Make a ranged attack against a creature or object, treating the flash sphere as an improvised weapon; no attack roll is needed if you target an empty space. All creatures within 5 feet of the point of impact must make a successful DC 10 Constitution saving throw 
 or become blinded until the beginning of their next turn. A creature that cannot see gains advantage on their saving throw.
-Frost Sphere
+F**rost Sphere**
 
 Description: This small sphere is filled with two chemicals each a distinct shade of blue. When the chemicals are mixed they suddenly bsorb all heat from the surrounding area, flash freezing water and chilling those unfortunate enough to be close to the point of impact.
 Abilities/Effects: As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the frost sphere as an improvised weapon. On a hit, the target takes 2d6 cold damage. If thrown into a body of water, the sphere instantly shatters and freezes 2 cubic feet of the water.
 
 
 #### Glow Dust
-Alchemical equipment
+
+
 Description: Essentially dried glowing moss, this powder 
 retains the ability to glow after a good shake.
 Abilities/Effects: As an action, you may empty the contents 
@@ -288,7 +568,7 @@ find tracks or any other signs of passage. This effect lasts for
 10 minutes, after which the glow fades.
 
 #### Gum Bag
-Alchemical equipment
+
 Description: Created from tar and mixed with special 
 oils, this mixture is held in small clay containers. When 
 the concoction comes in contact with air, it creates a bond 
@@ -305,7 +585,7 @@ Strength (Athletics) check to break free. The contents of the
 bag lose its adhesive properties after 1 minute.
 
 ### Moon Ink
-Alchemical equipment
+
 Description: Commonly created from the nightbloom 
 flowering plant, this ink is highly prized by any who wish 
 to keep their communications secret.
@@ -318,7 +598,7 @@ hence its name) to read the message. One vial of ink will
 last for two pages of paper.
 
 #### Refreshing Brew
-Alchemical equipment
+
 Description: This delicious elixir has been around longer 
 than recorded history, it is commonly referred to as 
 ‘morning draft’.
@@ -328,7 +608,7 @@ die. You may only benefit from one vial of refreshing brew
 per long rest.
 
 #### Smelling Salts
-Alchemical equipment
+
 Description: The Ansharan temple created this strange 
 and powerful concoction to help young neophytes quickly 
 recover from the rigors of their training.
@@ -342,7 +622,7 @@ smelling salts.
 
 
 #### Sweet Water
-Alchemical equipment
+
 Description: Highly sought after by nobility, there are only 
 a handful of alchemists capable of brewing a vial of this 
 clear luminescent liquid.
@@ -350,89 +630,47 @@ Abilities/Effects: One vial of sweet water cleanses 2 gallons
 of liquid of any poisons or impurities. It has no effect on 
 creatures entirely comprised of liquid, like water elementals.
 
-# Alchemical items
-
-HLCHemiCfiL
-Items
-Alchemical items are not products of magic, but of science. All these items have one thing in common; they may only be used once. Unlike magic items, alchemical items can be easily purchased.
-ALCHEMICAL ITEMSCOSTBlood Paste4°gpCombustible Sphere5°gpFlash Sphere5°gpFrost Sphere5°gpGlow Dust25gpGum Bag5°gpMoon Ink25gpRefreshing Brew4°gpSmelling Salts4°gp
-
-Sweet Water	25gp
-Blood Paste
-Alchemical equipment
-Description: Created from a mixture of several different herbs, blood paste is a sweet smelling red paste that heals all but the most grievous injury.
-Abilities/Effects: During a short rest, you may apply this paste to heal 1d6 hit points. A creature may not benefit from another application of the paste until they complete a long rest.
-Combustible Sphere
-Alchemical equipment
-Description: These small spheres are filled with a mixture of alcohol, flint chips and blast powder.
-Abilities/Effects: As an action you can throw this flask up to 20 feet, shattering it on impact.
-Make a ranged attack against a creature or object, treating the combustible sphere as an improvised weapon. On a hit, the target takes 1d6 fire damage and 1d6 thunder damage. This explosion is quite loud and can be clearly heard hundreds of feet away.	""
- 
-Flash Sphere
-Alchemical equipment
-Description: This small sphere is filled with a gray powder that may be thrown, causing a splash attack, bursting in a flash of searing light.
-Abilities/Effects: As an action you can throw this flask at a creature, object, or empty space up to 20 feet away, shattering it on impact. Make a ranged attack against a creature or object, treating the flash sphere as an improvised weapon; no attack roll is needed if you target an empty space. All creatures within 5 feet of the point of impact must make a successful DC 10 Constitution saving throw or become blinded until the beginning of their next turn.
-A creature that cannot see gains advantage on their saving throw.
-Frost Sphere
-Alchemical equipment
-Description: This small sphere is filled with two chemicals each a distinct shade of blue. When the chemicals are mixed they suddenly absorb all heat from the surrounding area, flash freezing water and chilling those unfortunate enough to be close to the point of impact.
-Abilities/Effects: As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the frost sphere as an improvised weapon. On a hit, the target takes 2d6 cold damage. If thrown into a body of water, the sphere instantly shatters and freezes 2 cubic feet of the water. 
-Glow Dust
-Alchemical equipment
-Description: Essentially dried glowing moss, this powder retains the ability to glow after a good shake.
-Abilities/Effects: As an action, you may empty the contents of this container to cover a 10-foot by 10-foot area which then glows with dim light. This illumination grants advantage on Wisdom (Survival) or Intelligence (Investigation) checks to find tracks or any other signs of passage. This effect lasts for 10 minutes, after which the glow fades.
-Gum Bag
-Alchemical equipment
-Description: Created from tar and mixed with special oils, this mixture is held in small clay containers. When the concoction comes in contact with air, it creates a bond strong enough to hold a warhorse in place.
-Abilities/Effects: As an action, you can throw this container up to 20 feet, where it shatters on contact and its contents mix and expand. Make a ranged attack against a creature or object, treating the gum bag as an improvised weapon. On a hit, the target must make a successful DC 15 Strength saving throw or have their walking speed reduced to 0. As an action, at the beginning of their turn, a creature affected by the contents of a gum bag may attempt a DC 15 Strength (Athletics) check to break free. The contents of the bag lose its adhesive properties after 1 minute.
-Moon Ink
-Alchemical equipment
-Description: Commonly created from the nightbloom flowering plant, this ink is highly prized by any who wish to keep their communications secret.
-Abilities/Effects: Once anything is written with this ink, the writer needs to warm the paper over an open fire to cause the ink to quickly disappear. Later, the owner of the document may lightly wet the paper and then hold it up against a light source (typically the light of the full moon, hence its name) to read the message. One vial of ink will last for two pages of paper.
-Refreshing Brew
-Alchemical equipment
-Description: This delicious elixir has been around longer than recorded history, it is commonly referred to as ‘morning draft’.
-Abilities/Effects: If you consume a flask of this refreshing drink during a long rest, you regain 2 additional spent hit die. You may only benefit from one vial of refreshing brew per long rest.
-Smelling Salts
-Alchemical equipment
-Description: The Ansharan temple created this strange and powerful concoction to help young neophytes quickly recover from the rigors of their training.
-Abilities/Effects: : You may use smelling salts on an unconscious creature to force them back into consciousness. If the creature was knocked unconscious due to hit point loss, the creature is awakened and spends 1 hit die to recover hit points. Creatures which do not have any remaining hit die cannot be aroused though the use of smelling salts.
-Sweet Water
-Alchemical equipment
-Description: Highly sought after by nobility, there are only a handful of alchemists capable of brewing a vial of this clear luminescent liquid.
-Abilities/Effects: One vial of sweet water cleanses 2 gallons of liquid of any poisons or impurities. It has no effect on creatures entirely comprised of liquid, like water elementals.
-
 # Elixirs, oils, salves
 
-Draught of the Saddle Born
+## Draught of the Saddle Born
+
 Potion, rare
 Description: This liquid has the thick consistency of syrup and is white in color.
 History: Though shunned by their fellow tribesman, Ehtzara are still sought out from time to time by an ambitious chieftain or budding warrior for items of power. One common request is for a Jihuk-Za, or, roughly translated, a “draught of the saddle born”. These potions are reputed to give the imbiber power over equines and grant a warrior uncanny control of their mount. Ehtzara brew these elixirs from mare’s milk and the sap from certain cacti, the identity of which is kept a closely guarded secret.
 Abilities/Effects: When you drink this potion you gain the ability to speak with all manner of equine animals for 4 hours and have advantage on all Wisdom (Animal Handling) checks dealing with equines.
-Elixir of Longevity
+
+## Elixir of Longevity
 Potion, legendary
 Description: The liquid of this potion is clear with a slight yellowish tint. 
 History: This elixir was used exclusively by the ssanu nobles of Yahssremore during the years before the elorii slave revolt. Brewed from blending the tears of the immortal elorii, extracted through unspeakable tortures, along with the venom of a rare and deadly asp, this elixir grants its imbiber an unnaturally extended life.
 Abilities/Effects: Once you drink this potion you must make a DC 25 Constitution saving throw. If you succeed your natural lifespan is doubled; if you fail, you die instantly. This potion may be used multiple times, but each dose requires a new Constitution saving throw. This potion has no effect if you are immortal.
-Elixir of Red Fury
+
+## Elixir of Red Fury
+
 Potion, rare
 Description: This blood red potion bubbles and swirls as if the very liquid were angered.
 History: First created by the Temple of Hurrian, there is also a version of this potion available from the Temple of Nier.
 Abilities/Effects: Drinking this potion causes you to fly into furious rage for 1 minute, granting a +2 bonus to melee damage as well as gaining advantage on Strength ability checks and Strength saving throws. During this red rage, you are unable to cast or concentrate on spells. You may not end the rage until the potion runs its course.
-Elixir of Skins
+
+## Elixir of Skins
+
 Potion, rare
 Description: Brewed from a combination of blood, broth, and marrow from an appropriate beast, this brownish mixture is then poured into a wooden flask carved in the creature’s likeliness.
 History: This elixir was once the province of the Pengik tribes of the Pricklespur Forest, but years of trading with the neighboring Yhing hir has made this unique brew available to the shaman of the horsemen.
 Abilities/Effects: Each elixir of skins is made with materials from a specific creature of CR 2 or less. For 4 hours after imbibing this elixir, you may, as a bonus action, Wild Shape into the creature the elixir was made from.
  
 You may only use this ability once and you can remain transformed for up to one hour. If you are a druid, you gain all of the Wild Shape benefits imparted by your Circle (if any).
-Elixir of the Oracle
+
+## Elixir of the Oracle
+
 Potion, very rare
 Description: This elixir has a slightly rosy tint, though the faint specs suspended in the liquid reflect a gold and silvery shine.
 History: This elixir is brewed only by the most talented of Larissan Oracles, and then only when they feel it is necessary to grant individuals visions of their own future. When imbibed, this elixir grants the user an answer to a question regarding the future of a person, place, or object.
 Abilities/Effects: When drinking this potion, you instantly fall into a deep trance for 1 minute, during which you are overwhelmed by visions of the future. These take the form of a flood of pictures, sounds, and emotions. You may attempt a DC 15 Wisdom (Insight) check to determine a general emotion connected to the visions (fear, disgust, anguish, distrust, or pleasure, for example).
 At the GM’s discretion, you may attempt an Intelligence (Investigation) check to recall specific details of the vision at a later date. The exact nature of the vision is up to the GM, but this potion can be used as a vehicle to foreshadow important campaign events.
-Elixir of the Valinor’s Heart
+
+## Elixir of the Valinor’s Heart
+
 Potion, very rare
 Description: This ornate crystal vial contains a viscous red fluid.
 History: Said to have been created by the val’Mehan family during the ancient Blood Wars, the formula for creating this potion was discovered by the Emerald Society during an expedition in the Blessed Lands. Since creating one draught of this elixir requires the complete exsanguination of a val, it was considered too dangerous for public consumption and so consigned to the Vaults of Forbidden Knowledge in New Althre’. Nevertheless, the formula made its way into grimoires of various black sorcerers, witches and unscrupulous Sarishans across the Known Lands.
@@ -716,4 +954,197 @@ Rare: 4th Level: 800 gp • 5th Level: 1500 gp
 Very Rare: 6th Level: 4000 gp • 7th Level: 8000 gp • 8th Level: 16,000 gp
 
 Legendary: 9th Level: 50,000 gp
+
+# Снаряжение для Паладина
+
+
+
+Паладины крайне серьезно относятся к своему снаряжению, и всегда стараются купить самое лучшее. Своим снаряжением они не только подчеркивают  честь своего положения; для некоторых  снаряжение символизирует их принципы.
+
+• Щит символизирует клятву паладина придерживаться своего этоса. 
+
+• Меч символизирует тех кого он поклялся защищать: одна грань аристократию, вторая обычных людей.
+
+• Доспехи являются символом его отношения к власти. Как доспехи защищает его тело, так же он должен защищать своего монарха.
+
+• Шлем олицетворяет собой его религию. Так же как шлем защищает его голову, так же он должен защищать свою церковь.
+
+• Одежда, хорошей выделки и безупречно чистая, символизирует чистоту духа.
+
+Стандартное Снаряжение
+
+Вещи из следующего списка имеют почти все паладины. Обычно, эти вещи приобретаются из лишних денег паладина. Обычно паладины стараются поддерживать свои вещи в идеальном состоянии, следовательно, они редко требуют замены.
+
+Доспехи
+
+Паладину доступны все виды доспехов. При наличии выбора, более предпочтителен полный латный доспехи. Но, из-за дороговизны полного латного или простого латного доспехов, некоторые останавливаются на пластинчатом или плетеном доспехе, или даже кольчуге. Кожаный, клепаный кожаный и набивной, включая магические, обычно игнорируются, поскольку эти доспехи обычно ассоциируются с людьми более низкого класса. Паладин скорее предпочтет обычную кольчугу, чем клепаную кожу +3.
+
+В большинстве миров  паладин предпочитают следующий набор доспехов: хаубрек/шлем (или то и другое вместе), кольчуга и латный доспей.
+
+Хаубрек и шлем. Небогатые паладины, обычно из примитивных государств, или же те, кто только начинает свою карьеру, обычно носят только хаубрек (часть кольчуги, закрывающая грудь) и шлем. Обычно паладин сам делает хаубрек, наматывая проволоку вокруг палки, затем, отрезая куски, так что бы получились кольца. Затем он выравнивает их при помощи молота, затем заклепывает их вместе, так что бы они приняли форму тела, по длине до колен и с капюшоном накрывающим голову. Шлем обычно заостряющийся к верху и с открытым лицом. Комбинация хаубрека и шлема гораздо дешевле, чем кольчуги, но и имеет АС 7.
+
+Кольчуга. Хаубрек вместе с кольчужными леггинсами и защитой для рук составляет кольчугу (AC 5). На шлеме также можно добавить козырек для лучшей защиты лица. Несмотря на то, что кольчуга относительно недорога и сравнительно легка, у нее так же есть свои недостатки. Во-первых, вес очень неравномерно распределяется по телу и ложится в основном на плечи. И даже самый сильный человек устанет, если будет целый день, не снимая носить кольчугу. Мастер так же может назначить штраф -2 ко всем броскам атаки этого человека (если он больше 24 часов не снимая, носит кольчугу).
+
+Хотя бы раз в неделю, кольчугу надо смазывать маслом и полировать, процесс этот занимает часа 3-4.  Если за ней не ухаживать, то через месяц она придет в негодность, АС будет ухудшаться на один за каждый месяц без надлежащего ухода.
+
+Латный доспех. Латы (AC 3) включает в себя нагрудник, наспинник, и полоски металла на ноги и на руки, в общем, на те места, которые не защищает кольчуга. Листы металла называющиеся pauldrons защищают места между руками и грудью. Эпольеты (наплечники) защищают верх туловища; латные рукавицы (металлические перчатки) защищают руки.
+
+Высокоуровневые паладины иногда украшают свои латы (латные перчатки, шлемы) золотыми или серебряными украшениями или небольшими бриллиантами. Эти вещи совместимы с этосом паладина, который должен по своему статусу производить хорошее впечатление, но не может копить и афишировать богатства. Геральдические символы могут быть выгравированы или нарисованы на любых местах латного доспеха.
+
+Латный доспех тоже должен полироваться и смазываться маслом, но поскольку он состоит из более крупных частей, нежели колечки у кольчуги, то он меньше подвержен ржавлению. Хотя латный доспех заметно тяжелее кольчужного, но его вес лучше распределяется по телу, за счет чего люди носящие его меньше устают.
+
+Щиты
+
+Большинство паладинов используют средний щит, поскольку он предоставляет хорошую фронтальную и боковую защиту и достаточно легок, для того чтобы использовать его верхом. Обычно они сделаны из дерева и обтянуты толстой кожей, имеют треугольную форму с округлой вершиной и заостренными нижними углами. Сам щит выпуклый и размером примерно 4 - 5 футов. Паладин держит его в левой руке (или правой, если он левша) за специальную ручку, которая находится с внутренней стороны щита.
+
+Некоторые паладины предпочитают прямоугольные, круглые или даже пятиугольные щиты. Щит может быть отделан золотом, серебром, бриллиантами, на нем могут быть выгравированы геральдические знаки или же он просто может быть ярко раскрашен.
+
+Оружие
+
+Хотя паладин может владеть любым оружием, но большинство чувствуют себя неуютно без меча (длинного, двуручного, полуторного, а может быть даже и короткого), копья (среднего или тяжелого) и кинжала. Обычно паладин носит свой меч в ножнах на поясе, в этом случае с другой стороны висит кинжал.
+
+Так же паладины могут иметь следующие оружия цеп всадника, булава всадника, пика всадника, боевой топор и скимитар. К метательному оружию паладины равнодушны, так как оно тяжело в использовании, если ты на коне.
+
+Турнирное копье, хотя и предпочтительно, обычно очень дорого. За место этого, паладин может на наконечник обычного копья надеть деревянную заглушку и тем самым сделать его пригодным для турниров. Заглушка же эта может оказаться ненадежной; есть 5% шанс, в течение поединка, (1 на 1d20), что она отвалиться. В этом случае поединок приостанавливается и начинается заново.  Боец, постоянно теряющий заглушку для копья, может быть дисквалифицирован.
+
+Одежда и Специальные Предметы 
+
+Выбирая одежду, паладин пытается объединить в ней функциональность и элегантность. Он предпочитает яркие, насыщенные цвета (синий, красный, зеленый, фиолетовый) и, когда может себе это позволить, дорогую ткань (шелк, вельвет). Поскольку паладина часто встречают по внешнему виду, трата денег на дорогую одежду и снаряжение не считается нарушением этоса.
+
+Идеальный гардероб, который паладин приобретает в течение своей карьеры, состоит из следующих вещей:
+
+• Две строгие шелковые или льняные рубашки с длинными рукавами.
+
+• Две пары бриджей или брюк, плотно облегающих ноги, сделанных из шерсти, хлопка или льна, (брюки широкого покроя обычно ассоциируются с крестьянами или низкими по статусу людьми). Бриджи обычно до колен и ярко раскрашены.
+
+• Подкладка к доспехам (из мягкой кожи или подбитой ткани, носимая под кольчугой, что бы предотвратить натирание.
+
+• Две пары шелковых носков.
+
+• Пара сапог для верховой езды.
+
+• Пара кожаных туфель, обычно, заостренных к носу  и застегивающихся на щиколотке.
+
+• Две туники, длиной до колена и надевающихся через голову, обычно без рукавов. Туники могут быть украшены рисунками или же драгоценностями.
+
+• Накидка, так же без рукавов. Накидка обычно окаймлена мехом, со всякими кисточками, ленточками.
+
+• Легкая мантия для весны и лета, из хлопка или шелка, застегивающаяся на горле при помощи застежки.
+
+• Зимняя мантия подбитая бобровым, лисьим или другим теплым мехом.
+
+• Широкий кожаный ремень, с железной пряжкой.
+
+• Шерстяная хлопковая или фетровая шапка.
+
+• Церемониальный чепец (плотно сидящая шапка, закрывающая волосы и уши, подвязанная под подбородком) из льна или шелка, украшенная вышивками, перьями или золотыми нитями. Обычно он нужен для правительственных банкетов или церковных церемоний. Женщина паладины используют церемониальный платок.
+
+• Два хлопковых или шерстяных полотенца (одно для умывания, второй в роли скатерти).
+
+• Столовые приборы: вилки, ложки, ножи, чашки, тарелки, бокалы. Эти вещи должны быть из серебра, золота, хрусталя.
+
+• Полное снаряжение для своей лошади.
+
+• Два теплых одеяла, одно для себя, второе для лошади.
+
+• Зеркало (необходимо для ухода за лошадью).
+
+Формальная Одежда Для Паладинов Женщин
+
+Женщины паладины могут носить всю вышеперечисленную одежду. Для формальных церемоний, женщины паладины могут носить, тунику до пола, называемую килт (kirtle), которая плотно облегает грудь, бедра и ноги. Женщины также носят чулки, на подвязках, а вот обувь для всех одинакова. 
+
+Эмблемы, Штандарты и Навершия
+
+Паладины часто украшают свои доспехи, щиты, одежду или оружия надписями или символами которые символизируют их ранг, церковь или короля. За определенные поступки церковь или монарх могут преподнести в дар паладину какие-либо украшения, которые будут свидетельствовать о его поступках:
+
+Эмблема. Эмблемы символизируют родину паладина, его семью или Орден. Эмблема может быть как медальоном, подвязкой, так же это может быть гравировка на доспехах, щите, оружии или вышивка на одежде. Обычные символы: люди со звериными головами, цветок или дерево с короной,  оружие с крыльями.
+
+Штандарт. Штандарт это флаг с  Y-видной верхушкой, на длинном древке. Штандарт может  включать в себя набор цветов, геральдические символы или знаки различия церкви или правительства паладина. Штандарт становится знаменем,  когда его обрезают так, чтобы он стал квадратным. Небольшой штандарт, называется флажок и может прикрепляться на копье.
+
+Навершие. Навершием может сложить пучок кожаных полосок, несколько перьев, деревянная резьба, кисточка или любой другой маленький предмет прикрепленный к шлему паладина. Навершие обычно того же цвета, что и щит паладина. Обычно их одевают на турниры, что бы можно было отличить одного паладина от другого,  но некоторые паладины носят их всегда. Навершие так же можно надевать на гриву или уздечку боевой лошади.
+
+Дополнительное Снаряжение
+
+Священное писание. В священном писании записаны все постулаты веры персонажа, молитвы, принципы поведения, требования со стороны божества, а также другой теологический материал. Священное писание не является книгой заклинаний и никак не помогает при их сотворении.
+
+Поскольку священное писание может быть очень дорогим, персонажи иногда просят церковь предоставить им его  в рассрочку, добавляя по несколько золотых монет к своей обычной десятине, но если церковь богата, то она может безвозмездно предоставить своему паладину священное писание. Но в этом случае если паладин теряет книгу, то он обязан выплатить ее стоимость церкви.
+
+Герб. Обычно это относится к геральдическим рисункам на щитах или доспехах паладина, но иногда может означать определенный тип одежды, например, белая туника, носимая поверх доспехов, украшенная геральдическими символами паладина. Такая туника, во-первых, дает возможность другим понять, кто стоит перед ними, а во-вторых, может спасти от перегревания в очень жаркую погоду.
+
+Косметический набор. Очень полезен при подготовке к какому-либо официальному приему или банкету, косметический набор обычно содержит: кусок овечьего жира, что бы сделать кожу блестящей, румяна, сделать щеки белыми или розовыми, тальк для тела с легким, приятным запахом, а так же приспособления для бритья.
+
+Набор для ухода за лошадью. Для эффективного и полного ухода за лошадью, этот набор включает в себя скребок (для отряхивания  грязи с шерсти),  бритва (для срезания лишних волос), губка для тела (для удаления грязи с ног, копыт и других мест, где не подходит скребок), щипцы (доставлять камни застрявшие в копытах), и расческу для гривы и хвоста (чтобы очистить и расчесать волосы).
+
+Похожие наборы существуют для всех видов животных.
+
+Султан. Представляет из себя пучок связанных перьев, ленточек, кисточек, переплетенных с тонкими металлическими проволоками. Султаны прикрепляется на шлем (возможно, по бокам), края щитов, защищая глаза от яркого света. Так же они несколько замедляют коррозию и помогают отражать удары.  Обычно они раскрашены в те же цвета, что и щит паладина. 
+
+Саше. Небольшая сумочка, в которой хранятся смеси цветков, трав  специй, которые придают приятный запах одежде. Саше может, хранится где угодно.
+
+Шпоры. Со шпорами значительно легче управлять своей лошадью, так как есть возможность отдавать команды легким движением ноги. Лучшие шпоры те, которые не причиняют боли животному, они имеют колесики определенной формы, за место острых концов.
+
+Таблица 25: Различное Снаряжение
+
+Предмет	Цена	Вес (в фунтах)
+
+Подкладка к доспехам	5 зм	5
+
+Священное писание	50-500 зм	1-5
+
+Накидка с капюшоном
+
+  Шерстяная	7 см	4
+
+  Шелковая или вельветовая	50 зм	2
+
+Герб	8 см	**
+
+Чепец, церемониальный	2 зм	**
+
+Косметический набор	7 см	**
+
+Столовые приборы 	15 зм	1
+
+Набор для ухода за лошадью	1 зм	1
+
+Мантия
+
+  Весеняя	1 зм	**
+
+  Зимняя	10-30 зм	1-5
+
+Султан	2 cм	**
+
+Заглушка на копье	1 см	**
+
+Саше	1-3 зм	**
+
+Шпоры	1 зм	**
+
+Зимняя мантия, меховая	20-40 зм	5-10
+
+
+
+Новое Магическое Снаряжение
+
+Сбруя полета: Сбруя полета похожа на обычную сбрую, для лошади, слона или любого другого спутника. Когда  надета на спутника паладина,  сбруя полета может, по команде паладина, выращивать металлические крылья, длиной примерно в две длины спутника. Эти крылья позволяют спутнику летать со скоростью его обычного передвижения и иметь класс Маневренности С. Естественно животное, одетое в эту сбрую, может летать так, как если бы умело летать всегда.
+
+Паладин, который не владеет профессией Воздушной Верховой Езды, получает штраф -2 к своим броскам атаки и должен делать проверку Ловкости тогда, когда скажет Мастер, персонаж владеющий этой профессией никаких неудобств не испытывает.
+
+Крылья держатся 1d4 часа в день; спутник инстинктивно чувствует, что время полета подходит к концу и всегда успевает вовремя приземлиться.
+
+Уздечка спокойствия: Эта уздечка, когда надета на спутника паладина, позволяет ему избегать всех эффектов магического страха. Что касаемо морали,  уздечка спокойствия делает бесстрашным  спутника паладина (мораль 19-20). Ее можно использовать как на спутниках, так и на обычных животных.
+
+Султан призывания: Когда находится на шлеме паладина, султан призывания позволяет ему телепатически призвать своего спутника, на расстоянии 10 миль на уровень. Если спутник попал в плен, или по каким то другим причинам не способен вернуться к паладину, он чуствует тупую боль вокруг глаз, как бы то ни было, паладин не может узнать точного местонахождения спутника.
+
+Масло гармонии: Если этим маслом полностью смазать любой металлический доспех, то его АС улучшается на 1 на 24 часа.   AC не может стать меньше 0. Процесс смазывания доспеха занимает 1-2 часа, в зависимости от его размеров.
+
+Ножны сохранности: Меньше фута длиной, эти кожаные ножны, казалось бы, подходят только для кинжала. Но, на самом деле, в них убирается любое оружие любого размера (от ножа до алебарды). Когда часть оружия попадает в ножны, оно все уменьшается до размеров кинжала. Оружие можно достать только при помощи кодового слова или заклинания удар (knock). После того как оружие полностью вынули из ножен, оно принимает свои обычные размеры.
+
+Мешочек десятины: Это небольшой кошель из черного вельвета, перевязанный шелковой веревочкой. Любые монеты, драгоценные камни, все, что в него попадает, сразу переносится в церковь паладина, либо туда кому он должен отдавать десятину. Для этого необходимо иметь камешек, кусочек дерева, все что угодно, что связано с местом назначения. В противном случае его можно использовать, как просто кошель, но он может быть использован только законопослушно добрыми персонажами.
+
+Туника комфорта: Эта легкая туника может быть одета поверх кольчуги, либо поверх любого доспеха, чей вес не равномерно распределяется по телу. Она идеально распределяет вес, за счет чего доспех начинает весить в два раза меньше, а персонаж не подвергается эффектам усталости.
+
+
+
 

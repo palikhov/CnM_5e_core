@@ -1,0 +1,1641 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.">
+      
+      
+      
+        <meta name="author" content="Антон Палихов aka Palant">
+      
+      
+        <meta name="lang:clipboard.copy" content="Копировать в буфер">
+      
+        <meta name="lang:clipboard.copied" content="Скопировано в буфер">
+      
+        <meta name="lang:search.language" content="en, ru, uk">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Совпадений не найдено">
+      
+        <meta name="lang:search.result.one" content="Найдено 1 совпадение">
+      
+        <meta name="lang:search.result.other" content="Найдено # совпадений">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Шейд - D&D Palant edition</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../../../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#shade" tabindex="1" class="md-skip">
+        Перейти к содержанию
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../../.." title="D&D Palant edition" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">library_books</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                D&D Palant edition
+              </span>
+              <span class="md-header-nav__topic">
+                Шейд
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Начните печатать для поиска
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+  
+
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../../.." title="Главная" class="md-tabs__link">
+        Главная
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../character-creation/" title="Домашние правила" class="md-tabs__link md-tabs__link--active">
+          Домашние правила
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../../shared_campaign/" title="Мультикампания" class="md-tabs__link">
+          Мультикампания
+        </a>
+      
+    </li>
+  
+
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../../drow-units/" title="Противники" class="md-tabs__link">
+          Противники
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../../files/Collvile's Player's Guide _ GM Binder.pdf" title="Файлы" class="md-tabs__link">
+          Файлы
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../../.." title="D&D Palant edition" class="md-nav__button md-logo">
+      
+        <i class="md-icon">library_books</i>
+      
+    </a>
+    D&D Palant edition
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../.." title="Главная" class="md-nav__link">
+      Главная
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
+    
+    <label class="md-nav__link" for="nav-2">
+      Домашние правила
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Домашние правила
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../character-creation/" title="Правила по созданию персонажей" class="md-nav__link">
+      Правила по созданию персонажей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-2" type="checkbox" id="nav-2-2" checked>
+    
+    <label class="md-nav__link" for="nav-2-2">
+      Расы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-2">
+        Расы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Шейд
+      </label>
+    
+    <a href="./" title="Шейд" class="md-nav__link md-nav__link--active">
+      Шейд
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Содержание</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#patient-ambition" title="Patient Ambition" class="md-nav__link">
+    Patient Ambition
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shadows-on-societys-edge" title="Shadows on Society's Edge" class="md-nav__link">
+    Shadows on Society's Edge
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#a-path-of-their-own" title="A Path of Their Own" class="md-nav__link">
+    A Path of Their Own
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shade-classes" title="SHADE CLASSES" class="md-nav__link">
+    SHADE CLASSES
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shade-traits" title="Shade Traits" class="md-nav__link">
+    Shade Traits
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#subrace" title="Subrace." class="md-nav__link">
+    Subrace.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#independent-shade" title="Independent Shade" class="md-nav__link">
+    Independent Shade
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#netherese-shade" title="Netherese Shade" class="md-nav__link">
+    Netherese Shade
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../feyri/" title="Фейри (демонфеи)" class="md-nav__link">
+      Фейри (демонфеи)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-3" type="checkbox" id="nav-2-3">
+    
+    <label class="md-nav__link" for="nav-2-3">
+      Изменения системы классов и самих классов
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-3">
+        Изменения системы классов и самих классов
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/classes/" title="Классы" class="md-nav__link">
+      Классы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/arcanis-work/" title="Классы из Арканиса" class="md-nav__link">
+      Классы из Арканиса
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/barbarian/" title="Варвар" class="md-nav__link">
+      Варвар
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/elder-sorcerer/" title="Древние колдуны" class="md-nav__link">
+      Древние колдуны
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/fighter/" title="Боец (воин)" class="md-nav__link">
+      Боец (воин)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/mystic/" title="Мистик" class="md-nav__link">
+      Мистик
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/paladin/" title="Паладин" class="md-nav__link">
+      Паладин
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/ranger-rework/" title="Рейнджер" class="md-nav__link">
+      Рейнджер
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/rogue/" title="Специалист (авантюрист)" class="md-nav__link">
+      Специалист (авантюрист)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/shaman/" title="Шаман" class="md-nav__link">
+      Шаман
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/sorcerer/" title="Чародей (Sorcerer)" class="md-nav__link">
+      Чародей (Sorcerer)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/wizard/" title="Волшебник (маг)" class="md-nav__link">
+      Волшебник (маг)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/warlock/" title="Колдун (Warlock)" class="md-nav__link">
+      Колдун (Warlock)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-4" type="checkbox" id="nav-2-4">
+    
+    <label class="md-nav__link" for="nav-2-4">
+      Твердыни и последователи
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-4">
+        Твердыни и последователи
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/non-combat-followers/" title="Не бовые последователи" class="md-nav__link">
+      Не бовые последователи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/followers/" title="Последователи" class="md-nav__link">
+      Последователи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/knights/" title="Рыцари" class="md-nav__link">
+      Рыцари
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/strongholds/" title="Твердыни" class="md-nav__link">
+      Твердыни
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/strongholds-by-type/" title="Твердыни по типам" class="md-nav__link">
+      Твердыни по типам
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/villains/" title="Злодеи" class="md-nav__link">
+      Злодеи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/warfare/" title="Военное дело" class="md-nav__link">
+      Военное дело
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../combat-maneuvers/" title="Боевые маневры" class="md-nav__link">
+      Боевые маневры
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../fighting-styles/" title="Боевые стили" class="md-nav__link">
+      Боевые стили
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../languages/" title="Языки" class="md-nav__link">
+      Языки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../feats/" title="Навыки (feats)" class="md-nav__link">
+      Навыки (feats)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-9" type="checkbox" id="nav-2-9">
+    
+    <label class="md-nav__link" for="nav-2-9">
+      Заклинания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-9">
+        Заклинания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/item-enchanting-spells/" title="Зачарование предметов" class="md-nav__link">
+      Зачарование предметов
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/cantrips/" title="Кантрипы" class="md-nav__link">
+      Кантрипы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/spells-3rd-lvl/" title="3й круг заклинаний" class="md-nav__link">
+      3й круг заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/" title="Общий список" class="md-nav__link">
+      Общий список
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-10" type="checkbox" id="nav-2-10">
+    
+    <label class="md-nav__link" for="nav-2-10">
+      Снаряжение
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-10">
+        Снаряжение
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/" title="Снаряжение" class="md-nav__link">
+      Снаряжение
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/drugs/" title="Наркотики" class="md-nav__link">
+      Наркотики
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/herbalism/" title="Травы и гербализм" class="md-nav__link">
+      Травы и гербализм
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/monster-parts-harvesting/" title="Использование частей тел чудовищ" class="md-nav__link">
+      Использование частей тел чудовищ
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../magic-items/" title="Волшебные предметы" class="md-nav__link">
+      Волшебные предметы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../traps/" title="Ловушки" class="md-nav__link">
+      Ловушки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-activities/" title="Деятельность между приключениями" class="md-nav__link">
+      Деятельность между приключениями
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../additional_rules/" title="Дополнительные правила" class="md-nav__link">
+      Дополнительные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../expanded_rules/" title="Расширенные правила" class="md-nav__link">
+      Расширенные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../misc/" title="Разное" class="md-nav__link">
+      Разное
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Мультикампания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Мультикампания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/needs_organized_play/" title="Потребность в игротеке" class="md-nav__link">
+      Потребность в игротеке
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/shared_rules/" title="Правила общей кампании" class="md-nav__link">
+      Правила общей кампании
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/factions-renown-fame/" title="Фракции, известность, слава" class="md-nav__link">
+      Фракции, известность, слава
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/three-pillars-modified/" title="Модифицированные правила трех столбов" class="md-nav__link">
+      Модифицированные правила трех столбов
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../character-template/" title="Шаблон персонажа" class="md-nav__link">
+      Шаблон персонажа
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../location-template/" title="Шаблон местности, места" class="md-nav__link">
+      Шаблон местности, места
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../external-links/" title="Внешние ссылки" class="md-nav__link">
+      Внешние ссылки
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../playing-as-mage/" title="Играя магом" class="md-nav__link">
+      Играя магом
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8" type="checkbox" id="nav-8">
+    
+    <label class="md-nav__link" for="nav-8">
+      Противники
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-8">
+        Противники
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../drow-units/" title="Дроу" class="md-nav__link">
+      Дроу
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../elemental-evil-cults/" title="Культы стихийного зла" class="md-nav__link">
+      Культы стихийного зла
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9" type="checkbox" id="nav-9">
+    
+    <label class="md-nav__link" for="nav-9">
+      Файлы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-9">
+        Файлы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../files/Collvile's Player's Guide _ GM Binder.pdf" title="Руководство игрока по Вестмаршам Коллвила" class="md-nav__link">
+      Руководство игрока по Вестмаршам Коллвила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../files/Advanced Dicecloud Character Construction.pdf" title="Руководство по настройке персонажа в Dicecloud" class="md-nav__link">
+      Руководство по настройке персонажа в Dicecloud
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../files/DiceCloud Helper.xlsx" title="Помощник для Dicecloud" class="md-nav__link">
+      Помощник для Dicecloud
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../files/The Monster Harvester Handbook.pdf" title="Руководство Жнеца Чудовищ" class="md-nav__link">
+      Руководство Жнеца Чудовищ
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../files/Travelling Merchants.xlsx" title="Путешествующие торговцы" class="md-nav__link">
+      Путешествующие торговцы
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Содержание</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#patient-ambition" title="Patient Ambition" class="md-nav__link">
+    Patient Ambition
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shadows-on-societys-edge" title="Shadows on Society's Edge" class="md-nav__link">
+    Shadows on Society's Edge
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#a-path-of-their-own" title="A Path of Their Own" class="md-nav__link">
+    A Path of Their Own
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shade-classes" title="SHADE CLASSES" class="md-nav__link">
+    SHADE CLASSES
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shade-traits" title="Shade Traits" class="md-nav__link">
+    Shade Traits
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#subrace" title="Subrace." class="md-nav__link">
+    Subrace.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#independent-shade" title="Independent Shade" class="md-nav__link">
+    Independent Shade
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#netherese-shade" title="Netherese Shade" class="md-nav__link">
+    Netherese Shade
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/homerules/races/shade.md" title="Редактировать страницу" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <h1 id="shade">Shade<a class="headerlink" href="#shade" title="Permanent link">&para;</a></h1>
+<div class="codehilite"><pre><span></span>THE TRAIL OF FIVE DARKNESSES IS NO EASY PATH TO FOLLOW. YOU SAY YOU ARE READY TO TAKE YOUR OWN JOURNEY; TO SEE WHERE THE TRAIL ENDS? I CAN TELL YOU THIS-- THE PASSAGE TO IMMORTALITY IS UNIQUE TO THE INDIVIDUAL. MY EXPERIENCES ARE MY OWN, AS ARE MY FEARS AND MEMORIES OF THAT FATEFUL TIME. AND IF YOU EMERGE, CLINGING TO THE FRAGILE THREAD THAT IS LIFE, EXPECT NO COMFORT AND NO KINSHIP, FOR BY EMBARKING ON THIS QUEST YOU SEVER TIES WITH ANYONE YOU HAVE EVER LOVED. ARE YOU READY? ARE YOU TRULY PREPARED?
+
+--KHASUS, HIGH DARK OF FELLWARREN
+</pre></div>
+
+<p>Ambitious, ruthless, and paranoid, shades have traded part of their souls for a sliver of dark essence from another plane. It is believed that in most cases this pact is with dark powers in the Shadowfell, sometimes called the Plane of Shadow, but others make their pact with beings in the darkest depths of the Far Realm (known as &ldquo;the Far Shadow”) or even with deities from outer planar realms with a strong connection to the Underdark (such as Lolth). Even more so than the shadowborn natives of these realms of darkness, shades are gloom incarnate.</p>
+<p>The first shades in the Realms were citizens of the ancient wizardly empire of Netheril. Over two thousand years ago, the High Prince who ruled of the Netherese flying city of Thultanthar transported his entire city onto the Shadowfell in order to explore that dim and perilous plane. The Netherese who dwelled in the Shadowfell became known as the Shadovar. For thousands of years, Thultanthar—commonly known as the city of Shade—was lost to human knowledge, along with its inhabitants.</p>
+<p>The High Prince was also the most powerful wizard in the city, and he struck upon a ritual means of transforming himself and his most loyal followers into creatures of shadow. Known today in scholarly circles as the Trail of Five Darknesses, this arduous ritual is as likely to slay its practitioner outright—obliterating body and soul—as it is to grant the abillty to wield shadow magic. Many of the Shadovar became shades, though far from all—in those days, only the High Prince and his children knew the secret of the necessary ritual, and they were stingy with their favors, careful to only empower those who were sure to be loyal to them and their causes. Prospective candidates were stringently tested for ability, loyalty, and resourcefulness, and these devoted shades remained in the </p>
+<p>Shadowfell except when their masters ordered them elsewhere. During the absence of the Netherese, a rare few mortals in the Realms deciphered the knowledge of how to become a shade on their own, but hid their nature with their formidable gifts. Thus, even the existence of the race of shades was unknown for millennia.</p>
+<p>Then, in the year 1374 DR, the city of Thultanthar abruptly returned to Faerun, and for nearly a century, it soared above the deserts of Anauroch, land that was once a fertile part of the Empire of Netheril. Over the ensuing century, the Netherese sought the resurrection of their lost empire, conquering realms such as Sembia and making long war against the humans of the Dalelands and Cormyr as well as the elves of another reborn city, Myth Drannor. Finally, during a great battle in 1487 DR, Thultanthar was brought crashing down on Myth Drannor, and the resulting cataclysm returned both ancient cities to the ashes of history.</p>
+<p>Now, a fair number of shades walk the Realms, most Netherese in origin, but with many either no longer loyal to their fallen nation or having attained the Trail of Five Darknesses on their own. No matter what race, nation, or land one was first born into, each shade undergoes a dark rebirth that transforms them into a creature of stealth and secrecy who is caught between life and death. In taking on the twilight powers granted to shades, they also take on dark thoughts from world&rsquo;s beyond, creating an even darker disposition.</p>
+<p>Most shades began life as humans. Anyone who chooses to become a shade is reborn into shadow through a transformative ritual that ambient magic of shadow present in the world. This ritual is most survivable when performed at places where the boundaries between the Forgotten Realsm and darker realms are the thinnest, such as crossings to the Shadowfell.</p>
+<p>Shades resemble their original mortal selves, though they sacrifice their native vitality to the ritual that turns them into slender creatures of shadow. Their darkness-piercing eyes become orbs of dull black, dark gray, or purple. Their coloring takes on subdued hues, with most shades having pale skin and lank, black hair. Shades prefer dark, somber clothing of silk, suede, or supple leather, decorated with brass and iron. Their metal weapons and tools are coated with special oils that dull any sheen of reflection.</p>
+<p>Mortals cannot survive the Trail of Five Darknesses until adulthood There are no such things as young shades, and shades who marry produce normal offspring. The ritual also has a dramatic effect on longevity, doubling a shade&rsquo;s normal life span. Rumors abound of shades who eventually attain a level of power that allows them to stop aging altogether.</p>
+<p>Unbridled ambition and utter desperation are common reasons for a human to undertake the Trail of Five Darknesses, since the taint of shadow magic marks a shade as an outcast forever. However, a few shades deny these self-serving drives, striving to ensure that the true nature of their souls overcomes the shadowy taint of their chosen path. Rejecting their own kind, these shades seek the company of the common races.</p>
+<p>Almost always drawn to the life of an adventurer, such shades try to earn the trust of a close circle of friends. defending those comrades with the ruthlessness for which their kind is known. However, some decry this behavior as just another facet of the shades&rsquo; characteristic avarice, treating friends as personal possessions that must be kept safe at all costs. Shade adventurers are highly versatile, excelling in any calling where stealth and ties to dark otherworldly magic are advantages.</p>
+<h2 id="patient-ambition">Patient Ambition<a class="headerlink" href="#patient-ambition" title="Permanent link">&para;</a></h2>
+<p>The transformation Shades undergo creates a consistent sense of ambition for which their kind is known. No matter what justification inspires an individual to undertake the Trail of Five Darknesses, the conscious act of embracing the power of shadow changes that person. For many shades, having given up a portion of their own soul in the name of power means that no sacrifice is too great.</p>
+<p>Shades value restraint, poise, and patience. They bide their time in all things, keeping a low profile as they manipulate events to their advantage. Just as the Shadowfell&rsquo;s malaise can smother the spirits of mortal adventurers who venture into that dread plane, the sliver of shadow within each shade subdues emotion. A shade still feels love, hate, pride, despair, and the like, but he or she buries these feelings deep inside. A shade&rsquo;s smirk or frown carries as mnch weight as a halfling&rsquo;s laughter or an orc&rsquo;s frenzied roar.</p>
+<p>The few religious shades often see faith as an extension of their ambition. Havig made the ultimate sacrifice for power, they are often too proud to embrace the humility of serving a god. In some cases, however, they see divine devotion as a means to an end, a mutually beneficial arrangement with a powerful being. The shades of Netheril, for example, have devoted themselves to the goddess Shar, who preserved their race through centuries of exile.</p>
+<p>All shades are still more likely to be arcane spellcasters than clerics, however. Their transformation gives them a natural potential for sorcery, and having already made an otherworldly bargain for power once, doing so again to become a warlock is much easier. In fact, some shade warlocks attain their shadowy natures and eldritch spellcasting as part of the same pact. Among the Netherese shades, however, the traditions of wizardry are strong, and most of their spellcasters are wizards.</p>
+<h2 id="shadows-on-societys-edge">Shadows on Society&rsquo;s Edge<a class="headerlink" href="#shadows-on-societys-edge" title="Permanent link">&para;</a></h2>
+<p>The dark nature of their transformation places shades firmly outside the societies they arise from. The most social of their kind distrust all except their closest companions. Truly misanthropic shades embrace their darkness fully, seeing others as pawns to be exploited in the quest for power.</p>
+<p>In the mortal realm, a shade often takes up a life of wandering or lives as a social outcast on the fringes of humanoid society. It is common for shades to mask their true nature with magic or clever disguises, using their shadow powers as a screen against watchful eyes. In many </p>
+<p>cases, shades reject family or clan names from their past lives to take on the name of the shadow crossing where they undertook the Trail of F ive Darknesses ritual.</p>
+<p>For all their fierce independence and self-reliance, some shades feel a hunger for companionship driven by the emptiness of their fractured souls. Although such shades rarely become social creatures, they gravitate to strong allies, alongside whom they can prove themselves in battle. Such long¬term companions are typically the only ones who ever see a shade&rsquo;s true emotions, even as the shade demonstrates the full strength of his or her driven ruthlessness in those allies&rsquo; defense.</p>
+<p>Around crossings from Faerun to the Shadowfell, shades form communities that reflect the avaricious and brutal nature of their residents. Shades who choose to settle in the planes beyond rather than their homeworld are typically those who have strongly embraced the darkness in their souls. Their enclaves are built on a rigid caste structure in which shade nobles plot against each other in bloodthirsty political machinations that would tear other societies apart. In such communities, shades unattached to a noble house are treated as outcasts or used as pawns in attacks against rival nobles.</p>
+<h2 id="a-path-of-their-own">A Path of Their Own<a class="headerlink" href="#a-path-of-their-own" title="Permanent link">&para;</a></h2>
+<p>Unlike members of most other races, shades choose to become what they are. Some shades seek the Trail of F ive Darknesses out of pure ambition, seeing that path as a means of gaining power. Others sacrifice their soul to the shadow only under duress, perhaps to protect or rescue a loved one. For each shade character, it is important to determine whether this was a path they chose to follow freely, or if they see the shadow as a curse and a burden they must bear.</p>
+<p>Shades stand between life and death. A part of each shade&rsquo;s soul has already moved on to an otherworldly plane, foreshadowing the path all souls must take after death. Although shades still live, the shadow that fills them leaves their mortal emotions subdued and held in check. They are not given to rash action or sudden changes of plan, and do not rush into any situation where they have the option to first analyze the potential dangers.</p>
+<p>The strength of shadow is its ability to conceal, and shades take full advantage of their opponents&rsquo; lack of awareness to read their weaknesses. Only when the time is right do they strike, and they do so without warning and without leaving any loose ends.</p>
+<p>If shades have a unifying ethic, it is the notion of protecting what is theirs. The things each shade calls their own—their possessions, their knowledge, even their </p>
+<p>friends—are precious to them, and those who attempt to harm or steal what is theirs suffer harsh retribution. They defend their goals and their allies with the same extreme prejudice, and woe to any creature that underestimates their wrath.</p>
+<h2 id="shade-classes">SHADE CLASSES<a class="headerlink" href="#shade-classes" title="Permanent link">&para;</a></h2>
+<p>Hunger for power is a constant among shades. However, a shade&rsquo;s personal talents and moral bent determine the manner in which that power is pursued, and what he or she will do with it in the end. Shades can be of any class, but mostly pursue the ones below.</p>
+<p>**Fighters. **Fighters of the shade race almost always pursue the battle master martial archetype, following that path for the control and leadership it promises, though most are wise enough to respect the independence of their own close companions. A shade fighter becomes an adventurer to gain personal power, though he or she can undertake any number of lesser goals in pursuit of that power.</p>
+<p><strong>Rogue.</strong> Shade rogues are consummate spies, clinging to the shadows with a competence matched by few members of the common races. No matter how else they choose to ply their trade, shade rogues uniformly seek to steal information they can use to their advantage. Such shades will often join a thieves&rsquo; guild or similar organization, sometimes for years, just to learn their secrets, then vanish to serve only themselves—or take their place as the group&rsquo;s leader</p>
+<p><strong>Warlock.</strong> The warlock&rsquo;s path is a tempting one for shades, who take up the pact as a means of augmenting their own intrinsic power. Such warlocks see their pact as an extension of the Trail of Five Darknesses, refusing to acknowledge their subservience to an otherworldly master.</p>
+<p><strong>Wizard.</strong> Shade wizards favor necromancy and illusion, the schools of magic closely associated with the power of shadow. They may also learn the arcane tradition of nethermancy, an obscure branch of the Art dedicated to controlling shadow magic itself. Shade wizards create sanctums in the Shadowfell once they master the ways of planar travel, using that plane as a base for their acquisition of more powerful arcane magic. </p>
+<h2 id="shade-traits">Shade Traits<a class="headerlink" href="#shade-traits" title="Permanent link">&para;</a></h2>
+<p>Your shade character has a number of traits in common with all other shades.</p>
+<p>Ability Score Increase. Your Dexterity score increases by 2.</p>
+<p>Age. A shade ages at half the speed a normal member of their previous race would.</p>
+<p>Alignment. Most shades are Lawful Neutral, Neutral, or Lawful Evil. In general, they undertake the Trail of Five Darknesses for power or ambition, and its effects mute their normal mortal emotions even more. However, even good-aligned shades must fight to retain their compassion for others against the cold taint of shadow. A shade&rsquo;s dispassion also means that few are of chaotic alignment.</p>
+<p>Size. Shades are usually a bit taller and slimmer than they were in their previous lives. Your size is Medium.</p>
+<p>Speed. Your base walking speed is 30 feet.</p>
+<p><strong>Darkvision.</strong> You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray.</p>
+<p><strong>Fragile Mortality.</strong> Whenever you regain Hit Dice at the end of a long rest, you must make a DC 15 Constitution saving throw. If you fail, you lose a number of Hit Dice equal to half your proficiency bonus (rounded down), as if they had already been spent.</p>
+<p><strong>Hidden Step.</strong> As a bonus action, you can magically teleport, along with any equipment you are wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space you are leaving and the space you are entering must be in dim light or darkness. After this teleportation, you turn invisible until the start of your next turn, or until you make an attack roll or force someone to make a saving throw. Once you use this trait, you can&rsquo;t use it again until you finish a short or long rest.</p>
+<p><strong>One with Shadow.</strong> You have resistance against necrotic damage.</p>
+<p>**Practiced Sneak. **You are proficient with the Stealth skill.</p>
+<p><strong>Languages.</strong> You can speak, read, and write Common and Netherese.</p>
+<h2 id="subrace">Subrace.<a class="headerlink" href="#subrace" title="Permanent link">&para;</a></h2>
+<p>Shades from the Netherese city of Thultanthar share certain traits that independent shades do not. Choose one of the described types as your subrace.</p>
+<h2 id="independent-shade">Independent Shade<a class="headerlink" href="#independent-shade" title="Permanent link">&para;</a></h2>
+<p>As a shade who attained the Trail of Five Darknesses on your own, you maintain a determined self-reliance when among your own kind, because you know all too well the greed and duplicity your race is capable of. However, shades also believe in strength in numbers. and as such they congregate in settlements close to shadow crossings, both in Faerun and the worlds beyond. Whether you are part of such a community or walk among the common races, you develop your innate shadow magic to sharpen your natural gift for stealth to a preternatural level, allowing you to walk unseen nearly whenever you wish.</p>
+<p><strong>Ability Score Increase.</strong> Your Charisma score increases by 1.</p>
+<p><strong>Shade Skill.</strong> You gain proficiency in your choice of one of the Deception, Investigation, or Sleight of Hand skills.</p>
+<p><strong>Swift as Shadows.</strong> You learn the shifting shadow* cantrip. If the space you end up in after casting <strong>shifting shadow</strong> is not in direct sunlight, that space is blurred and concealed by shadow magic, making it heavily obscured until the end of your next turn.</p>
+<p><strong>Twilight Cantrip</strong>. Whenever you use your action to cast a cantrip during your turn, you can can take the Hide action as a bonus action that turn.</p>
+<h2 id="netherese-shade">Netherese Shade<a class="headerlink" href="#netherese-shade" title="Permanent link">&para;</a></h2>
+<p>The citizens of the lost city of Thultanthar lived to serve the High Prince and their fellow Shadovars. Most of those who became shades grew up as loyal champions of the High Prince&rsquo;s regime. Their personal agendas seldom conflicted with the purposes of Shade&rsquo;s rulers, since they became shades through obedience. Now that Thultanthar has fallen, the Netherese shades not destroyed in that last battle are set free in the world. Most seek to find other survivors and figure out a scheme to reclaim their nation&rsquo;s greatness, but a few have taken the loss of their masters as an opportunity to walk their own path in the Realms. Instead of shackling their deep ambitions to the cause of their betters, they are now free to advance as they wish.</p>
+<p>Most Netherese shades consider themselves superior to all nonshades around them. After all, they were raised from birth to believe status as a shade is was the reward given to the most worthy. Such shades also find it difficult to trust those who are not Shadovar, but necessity forces them to make new alliances. For their part, Faerunians find the attire, customs, speech, and equipment of most Shadovars oddly dated. After all, until a century ago their culture was cut off from the rest of the world for over two thousand years. Shadovar adventurers often wear ornate robes or intricately filligreed breastplates, and for weapons they favor similarly-styled staves or halberds.</p>
+<p><strong>Ability Score Increase.</strong> Your Intelligence score increases by 1.</p>
+<p><strong>Netherese Cantrip</strong>. You know one Evocation, Illusion, or Necromancy cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.</p>
+<p><strong>Shadovar Education.</strong> You are proficient in Arcana.</p>
+<p><strong>Shar&rsquo;s Bargain.</strong> When you cast a cantrip that has a casting time of 1 action, you can choose to inflict necrotic damage on yourself equal to your proficiency bonus to change the casting time to 1 bonus action for this casting. This damage ignores resistance and immunity.</p>
+<p>Once you use this trait, you cannot do so again until you finish a short or long rest. </p>
+<h1 id="life-among-the-shadovar">LIFE AMONG THE SHADOVAR<a class="headerlink" href="#life-among-the-shadovar" title="Permanent link">&para;</a></h1>
+<p>The society of the lost city of Thultanthar fit into a strictly controlled hierarchy. The High Prince sat at the top of the hierarchy&rsquo;s pyramid, with his sons, the Twelve Princes of Shade, right below him. Beneath them stood the arcanists (Shadovar sorcerers, warlocks, and wizards), with the military next down in importance. At the base of the pyramid, there were four levels of commoners.</p>
+<p>In descending order, these were the crafters (skilled laborers), the merchants (those who distributed necessary goods throughout the City of Shade and imported and exported needed materials), the servants (those who worked as personal servants to people above them), and the slaves (who did the worst of the society&rsquo;s grunt work).</p>
+<p>At 13 years old, the age of ascension, every citizen was tutored in basic spellcraft and subjected to a battery of tests to determine how their skills could best serve the Thultanthar. Then, at the age of majority (1 8 years old) each person embarked upon the job for which they were trained. Unless the person suddenly displayed a new aptitude, they worked at their designated career until the day they died.</p>
+<p>Those citizens who proved to be especially important and loyal were transformed into shades. This was one of the greatest honors a Shadovar can receive. Only a small percentage of Shadovars were transformed, and commoners and low-ranking military officers were never chosen for transformation. Those, even these shades were selected for their loyalty and obedience, they were also those who had the ambition to rise to the pinnacle of their society.</p>
+<p>In Thultanthar, all Shadovars worshipped Shar as their patron. The city’s Netherese inhabitants worshiped this ancient goddess even before they ventured into the Shadowfell. Once they made the transition, they learned to rely upon her like no other. All other churches or chapels in the City of Shade were converted over to the worship of Shar. Still, shade clerics were more loyal to the High Prince than to Shar herself. Their worship of her was a means to an end. It remains to be seen how loyal their faith remains now.</p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../../character-creation/" title="Правила по созданию персонажей" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Назад
+                </span>
+                Правила по созданию персонажей
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../feyri/" title="Фейри (демонфеи)" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Вперед
+                </span>
+                Фейри (демонфеи)
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2019 Palant и команда Киборгов и Чародеев
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/palikhov" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/AVPalikhov" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://linkedin.com/in/avpalikhov" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+          
+            
+              
+              
+                <script src="../../../assets/javascripts/lunr/lunr.ru.js"></script>
+              
+            
+          
+            
+              
+              
+            
+          
+          
+            <script src="../../../assets/javascripts/lunr/lunr.multi.js"></script>
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>

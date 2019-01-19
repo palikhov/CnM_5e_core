@@ -1,3 +1,95 @@
+# Stalker
+```
+OF COURSE WE CAN’T TRUST HIM, HE IS THE MURDERER, AFTER ALL. WAIT, YOU DIDN’T KNOW?
+
+WELL, I CERTAINLY I WASN’T TRYING TO WITHHOLD THAT INFORMATION, I JUST THOUGHT THE WAY HE HELD HIS GOBLET MADE IT OBVIOUS.
+
+--GWENDOLYN HOLMWOOD LAMPLIGHTER INSPECTOR-GENERAL
+```
+
+At first glance, you seem hopelessly out of place in an adventuring party, looking instead like a drab town dweller who has wandered into danger by mistake. You maintain a soft-spoken, rather nondescript demeanor, but this is only a facade, concealing keen senses, a shrewd mind, and remarkable insight. Only your closest friends realize the extent of your expertise in intelligence gathering. And that's just the way you like it.
+
+Stalkers serve as investigators, spies, informants, interrogators, and vigilantes. Unlike other rangers, you are just as at home in a crowded metropolis as you are in a wilderness setting.
+
+Like all rangers, you are a master of the hunt, but when your prey can be as intelligent, sophisticated, or devious as yourself, hunting them is a far more complex task. You are experienced in solving intricate mysteries and bringing justice to the masterminds behind ambitious crimes. As comfortable stalking your quarry in a bustling city as a savage wilderness, you are no mere urban ranger, but a master of observation, deduction, and interrogation.
+
+A ranger with the Stalker archetype has the kinds of perceptive and investigative skills normally reserved for a rogue, and the sort of disciplined intellect nurtured by wizards or bards. They specialize in studying the appearance and other clues they can discern in a particular criminal or other opponent, gaining decisive advantages in bringing that specific foe to justice.
+
+## STALKER MULTICLASSING
+
+```
+If you are using the optional multiclassing rules, rangers of this archetype gain a special benefit: they can substitute their Intelligence score for their Wisdom score when determining if they can be multiclass rangers.
+```
+
+## Accurate Mind
+
+When you choose this martial archetype at 3rd level, you gain proficiency in the Insight, Investigation, and Perception skills. If you are already proficient in one or more of these skills, you may substitute proficiency in any other Intelligence- or Wisdom-based skill for any skill in which you are already proficient. You add double your proficiency bonus to your passive Perception, passive Investigation, and passive Insight scores, instead of your normal proficiency bonus.
+
+In addition, when you gain this feature, you may choose to make Intelligence your ranger spellcasting ability score, instead of Wisdom, if you wish. 
+
+## Detect & Deduce
+
+At 3rd level, your deductive insights are unmatched. You gain three detection dice, which are d6s. As long as you retain at least one detection die, whenever you make an Intelligence (Investigation), Wisdom (Insight), or Wisdom (Perception) check, you can roll one your detection die and add the number rolled to your check. This use of a detetction die does not expend it.
+
+If you roll an ability check that includes your detection die roll, after you see the number rolled, but before the DM determines the result, you can expend one detection die to grant an additional +10 bonus to that roll. An expended detection die is regained whenever you finish a short or long rest.
+
+At 9 th level, your detection dice turn into d8s. At 13 th level, they turn into d10s. At 17th level, they turn into d12s.
+
+## Stalker's Mark
+
+Also at 3rd level, you can focus all your deductive insights on a single target and analyze how they can be defeated.
+
+As a bonus action, you can make a Wisdom (Insight) check against a creature you can see that isn't incapacitated, opposed by the target's Charisma (Deception) check A creature that is your favored enemy has disadvantage on this opposed roll. If you succeed, you gain the following benefits against that creature:
+
+* You gain a bonus to damage rolls against the creature. The bonus equals your Intelligence or Wisdom bonus (whichever is higher, minimum 1).
+
+* Any attack roll you make against the creature is a critical hit on a roll of 19 or 20 on the d20.
+
+* If you reduce the creature to 0 hit points with any attack roll (melee or ranged), you can choose to knock the creature out instead of killing it. Make this choice the instant damage is dealt. A knocked out creature falls unconscious and is stable at 0 hit points.
+
+* If you retain at least one of your detection dice, when you make Wisdom (Insight) and Intelligence checks to discern information about that creature, or Charisma checks to influence them, you can roll your detection die and add the number rolled to your check. This use of a detection die does not expend it.
+
+* If the creature can hear and see you, as an action, you can attempt to instantly convince the creature not to act against your authority. You can expend a detection die and force the creature to make a Charisma saving throw. The DC equals 10 + your choice of your Wisdom or Intelligence modifier (if you are proficient in the Intimidation skill, you add your proficiency bonus as well). The creature has disadvantage on its saving throw if it has been reduced to half its hit points or fewer. If the creature fails, its speed is reduced by half, and every time it makes an attack roll against you or any ally you choose to include in this effect, it takes psychic damage equal to your proficiency bonus + your detection die roll. However, if you or any ally you included in this effect attack the creature, cast a spell that affects it, or compel it to make a saving throw, this effect ends at once.
+
+These benefits only last for 1 minute. You can only gain these benefits against one creature at a time; if you use this feature on a new creature, any benefits you've gained against any other creature from this feature end immediately. You can only use this feature while you retain at least one detection die.
+
+If you wish, when you use this feature on a creature as a bonus action, you can cast the hunter's mark spell on the creature as part of the same bonus action, using a ranger spell slot to cast that spell as you normally would.
+
+## Penetrating Deduction
+
+At 7th level, when you use your Stalker's Mark feature on a creature you have spent at least 1 minute interacting with or observing outside of combat during the past hour, you have advantage on the Wisdom (Insight) check. In addition, when you use your Stalker's Mark feature on a creature, you also learn something about them. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
+
+* An ability score of your choice
+
+* Armor Class
+
+* Current hit points
+
+* Total class levels (if any)
+
+* Levels in a particular class (if any)
+
+* At the DM's option, you might also realize you know a piece of the creature's history or one of its personality traits, if it has any.
+
+## Urban Hunter
+
+At 7th level, when you are within 1,000 ft. of any settlement that has a population of 100 or more, you gain all the benefits of being within your favored terrain.
+
+## Twenty Moves Ahead
+
+At 11th level, you can see through opponents' deceptions and anticipate their actions. All Charisma (Deception) checks against you are made at disadvantage. If a creature that is the target of your Stalker's Mark hits you with an attack roll, you can expend one of your detection dice as a reaction. You gain a bonus to your Armor Class against the triggering attack equal to your detection die roll. If the attack still hits, you have resistance against the damage it inflicts. If the attack misses, that creature provokes an opportunity attack from you. would.
+
+## Improved Detection
+
+Beginning at 11th level, you gain a fourth detection die. At 15th level, you gain a fifth detection die, and at 18th level, you gain a sixth. would.
+
+## Reliable Deduction
+
+Beginning at level, when a creature that you have successfully used your Stalker's Mark feature on within the last hour is also the target of your hunter's mark spell, you have advantage on attack rolls against that creature.
+
+In addition, whenever you roll initiative and have no detection dice remaining, you regain 1 detection die.
+
+
 # Revised Ranger
 
 Favored Enemy Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.

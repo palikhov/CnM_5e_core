@@ -13,6 +13,9 @@ nav:
     - Главная: index.md
     - Домашние правила:
       - Правила по созданию персонажей: homerules/character-creation.md
+      - Расы:
+        - Шейд: homerules\races\shade.md
+        - Фейри (демонфеи): homerules\races\feyri.md
       - Изменения системы классов и самих классов:
         - Общее: homerules/classes/index.md
         - Классы: homerules/classes/classes.md
@@ -21,22 +24,36 @@ nav:
         - Древние колдуны: homerules/classes/elder-sorcerer.md
         - Боец (воин): homerules/classes/fighter.md
         - Мистик: homerules/classes/mystic.md
+        - Паладин: homerules\classes\paladin.md
         - Рейнджер: homerules/classes/ranger-rework.md
         - Специалист (авантюрист): homerules/classes/rogue.md
         - Шаман: homerules/classes/shaman.md
+        - Чародей (Sorcerer): homerules\classes\sorcerer.md
         - Волшебник (маг): homerules/classes/wizard.md
+        - Колдун (Warlock): homerules\classes\warlock.md
       - Твердыни и последователи:
         - Общее: homerules/stronghold_and_followers/index.md  
         - Не бовые последователи: homerules/stronghold_and_followers/non-combat-followers.md
+        - Последователи: homerules\stronghold_and_followers\followers.md
+        - Рыцари: homerules\stronghold_and_followers\knights.md
         - Твердыни: homerules/stronghold_and_followers/strongholds.md
+        - Твердыни по типам: homerules\stronghold_and_followers\strongholds-by-type.md
         - Злодеи: homerules/stronghold_and_followers/villains.md
         - Военное дело: homerules/stronghold_and_followers/warfare.md
       - Боевые маневры: homerules/combat-maneuvers.md
       - Боевые стили: homerules/fighting-styles.md
       - Языки: homerules/languages.md
       - Навыки (feats): homerules/feats.md
-      - Заклинания: homerules/spells.md
-      - Снаряжение: homerules/equipment.md
+      - Заклинания: 
+          - Зачарование предметов: homerules\spells\item-enchanting-spells.md
+          - Кантрипы: homerules\spells\cantrips.md
+          - 3й круг заклинаний: homerules\spells\spells-3rd-lvl.md
+          - Общий список: homerules/spells.md
+      - Снаряжение: 
+        - Снаряжение: homerules/equipment.md
+        - Наркотики: homerules\equipment\drugs.md
+        - Травы и гербализм: homerules\equipment\herbalism.md
+        - Использование частей тел чудовищ: homerules\equipment\monster-parts-harvesting.md
       - Волшебные предметы: homerules/magic-items.md
       - Ловушки: homerules/traps.md
       - Деятельность между приключениями: homerules\downtime-activities.md

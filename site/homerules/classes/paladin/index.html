@@ -1,0 +1,2050 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.">
+      
+      
+      
+        <meta name="author" content="Антон Палихов aka Palant">
+      
+      
+        <meta name="lang:clipboard.copy" content="Копировать в буфер">
+      
+        <meta name="lang:clipboard.copied" content="Скопировано в буфер">
+      
+        <meta name="lang:search.language" content="en, ru, uk">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Совпадений не найдено">
+      
+        <meta name="lang:search.result.one" content="Найдено 1 совпадение">
+      
+        <meta name="lang:search.result.other" content="Найдено # совпадений">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Паладин - D&D Palant edition</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../../../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#oath-of-the-weave" tabindex="1" class="md-skip">
+        Перейти к содержанию
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../../.." title="D&D Palant edition" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">library_books</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                D&D Palant edition
+              </span>
+              <span class="md-header-nav__topic">
+                Паладин
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Начните печатать для поиска
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+  
+
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../../.." title="Главная" class="md-tabs__link">
+        Главная
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../character-creation/" title="Домашние правила" class="md-tabs__link md-tabs__link--active">
+          Домашние правила
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../../shared_campaign/" title="Мультикампания" class="md-tabs__link">
+          Мультикампания
+        </a>
+      
+    </li>
+  
+
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../../drow-units/" title="Противники" class="md-tabs__link">
+          Противники
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../../files/Collvile's Player's Guide _ GM Binder.pdf" title="Файлы" class="md-tabs__link">
+          Файлы
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../../.." title="D&D Palant edition" class="md-nav__button md-logo">
+      
+        <i class="md-icon">library_books</i>
+      
+    </a>
+    D&D Palant edition
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../.." title="Главная" class="md-nav__link">
+      Главная
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
+    
+    <label class="md-nav__link" for="nav-2">
+      Домашние правила
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Домашние правила
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../character-creation/" title="Правила по созданию персонажей" class="md-nav__link">
+      Правила по созданию персонажей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-2" type="checkbox" id="nav-2-2">
+    
+    <label class="md-nav__link" for="nav-2-2">
+      Расы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-2">
+        Расы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../races/shade/" title="Шейд" class="md-nav__link">
+      Шейд
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../races/feyri/" title="Фейри (демонфеи)" class="md-nav__link">
+      Фейри (демонфеи)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-3" type="checkbox" id="nav-2-3" checked>
+    
+    <label class="md-nav__link" for="nav-2-3">
+      Изменения системы классов и самих классов
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-3">
+        Изменения системы классов и самих классов
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/" title="Классы" class="md-nav__link">
+      Классы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../arcanis-work/" title="Классы из Арканиса" class="md-nav__link">
+      Классы из Арканиса
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../barbarian/" title="Варвар" class="md-nav__link">
+      Варвар
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../elder-sorcerer/" title="Древние колдуны" class="md-nav__link">
+      Древние колдуны
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../fighter/" title="Боец (воин)" class="md-nav__link">
+      Боец (воин)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../mystic/" title="Мистик" class="md-nav__link">
+      Мистик
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Паладин
+      </label>
+    
+    <a href="./" title="Паладин" class="md-nav__link md-nav__link--active">
+      Паладин
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Содержание</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#tenets-of-the-weave" title="Tenets of the Weave" class="md-nav__link">
+    Tenets of the Weave
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#oath-spells" title="Oath Spells" class="md-nav__link">
+    Oath Spells
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#channel-divinity" title="Channel Divinity" class="md-nav__link">
+    Channel Divinity
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#spellshatter" title="Spellshatter" class="md-nav__link">
+    Spellshatter
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#arcane-cantrips" title="Arcane Cantrips" class="md-nav__link">
+    Arcane Cantrips
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#aegis-of-blue-flame" title="Aegis of Blue Flame" class="md-nav__link">
+    Aegis of Blue Flame
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mystic-champion" title="Mystic Champion" class="md-nav__link">
+    Mystic Champion
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#living-spellfire" title="Living Spellfire" class="md-nav__link">
+    Living Spellfire
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#knights-of-the-weave-in-faerun" title="KNIGHTS OF THE WEAVE IN FAERUN" class="md-nav__link">
+    KNIGHTS OF THE WEAVE IN FAERUN
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ranger-rework/" title="Рейнджер" class="md-nav__link">
+      Рейнджер
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../rogue/" title="Специалист (авантюрист)" class="md-nav__link">
+      Специалист (авантюрист)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../shaman/" title="Шаман" class="md-nav__link">
+      Шаман
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../sorcerer/" title="Чародей (Sorcerer)" class="md-nav__link">
+      Чародей (Sorcerer)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../wizard/" title="Волшебник (маг)" class="md-nav__link">
+      Волшебник (маг)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../warlock/" title="Колдун (Warlock)" class="md-nav__link">
+      Колдун (Warlock)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-4" type="checkbox" id="nav-2-4">
+    
+    <label class="md-nav__link" for="nav-2-4">
+      Твердыни и последователи
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-4">
+        Твердыни и последователи
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/non-combat-followers/" title="Не бовые последователи" class="md-nav__link">
+      Не бовые последователи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/followers/" title="Последователи" class="md-nav__link">
+      Последователи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/knights/" title="Рыцари" class="md-nav__link">
+      Рыцари
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/strongholds/" title="Твердыни" class="md-nav__link">
+      Твердыни
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/strongholds-by-type/" title="Твердыни по типам" class="md-nav__link">
+      Твердыни по типам
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/villains/" title="Злодеи" class="md-nav__link">
+      Злодеи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../stronghold_and_followers/warfare/" title="Военное дело" class="md-nav__link">
+      Военное дело
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../combat-maneuvers/" title="Боевые маневры" class="md-nav__link">
+      Боевые маневры
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../fighting-styles/" title="Боевые стили" class="md-nav__link">
+      Боевые стили
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../languages/" title="Языки" class="md-nav__link">
+      Языки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../feats/" title="Навыки (feats)" class="md-nav__link">
+      Навыки (feats)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-9" type="checkbox" id="nav-2-9">
+    
+    <label class="md-nav__link" for="nav-2-9">
+      Заклинания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-9">
+        Заклинания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/item-enchanting-spells/" title="Зачарование предметов" class="md-nav__link">
+      Зачарование предметов
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/cantrips/" title="Кантрипы" class="md-nav__link">
+      Кантрипы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/spells-3rd-lvl/" title="3й круг заклинаний" class="md-nav__link">
+      3й круг заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/" title="Общий список" class="md-nav__link">
+      Общий список
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-10" type="checkbox" id="nav-2-10">
+    
+    <label class="md-nav__link" for="nav-2-10">
+      Снаряжение
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-10">
+        Снаряжение
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/" title="Снаряжение" class="md-nav__link">
+      Снаряжение
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/drugs/" title="Наркотики" class="md-nav__link">
+      Наркотики
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/herbalism/" title="Травы и гербализм" class="md-nav__link">
+      Травы и гербализм
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/monster-parts-harvesting/" title="Использование частей тел чудовищ" class="md-nav__link">
+      Использование частей тел чудовищ
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../magic-items/" title="Волшебные предметы" class="md-nav__link">
+      Волшебные предметы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../traps/" title="Ловушки" class="md-nav__link">
+      Ловушки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-activities/" title="Деятельность между приключениями" class="md-nav__link">
+      Деятельность между приключениями
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../additional_rules/" title="Дополнительные правила" class="md-nav__link">
+      Дополнительные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../expanded_rules/" title="Расширенные правила" class="md-nav__link">
+      Расширенные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../misc/" title="Разное" class="md-nav__link">
+      Разное
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Мультикампания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Мультикампания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/needs_organized_play/" title="Потребность в игротеке" class="md-nav__link">
+      Потребность в игротеке
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/shared_rules/" title="Правила общей кампании" class="md-nav__link">
+      Правила общей кампании
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/factions-renown-fame/" title="Фракции, известность, слава" class="md-nav__link">
+      Фракции, известность, слава
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/three-pillars-modified/" title="Модифицированные правила трех столбов" class="md-nav__link">
+      Модифицированные правила трех столбов
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../character-template/" title="Шаблон персонажа" class="md-nav__link">
+      Шаблон персонажа
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../location-template/" title="Шаблон местности, места" class="md-nav__link">
+      Шаблон местности, места
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../../external-links/" title="Внешние ссылки" class="md-nav__link">
+      Внешние ссылки
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../playing-as-mage/" title="Играя магом" class="md-nav__link">
+      Играя магом
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8" type="checkbox" id="nav-8">
+    
+    <label class="md-nav__link" for="nav-8">
+      Противники
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-8">
+        Противники
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../drow-units/" title="Дроу" class="md-nav__link">
+      Дроу
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../elemental-evil-cults/" title="Культы стихийного зла" class="md-nav__link">
+      Культы стихийного зла
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9" type="checkbox" id="nav-9">
+    
+    <label class="md-nav__link" for="nav-9">
+      Файлы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-9">
+        Файлы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../files/Collvile's Player's Guide _ GM Binder.pdf" title="Руководство игрока по Вестмаршам Коллвила" class="md-nav__link">
+      Руководство игрока по Вестмаршам Коллвила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../files/Advanced Dicecloud Character Construction.pdf" title="Руководство по настройке персонажа в Dicecloud" class="md-nav__link">
+      Руководство по настройке персонажа в Dicecloud
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../files/DiceCloud Helper.xlsx" title="Помощник для Dicecloud" class="md-nav__link">
+      Помощник для Dicecloud
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../files/The Monster Harvester Handbook.pdf" title="Руководство Жнеца Чудовищ" class="md-nav__link">
+      Руководство Жнеца Чудовищ
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../files/Travelling Merchants.xlsx" title="Путешествующие торговцы" class="md-nav__link">
+      Путешествующие торговцы
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Содержание</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#tenets-of-the-weave" title="Tenets of the Weave" class="md-nav__link">
+    Tenets of the Weave
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#oath-spells" title="Oath Spells" class="md-nav__link">
+    Oath Spells
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#channel-divinity" title="Channel Divinity" class="md-nav__link">
+    Channel Divinity
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#spellshatter" title="Spellshatter" class="md-nav__link">
+    Spellshatter
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#arcane-cantrips" title="Arcane Cantrips" class="md-nav__link">
+    Arcane Cantrips
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#aegis-of-blue-flame" title="Aegis of Blue Flame" class="md-nav__link">
+    Aegis of Blue Flame
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mystic-champion" title="Mystic Champion" class="md-nav__link">
+    Mystic Champion
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#living-spellfire" title="Living Spellfire" class="md-nav__link">
+    Living Spellfire
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#knights-of-the-weave-in-faerun" title="KNIGHTS OF THE WEAVE IN FAERUN" class="md-nav__link">
+    KNIGHTS OF THE WEAVE IN FAERUN
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/homerules/classes/paladin.md" title="Редактировать страницу" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <h1 id="oath-of-the-weave">Oath of the Weave<a class="headerlink" href="#oath-of-the-weave" title="Permanent link">&para;</a></h1>
+<div class="codehilite"><pre><span></span>The Weave is the lifeblood of Faerun, and I would sacrifice my own life if it meant she would persevere.
+
+--Elos Crownsilver, Guardian of the Weave
+</pre></div>
+
+<p>Many deities have worshipers who are paladins, promoting law and good across Faerun with divine might, but those who swear this oath draw additional strength from the Weave itself. They are most often known as Knights of the Weave, but also as swordmages, arcane defenders, or mage knights. Distinct from the worship of Mystra, Azuth, or any other particular god, members of this mystic order are sacred defenders whose faith leads them to cherish the Weave like a fine wine, knowing that its existence enriches all of Faerun.</p>
+<p>You swore this oath because you love the feel of magic flowing through you, whether in casting a spell, using a magic item, or channeling the raw power of magic. You see dead magic areas as the Weave&rsquo;s missing limbs and wild magic areas as dangerous cancers within the Weave&rsquo;s body. Nothing gives you more joy than seeing the light die in the eyes of an evil spellcaster. The Weave is your friend, your lover, your armor, and your bright shining sword.</p>
+<p>You drink deeply of the power of the arcane, using that energy to extend its reach, and utterly smash those who would hurt the object of your love.</p>
+<p>This oath binds one who swears it to spend endless hours practicing their special techniques, combining magic with a paladin&rsquo;s martial mastery and other powers to protect the Weave as well as vulnerable people and places. The Oath of the Weave places you on a path of constant discipline and training. Your blade not only bites with steel and holy wrath, but pulses with fire, lightning, frost, thunder, or sheer eldritch energy. Magical barriers of force swirl around swordmages, protecting them from harm as they defend their allies and unleash magical fury against their foes.</p>
+<p>Nothing is more important to you than magic&rsquo;s continued existence. You likely worship a god whose portfolio includes magic, knowledge, wisdom, or mysticism—which includes a wide selection of deities, from Mystra, Azuth, Savras, and many elven and gnomish gods to Selune, Isis, Deneir, and others—and serve your deity by guarding temples and questing for lost magical troves.</p>
+<p>Among those who focus on the protective disciplines of this oath—who often refer to it by the alternate name “the Oath of the Aegis” and prioritize personal loyalty and defense even above the wonders of the Weave itself—gods associated with loyalty and guardianship are favored as well, such as Helm, Torm, or Tyr. Those with darker hearts often revere Shar, regarding their unusual skills as a secret art to be kept hidden from the uninitiated.</p>
+<p>Knights of the Weave are less likely to wear heavy armor than other paladins, but few eschew armor entirely. Most paladins who swear this oath are influenced by the elven roots of magical swordplay, favoring armor with silver or gold filigree and graceful etching, often worn beneath a colorful tabard. However, some other races are also known to have their own separate, well-developed swordmage traditions. Paladins of the rare genasi race often swear the Oath of the Weave, basing their iconography and practices on the elements. The swordmages of the other-worldly githyanki are also infamous across many planes.</p>
+<p>Although you study powerful magic, most of what you know relates to enhancing your fighting abilities and your place is in the thick of battle. Your power comes from pure magic, and eventually you develop increased ability to use magic, counter hostile magic, and defeat enemy spellcasters. Over time, you master the mysteries of spellfire—the raw stuff of magic, energy that often manifests as blue flame—which you use for defense and to empower yourself in battle. While not capable of the power and control of a natural born user of spellfire, Knights of the Weave are able to use it to break enemy spells, and later on they master damaging forms of spellfire which they can use to great effect on allies and foes.</p>
+<h2 id="tenets-of-the-weave">Tenets of the Weave<a class="headerlink" href="#tenets-of-the-weave" title="Permanent link">&para;</a></h2>
+<p><strong>Learning and Lore</strong>. Knowledge is the flickering candle at the shore of an ocean of darkness. Keep that light burning, despite the rising tides of time and ignorance. Recover lost artifacts and magical items. Never stop learning.</p>
+<p><strong>Diligence</strong>. Train every day. Just as your blade requires sharpening before every battle, your magical and martial prowess must be honed by relentless practice. Magic is a supreme privilege, and should be approached with caution and respect.</p>
+<p><strong>Guardianship</strong>. Those who use magic for evil ends often prey upon the weak. Whether you&rsquo;ve sworn an oath of guardianship or merely wandered into the path of such predation, you know the safety of any ally or innocent in your presence is your personal responsibility. If the choice is between harm coming to you or to the subject of your protection, you take the blow yourself.</p>
+<p><strong>Unbound Arcana</strong>. Magic manifests in countless incarnations. Go forth and seek them all. Learn from the old, and devise the new, but whatever you do, explore magic in all it&rsquo;s myriad wonders.</p>
+<h2 id="oath-spells">Oath Spells<a class="headerlink" href="#oath-spells" title="Permanent link">&para;</a></h2>
+<p>You gain Oath Spells at the Paladin levels listed.</p>
+<p>Oath of the Weave Spells</p>
+<h2 id="channel-divinity">Channel Divinity<a class="headerlink" href="#channel-divinity" title="Permanent link">&para;</a></h2>
+<p>When you take this oath at 3<sup>rd</sup> level, you gain the following two Channel Divinity options.</p>
+<p><strong>Spellfire Blade.</strong> You can use your Channel Divinity to enhance weapon attacks. As a bonus action, you infuse your weapon with arcane energy for one minute. The next time during that minute that you hit a target with an attack that is part of the action used to cast a cantrip, the target you hit with the attack takes extra radiant damage in addition to any other effects of that hit. The extra damage equals 2d8 + your paladin level, and the next time the the target tries to cast a spell before the end of its next turn, it must make a Constitution saving throw against your paladin spellcasting DC. On a failed save, the spell fails and has no effect.</p>
+<p><strong>Spellfire Shield.</strong> When you make a successful saving throw against a spell, or a spell attack misses you, as a reaction you can use your Channel Divinity to reflect the spell onto an enemy. Choose another creature (including the spellcaster) you can see within 30 feet. The spell targets the chosen creature instead of you. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the attack roll is rerolled against that creature.</p>
+<h2 id="spellshatter">Spellshatter<a class="headerlink" href="#spellshatter" title="Permanent link">&para;</a></h2>
+<p>Beginning at 3<sup>rd</sup> level, when you use your Divine Smite feature on a weapon attack, you can also use a bonus action to imbue that weapon with anti-magic energy bestowed by your deity. If the target takes damage from the attack, any spell that is on the target ends if it is of a level equal to or lower than the spell slot you expended for your Divine Smite. In addition, if the damaged creature is concentrating on a spell, the DC of the saving throw it makes to maintain its concentration is equal to your paladin spell save DC or half the damage inflicted, whichever is higher.</p>
+<p>You can use this feature a number of times equal to your Charisma modifier, regaining expended uses when you finish a long rest.</p>
+<h2 id="arcane-cantrips">Arcane Cantrips<a class="headerlink" href="#arcane-cantrips" title="Permanent link">&para;</a></h2>
+<p>At 3<sup>rd</sup> level when you take this oath, choose two of the following cantrips: challenger&rsquo;s mark, booming blade, echoing blow, frostwind blade, greenflame blade, looming shadow, or punishing strike. You learn those two cantrips in addition to your paladin spells.</p>
+<p>Once you reach 7<sup>th</sup> level, when you cast a cantrip gained from this feature, you can expend 10 hit points from the pool of healing granted by your Lay on Hands feature to change the casting time to 1 bonus action for this casting.</p>
+<h2 id="aegis-of-blue-flame">Aegis of Blue Flame<a class="headerlink" href="#aegis-of-blue-flame" title="Permanent link">&para;</a></h2>
+<p>Starting at 7<sup>th</sup> level, an aura of magical power radiates from you. Whenever a friendly creature within 10 feet of you is the target of an opportunity attack, that attack is made at disadvantage. When you reach 18<sup>th</sup> level, opportunity attacks against friendly creatures within 30 feet of you are made at disadvantage.</p>
+<p>In addition, when a friendly creature within 10 feet of you is struck by an attack, you can use your reaction to protect it with a blue aegis of blazing spellfire. Any bludgeoning, piercing, or slashing damage the target takes is reduced by an amount equal to your profiency bonus plus your Charisma modifier (minimum 1). As part of the same reaction, you can make a weapon attack against the creature or cast a cantrip that targets it.</p>
+<h2 id="mystic-champion">Mystic Champion<a class="headerlink" href="#mystic-champion" title="Permanent link">&para;</a></h2>
+<p>At 15<sup>th</sup> level, choose one wizard spell of 4<sup>th</sup>-level or lower. That spell is added to your oath spells list. In addition, choose two cantrips from the wizard spell list. You learn those two cantrips in addition to your paladin spells. Finally, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.</p>
+<h2 id="living-spellfire">Living Spellfire<a class="headerlink" href="#living-spellfire" title="Permanent link">&para;</a></h2>
+<p>At 20<sup>th</sup> level, you become imbued with the power of the Weave, capable of unleashing magic in its raw form. As an action, you wreathe yourself in a maelstrom of spellfire.</p>
+<p>For one minute, you gain the following benefits.</p>
+<ul>
+<li>
+<p>You can teleport up to your walking speed as a bonus action.</p>
+</li>
+<li>
+<p>Hostile creatures within 30 feet of you have disadvantage on saving throws against spells you cast, and take a -5 penalty on Constitution saving throws to maintain concentration on a spell.</p>
+</li>
+<li>
+<p>When you use your action to cast a spell, you can make one weapon attack as a bonus action.</p>
+</li>
+<li>
+<p>When you roll damage for a spell, you can reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.</p>
+</li>
+</ul>
+<p>Once you use this feature, you can&rsquo;t use it again until you finish a long rest.</p>
+<h2 id="knights-of-the-weave-in-faerun">KNIGHTS OF THE WEAVE IN FAERUN<a class="headerlink" href="#knights-of-the-weave-in-faerun" title="Permanent link">&para;</a></h2>
+<p>Most Knights of the Weave come from the ranks of the Guardians of the Weave and/or the church of Mystra.</p>
+<p>However, a few characters become knights on their own, usually after witnessing some event that reveals the beauty, power, and fragility of magic in the world.</p>
+<p>In the aftermath of the Spellplague, with their reason for being torn away, this path of knighthood almost ceased to exist. However, with the restoration of the Weave while instability unleashed during the Spellplague still threatens magic itself, in recent years they are more necessary than ever, and their numbers have grown. Still, there are very few Knights of the Weave, no more than two score or so.</p>
+<p>While they do not have an organized code of conduct,</p>
+<p>Knights of the Weave recognize each other as kindred spirits working for a common purpose. Regardless of alignment, religion, or country of origin, the knights understand the love and respect that each of them has for magic, and they go out of their way to avoid conflict within their ranks. Many act as the military arm of the Guardians of the Weave, much as various churches have orders of knights focused on protecting their interests with necessary violence. Even those knights not involved with the Guardians respect them, and the Guardians see the knights as their champions.</p>
+<p>Any knight can teach a qualified person how to begin attuning themselves to the right parts of the Weave. Some potential knights discover the necessary information by accident or research, but most who would become knights meet an existing knight at some point in their travels. A qualified person is one who shows an interest in magic, has at least a rudimentary knowledge of the Weave and its history, and is dedicated enough to swear an oath to protect it with his life. Many aspiring knights swear this oath in front of another knight, but that is not necessary—the Weave itself bears witness to the oath.</p>
+<p>Training is an informal matter and does not require active tutelage by another knight. The new knight instinctively (or by studying subtle shifts in the pattern of the Weave) understands what sort of meditation, practice, or study is required to progress as a knight. Sometimes this preparation entails fasting for several days near a dead magic area or trying to cast spells on the fringe of a wild magic area. Another knight might train by studying lore on pools of radiance in a Mystran library or meditating on the shore of a sea to recognize how the ebb and fl ow of the tides mirrors the shifting strands of the Weave. In between experiencing these revelations, the knight continues to practice his spellcasting and fi ghting and keeps an ear to the ground for news of things needing his attention.</p>
+<p>Each knight feels a pull from a slightly different part of the Weave, guiding what spells he develops in his mind and the role he adopts among the knights. Some avenging or crusading knights choose aggressive magic, believing the best defense is a good offense. Others see themselves as protectors and learn metamagic, counterspelling, and ways of repairing damage to fragile parts of the Weave. Yet others try to become personifi cations of magic, using their knowledge to augment their own abilities or even create items that boost them further. Though a wizard might suggest learning a little bit of everything to be ready for all situations, that approach rarely fi ts the typical knight&rsquo;s mentality; most knights focus their magic in a specific area, relying on their physical prowess and versatile spellfire to make up for any specific lack of spell knowledge.</p>
+<p>Since the order is rare and its members few in number, knights are usually more than willing to help each other in times of need, whether by lending a magic item, casting a helpful spell, or even joining a quest for a short time. The last occurrence is particularly common if two knights have very different and complementary skill sets. One thing knights are always generous with is knowledge; they keep no secrets from each other when it comes to protecting the Weave. The knights have friendly relations with churches of Mystra, Azuth, and (to a lesser extent) Savras and can sometimes get aid (particularly healing magic) from those groups.</p>
+<p>Knights of the Weave have a long reach but lack the overt power to destroy their enemies outright. This means they must take a more strategic role or use small-scale forays to accomplish their goals. This often leads them to seek adventure. They can&rsquo;t topple the Red Wizards or the Kraken Society on their own, but they know a lot and become very mobile through the use of teleportation magic, making them a great resource for other adventurers as well.</p>
+<p>On a day-to-day basis, knights search for threats to the Weave, lost magic they can discover, lore to learn, and receptive minds to teach about respecting the Weave. Many knights are loners, but others excel as leaders. In any case, most of them lead by example rather than by giving orders. They respect considerate spellcasters, and knights in leadership positions tend to quickly earn the loyalty of any spellcasters in the area for their attentiveness and honest desire to hear a qualified opinion.</p>
+<p>The knights do not have any official ranks, though they observe each other&rsquo;s progress and comment when one of them demonstrates a new ability. They don&rsquo;t have any serious rivalries within their organization, since they recognize that different opinions (like spells of different schools of magic) are natural, and while they may oppose each other at times, these differences are not worth fighting about. For example, the knights think the rivalries between the various Thayan wizard factions are absurd and a waste of time, but are glad those rivalries keep the Red Wizards from spending all their efforts outside Thay. This is not to say that the knights don&rsquo;t argue, but they&rsquo;re usually happy to let a matter drop and go their separate ways, expecting not to see their verbal sparring partner for a year or more.</p>
+<p>Paladins of this oath share much with eldritch knights and wizards who practice the elven tradition of bladesong. While secrets of bladesong are taught only to elves, members of many races now learn the techniques of the Knights of the Weave, though most adherents of this oath are elves, half-elves, or humans tutored in the elven tradition. What differentiates a Weave-sworn paladin from both eldritch knights and bladesingers is their focus on combining spells and steel for the specific purpose of guarding their allies, charges, and protectorates, as well as the Weave itself.</p>
+<h1 id="oath-of-the-aegis-variant-of-oath-of-the-wave">Oath OF the Aegis (variant of Oath of the Wave)<a class="headerlink" href="#oath-of-the-aegis-variant-of-oath-of-the-wave" title="Permanent link">&para;</a></h1>
+<p>Paladins who supplement their divine and martial might with the art of arcane spellcasting are rare, but their numbers are growing. In most worlds, they are known as swordmages, arcane defenders, mage knights, or the Aegis- sworn. (In the Forgotten Realms, they are most often called the Knights of the Weave, referring to the eldritch tapestry overlaying their world, through which raw magic can be accessed and directed by spellcasters.) This oath emphasizes two tenets above all others: Dedication to magic itself, which must be respected and guarded, and vigilant defense, absolute devotion to the protection of people and places worthy of the swordmage’s loyalty. This text describes those who prioritize the latter; these paladins call their path the Oath of the Aegis.</p>
+<p>This oath binds you to spend endless hours practicing your special techniques, combining magic with martial mastery and divine empowerment to defend vulnerable people and places, as well as magic itself from larger corrupting forces. All Aegis-sworn live on a path of constant discipline and training. Your blade not only bites with steel and holy wrath, but pulses with fire, lightning, frost, thunder, or sheer eldritch energy. Magical barriers of force swirl around you, protecting you from harm as you defend your allies and unleash magical fury against your foes.</p>
+<p>Nothing is more important to you than the subjects of your protective oaths. You likely worship a god whose portfolio includes magic, knowledge, guardianship, vigilance, or secrets. You are also less likely to wear heavy armor than other paladins, though not likely to eschew armor entirely.</p>
+<p>Most paladins who swear this oath are influenced by the elven roots of magical swrordplay, favoring armor with silver or gold filigree and graceful etching, often worn beneath a colorful tabard. However, some other races are also known to have their own separate, wrell-developed swordmage traditions. Paladins of the rare genasi race often swear the Oath of the Weave, basing their iconography and practices on the elements. The swordmages of the other-worldly githyanki are also infamous across many planes.</p>
+<p>Although you study powerful magic, most of what you know relates to enhancing your fighting abilities and your place is in the thick of battle. Your power comes from pure magic, and eventually you develop increased ability to use^ magic, counter hostile magic, and defeat enemy spellcasters. Your mastery allows you to break enemy spells and protect your allies with lightning quickness.</p>
+<h2 id="tenets-of-the-aegis">Tenets of the Aegis<a class="headerlink" href="#tenets-of-the-aegis" title="Permanent link">&para;</a></h2>
+<p><strong>Learning and Lore.</strong> Knowledge is the flickering candle on the shore of an ocean of darkness. Keep that light burning, despite the rising tides of time and ignorance. Recover lost artifacts and magical items. Never stop learning.</p>
+<p>**Diligence. **Train every day. Just as your blade requires sharpening before every battle, your magical and martial prowess must be honed by relentless practice. Magic is a supreme privilege, and should be approached with caution and respect.</p>
+<p><strong>Guardianship.</strong> Those who use magic for evil ends often prey upon the weak. Whether you’ve sworn an oath of guardianship or merely wandered into the path of such predation, you know the safety of any ally or innocent in your presence is your personal responsibility. If the choice is between harm coming to you or to the subject of your protection, you take the blow yourself.</p>
+<p><strong>Unbound Arcana.</strong> Magic manifests in countless incarnations. Go forth and seek them all. Leam from the old, and devise the new, but whatever you do, explore magic in all it&rsquo;s myriad wonders.</p>
+<h2 id="oath-of-the-wave-multi-classing">Oath of the Wave Multi-classing<a class="headerlink" href="#oath-of-the-wave-multi-classing" title="Permanent link">&para;</a></h2>
+<p>If you are using the optional multiclassing rules, paladins of the Oath of the Weave gain a special benefit: they can substitute their Dexterity score for their Strength score when determining if they can be multiclass paladins.</p>
+<h2 id="variant-rule-intelligent-knight">VARIANT RULE: INTELLIGENT KNIGHT<a class="headerlink" href="#variant-rule-intelligent-knight" title="Permanent link">&para;</a></h2>
+<div class="codehilite"><pre><span></span>If the DM and player agree, a paladin of the Oath of the Weave may use Intelligence instead of Charisma for their spells and other paladin abilities.
+
+If this rule is used, multiclassing Knights of the Weave should also be allowed to substitute their Intelligence score for their Charisma score when determining if they can be multiclass paladins as well.
+</pre></div>
+
+<h2 id="oath-spells_1">OATH SPELLS<a class="headerlink" href="#oath-spells_1" title="Permanent link">&para;</a></h2>
+<p>You gain Oath Spells at the Paladin levels listed.</p>
+<p>Oath of the Aegis spells</p>
+<p>Paladin Level Spells</p>
+<p>3<sup>rd</sup>     detect magic, shield</p>
+<p>5<sup>th</sup>     misty step, warding bond</p>
+<p>9<sup>th</sup>     counterspell, dispel magic</p>
+<p>13<sup>th</sup>    death ward, dimension door</p>
+<p>17<sup>th</sup>    conjure elemental, teleportation circle</p>
+<h2 id="channel-divinity_1">Channel Divinity<a class="headerlink" href="#channel-divinity_1" title="Permanent link">&para;</a></h2>
+<p>When you take this oath at 3<sup>rd</sup> level, you gain the following two Channel Divinity options.</p>
+<p><strong>Spellfire Blade.</strong> You can use your Channel Divinity to enhance your weapon attacks. As a bonus action, you infuse your weapon with arcane energy for one minute.</p>
+<p>The next time during that minute that you hit a target with a weapon attack that is also part of the action used to cast a cantrip (such as for the booming blade*** or frostwind blade* cantrips), the target takes extra radiant damage in addition to any other effects of that hit. Tire extra damage equals 2d8 + your paladin level. In addition, the next time the target tries to cast a spell before the end of its next turn, it must make a Constitution saving throw against your paladin spellcasting DC. On a failed save, the spell fails and has no effect.</p>
+<p><strong>Spellfire Shield.</strong> When you make a successful saving throw against a spell, or a spell attack misses you, as a reaction you can use your Channel Divinity to reflect the spell onto an enemy. Choose the spellcaster or another creature you can see within 30 feet. The spell targets the chosen creature instead of you. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the same attack roll is rerolled against that creature.</p>
+<h2 id="spellshatter_1">SPELLSHATTER<a class="headerlink" href="#spellshatter_1" title="Permanent link">&para;</a></h2>
+<p>Beginning at 3<sup>rd</sup> level, when you use your Divine Smite feature, you can use a bonus action to imbue that weapon with anti-magic energy bestowed by your deity. If the target takes damage from the attack, any spell that is on the target ends if it is of a level equal to or lower than the spell slot you expended for your Divine Smite. In addition, if the damaged creature is concentrating on a spell, the DC of the saving throw it makes to maintain its concentration is equal to your paladin spell save DC or half the damage inflicted, whichever is higher.</p>
+<p>You can use this feature twice, regaining expended uses when you finish a short or long rest.</p>
+<h2 id="arcane-canutrips">ARCANE CANUTRIPS<a class="headerlink" href="#arcane-canutrips" title="Permanent link">&para;</a></h2>
+<p>At 3<sup>rd</sup> level when you take this oath, choose two of the following cantrips: challenger&rsquo;s mark, booming blade, echoing blow, frostwind blade, greenflame blade, looming shadow, or punishing strike. You leam those two cantrips in addition to your paladin spells.</p>
+<p>When you cast a cantrip gained from this feature, you can expend 10 hit points from the pool of healing granted by your Lay on Hands feature to change the casting time to 1 bonus action for this casting.</p>
+<h2 id="aegis-aura">AEGIS AURA<a class="headerlink" href="#aegis-aura" title="Permanent link">&para;</a></h2>
+<p>Starting at 7<sup>th</sup> level, an aura of magical power radiates from you. Starting at 7<sup>th</sup> level, you radiate an aura of magical energy that protects your allies and allows you to ward them against danger. Whenever a friendly creature within 10 feet of you is the target of an opportunity attack, that attack is made with disadvantage. When you reach 18<sup>th</sup> level, the aura grows, and opportunity attacks against friendly creatures within 30 feet of you are made with disadvantage.</p>
+<p>When you reach 9<sup>th</sup> level, choose one of the following spells: <strong>aegis of assault</strong>, <strong>aegis of ensnaring</strong>, or <strong>aegis of shielding</strong>. Whenever a friendly creature within the aura provided by this feature is struck by an attack, you can use your reaction to cast the chosen spell on the attacker as a 3<sup>rd</sup>- level spell without using a spell slot. The chosen spell is also added to your oath spell list, and like your other oath spells, it is always prepared.</p>
+<h2 id="mystic-champion_1">MYSTIC CHAMPION<a class="headerlink" href="#mystic-champion_1" title="Permanent link">&para;</a></h2>
+<p>At 15<sup>th</sup> level, you leam one wizard cantrip, and you choose one wizard spell of 4<sup>th</sup>-level or lower. That spell is added to your oath spells list. In addition, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.</p>
+<h2 id="arcane-incarnation">ARCANE INCARNATION<a class="headerlink" href="#arcane-incarnation" title="Permanent link">&para;</a></h2>
+<p>At 20<sup>th</sup> level, you become imbued with the power of the Weave, capable of unleashing magic in its raw form. As an action, you wreathe yourself in a maelstrom of magical fire. For one minute, you gain the following benefits.</p>
+<ul>
+<li>
+<p>You can teleport up to your walking speed as a bonus action.</p>
+</li>
+<li>
+<p>Hostile creatures within 30 feet of you have disadvantage on saving throws against spells you cast, and take a -5 penalty on Constitution saving throws to maintain concentration on a spell.</p>
+</li>
+<li>
+<p>When you use your action to cast a spell, you can make one weapon attack as a bonus action.</p>
+</li>
+<li>
+<p>When you roll damage for a spell, you can reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.</p>
+</li>
+</ul>
+<p>Once you use this feature, you can&rsquo;t use it again until you finish a long rest.</p>
+<h2 id="races-of-the-aegis">RACES OF THE AEGIS<a class="headerlink" href="#races-of-the-aegis" title="Permanent link">&para;</a></h2>
+<p>Paladins wrho follow this oath and walk the path of the swordmage come from many races. You might be a young wood elf in search of a noble quest in the name of magic, a stranger to the wider world outside the seclusion of your homeland; a self-trained genasi bodyguard, gifted with an affinity for elemental magic; the scion of a disgraced human noble family, taught by the finest tutors in your youth but now a footloose expatriate; or a high elf arcane champion, rigorously trained in a war magic academy to serve in the armies of your Feywild kingdom. Some details on playing paladins of various races who follow the swordmage’s path are described below.</p>
+<p>Elves. Among high elves, wood elves, and drow elves alike, swordplay is a skill as valued as the arcane arts. In fact, many believe that the common ancestors of all three subraces were the first to combine blade and magic. As a race that promotes study and mental achievement, elves are perfectly suited to the Oath of the Aegis. Their cunning in battle helps them evade physical blows while wearing the light armor typical of a swordmage. Elves often combine their cultural fighting art of bladesong with the path of a paladin, and high elves like to begin adventuring with a cantrip that allows them to better control the battlefield, favoring such spells as ray of frost.</p>
+<p>Half-elves. Many half-elves take up both blade and magic to defend themselveswhen traveling through hostile lands. These accomplished diplomats naturally leam a gamut of skills, and so half-elves viscerally appreciate the fusion of magic and swordplay that Knights of the Aegis employ. With a flare for deception and intimidation, half-elves paladins of this oath tend to use of the aegis of ensnaremem spell with then- magical paladin’s aura.</p>
+<p>Humans. Like half-elves, humans are able learners and quickly adapt to combinations of seemingly disparate skills such as magic and swordplay. Often, human swordmages are foundlings who were raised by high elves or their eladrin cousins in the Feywild. Others are fostered by genasi and leam the ancient Oath of the Aegis from them. These swordmages are proud of their heritage, and their skills rival members of more innately magical races.</p>
+<p>Halflings. Nimble and quick, halflings rely on agility instead of size. Although the Oath of the Aegis is favored chiefly by bigger folk, the knowledge has percolated through the world, and even a few halflings have sworn to follow this path.</p>
+<p>A halfling who takes up blade and magic in this way is most often an ardent worshipper of Arvoreen, the halfling deity also known as The Defender or The Wary Sword. They swear oaths to defend an important personage or threatened community. They use their size and natural luck to great advantage when defending those in their charge. A halfling who becomes a swordmage is likely to choose the aegis of shielding spell to use with their aegis aura.</p>
+<p>Dwarves. Fewr dwarves choose to take up the arcane blade and leam the secrets of the Oath of the Aegis. Many dwarves prefer fighting styles more reliant on enduring strength than precision, favoring hammers and axes in combat over blades. Others simply disdain arcane spellcasting entirely, preferring to rely on martial exploits and divine prayers. Dwarves are not entirely unreceptive to the art, though, for their culture has a long tradition of demonstrating their physical endurance in defense of the vulnerable. In addition, the resilience required to channel magict hrough one&rsquo;s body and into the blade makes dwarves capable swordmages when they focus on shielding allies or ensnaring foes. Surprisingly, they usually spurn the aegis ofassaulr spell, focusing on control and defense. </p>
+<p>Dragonbom. Although a dragonbom&rsquo;s natural aptitudes are ideal as a foundation for life as a paladin, few dragonbom knights seek to sword and sorcery. Those who do are usually drawn to the intellectual challenge. The heritage of dragonbom promotes a strong bond with one&rsquo;s weapon, which encourages a few dragonbom warriors to pursue this vocation, often combining it with the similar tradition of the eldritch night. Natural strength and dedicated study of the arcane arts can make such paladins powerful indeed. When choosing a spell to use with then- aegis aura, they tend to favor the more confrontational aegis of assault.</p>
+<p>Gnomes. While gnomes are unlikely to become paladins, those who do usually choose either the Oath of the Ancients or the Oath of the Aegis. In their culture, magic is not seen as separate from defense of hearth and home, but as an essential tool in protecting their communities. These natural tricksters favor the aegis of ensnarement.</p>
+<p>Tieflings. Tiefling paladins are rare as a rule, and those who do exist are not as naturally disposed to the Oath of the Aegis as elves or genasi are. Their heritage, however, makes them skilled swordmages when they do pursue the art. They tend to be less considered with defending people or places than the preservation of magical power, and like to combine their use of the hellish rebuke spell and the aegis of assault spell to stay in thick of the front lines and punish enemy attacks.</p>
+<p>Genasi. In most worlds, genasi seldom have a national identity or culture of their own, but members of this race maintain a long tradition of becoming swordmages. Many genasi repudiate the claim that elves were the first paladins to practice this oath’s techniques. They allege that their earliest ancestors were responsible for this unique combination of magic and blade. Elves point to their unique art of bla desong as evidence of their history with such fighting style’s, but no absolute evidence exists to confirm either race&rsquo;s assertion.</p>
+<p>What is certain is that these descendants of geniekind are often bom with a combination of mental and physical prowess that suits them perfectly for mastering the Oath of the Aegis. Their affinity for the elements means that both body and blade can crackle with lightning or bum with fire.</p>
+<p>Githyanki. Many githyanki seek tire glory of their tyrannical queen by following the vocation of the gish, a legendary warrior-type equally capable with martial weapons and arcane spells. A more offensive gish likely pursues the path of the eldritch knight, but those sworn to the defense of their queen or other figures of authority tend to be paladins of the Oath of the Aegis. Githyanki are known to practice their owrn very regimented and particular swordmage tradition, and of the aegis spells, nearly all favor the aegis of shielding.</p>
+<h1 id="_1">Этос<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
+<p>Набор принципов, которые определяют жизнь паладина и влияют на его поведение называется этос. Хотя этос пересекается с законами общества он также охватывет духовные ценности и идеалы морали. Этос паладина определяет его жизненные ценности, подчеркивает его индивидуальность, и влияет почти на все поступки им совершаемые.</p>
+<p>Хотя определенная идеология присуща каждому игровому классу, этос паладина имеет два кардинальных отличия. Первое, этос паладина это длинный список руководящих принципов и характерных для этого класса. Второе, этос паладина абсолютно бескомпромиссен и требует беспрекословного подчинения. Даже незначительные нарушения влекут серьезные последствия, от выговоров вышестоящих командиров до лишения привилегий. В результате же серьезного нарушения паладин может вовсе лишиться своего статуса и полностью потерять все свои особые возможности.</p>
+<p>Паладин считает свой этос скорее привилегией, нежели ношей. Каждое действие это выбор между правильным и неправильным. Со всеми на то основаниями, он считает себя образцом того, как должен жить и поступать человек.</p>
+<p>Существует три аспекта этоса паладина: заповеди (общие правила), эдикты (указания вышестоящих чинов), и нормы (правила поведения). Также здесь описано, что можно считать нарушением этоса, и предлагает возможные наказания и пути искупления.</p>
+<p>Заповеди</p>
+<p>Самыми главными элементами этоса паладина являются заповеди, свод нерушимых правил описанных в PHB которых паладин должен придерживаться во всех ситуациях. Заповеди также  четки и незыблемы, как и требования по параметрам; они есть часть того, что делает паладина паладином  и разительно отличает его от всех остальных классов</p>
+<p>Добропорядочность</p>
+<p>Сама суть паладинства накладывает ограничение на склонность персонажа он должен быть только законопослушным добрым. Если в какой-то момент он отступит от этих принципов он перестанет быть паладином.</p>
+<p>Основой данной склонности является вера в систему законов, которая обеспечит достаток всем членам общества, обеспечит их безопасность и гарантирует справедливость. Так как эти законы рапространяются на всех членов общества, без всяких ограничений, то нет никакой разницы, что является их источником демократия или диктатура.</p>
+<p>Поскольку любой добропорядочный общественный строй следует похожим основополагающим принципам, какие-то частные законы могут отличаться. В одном обществе может быть разрешено многоженство в другом приветствуется только моногамность. Азартные игры могут быть доступны в одном обществе и абсолютно запрещены в другом. Паладин уважает любой закон общества, если оно добропорядочно в целом и не будет пытаться навязывть свои ценности его членам.</p>
+<p>Как бы то ни было, паладин не будет придерживаться закона, который идет вопреки его склонности. Правительство может быть уверено, что абсолютно нерегулируемые азартные игры не наносят особого вреда обществу, но если паладин увидит, что результатом такой политики стала бедность и отчаяние народа, и он сочтет, что в этом виновата власть, потакающая данному беззаконию, в ответ может призвать жителей отказаться от азартных игр или будет стараться изменить закон.</p>
+<p>Абсолютно безнравственные вещи, такие как рабство или пытки, могут заставить паладина напрямую вмешаться в процесс. Не имеет значение культурные ли это традиции или же они узаконены властью. Чувство справедливости паладина заставляет его при необходимости вмешиваться и облегчать как можно больше страданий. Заметьте, что в результате нехватки времени, возможностей, или при наличии каких-либо обязательств вмешательство паладина может быть ограничено, но он все равно должен попытаться изменить ситуацию. Хотя паладин может хотеть, что бы в обществе, где процветает каннибализм, произошла культурная революция, он может удовлетвориться спасением нескольких жертв, перед тем как обстоятельства вынудят его покинуть эту территорию.</p>
+<p>Возникает вопрос, в каком случае паладин может отнять жизнь у другого существа? Паладин убивает только в том случае, если это в итоге ведет к добру или чтобы защитить свою жизнь, жизнь своих друзей или жизнь того, кого он поклялся защищать. Во время войны, он воюет с врагами своего ордена или церкви.</p>
+<p>В остальных случаях паладин избегает убийства, когда это возможно. Он никогда не убьет человека, который только подозревается в преступлении, так же паладин не убьет того, кого он считает угрозой, только если нет неопровержимых доказательств или стопроцентной уверенности. Он никогда не убьет ради сокровища или личной выгоды. Он никогда преднамеренно не убьет законопослушно доброе существо.</p>
+<p>Поскольку паладин верит в святость жизни в целом, большинство убивает животных в тех же ситуациях, которые описаны выше, хотя он может охотиться. Так же он может убить монстра, если он руководствуется инстинктом, а не злом. Хотя большинство паладинов не охотятся ради удовольствия, они могут делать это чтобы отточить свое боевое мастерство.</p>
+<p>Лимит на Магические Предметы</p>
+<p>Этот лимит распространяется также и на свитки, которые являются магическими предметами. В независимости от обстоятельств, пути или уровня паладина он не может обладать больше чем десятью магическими предметами.</p>
+<p>Паладины ограничены не только по количеству магических предметов, но и по типу. В общем, паладин может обладать следующими вещами.</p>
+<p>Один набор магических доспехов. Это ограничение не включает в себя обычный доспех, зачарованный на время, а так же вещи типа  плаща защиты (cloak of protection), шлемы защиты (helm of protection) или  ботинок скорости (boots of speed) (все они относятся к прочим вещам лимит на которые описан ниже). Даже часть магической брони, например, грудная пластина, считается за полный доспех.</p>
+<p>Один магический щит.</p>
+<p>Четыре магических оружия  Это ограничение не включает в себя обычное оружие зачарованный на время, но включает святые мечи. Колчан стрел или болтов для арбалета считается одним предметом. Такие вещи как стрела поиска (arrow of direction)  или стрела убийства (arrow of slaying), в общем, вещи наделенные особой магической силой,  считаются одним предметом.</p>
+<p>Четыре прочих магических предмета. В эту категорию входят кольца палочки, жезлы, драгоценности и свитки. Мешок фасоли (bag of beans), набор  ioun stones,  deck of many things каждый считается за один предмет. Магическое зелье считается одним предметом независимо от количества доз.</p>
+<p>Чтобы быть уверенным в том, что паладин выполняет это требование, важно знать, кто в точности владеет каждым магическим предметом внутри партии. В большинстве случаев паладин не будет использовать предмет, если он ему не принадлежит. Не имеет значения кто в данный момент несет предмет; если он принадлежит паладину, то он ему принадлежит, где бы он ни был. Паладин может давать в пользование свои предметы, но поскольку он все равно остается владельцем то они тоже засчитываются в его лимит.</p>
+<p>И наоборот, если у паладина уже есть десять магических предметов, он не может брать на время другие предметы у своих компаньонов. Паладин никогда не будет использовать неоднозначность этого правила; он останется верным духу его статуса ровно также как и букве (обсуждено далее).</p>
+<p>Естественно не рассматривается тот случай, когда паладин не знает, что предмет магический. Но с тех пор как у него появляются догадки о его необычных свойствах, он должен расстаться либо с ним, либо с другим своим магическим предметом.</p>
+<p>Паладин сам, добровольно, расстается с какой-либо магической вещью, если нашел более подходящую. Например, он может отказаться от  стрел поиска (arrow of direction) если он нашел  копье молний (javelin of lightning).</p>
+<p>Лишние магические предметы могут быть отданы другим законопослушно добрым персонажам, пожертвованы церкви паладина или его ордену, или просто выброшены. Поскольку лишние предметы не принадлежат паладину, они не могут быть проданы или обменяны, даже если вырученные деньги пойдут на благое дело.</p>
+<p>Ограничение Богатства</p>
+<p>Паладин не заинтересован  в собственном богатстве. Ему больше по душе моральное, чем материальное удовлетворение, происходящие из служения своей вере и своему ордену. Материальные ценности для паладина мимолетны, поверхностны и, в конце концов, просто не имеющие смысла. Духовная удовлетворенность вследствие хорошо выполненного задания гораздо более притягательна, глубока и значима.</p>
+<p>Несмотря на все это паладин прекрасно понимает, что какая-то сумма денег необходима, чтобы содержать себя и свое имущество в хорошем состоянии. Заместо того чтобы копить деньги, паладин оставляет себе достаточную сумму, что бы вести скромный, но удовлетворящий образ жизни.</p>
+<p>Паладин никогда не принимает подачек, не рассчитывает на щедрость встречных людей или их компаньонов. Он всегда оплачивает свои потребности сам и гордится своей независимостью. Он получает доход от сокровищ, вознаграждений, оплат услуг наравне со всеми остальными. В отличие от всех остальных персонажей паладин руководствуется строгими принципами что, куда и как можно тратить и сколько денег можно откладывать.</p>
+<p>Бюджет Паладина</p>
+<p>Паладину нужны деньги, чтобы покрывать следующие расходы:</p>
+<p>Питание. Паладин должен сам кормить себя и своего коня (гриффона, слона). Что бы снизить расходы, паладин может охотиться, собирать фрукты, овощи.</p>
+<p>Оружие, Доспехи, и Одежда. Это включает в себя стоимость покупки, обслуживания, ремонта и замены. Паладин редко скупится в этом вопросе, стараясь иметь снаряжение самого высокого качества.</p>
+<p>Упряжь. Также как и в случае с оружием паладин пытается обеспечить всем самым лучшим своего спутника.</p>
+<p>Жилье. Паладин всегда старается найти наименее дорогой вариант из подходящих.</p>
+<p>Налоги и Лицензии. Паладин должен платить все взносы, обозначенные его церковью или орденом. Так же он должен оплачивать все сборы и пошлины, возникающие в путешествиях.</p>
+<p>Плата за Обучение. Паладин может оплачивать услуги тренера, если он законопослушный добрый и паладин имеет разрешение от своего покровителя.  Прочие Вещи. Включают лекарства, фонарное масло, одежду, постельные принадлежности. Большинство паладинов предпочитают по возможности сами изготавливать подобные вещи, чтобы сохранить деньги.</p>
+<p>Оплата. Честная оплата должна быть гарантирована любому слуге либо наемнику.</p>
+<p>Затраты на Замок. Паладин несет все расходы по строительству и содержанию своей крепости.</p>
+<p>Замок</p>
+<p>Вдобавок к своему резервному фонду, паладин также может иметь отдельный фонд на строительство собственной крепости. Как объяснено в  Главе 7, хотя цены на строительство сильно разняться, все равно они очень дороги. Паладин может копить деньги, на что в течение многих лет и даже десятилетий, для того чтобы накопить необходимую сумму. Мудрый паладин может начать откладывать деньги на строительство крепости даже с первого уровня.</p>
+<p>Как только паладин достраивает замок, он сразу получается, вынужден оплачивать множество дополнительных расходов оплата услуг персонала и содержание замка. Он должен соответственно планировать свой бюджет.</p>
+<p>Обычно крепости принадлежат к одной из трех экономических категорий, каждая из которых по-своему отражается на финансах паладина:</p>
+<p>Нуждающиеся в субсидиях К этой категории относятся крепости, не имеющие значимого сельскохозяйственного или промышленного производства. Все производимые товары не в состоянии обеспечить содержание крепости и оплату служащим. В этом случае паладин должен оплачивать разницу из своего кармана, что существенно ударяет по его бюджету.</p>
+<p>Это обычное дело для паладина субсидировать только что построенную крепость до тех пор, пока там окончательно все не уладится. При грамотном управлении и маленькой толикой удачи, крепость становится самоокупаемой в течение нескольких месяцев, правда, обычно лет. Существуют причины, по которым некоторые крепости будут всегда нуждаться в субсидировании, вот две из них:</p>
+<p>• Крепость по свей сути не предназначена для того чтобы приносить доход, функционируя как пограничная, тренировочный центр, госпиталь, или религиозное святилище. Крепость этого типа должна иметь хозяина, не обремененного финансовыми проблемами.</p>
+<p>• Хоть крепость и была предназначена для принесения дохода, но из-за сложившихся неудачных обстоятельств или неправильного управления уже никогда дохода приносить не будет. Если паладин в этом случае решает оставить управление крепостью он в первую очередь должен позаботится о решении проблем тех людей кто состоит у него на службе, находя им новую работу с не меньшей оплатой.</p>
+<p>Самоокупаемая. Крепость сама окупает расходы на свое содержание путем продажи товаров или услуг. Паладин не должен ни субсидировать ее ни думать о том куда потратить излишки дохода. Для большинства паладинов это скорей всего наиболее подходящий вариант.</p>
+<p>Приносящая доход. Крепость приносит надежный доход от продажи товаров или услуг. Паладин может использовать эти доходы для расширения своих владений (обеспечивая больше трудовых мест или большего прославления своей веры и никогда для собственной выгоды) а также увеличения пожертвований своей церкви или ордену . Приносящие доход крепости требуют либо большего внимания со стороны паладина либо наличия профессиональных управляющих.</p>
+<p>Избыточный Доход</p>
+<p>Весь избыточный доход паладина должен быть отправлен на благое дело. Это подразумевает все деньги, которые остались после уплаты всех необходимых платежей, только если это не те деньги, которые откладываются на строительство крепости. Он может оставлять резервный фонд размером два-три месячных дохода, но не больше. Он не может откладывать деньги для на наследство или же оплату расходов товарищей.</p>
+<p>Так что же паладину делать с излишком денег? У него есть три варианта:</p>
+<p>• Отказаться от них. Если жители города предлагают ему горсть драгоценных камней за уничтожение вампира он может вежливо отказаться от платы. (&quot;Ваша благодарность и есть наилучшая плата.&quot;) если он находит сундук полный жемчуга, золотых монет, и сборником стихов, он берет книжку и оставляет остальное (после того как он ее прочитает он, скорее всего, подарит ее другу либо отдаст в библиотеку).</p>
+<p>• Пожертвовать церкви. Это не будет считаться обязательной десятиной, так как это не является частью его обычного дохода.</p>
+<p>• Пожертвовать на добропорядочное предприятие. Подходящими могут считаться госпитали, библиотеки и детские приюты, исследования, военные организации и правительственные проекты могут быть подходящими, если только паладин уверен, что денги пойдут на благие цели.</p>
+<p>Придерживаясь этих принципов паладин волен, выбирать, как потратить деньги. В одном случае он может пожертвовать сокровища госпиталю и отказаться от вознаграждения в другом. Он никогда не отдаст излишек денег другому персонажу или NPC.</p>
+<p>Если паладин отказывается от награды или от сокровищ это не значит что его компаньоны должны поступить также. Если он убил злого дракона, но не взял ничего из его сокровищ, партия вольна делать что ей будет угодно.</p>
+<p>Заем</p>
+<p>Паладин, который попал в сложную финансовую ситуацию, может попросить в долг у человека или организации с законопослушно доброй склонностью. Поскольку заем денег сам по себе не очень приятное занятие то нарушением этоса оно считается только в том случае, если паладин занимает деньги, которые ему реально не нужны или он не собирается их возвращать.</p>
+<p>В большинстве случаев, паладин может занимать лишь небольшие количества денег (к примеру, его месячный доход). Так же он может занять денег в случае экстренной необходимости; возможность купить карту, на которой обозначен путь к святому мечу не является необходимостью, но нужда в медикаментах для излечения умирающего друга как раз и есть это обстоятельство. Занять деньги на управление крепостью позволяется, но только если это надо для выплат рабочим либо для поведения, не терпящего отлагательств ремонта. (Текущая крыша может подождать; а вот разрушенная стена крепости вряд ли.) Паладин должен стараться как можно быстрее отдавать свои долги.</p>
+<p>Повторный заем в течение короткого промежутка времени уже можно рассматривать, как нарушение этоса. Если паладин занимает деньги на протяжении нескольких месяцев подряд, он должен лишиться своей крепости, своего спутника и всего того чего он не может себе позволить.</p>
+<p>Десятина</p>
+<p>Паладин должен отдавать 10% своего дохода добропорядочной организации по своему выбору.  Это называется десятиной. В большинстве случаев он отдает десятину своей церкви. Если он не принадлежит никакой церкви и действует самостоятельно (описано в главе Пути Паладина), он может отдавать десятину любой добропорядочной организации типа госпиталя или университета. Паладин не выказывает никаких желаний по поводу того как эти деньги должны быть потрачены, хотя деньги и так как обычно идут напрямую на расходы по содержанию института, приему учеников, закупке необходимых материалов и на затраты по обучению. Однажды выбрав организацию паладин обычно платит ей десятину всю жизнь.</p>
+<p>Первая десятина паладина обычно платится из превоначальных денег паладина  5d4 x 10 золотых. После этого, он должен платить десятину со всех источников своего дохода, включая награды, соровища, оплат, и дохода который приносит крепость. Если он находит драгоценность или магический предмет, он должен пожертвовать 10% от его ценности в золоте, при первой возможности. Если он находит алмаз стоимостью 500 золотых, он отдает 50 золотых; если алмаз теряется или украден, он все еще должен отдать 50 монет золотом.</p>
+<p>Десятина платится только с реального дохода паладина. Если он не взял сокровище или отказался от награды, то в этом случае десятина не отчисляется.</p>
+<p>Прямой обязанностью паладина является то, что он должен как можно быстрее отдать десятину. Ежемесячные оплаты должны проводится в почти любом случае. Если месячная плата невозможна или установлен  другой график отчислений; если паладин находится на миссии в другой части света, если он занят на войне - то десятину нужно отдать при первой же возможности по возвращении. Десятину паладин может отдавать сам или пользоваться услугами посыльного.</p>
+<p>Десятина, которая по каким-то причинам находится у паладина, все равно считается собственностью организации, куда она будет отчислена. Голодающий паладин у которого из всех денег только 50 золотых десятины не может их тратить если только не получит разрешение на это своего божества. Если он вел себя достойно, например он потратил свой последний золотой чтобы накормить голодающего ребенка, разрешение обычно даруется, естественно при условии что десятина будет отдана в полном объеме.</p>
+<p>Склонности Компаньонов</p>
+<p>Мнение о паладине в немалой степени зависит от партии, с которой он путешествует. В идеале паладин путешествует только с добрыми компаньонами. Отношения с нейтральными персонажами в некоторых ситуациях считаются допустимыми, но более долгий контакт может посчитаться нарушением этоса. Нахождение в одной партии со злыми персонажами расценивается как злой поступок.   В общем то паладин несет ответственность за поступок любого члена партии.</p>
+<p>Наемники. Без всякого исключения все наемники паладина будь то просто воины или же рабочие в его крепости должны быть законопослушно добрыми. Паладин должен сделать все возможное, чтобы определить их склонность, прежде чем нанимать. Если наемник совершает злой поступок или каким-то другим образом показывает что его склонность не законопослушно добрая у паладина не остается другого выхода кроме как уволить его либо отдать под суд.</p>
+<p>В некоторых случаях паладин несет ответственность за злые поступки совершенные теми, кого он нанял. Например, конюх паладина совершил убийство. Фактически паладин невиновен, но он может считаться причастным с точки зрения этоса. Хотя высшие чины могут и не покарать паладина, он может понести наказание за нарушение своего этоса, за то, что он не удосужился, к примеру, полностью изучить биографию конюха, прежде чем его нанять. В любом случае только Мастер определяет, явилось ли что-то нарушением этоса.</p>
+<p>Последователь. Паладин принимает только законопослушно добрых последователей. Как и в случае с наемниками паладин должен предпринять все меры, чтобы выяснить склонность последователя. Паладин должен немедленно отказаться от последователя, который совершил злой поступок.</p>
+<p>Добрые Персонажи. При путешествии в партии паладин отдает предпочтение законопослушно добрым персонажам, именно они становятся его самыми близкими друзьями. Но разве может паладин предвидеть судьбу, которая иногда сводит вместе людей очень разных мировоззрений. Паладин так долго остается с партией пока общая склонность партии добрая; преимущество нейтральных персонажей либо наличие хоть одного злого может вызвать проблемы.</p>
+<p>Паладин может поддерживать хорошие отношения с персонажами нейтрально доброй склонности, исключая взгляд таких персонажей на государственные структуры и общество в целом. Как бы то ни было нейтрально добрые персонажи должны строго придерживаться добрых принципов, чтобы паладин хорошо к ним относился. Чуть тяжелее общаться паладину с хаотично добрыми персонажами, из-за их острого чувства собственной независимости и отсутствия всякого уважения к власти. Но паладин будет продолжать сотрудничать с хаотично добрыми персонажами в случае совпадения их целей.</p>
+<p>Нейтральные Персонажи. Некоторые паладины также комфортно чувствуют себя в компании законопослушно нейтральных персонажей, восхищаясь их чувством долга и преданностью своему покровителю. Естественно это относится только к персонажам представляющим порядочные структуры, никак не работорговцев или тиранов.</p>
+<p>Паладин будет взаимодействовать с партией, в которой есть часть законопослушно нейтральных или истинно нейтральных персонажей. Но, скорее всего от нейтральных персонажей он будет держаться несколько отстранено. Паладин, скорее всего, попытается собственным примером показать нейтральным персонажам, что служение идеалам добра приносит куда большее духовное удовлетворение, нежели принципы нейтралитета. Пока нейтральные персонажи воздерживаются от злых действий, паладин может вполне хорошо уживаться с ними.</p>
+<p>Паладин присоединится к партии состоящей целиком только из нейтральных персонажей только в том случае, если ставки действительно высоки. К примеру, он может сотрудничать с нейтральной партией в целях поиска святого артефакта, спасении короля, или предотвращения уничтожения монастыря. В случае простой охоты за сокровищами или разведывательной экспедиции паладин, скорее всего,  пойдет своей дорогой. (Если партия состоит из нейтральных персонажей Мастер должен обьяснить игроку играющему паладином основные цели и задачи будущего приключения. Игрок должен либо выйти из ситуации путем нахождения для паладина места в данном приключении либо взять другого персонажа.)</p>
+<p>Злые персонажи. Поскольку долг паладина всячески подавлять зло то паладин никогда не будет сотрудничать со злыми персонажами. Он может взять злого персонажа под стражу, физически ограничивать персонажа, или добиваться его исключения из партии. Если ничто не имеет смысла, то паладин разрывает свои отношения с партией и идет своим путем. В любом случае бездействие непростительно.</p>
+<p>Паладин понимает что сложно, даже почти невозможно полностью отгородится от злых людей. Они везде: идут по улице, обедают в таверне, прогуливаются по рынку. Этос паладина не заставляет его нападать или вступать в конфликт с каждым злым человеком; во многих случаях, таких конфронтаций надо изгбегать особенно в случае если это может отвлечь паладина от выполнения от более важной миссии, или если это может вызвать ответные действия, которые возможно затронут невинных жителей.</p>
+<p>Обстоятельства могу позволить паладину общаться со злым человеком, следовать за ним или же пытаться что-то выяснить о нем. Это не является нарушением этоса, если не переходит границы. Первым признаком того, что паладин вступил на скользкую дорожку, является тот момент, когда его начинают ассоциировать со злыми NPC или воспринимать как их приятеля этого NPC.</p>
+<p>Эдикты</p>
+<p>Указания вышестоящих чинов, инструкции и традиции которым паладин обязан, подчинятся и обычно налагаемые покровителем паладина называются эдикты. Паладин должен беспрекословно следовать эдиктам; он должен их воспринимать также серьезно как свой этос.</p>
+<p>Паладин не выбирает, подчиняться данному конкретному эдикту или нет. Обычно, он обязывается подчинятся всем эдиктам изданным выбранным источником. Этот источник он выбирает тогда когда начинается его карьера. Мастер может порекомендовать наиболее подходящие источники.</p>
+<p>Обычно прошлое паладин может помочь выбрать источник эдиктов. Например, паладин, чьи родители хотели, чтобы он подчинялся тем же эдиктам и соблюдал те же традиции что отец и мать.</p>
+<p>Происхождение и регулярность эдиктов решат Мастер. По его же решению может быть издан пакет эдиктов сразу как паладин начал свою карьеру или же выйдут они только по проишествии какого-то события (постройка крепости паладином или объявление войны). В любое время может быть выпущен новый эдикт, исправлен или приостановлен старый. Вполне возможно паладин за всю жизнь не увидит ни одного эдикта, но как бы то ни было он должен дословно их выполнять</p>
+<p>В редких случаях эдикты могу противоречить друг другу. Скажем эдикт, изданный церковью паладина может противоречить эдикту, изданному правительством. Для паладина обычно эдикты, изданные религиозными источниками, перевешивают мирские. Во всех случаях, ограничения паладина и его принципы имеют приоритет перед любыми эдиктами или ограничениями, изданными любой социальной структурой.# Этос</p>
+<p>Набор принципов, которые определяют жизнь паладина и влияют на его поведение называется этос. Хотя этос пересекается с законами общества он также охватывет духовные ценности и идеалы морали. Этос паладина определяет его жизненные ценности, подчеркивает его индивидуальность, и влияет почти на все поступки им совершаемые.</p>
+<p>Хотя определенная идеология присуща каждому игровому классу, этос паладина имеет два кардинальных отличия. Первое, этос паладина это длинный список руководящих принципов и характерных для этого класса. Второе, этос паладина абсолютно бескомпромиссен и требует беспрекословного подчинения. Даже незначительные нарушения влекут серьезные последствия, от выговоров вышестоящих командиров до лишения привилегий. В результате же серьезного нарушения паладин может вовсе лишиться своего статуса и полностью потерять все свои особые возможности.</p>
+<p>Паладин считает свой этос скорее привилегией, нежели ношей. Каждое действие это выбор между правильным и неправильным. Со всеми на то основаниями, он считает себя образцом того, как должен жить и поступать человек.</p>
+<p>Существует три аспекта этоса паладина: заповеди (общие правила), эдикты (указания вышестоящих чинов), и нормы (правила поведения). Также здесь описано, что можно считать нарушением этоса, и предлагает возможные наказания и пути искупления.</p>
+<p>Заповеди</p>
+<p>Самыми главными элементами этоса паладина являются заповеди, свод нерушимых правил описанных в PHB которых паладин должен придерживаться во всех ситуациях. Заповеди также  четки и незыблемы, как и требования по параметрам; они есть часть того, что делает паладина паладином  и разительно отличает его от всех остальных классов</p>
+<p>Добропорядочность</p>
+<p>Сама суть паладинства накладывает ограничение на склонность персонажа он должен быть только законопослушным добрым. Если в какой-то момент он отступит от этих принципов он перестанет быть паладином.</p>
+<p>Основой данной склонности является вера в систему законов, которая обеспечит достаток всем членам общества, обеспечит их безопасность и гарантирует справедливость. Так как эти законы рапространяются на всех членов общества, без всяких ограничений, то нет никакой разницы, что является их источником демократия или диктатура.</p>
+<p>Поскольку любой добропорядочный общественный строй следует похожим основополагающим принципам, какие-то частные законы могут отличаться. В одном обществе может быть разрешено многоженство в другом приветствуется только моногамность. Азартные игры могут быть доступны в одном обществе и абсолютно запрещены в другом. Паладин уважает любой закон общества, если оно добропорядочно в целом и не будет пытаться навязывть свои ценности его членам.</p>
+<p>Как бы то ни было, паладин не будет придерживаться закона, который идет вопреки его склонности. Правительство может быть уверено, что абсолютно нерегулируемые азартные игры не наносят особого вреда обществу, но если паладин увидит, что результатом такой политики стала бедность и отчаяние народа, и он сочтет, что в этом виновата власть, потакающая данному беззаконию, в ответ может призвать жителей отказаться от азартных игр или будет стараться изменить закон.</p>
+<p>Абсолютно безнравственные вещи, такие как рабство или пытки, могут заставить паладина напрямую вмешаться в процесс. Не имеет значение культурные ли это традиции или же они узаконены властью. Чувство справедливости паладина заставляет его при необходимости вмешиваться и облегчать как можно больше страданий. Заметьте, что в результате нехватки времени, возможностей, или при наличии каких-либо обязательств вмешательство паладина может быть ограничено, но он все равно должен попытаться изменить ситуацию. Хотя паладин может хотеть, что бы в обществе, где процветает каннибализм, произошла культурная революция, он может удовлетвориться спасением нескольких жертв, перед тем как обстоятельства вынудят его покинуть эту территорию.</p>
+<p>Возникает вопрос, в каком случае паладин может отнять жизнь у другого существа? Паладин убивает только в том случае, если это в итоге ведет к добру или чтобы защитить свою жизнь, жизнь своих друзей или жизнь того, кого он поклялся защищать. Во время войны, он воюет с врагами своего ордена или церкви.</p>
+<p>В остальных случаях паладин избегает убийства, когда это возможно. Он никогда не убьет человека, который только подозревается в преступлении, так же паладин не убьет того, кого он считает угрозой, только если нет неопровержимых доказательств или стопроцентной уверенности. Он никогда не убьет ради сокровища или личной выгоды. Он никогда преднамеренно не убьет законопослушно доброе существо.</p>
+<p>Поскольку паладин верит в святость жизни в целом, большинство убивает животных в тех же ситуациях, которые описаны выше, хотя он может охотиться. Так же он может убить монстра, если он руководствуется инстинктом, а не злом. Хотя большинство паладинов не охотятся ради удовольствия, они могут делать это чтобы отточить свое боевое мастерство.</p>
+<p>Лимит на Магические Предметы</p>
+<p>Этот лимит распространяется также и на свитки, которые являются магическими предметами. В независимости от обстоятельств, пути или уровня паладина он не может обладать больше чем десятью магическими предметами.</p>
+<p>Паладины ограничены не только по количеству магических предметов, но и по типу. В общем, паладин может обладать следующими вещами.</p>
+<p>Один набор магических доспехов. Это ограничение не включает в себя обычный доспех, зачарованный на время, а так же вещи типа  плаща защиты (cloak of protection), шлемы защиты (helm of protection) или  ботинок скорости (boots of speed) (все они относятся к прочим вещам лимит на которые описан ниже). Даже часть магической брони, например, грудная пластина, считается за полный доспех.</p>
+<p>Один магический щит.</p>
+<p>Четыре магических оружия  Это ограничение не включает в себя обычное оружие зачарованный на время, но включает святые мечи. Колчан стрел или болтов для арбалета считается одним предметом. Такие вещи как стрела поиска (arrow of direction)  или стрела убийства (arrow of slaying), в общем, вещи наделенные особой магической силой,  считаются одним предметом.</p>
+<p>Четыре прочих магических предмета. В эту категорию входят кольца палочки, жезлы, драгоценности и свитки. Мешок фасоли (bag of beans), набор  ioun stones,  deck of many things каждый считается за один предмет. Магическое зелье считается одним предметом независимо от количества доз.</p>
+<p>Чтобы быть уверенным в том, что паладин выполняет это требование, важно знать, кто в точности владеет каждым магическим предметом внутри партии. В большинстве случаев паладин не будет использовать предмет, если он ему не принадлежит. Не имеет значения кто в данный момент несет предмет; если он принадлежит паладину, то он ему принадлежит, где бы он ни был. Паладин может давать в пользование свои предметы, но поскольку он все равно остается владельцем то они тоже засчитываются в его лимит.</p>
+<p>И наоборот, если у паладина уже есть десять магических предметов, он не может брать на время другие предметы у своих компаньонов. Паладин никогда не будет использовать неоднозначность этого правила; он останется верным духу его статуса ровно также как и букве (обсуждено далее).</p>
+<p>Естественно не рассматривается тот случай, когда паладин не знает, что предмет магический. Но с тех пор как у него появляются догадки о его необычных свойствах, он должен расстаться либо с ним, либо с другим своим магическим предметом.</p>
+<p>Паладин сам, добровольно, расстается с какой-либо магической вещью, если нашел более подходящую. Например, он может отказаться от  стрел поиска (arrow of direction) если он нашел  копье молний (javelin of lightning).</p>
+<p>Лишние магические предметы могут быть отданы другим законопослушно добрым персонажам, пожертвованы церкви паладина или его ордену, или просто выброшены. Поскольку лишние предметы не принадлежат паладину, они не могут быть проданы или обменяны, даже если вырученные деньги пойдут на благое дело.</p>
+<p>Ограничение Богатства</p>
+<p>Паладин не заинтересован  в собственном богатстве. Ему больше по душе моральное, чем материальное удовлетворение, происходящие из служения своей вере и своему ордену. Материальные ценности для паладина мимолетны, поверхностны и, в конце концов, просто не имеющие смысла. Духовная удовлетворенность вследствие хорошо выполненного задания гораздо более притягательна, глубока и значима.</p>
+<p>Несмотря на все это паладин прекрасно понимает, что какая-то сумма денег необходима, чтобы содержать себя и свое имущество в хорошем состоянии. Заместо того чтобы копить деньги, паладин оставляет себе достаточную сумму, что бы вести скромный, но удовлетворящий образ жизни.</p>
+<p>Паладин никогда не принимает подачек, не рассчитывает на щедрость встречных людей или их компаньонов. Он всегда оплачивает свои потребности сам и гордится своей независимостью. Он получает доход от сокровищ, вознаграждений, оплат услуг наравне со всеми остальными. В отличие от всех остальных персонажей паладин руководствуется строгими принципами что, куда и как можно тратить и сколько денег можно откладывать.</p>
+<p>Бюджет Паладина</p>
+<p>Паладину нужны деньги, чтобы покрывать следующие расходы:</p>
+<p>Питание. Паладин должен сам кормить себя и своего коня (гриффона, слона). Что бы снизить расходы, паладин может охотиться, собирать фрукты, овощи.</p>
+<p>Оружие, Доспехи, и Одежда. Это включает в себя стоимость покупки, обслуживания, ремонта и замены. Паладин редко скупится в этом вопросе, стараясь иметь снаряжение самого высокого качества.</p>
+<p>Упряжь. Также как и в случае с оружием паладин пытается обеспечить всем самым лучшим своего спутника.</p>
+<p>Жилье. Паладин всегда старается найти наименее дорогой вариант из подходящих.</p>
+<p>Налоги и Лицензии. Паладин должен платить все взносы, обозначенные его церковью или орденом. Так же он должен оплачивать все сборы и пошлины, возникающие в путешествиях.</p>
+<p>Плата за Обучение. Паладин может оплачивать услуги тренера, если он законопослушный добрый и паладин имеет разрешение от своего покровителя.  Прочие Вещи. Включают лекарства, фонарное масло, одежду, постельные принадлежности. Большинство паладинов предпочитают по возможности сами изготавливать подобные вещи, чтобы сохранить деньги.</p>
+<p>Оплата. Честная оплата должна быть гарантирована любому слуге либо наемнику.</p>
+<p>Затраты на Замок. Паладин несет все расходы по строительству и содержанию своей крепости.</p>
+<p>Замок</p>
+<p>Вдобавок к своему резервному фонду, паладин также может иметь отдельный фонд на строительство собственной крепости. Как объяснено в  Главе 7, хотя цены на строительство сильно разняться, все равно они очень дороги. Паладин может копить деньги, на что в течение многих лет и даже десятилетий, для того чтобы накопить необходимую сумму. Мудрый паладин может начать откладывать деньги на строительство крепости даже с первого уровня.</p>
+<p>Как только паладин достраивает замок, он сразу получается, вынужден оплачивать множество дополнительных расходов оплата услуг персонала и содержание замка. Он должен соответственно планировать свой бюджет.</p>
+<p>Обычно крепости принадлежат к одной из трех экономических категорий, каждая из которых по-своему отражается на финансах паладина:</p>
+<p>Нуждающиеся в субсидиях К этой категории относятся крепости, не имеющие значимого сельскохозяйственного или промышленного производства. Все производимые товары не в состоянии обеспечить содержание крепости и оплату служащим. В этом случае паладин должен оплачивать разницу из своего кармана, что существенно ударяет по его бюджету.</p>
+<p>Это обычное дело для паладина субсидировать только что построенную крепость до тех пор, пока там окончательно все не уладится. При грамотном управлении и маленькой толикой удачи, крепость становится самоокупаемой в течение нескольких месяцев, правда, обычно лет. Существуют причины, по которым некоторые крепости будут всегда нуждаться в субсидировании, вот две из них:</p>
+<p>• Крепость по свей сути не предназначена для того чтобы приносить доход, функционируя как пограничная, тренировочный центр, госпиталь, или религиозное святилище. Крепость этого типа должна иметь хозяина, не обремененного финансовыми проблемами.</p>
+<p>• Хоть крепость и была предназначена для принесения дохода, но из-за сложившихся неудачных обстоятельств или неправильного управления уже никогда дохода приносить не будет. Если паладин в этом случае решает оставить управление крепостью он в первую очередь должен позаботится о решении проблем тех людей кто состоит у него на службе, находя им новую работу с не меньшей оплатой.</p>
+<p>Самоокупаемая. Крепость сама окупает расходы на свое содержание путем продажи товаров или услуг. Паладин не должен ни субсидировать ее ни думать о том куда потратить излишки дохода. Для большинства паладинов это скорей всего наиболее подходящий вариант.</p>
+<p>Приносящая доход. Крепость приносит надежный доход от продажи товаров или услуг. Паладин может использовать эти доходы для расширения своих владений (обеспечивая больше трудовых мест или большего прославления своей веры и никогда для собственной выгоды) а также увеличения пожертвований своей церкви или ордену . Приносящие доход крепости требуют либо большего внимания со стороны паладина либо наличия профессиональных управляющих.</p>
+<p>Избыточный Доход</p>
+<p>Весь избыточный доход паладина должен быть отправлен на благое дело. Это подразумевает все деньги, которые остались после уплаты всех необходимых платежей, только если это не те деньги, которые откладываются на строительство крепости. Он может оставлять резервный фонд размером два-три месячных дохода, но не больше. Он не может откладывать деньги для на наследство или же оплату расходов товарищей.</p>
+<p>Так что же паладину делать с излишком денег? У него есть три варианта:</p>
+<p>• Отказаться от них. Если жители города предлагают ему горсть драгоценных камней за уничтожение вампира он может вежливо отказаться от платы. (&quot;Ваша благодарность и есть наилучшая плата.&quot;) если он находит сундук полный жемчуга, золотых монет, и сборником стихов, он берет книжку и оставляет остальное (после того как он ее прочитает он, скорее всего, подарит ее другу либо отдаст в библиотеку).</p>
+<p>• Пожертвовать церкви. Это не будет считаться обязательной десятиной, так как это не является частью его обычного дохода.</p>
+<p>• Пожертвовать на добропорядочное предприятие. Подходящими могут считаться госпитали, библиотеки и детские приюты, исследования, военные организации и правительственные проекты могут быть подходящими, если только паладин уверен, что денги пойдут на благие цели.</p>
+<p>Придерживаясь этих принципов паладин волен, выбирать, как потратить деньги. В одном случае он может пожертвовать сокровища госпиталю и отказаться от вознаграждения в другом. Он никогда не отдаст излишек денег другому персонажу или NPC.</p>
+<p>Если паладин отказывается от награды или от сокровищ это не значит что его компаньоны должны поступить также. Если он убил злого дракона, но не взял ничего из его сокровищ, партия вольна делать что ей будет угодно.</p>
+<p>Заем</p>
+<p>Паладин, который попал в сложную финансовую ситуацию, может попросить в долг у человека или организации с законопослушно доброй склонностью. Поскольку заем денег сам по себе не очень приятное занятие то нарушением этоса оно считается только в том случае, если паладин занимает деньги, которые ему реально не нужны или он не собирается их возвращать.</p>
+<p>В большинстве случаев, паладин может занимать лишь небольшие количества денег (к примеру, его месячный доход). Так же он может занять денег в случае экстренной необходимости; возможность купить карту, на которой обозначен путь к святому мечу не является необходимостью, но нужда в медикаментах для излечения умирающего друга как раз и есть это обстоятельство. Занять деньги на управление крепостью позволяется, но только если это надо для выплат рабочим либо для поведения, не терпящего отлагательств ремонта. (Текущая крыша может подождать; а вот разрушенная стена крепости вряд ли.) Паладин должен стараться как можно быстрее отдавать свои долги.</p>
+<p>Повторный заем в течение короткого промежутка времени уже можно рассматривать, как нарушение этоса. Если паладин занимает деньги на протяжении нескольких месяцев подряд, он должен лишиться своей крепости, своего спутника и всего того чего он не может себе позволить.</p>
+<p>Десятина</p>
+<p>Паладин должен отдавать 10% своего дохода добропорядочной организации по своему выбору.  Это называется десятиной. В большинстве случаев он отдает десятину своей церкви. Если он не принадлежит никакой церкви и действует самостоятельно (описано в главе Пути Паладина), он может отдавать десятину любой добропорядочной организации типа госпиталя или университета. Паладин не выказывает никаких желаний по поводу того как эти деньги должны быть потрачены, хотя деньги и так как обычно идут напрямую на расходы по содержанию института, приему учеников, закупке необходимых материалов и на затраты по обучению. Однажды выбрав организацию паладин обычно платит ей десятину всю жизнь.</p>
+<p>Первая десятина паладина обычно платится из превоначальных денег паладина  5d4 x 10 золотых. После этого, он должен платить десятину со всех источников своего дохода, включая награды, соровища, оплат, и дохода который приносит крепость. Если он находит драгоценность или магический предмет, он должен пожертвовать 10% от его ценности в золоте, при первой возможности. Если он находит алмаз стоимостью 500 золотых, он отдает 50 золотых; если алмаз теряется или украден, он все еще должен отдать 50 монет золотом.</p>
+<p>Десятина платится только с реального дохода паладина. Если он не взял сокровище или отказался от награды, то в этом случае десятина не отчисляется.</p>
+<p>Прямой обязанностью паладина является то, что он должен как можно быстрее отдать десятину. Ежемесячные оплаты должны проводится в почти любом случае. Если месячная плата невозможна или установлен  другой график отчислений; если паладин находится на миссии в другой части света, если он занят на войне - то десятину нужно отдать при первой же возможности по возвращении. Десятину паладин может отдавать сам или пользоваться услугами посыльного.</p>
+<p>Десятина, которая по каким-то причинам находится у паладина, все равно считается собственностью организации, куда она будет отчислена. Голодающий паладин у которого из всех денег только 50 золотых десятины не может их тратить если только не получит разрешение на это своего божества. Если он вел себя достойно, например он потратил свой последний золотой чтобы накормить голодающего ребенка, разрешение обычно даруется, естественно при условии что десятина будет отдана в полном объеме.</p>
+<p>Склонности Компаньонов</p>
+<p>Мнение о паладине в немалой степени зависит от партии, с которой он путешествует. В идеале паладин путешествует только с добрыми компаньонами. Отношения с нейтральными персонажами в некоторых ситуациях считаются допустимыми, но более долгий контакт может посчитаться нарушением этоса. Нахождение в одной партии со злыми персонажами расценивается как злой поступок.   В общем то паладин несет ответственность за поступок любого члена партии.</p>
+<p>Наемники. Без всякого исключения все наемники паладина будь то просто воины или же рабочие в его крепости должны быть законопослушно добрыми. Паладин должен сделать все возможное, чтобы определить их склонность, прежде чем нанимать. Если наемник совершает злой поступок или каким-то другим образом показывает что его склонность не законопослушно добрая у паладина не остается другого выхода кроме как уволить его либо отдать под суд.</p>
+<p>В некоторых случаях паладин несет ответственность за злые поступки совершенные теми, кого он нанял. Например, конюх паладина совершил убийство. Фактически паладин невиновен, но он может считаться причастным с точки зрения этоса. Хотя высшие чины могут и не покарать паладина, он может понести наказание за нарушение своего этоса, за то, что он не удосужился, к примеру, полностью изучить биографию конюха, прежде чем его нанять. В любом случае только Мастер определяет, явилось ли что-то нарушением этоса.</p>
+<p>Последователь. Паладин принимает только законопослушно добрых последователей. Как и в случае с наемниками паладин должен предпринять все меры, чтобы выяснить склонность последователя. Паладин должен немедленно отказаться от последователя, который совершил злой поступок.</p>
+<p>Добрые Персонажи. При путешествии в партии паладин отдает предпочтение законопослушно добрым персонажам, именно они становятся его самыми близкими друзьями. Но разве может паладин предвидеть судьбу, которая иногда сводит вместе людей очень разных мировоззрений. Паладин так долго остается с партией пока общая склонность партии добрая; преимущество нейтральных персонажей либо наличие хоть одного злого может вызвать проблемы.</p>
+<p>Паладин может поддерживать хорошие отношения с персонажами нейтрально доброй склонности, исключая взгляд таких персонажей на государственные структуры и общество в целом. Как бы то ни было нейтрально добрые персонажи должны строго придерживаться добрых принципов, чтобы паладин хорошо к ним относился. Чуть тяжелее общаться паладину с хаотично добрыми персонажами, из-за их острого чувства собственной независимости и отсутствия всякого уважения к власти. Но паладин будет продолжать сотрудничать с хаотично добрыми персонажами в случае совпадения их целей.</p>
+<p>Нейтральные Персонажи. Некоторые паладины также комфортно чувствуют себя в компании законопослушно нейтральных персонажей, восхищаясь их чувством долга и преданностью своему покровителю. Естественно это относится только к персонажам представляющим порядочные структуры, никак не работорговцев или тиранов.</p>
+<p>Паладин будет взаимодействовать с партией, в которой есть часть законопослушно нейтральных или истинно нейтральных персонажей. Но, скорее всего от нейтральных персонажей он будет держаться несколько отстранено. Паладин, скорее всего, попытается собственным примером показать нейтральным персонажам, что служение идеалам добра приносит куда большее духовное удовлетворение, нежели принципы нейтралитета. Пока нейтральные персонажи воздерживаются от злых действий, паладин может вполне хорошо уживаться с ними.</p>
+<p>Паладин присоединится к партии состоящей целиком только из нейтральных персонажей только в том случае, если ставки действительно высоки. К примеру, он может сотрудничать с нейтральной партией в целях поиска святого артефакта, спасении короля, или предотвращения уничтожения монастыря. В случае простой охоты за сокровищами или разведывательной экспедиции паладин, скорее всего,  пойдет своей дорогой. (Если партия состоит из нейтральных персонажей Мастер должен обьяснить игроку играющему паладином основные цели и задачи будущего приключения. Игрок должен либо выйти из ситуации путем нахождения для паладина места в данном приключении либо взять другого персонажа.)</p>
+<p>Злые персонажи. Поскольку долг паладина всячески подавлять зло то паладин никогда не будет сотрудничать со злыми персонажами. Он может взять злого персонажа под стражу, физически ограничивать персонажа, или добиваться его исключения из партии. Если ничто не имеет смысла, то паладин разрывает свои отношения с партией и идет своим путем. В любом случае бездействие непростительно.</p>
+<p>Паладин понимает что сложно, даже почти невозможно полностью отгородится от злых людей. Они везде: идут по улице, обедают в таверне, прогуливаются по рынку. Этос паладина не заставляет его нападать или вступать в конфликт с каждым злым человеком; во многих случаях, таких конфронтаций надо изгбегать особенно в случае если это может отвлечь паладина от выполнения от более важной миссии, или если это может вызвать ответные действия, которые возможно затронут невинных жителей.</p>
+<p>Обстоятельства могу позволить паладину общаться со злым человеком, следовать за ним или же пытаться что-то выяснить о нем. Это не является нарушением этоса, если не переходит границы. Первым признаком того, что паладин вступил на скользкую дорожку, является тот момент, когда его начинают ассоциировать со злыми NPC или воспринимать как их приятеля этого NPC.</p>
+<p>Эдикты</p>
+<p>Указания вышестоящих чинов, инструкции и традиции которым паладин обязан, подчинятся и обычно налагаемые покровителем паладина называются эдикты. Паладин должен беспрекословно следовать эдиктам; он должен их воспринимать также серьезно как свой этос.</p>
+<p>Паладин не выбирает, подчиняться данному конкретному эдикту или нет. Обычно, он обязывается подчинятся всем эдиктам изданным выбранным источником. Этот источник он выбирает тогда когда начинается его карьера. Мастер может порекомендовать наиболее подходящие источники.</p>
+<p>Обычно прошлое паладин может помочь выбрать источник эдиктов. Например, паладин, чьи родители хотели, чтобы он подчинялся тем же эдиктам и соблюдал те же традиции что отец и мать.</p>
+<p>Происхождение и регулярность эдиктов решат Мастер. По его же решению может быть издан пакет эдиктов сразу как паладин начал свою карьеру или же выйдут они только по проишествии какого-то события (постройка крепости паладином или объявление войны). В любое время может быть выпущен новый эдикт, исправлен или приостановлен старый. Вполне возможно паладин за всю жизнь не увидит ни одного эдикта, но как бы то ни было он должен дословно их выполнять</p>
+<p>В редких случаях эдикты могу противоречить друг другу. Скажем эдикт, изданный церковью паладина может противоречить эдикту, изданному правительством. Для паладина обычно эдикты, изданные религиозными источниками, перевешивают мирские. Во всех случаях, ограничения паладина и его принципы имеют приоритет перед любыми эдиктами или ограничениями, изданными любой социальной структурой.</p>
+<h1 id="_2">Верный Спутник<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h1>
+<p>Скорее всего, самым ценным, чем паладин может обладать это так называемый «верный спутник», обычно им является тяжелая боевая лошадь исключительной силы, мужества и интеллекта, которая служит своему хозяину с преданностью достойной подражания. Многие верят, что Боги сводят их вместе, чтобы быть уверенными, что рядом с паладином находится благородный и верный спутник. Однажды присоединившись, спутник остается верен паладину, пока тот придерживается своих принципов.</p>
+<p>Паладин может встретиться со своим спутником по достижении четвертого уровня. Начиная с этого момента спутник, может объявиться в любое время. Поскольку появление спутник является важным событием в жизни паладина, Мастер может немного задержать его появление. Например, паладин четвертого уровня собирается сесть на корабль и отправится в путешествие с целью исследования древней цивилизации, Мастер вполне может подождать до того момента, когда паладин спустится на землю. В любом случае Мастер определяет, когда и как паладин обретет своего спутника.</p>
+<p>Паладин не может одновременно иметь несколько спутников. Если его спутник умирает либо просто исчезает, паладин не может обрести другого, если еще не прошло десять лет с момента встречи с первым.</p>
+<p>Обычно спутниками становятся боевые лошади, но и другие существа тоже могут ими стать. Таблица 13 предоставляет один из возможных списков. Мастер вполне может пополнять Таблицу 13 другими существами, только если они подходят для верховой езды, потенциально разумны, и доброй или нейтральной ориентации.</p>
+<p>Игрок может предложить кого-то в качестве спутника для своего паладина, но Мастер выносит окончательное решение. Мастер просто кидает кубик и смотрит в Таблицу 13 или просто выбирает оттуда существо. Надо помнить то, что только самые смелые, сильные и умные становятся спутниками. Чтобы стать спутником, существо должно отвечать строгим требованиям. То, что описано ниже это всего лишь рекомендации, а не правила, так что Мастер может решить, что угодно.</p>
+<p><strong>Хиты.</strong> Большинство спутников имеет хотя бы шесть хитов на кубик. Тяжелая боевая лошадь, к примеру, имеет 21-27 хитов.</p>
+<p><strong>Интеллект.</strong> Интеллект того вида, к которому принадлежит спутник, должен быть, по меньшей мере, Животным (Animal) 1.Интеллект же спутника отличается следующим:</p>
+<p>• Если общий интеллект этого вида  - животный, Сам спутник имеет интеллект 4 Зачаточный (Semi). Например, лошади имеют Интеллект 1, но боевая лошадь являющаяся спутником паладина имеет Интеллект  4.</p>
+<p>• Если Интеллект того вида, к которому принадлежит спутник Зачаточный или выше, то сам спутник будет иметь бонус +2 к самому высокому значению. В <em>Monstrous__Manual</em> написано, что Интеллект грифона разнится от двух до четырех; значит если грифон является спутником паладина, то его Интеллект равен 6.</p>
+<p><strong>Мораль.</strong> Мораль вида должна быть, по крайней мере, Ненадежной (5-7). Мораль спутника отличается в лучшую сторону от морали его вида:</p>
+<div class="codehilite"><pre><span></span>    • Если мораль вида Ненадежная или Средняя, то спутник имеет мораль 11 (Надежная).
+
+    • Если существует разброс в определении морали спутника, то он имеет наивысшее возможное значение. К примеру, если грифон имеет Мораль 11-12; то если Грифон является спутником, то у него мораль 12.
+</pre></div>
+
+
+<p><strong>Усовершенствованные спутники.</strong> Мастер может улучшать любые характеристики спутника, допустим, добавляя хитдайсы или улучшая рейтинг скорости. Допустим, улучшенная боевая лошадь имеет 5+5 хитдайса, скорость 18.</p>
+<p>**        Уровневые Ограничения**</p>
+<p>Чтобы сохранить баланс, Мастер может запретить паладину низкого уровня выбрать себе любого спутника. Мастер, например, может решить, что какого-либо другого спутника, нежели боевую лошадь паладин может получить лишь на седьмом уровне, а летающего спутника не раньше 10.</p>
+<p>Мастер может поставить перед всеми паладинами следующие условия:</p>
+<div class="codehilite"><pre><span></span>    • Хитдайс сухопутного спутника паладина равен уровню паладина.
+
+    • Хитдайс летающего спутника паладина равен уровню паладина деленному на два и округленному вниз.
+</pre></div>
+
+
+<p>Используя эти данные, у паладина седьмого уровня спутником может быть гиппогриф с 3+3 хитдайсами, но не грифон с 7 хитдайсами.</p>
+<p>**        Ограничения Налагаемые Кампанией**</p>
+<p>Мастер должен выбирать спутника паладину учитывая особенности компании, и принимая во внимание партию паладина. Грифон может быть ужасен в партии, где все ездят на лошадях, отчасти потому что грифон любит конское мясо. А гиппопотам будет абсолютно бесполезен в безводной пустыне. То есть если выпал неподходящий результат, то лучше кинуть кубик еще раз.</p>
+<p>**        Предпочтения Вида**</p>
+<p>Верными спутниками становятся только добровольно, а поэтому некоторые виды имеют свои собственные взгляды на то с кем им стоит путешествовать. Единороги, например, отправятся в путешествие только с женщинами, в то время как легкая боевая лошадь может отказаться везти седока закованного в полный панцирь с тысячей фунтов поклажи. То есть если выпал неподходящий результат, то лучше кинуть кубик еще раз.</p>
+<p>**        Подклассы паладина**</p>
+<p>Определенным подклассам паладина могут не подходить некоторые животные или же у них могут быть предпочтение только к какому-то определенному виду.</p>
+<p><strong>Таблица 13: Спутники</strong></p>
+<p>**       **  <strong>D**</strong> 100        Спутник**</p>
+<div class="codehilite"><pre><span></span>    01-77        Боевая лошадь\*
+
+    78-79        Грифон
+
+    80-81        Единорог\*\*
+
+    82-83        Пегас
+
+    84-85        Гиппогриф
+
+    86-87        Гигантский Орел
+
+    88-89        Дикий Волк
+
+    90-91        Слон или Олифант
+
+    92-93        Лев, Тигр
+
+    94-95        Гигантский Лизард
+
+          96-97 Водные (гиппопотам, морская лошадь, морской лев,
+
+           небольшой кит, дельфин)
+
+    98-00        Выбор Мастера
+</pre></div>
+
+
+<p>* Стандартная боевая лошадь паладина.</p>
+<p>** Доступно только паладинам женщинам.</p>
+<p><strong>Боевая Лошадь Паладина</strong></p>
+<p>Боевая лошадь паладина это не совсем обычный конь. Немногим больше чем обычная боевая лошадь, но гораздо более сильная. Ее взлохмаченная шерсть и очень толстая шкура дает ей природную защиту. Сильные ноги позволяют двигаться со скоростью средней боевой лошади. Доступный ей вес без нагрузки - 300 фунтов, легкая загруженность (половинная скорость) - вес 450 фунтов и полная загруженность (треть обычной скорости) - загруженность 600 фунтов.</p>
+<p><strong>Стандартная боевая лошадь паладина:</strong> Инт. Средний (7); Склонность N; AC 5; MV 18; HD 5+5; THAC0 15; #AT 3; Урон 1d3/1d8/1d8; Размер L; ML 12; XP 270.</p>
+<p><strong>Обретение Спутника</strong></p>
+<p>Обычно, возможность получить спутника появляется в течение нескольких месяцев, после того как паладин достигает четвертого уровня. Мастер определяет конкретное время и обстоятельства этой встречи, вписывая ее в течение кампании. В любом случае приобретение паладином спутника это драматичный момент, поскольку он является поворотным в его карьере. Вот некоторые возможности сделать это:</p>
+<p><strong>Видение.</strong> Паладина может посетить видение, посланное богами, где ему явится его спутник в какой-то определенной местности. Например, ему может привидеться израненная боевая лошадь посреди поля брани, окруженная трупами лизардов. Бесчувственный единорог может лежать на лужайке полной темно-красных цветов, сраженный ароматом усыпляющих растений. Видение может быть как предзнаменованием какого-то будущего события, так и воспоминанием из прошлого. Это видение посещает паладина все чаще и чаще на протяжении нескольких недель. Видение также становится более детальным по мере приближения к его источнику. Обычно приключенцы сталкиваются с ситуацией, которую паладин уже не один раз, во всех подробностях, видел во снах. Преодолевая последнее препятствие, такое как битва с чудовищами, нападающими на раненую лошадь или нахождение противоядия для единорога, паладин окончательно налаживает духовную связь со своим спутником.</p>
+<p><strong>Награда.</strong> Паладин также может получить своего спутника в результате совершения какого-то поистине героического поступка. Если, например он спас деревню от разрушения красным драконом или же собственноручно загнал обратно в леса огромную банду орков, то благодарные жители могут преподнести ему в подарок великолепную боевую лошадь. Паладин, строящий монастырь, посвященный своему Богу, на пике высокой горы может подскользнуться, и упасть; и пока он будет падать грифон, посланный богами, спасет его от верной гибели.</p>
+<p><strong>Приключение.</strong> Паладин может услышать слухи о возможном месторасположении потенциального спутника и захотеть побольше узнать об этом. Информация может прийти от бродячего барда, разговора услышанного в таверне, или из мистического фолианта, найденного в руинах древнего замка. Он может потратить недели или месяцы, просто стараясь разобраться в задаче которую он должен решить, чтобы воссоединиться со своим будущим спутником. Спутник может быть в плену у злобного чудовища, в рабстве у злого правителя, или продаваться на аукционе за астрономическую сумму.</p>
+<p>**       Волшебство.** Определенный магический ритуал может вызвать появление спутника. Паладин может узнать детали этого ритуала из заумного фолианта или от случайно встретившегося доброго и болтливого мага. Гигантский орел, заключенный в кристалл может быть вызволен оттуда, если будет омыт слезами лепрекон, к примеру. Изображение боевой лошади на стене пещеры может ожить, если паладин сожжет под ним определенные ингредиенты. Если он соберет кости мертвого грифона и бросит их в море, то уже живой грифон может подняться из волн.</p>
+<p><strong>Налаживание Отношений со Спутником</strong></p>
+<p>В отличие от паладина животное всегда знает, когда произошло воссоедененение. Мастер должен описать поведение животного, чтобы паладин пришел к своим собственным выводам, заместо того чтобы сказать, что все уже произошло само собой. Вот несколько примеров этого:</p>
+<div class="codehilite"><pre><span></span>    • Животное выглядит особенно послушным и довольным: боевая лошадь подходит к паладину по первой просьбе, гиппогрифф вытягивается в струнку по команде.
+
+    • Животное необычно храбро, бесстрашно бьется плечом к плечу с паладином против заведомо более сильных чудовищ или дает знать если заметило засаду.
+
+    • Животное необычно добро и ласково: лошадь безропотно бежит рядом с паладином, останавливается когда останавливается он, и снова начинает движение если паладин двигается дальше, единорог отдыхает положив свою голову на руки к паладину.
+</pre></div>
+
+
+<p>После наблюдения за таким поведением животного в течение дня другого, даже самый недоверчивый паладин поймет, что его спутник найден. Чтобы окончательно развеять все сомнения насчет намерений животного, можно прочитать заклинание разговора с животным.</p>
+<p><strong>Обычные Обязанности</strong></p>
+<p>Почти всегда спутник паладина имеет те же потребности, что и остальные представители его вида. Он сам может позаботиться о себе, пастись или охотиться когда хочет есть и, идти на водопой, если хочет пить. Если не приказано ничего другого, спутник спит тогда же, когда спит паладин.</p>
+<p>В редких случаях, спутник может посчитать паладина ответственным за свое пропитание, например, при отсутствие полей, на которых можно пастись или лесов где можно охотиться. В пустыне паладин должен поделится со своим спутником водой. Спутникам часто нужна соль, чтобы восполнить потери при выделении пота. Больные или раненые спутники нуждаются в медицинской помощи.</p>
+<p>Некоторые спутники, обычно лошади, нуждаются в конюхе, чтобы оставаться здоровыми. Шкура лошади должна быть вымыта щеткой, потом протерта мягкой тряпкой. Ее подковы нужно проверить на наличие трещин, застрявших камней, и других недостатков способных нанести немалый вред животному. Все спутники нуждаются в проявлении заботы, такой как вкусная еда, ласковые слова, поглаживания.</p>
+<p><strong>Особенности Спутников</strong></p>
+<p>Все спутники, независимо от своего вида, имеют следующие особенности:</p>
+<p><strong>Преданность.</strong> Верность спутника непоколебима. Он беспрекословно выполняет приказы паладина, считая, что паладин понимает что делает. Если паладин передвигается сам, то спутник следует рядом с ним, если только паладин не попросит его оставаться на месте.</p>
+<p>На поле битвы, спутник остается рядом с паладином, даже в случае смертельной опасности. Спутник никогда не бросит паладина даже перед лицом смерти; переводя на игровые термины, он  Бесстрашен (Мораль 20) когда дерется рядом с паладином или защищает его.</p>
+<p>Спутник редко обращает внимание на партию паладина, если только его специально не обучили защищать их или слушаться их команд. Если спутнику покажется, что партиец подходит к паладину с недобрыми намерениями, он зафыркает или предостерегающе постучит копытами, а возможно даже попытается оттолкнуть партийца. Если паладин успокоит своего спутника, он отказывается от своих намерений, но может по-прежнему поглядывать за этим человеком. На неигровых персонажей спутник реагирует точно также, игнорируя невраждебный NPC которые выдерживают дистанцию, бурно реагируя на тех, кто хочет причинить вред паладину.</p>
+<p><strong>Ответ на зов.</strong> Спутник мгновенно откликается на призыв паладина. Спутник может реагировать на любой жест или звук, определенный паладином. Паладин должен показать сигнал своему спутнику только один раз, в будущем он будет откликаться на него незамедлительно.</p>
+<p><strong>Послушность.</strong> Паладин всегда может успокоить чем-то взволнованного спутника. Он делает это просто словами или жестами</p>
+<p><strong>Езда верхом.</strong> Паладин не нуждается в профессиях езды верхом ни на наземных животных, ни на воздушных. Так же он может использовать все финты, которые дозволены обладателям этих профессий и может выполнить его спутник. Обычно финты требуют проверки профессии, паладину же для выполнения финта с наземными животными надо прокинуть проверку Мудрости с модификатором +3 , а для летающих с модификатором -2. Если не обучен обратному, то спутник не позволит никому кроме паладина управлять собой.</p>
+<p><strong>Бой.</strong> Спутник самоотверженно защищает паладина, если на того напали, до тех пор, пока нападающий не ретируется. Также спутник может атаковать любую цель указанную паладином.</p>
+<p><strong>Тренировка</strong></p>
+<p>Спутник обучен любым трюкам, которые доступны его виду. Паладин может обучить своего спутника другим трюкам и заданиям. Трюки это набор действий, выполняемый по команде и не требующий никакой импровизации. Задания это более сложные комбинации, которые могут потребовать от спутника, чтобы он сам решал, что ему сделать в какой-то ситуации. Благодаря своей связи с паладином, спутник может обучиться впечатляющим трюкам и заданиям и за гораздо более короткое время, нежели представители его вида.</p>
+<p>Хотя процесс обучения очень похож, профессия тренировки животных не требуется. Паладин просто объявляет Мастеру, чему он хочет обучить своего спутника. Если Мастер согласен, то паладин начинает тренировки. Что бы обучить спутника трюку требуется одна-две недели, заданию 2-5. В конце периода обучения паладин бросает проверку. Если проверка удачна, то животное обучилось успешно. Если проверка провалена, то паладин может попробовать обучение снова на тех же условиях. Если завалена и вторая проверка Мудрости это значит, что животное не сможет никогда обучиться этому трюку. Спутник может знать 9-20 (1d12+8) трюков и заданий, в любой комбинации оных.</p>
+<p>Паладин вполне может иметь профессию обучения животных и может обучать одновременно до трех штук, включая своего спутника.</p>
+<p>Паладин должен регулярно тренироваться со спутником, чтобы обучить его чему-либо. Важно не время, затраченное за день, а регулярность тренировок. Если паладин пропускал занятия несколько дней подряд, то Мастер может решить, что тренировки нужно начинать заново.</p>
+<p>Ниже приведено несколько примеров подходящих для всех видов спутников. Паладин не должен ограничиваться этим списком он может попробовать обучить спутника всему чему угодно, если только спутник на это способен выполнить это в принципе.</p>
+<p>Обычно никакие проверки не нужны, когда спутник делает то, чему обучил его паладин, но в экстренных случаях может понадобиться проверка какой-то способности или Мастер установит процентный шанс. Мастер должен воспринимать задания или трюки, рассчитанные на бой, также как и обычные боевые моменты, кидая броски атаки и выясняя остальные нужные моменты.</p>
+<p><strong>Высокоинтеллектуальные**</strong> Спутники.** Спутники, которые могут разговаривать и те, чей интеллект сравним с человеческим, не нуждаются в тренировке. Они могут исполнить любой трюк или задание, которое дал им паладин, была бы причина делать это.</p>
+<p><strong>Простые Трюки</strong></p>
+<p>**        Разговор.** Спутник рычит, хрипит или издает заранее обговоренные звуки по сигналу паладина.</p>
+<p><strong>Перевоз Грузов.</strong> Обычно, спутники не перевозят грузов. Одни приспособлены только для перевозки седока; другие считают, что это ниже их достоинства. Если обучить спутника этому трюку, он спокойно может переключиться между перевозкой поклажи и человека. Чтобы избежать натертостей и ран, спутнику обычно нужно специальные седельные сумки. Седельная сумка на лошадь стоит 5 золотых монет. Седельные сумки на другие виды животных стоят от 5 до 15 золотых, в зависимости от размера животного и решения Мастера.</p>
+<p><strong>Погоня.</strong> Обычно, спутник прекращает битву, как только агрессор отступает. Если спутник обучен погоне, он может преследовать нападающего. Если он догоняет врага, то он атакует снова. Спутник может преследовать врага до конца, возвращаясь, когда враг повержен или сбежал или возвращаться по команде паладина.</p>
+<p><strong>Остановка.</strong> Спутник немедленно останавливается и стоит, не двигаясь пока паладин не даст команду к движению.</p>
+<p><strong>Простые задания</strong></p>
+<div class="codehilite"><pre><span></span>    **Спасение.** Если паладин падает без сознания на поле боя, то спутник пытается оттащить его в ближайшее безопасное место, возможно заранее определенное.
+</pre></div>
+
+
+<p><strong>Стратегия Атаки.</strong> В бою спутник сам выбирает свою тактику боя и оппонентов. Он может ненадолго оставить паладин, преследуя какого-то монстра, или может атаковать врага, которого паладин не видит (например, приготовившегося ударить паладина в спину).</p>
+<p><strong>Стража.</strong> Спутник может остаться на страже лагеря или какого-то другого места. Если спутник замечает вторжение, он реагирует, как его учил паладин. Он может начать будить спящего паладина или другого указанного персонажа или же атаковать пришельцев.</p>
+<p>Так как большинство спутников не могут определить намерения пришельца, то они, скорее всего, будут так реагировать на любого кто заходит в указанную зону. Чтобы улучшить его способности стражника, если паладин скажет ему реагировать только на определенный вид пришельцев (кто-нибудь на лошади, какой-нибудь огр). Что бы узнавать определенный тип пришельцев требует отдельного трюка, требующего отдельного периода тренировки. Другими словами сначала надо обучить спутника заданию Стражи, а затем трюку определения пришельцев, каждый трюк подразумевает один тип существа.</p>
+<p><strong>Поиск.</strong> Спутник может попытаться найти какой-то предмет по желанию паладина, если он находит его, то приносит его обратно паладину. Это могут быть драгоценности, оружие, фляжки, свитки. Искать можно в небольшой пещере, темной аллее, или какое-то здание. Паладин должен показать спутнику образец искомого предмета, чем более точный, тем лучше. (Если паладину нужно конкретный меч из оружейной то он должен показать своему спутнику очень похожий меч.) Паладин также должен указать зону поиска. Поиски продолжаются не бесконечно, обычно через час бесплодных поисков спутник возвращается.</p>
+<p>Если условия поиска очень сложны, то Мастер может провести проверки способностей. Если, например спутник ищет конкретный меч, а в зоне поисков находится очень много похожих мечей, то Мастер может кинуть проверку Интеллекта спутника. Меч находится только в том случае, если пройдена проверка Интеллекта.</p>
+<p>Также можно попросит спутника найти конкретного человека. Что бы узнать конкретного человека требуется изучить отдельный трюк, требующего отдельного периода тренировки. Другими словами сначала надо обучить спутника заданию Поиска,  а затем научить его узнавать конкретного человека, что требует отдельного трюка, каждый трюк подразумевает одного человека.</p>
+<p><strong>Спутники Паладина</strong></p>
+<p><strong>Как</strong>  <strong>NPC</strong></p>
+<p>Поскольку спутники это такие же существа из плоти и крови, со своими мыслями, чувствами и желаниями, Мастер должен вести их как NPC. Как любой человек NPC, спутник это отдельная личность. Он может быть упрямым или покладистым, доверчивым или хитрым, безрассудным или осторожным. Он может не любить бородатых людей, бояться воды, любить яблоки. Высокоинтеллектуальные спутники могу общаться кивками головы, топаньем лапами или даже разговаривать, давая советы..</p>
+<p><strong>Прощание со Спутником</strong></p>
+<p>В нормальных обстоятельствах, спутник служит одному паладину не больше десяти лет. В течение этого времени, паладин может отпустить спутника, если он стал калекой или серьезно заболел, если путешествие привело паладина в местность непригодную для жизни спутника или по какой-то другой причине. Спутник подсознательно знает, когда паладин отпускает его и считает свой долг выполненным. Мастер должен обыграть этот момент так же драматично, как и обретение спутника.</p>
+<p>Если паладин возвращается на место, где он отпустил своего спутника и зовет его, он может вернуться. Он возвращается, если могут быть выполнены следующие условия:</p>
+<div class="codehilite"><pre><span></span>    • Спутник жив и дееспособен.
+
+    • Спутник не покинул это место и может услышать зов паладина.
+
+    • Десять лет еще не прошло с того времени как паладин обрел спутника.
+
+    • Паладин не обрел нового спутника за это время.
+
+    • Мастер одобряет возвращение.
+</pre></div>
+
+
+<p>Спутник может не ответить на зов по следующим причинам:</p>
+<div class="codehilite"><pre><span></span>    • Десять лет прошло со времени их первой встречи. Много животных, особенно лошадей, слишком стары, чтобы путешествовать в этом возрасте. Другие, типа единорогов, становятся безразличными к приключениям.
+</pre></div>
+
+
+<p>После десяти лет службы, паладин может добровольно отпустить спутника. В противном случае, спутник просто исчезает при первой же возможности. Паладин, заслуживший свое звание, имеет право на нового спутника. Возможность возникает в течение следующих нескольких месяцев, на условиях описанных в главе &quot;Обретение спутника&#39;&#39;. Новый спутник совсем не обязательно лошадь, если предыдущий был лошадью.</p>
+<div class="codehilite"><pre><span></span>    • Если паладин лишен своих способностей за нарушение своего Этоса, спутник теряет свою привязанность к паладину и не откликается на зов. Однажды оступившийся паладин уже никогда не может иметь спутника.
+</pre></div>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../mystic/" title="Мистик" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Назад
+                </span>
+                Мистик
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../ranger-rework/" title="Рейнджер" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Вперед
+                </span>
+                Рейнджер
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2019 Palant и команда Киборгов и Чародеев
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/palikhov" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/AVPalikhov" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://linkedin.com/in/avpalikhov" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+          
+            
+              
+              
+                <script src="../../../assets/javascripts/lunr/lunr.ru.js"></script>
+              
+            
+          
+            
+              
+              
+            
+          
+          
+            <script src="../../../assets/javascripts/lunr/lunr.multi.js"></script>
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>

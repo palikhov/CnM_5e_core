@@ -1,0 +1,1540 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.">
+      
+      
+      
+        <meta name="author" content="Антон Палихов aka Palant">
+      
+      
+        <meta name="lang:clipboard.copy" content="Копировать в буфер">
+      
+        <meta name="lang:clipboard.copied" content="Скопировано в буфер">
+      
+        <meta name="lang:search.language" content="en, ru, uk">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Совпадений не найдено">
+      
+        <meta name="lang:search.result.one" content="Найдено 1 совпадение">
+      
+        <meta name="lang:search.result.other" content="Найдено # совпадений">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>D&D Palant edition</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#downtime-revisited" tabindex="1" class="md-skip">
+        Перейти к содержанию
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../.." title="D&D Palant edition" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">library_books</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                D&D Palant edition
+              </span>
+              <span class="md-header-nav__topic">
+                Downtime Revisited
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Начните печатать для поиска
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../.." title="Главная" class="md-tabs__link md-tabs__link--active">
+        Главная
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../character-creation/" title="Домашние правила" class="md-tabs__link">
+          Домашние правила
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../shared_campaign/" title="Мультикампания" class="md-tabs__link">
+          Мультикампания
+        </a>
+      
+    </li>
+  
+
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../drow-units/" title="Противники" class="md-tabs__link">
+          Противники
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../files/Collvile's Player's Guide _ GM Binder.pdf" title="Файлы" class="md-tabs__link">
+          Файлы
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../.." title="D&D Palant edition" class="md-nav__button md-logo">
+      
+        <i class="md-icon">library_books</i>
+      
+    </a>
+    D&D Palant edition
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." title="Главная" class="md-nav__link">
+      Главная
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      Домашние правила
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Домашние правила
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../character-creation/" title="Правила по созданию персонажей" class="md-nav__link">
+      Правила по созданию персонажей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-2" type="checkbox" id="nav-2-2">
+    
+    <label class="md-nav__link" for="nav-2-2">
+      Расы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-2">
+        Расы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../races/shade/" title="Шейд" class="md-nav__link">
+      Шейд
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../races/feyri/" title="Фейри (демонфеи)" class="md-nav__link">
+      Фейри (демонфеи)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-3" type="checkbox" id="nav-2-3">
+    
+    <label class="md-nav__link" for="nav-2-3">
+      Изменения системы классов и самих классов
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-3">
+        Изменения системы классов и самих классов
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/classes/" title="Классы" class="md-nav__link">
+      Классы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/arcanis-work/" title="Классы из Арканиса" class="md-nav__link">
+      Классы из Арканиса
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/barbarian/" title="Варвар" class="md-nav__link">
+      Варвар
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/elder-sorcerer/" title="Древние колдуны" class="md-nav__link">
+      Древние колдуны
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/fighter/" title="Боец (воин)" class="md-nav__link">
+      Боец (воин)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/mystic/" title="Мистик" class="md-nav__link">
+      Мистик
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/paladin/" title="Паладин" class="md-nav__link">
+      Паладин
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/ranger-rework/" title="Рейнджер" class="md-nav__link">
+      Рейнджер
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/rogue/" title="Специалист (авантюрист)" class="md-nav__link">
+      Специалист (авантюрист)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/shaman/" title="Шаман" class="md-nav__link">
+      Шаман
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/sorcerer/" title="Чародей (Sorcerer)" class="md-nav__link">
+      Чародей (Sorcerer)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/wizard/" title="Волшебник (маг)" class="md-nav__link">
+      Волшебник (маг)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/warlock/" title="Колдун (Warlock)" class="md-nav__link">
+      Колдун (Warlock)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-4" type="checkbox" id="nav-2-4">
+    
+    <label class="md-nav__link" for="nav-2-4">
+      Твердыни и последователи
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-4">
+        Твердыни и последователи
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/non-combat-followers/" title="Не бовые последователи" class="md-nav__link">
+      Не бовые последователи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/followers/" title="Последователи" class="md-nav__link">
+      Последователи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/knights/" title="Рыцари" class="md-nav__link">
+      Рыцари
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/strongholds/" title="Твердыни" class="md-nav__link">
+      Твердыни
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/strongholds-by-type/" title="Твердыни по типам" class="md-nav__link">
+      Твердыни по типам
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/villains/" title="Злодеи" class="md-nav__link">
+      Злодеи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/warfare/" title="Военное дело" class="md-nav__link">
+      Военное дело
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../combat-maneuvers/" title="Боевые маневры" class="md-nav__link">
+      Боевые маневры
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../fighting-styles/" title="Боевые стили" class="md-nav__link">
+      Боевые стили
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../languages/" title="Языки" class="md-nav__link">
+      Языки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../feats/" title="Навыки (feats)" class="md-nav__link">
+      Навыки (feats)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-9" type="checkbox" id="nav-2-9">
+    
+    <label class="md-nav__link" for="nav-2-9">
+      Заклинания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-9">
+        Заклинания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../spells/item-enchanting-spells/" title="Зачарование предметов" class="md-nav__link">
+      Зачарование предметов
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../spells/cantrips/" title="Кантрипы" class="md-nav__link">
+      Кантрипы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../spells/spells-3rd-lvl/" title="3й круг заклинаний" class="md-nav__link">
+      3й круг заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../spells/" title="Общий список" class="md-nav__link">
+      Общий список
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-10" type="checkbox" id="nav-2-10">
+    
+    <label class="md-nav__link" for="nav-2-10">
+      Снаряжение
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-10">
+        Снаряжение
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../equipment/" title="Снаряжение" class="md-nav__link">
+      Снаряжение
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../equipment/drugs/" title="Наркотики" class="md-nav__link">
+      Наркотики
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../equipment/herbalism/" title="Травы и гербализм" class="md-nav__link">
+      Травы и гербализм
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../equipment/monster-parts-harvesting/" title="Использование частей тел чудовищ" class="md-nav__link">
+      Использование частей тел чудовищ
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../magic-items/" title="Волшебные предметы" class="md-nav__link">
+      Волшебные предметы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../traps/" title="Ловушки" class="md-nav__link">
+      Ловушки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../downtime-activities/" title="Деятельность между приключениями" class="md-nav__link">
+      Деятельность между приключениями
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../additional_rules/" title="Дополнительные правила" class="md-nav__link">
+      Дополнительные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../expanded_rules/" title="Расширенные правила" class="md-nav__link">
+      Расширенные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../misc/" title="Разное" class="md-nav__link">
+      Разное
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Мультикампания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Мультикампания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/needs_organized_play/" title="Потребность в игротеке" class="md-nav__link">
+      Потребность в игротеке
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/shared_rules/" title="Правила общей кампании" class="md-nav__link">
+      Правила общей кампании
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/factions-renown-fame/" title="Фракции, известность, слава" class="md-nav__link">
+      Фракции, известность, слава
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/three-pillars-modified/" title="Модифицированные правила трех столбов" class="md-nav__link">
+      Модифицированные правила трех столбов
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../character-template/" title="Шаблон персонажа" class="md-nav__link">
+      Шаблон персонажа
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../location-template/" title="Шаблон местности, места" class="md-nav__link">
+      Шаблон местности, места
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../external-links/" title="Внешние ссылки" class="md-nav__link">
+      Внешние ссылки
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../playing-as-mage/" title="Играя магом" class="md-nav__link">
+      Играя магом
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8" type="checkbox" id="nav-8">
+    
+    <label class="md-nav__link" for="nav-8">
+      Противники
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-8">
+        Противники
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../drow-units/" title="Дроу" class="md-nav__link">
+      Дроу
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elemental-evil-cults/" title="Культы стихийного зла" class="md-nav__link">
+      Культы стихийного зла
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9" type="checkbox" id="nav-9">
+    
+    <label class="md-nav__link" for="nav-9">
+      Файлы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-9">
+        Файлы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../files/Collvile's Player's Guide _ GM Binder.pdf" title="Руководство игрока по Вестмаршам Коллвила" class="md-nav__link">
+      Руководство игрока по Вестмаршам Коллвила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../files/Advanced Dicecloud Character Construction.pdf" title="Руководство по настройке персонажа в Dicecloud" class="md-nav__link">
+      Руководство по настройке персонажа в Dicecloud
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../files/DiceCloud Helper.xlsx" title="Помощник для Dicecloud" class="md-nav__link">
+      Помощник для Dicecloud
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../files/The Monster Harvester Handbook.pdf" title="Руководство Жнеца Чудовищ" class="md-nav__link">
+      Руководство Жнеца Чудовищ
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../files/Travelling Merchants.xlsx" title="Путешествующие торговцы" class="md-nav__link">
+      Путешествующие торговцы
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Содержание</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#rivals" title="Rivals" class="md-nav__link">
+    Rivals
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#downtime-activities" title="Downtime Activities" class="md-nav__link">
+    Downtime Activities
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resolving-activities" title="Resolving Activities" class="md-nav__link">
+    Resolving Activities
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#complications" title="Complications" class="md-nav__link">
+    Complications
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#example-downtime-activities" title="Example Downtime Activities" class="md-nav__link">
+    Example Downtime Activities
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/homerules/downtime-revisited/README.md" title="Редактировать страницу" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <h1 id="downtime-revisited">Downtime Revisited<a class="headerlink" href="#downtime-revisited" title="Permanent link">&para;</a></h1>
+<p>It&rsquo;s possible for the characters to start a campaign at 1<sup>st</sup> level, dive into an epic story, and reach 10<sup>th</sup> level and beyond in a short amount of game time. Although that pace works fine for many campaigns, some DMs prefer a campaign story with pauses built into it—times when adventurers are not going on adventures. The downtime rules given in this section can be used as alternatives to the approach in the Player&rsquo;s Handbook and the Dungeon Master&rsquo;s Guide, or you can use the material here to inspire the creation of your own options.</p>
+<p>By engaging the characters in downtime activities that take weeks or even months to complete, you can give your campaign a longer time line—one in which events in the world play out over years. Wars begin and end, tyrants come and go, and royal lines rise and fall over the course of the story that you and the characters tell.</p>
+<p>Downtime rules also provide ways for characters to spend—or be relieved of—the monetary treasure they amass on their adventures.</p>
+<p>The system presented here consists of two elements. First, it introduces the concept of rivals. Second, it details a number of downtime activities that characters can undertake.</p>
+<h2 id="rivals">Rivals<a class="headerlink" href="#rivals" title="Permanent link">&para;</a></h2>
+<p>Rivals are NPCs who oppose the characters and make their presence felt whenever the characters are engaging in downtime. A rival might be a villain you have featured in past adventures or plan to use in the future. Rivals can also include good or neutral folk who are at odds with the characters, whether because they have opposing goals or they simply dislike one another. The cultist of Orcus whose plans the characters have foiled, the ambitious merchant prince who wants to rule the city with an iron fist, and the nosy high priest of Helm who is convinced the characters are up to no good are all examples of rivals.</p>
+<p>A rival&rsquo;s agenda changes over time. Though the characters engage in downtime only between adventures, their rivals rarely rest, continuing to spin plots and work against the characters even when the characters are off doing something else.</p>
+<p>Creating a Rival In essence, a rival is a somewhat specialized NPC. You can use chapter 4 of the Dungeon Master&rsquo;s Guide to build a new NPC for this purpose, or pick one from your current cast of supporting characters and embellish that NPC as described below.</p>
+<p>It&rsquo;s possible for the characters to have two or three rivals at a time, each with a separate agenda. At least one should be a villain, but the others might be neutral or good; conflicts with those rivals might be social or political, rather than manifesting as direct attacks.</p>
+<p>The best rivals have a connection with their adversaries on a personal level. Find links in the characters&rsquo; back­stories or the events of recent adventures that explain what sparked the rival&rsquo;s actions. The best trouble to put the characters in is trouble they created for themselves.</p>
+<p>Rival </p>
+<table>
+<thead>
+<tr>
+<th align="left">d20</th>
+<th align="left">Rival</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">1</td>
+<td align="left">Tax collector who is convinced the characters are dodging fees</td>
+</tr>
+<tr>
+<td align="left">2</td>
+<td align="left">Politician who is concerned that the characters are causing more trouble than they solve</td>
+</tr>
+<tr>
+<td align="left">3</td>
+<td align="left">High priest who worries the characters are diminishing the temple&rsquo;s prestige</td>
+</tr>
+<tr>
+<td align="left">4</td>
+<td align="left">Wizard who blames the characters for some recent troubles</td>
+</tr>
+<tr>
+<td align="left">5</td>
+<td align="left">Rival adventuring party</td>
+</tr>
+<tr>
+<td align="left">6</td>
+<td align="left">Bard who loves a scandal enough to spark one</td>
+</tr>
+<tr>
+<td align="left">7</td>
+<td align="left">Childhood rival or member of a rival clan</td>
+</tr>
+<tr>
+<td align="left">8</td>
+<td align="left">Scorned sibling or parent</td>
+</tr>
+<tr>
+<td align="left">9</td>
+<td align="left">Merchant who blames the characters for any business woes</td>
+</tr>
+<tr>
+<td align="left">10</td>
+<td align="left">Newcomer out to make a mark on the world</td>
+</tr>
+<tr>
+<td align="left">11</td>
+<td align="left">Sibling or ally of defeated enemy</td>
+</tr>
+<tr>
+<td align="left">12</td>
+<td align="left">Official seeking to restore a tarnished reputation</td>
+</tr>
+<tr>
+<td align="left">13</td>
+<td align="left">Deadly foe disguised as a social rival</td>
+</tr>
+<tr>
+<td align="left">14</td>
+<td align="left">Fiend seeking to tempt the characters to evil</td>
+</tr>
+<tr>
+<td align="left">15</td>
+<td align="left">Spurned romantic interest</td>
+</tr>
+<tr>
+<td align="left">16</td>
+<td align="left">Political opportunist seeking a scapegoat</td>
+</tr>
+<tr>
+<td align="left">17</td>
+<td align="left">Traitorous noble looking to foment a revolution</td>
+</tr>
+<tr>
+<td align="left">18</td>
+<td align="left">Would-be tyrant who brooks no opposition</td>
+</tr>
+<tr>
+<td align="left">19</td>
+<td align="left">Exiled noble looking for revenge</td>
+</tr>
+<tr>
+<td align="left">20</td>
+<td align="left">Corrupt official worried that recent misdeeds will be revealed</td>
+</tr>
+</tbody>
+</table>
+<p>Goals. An effective rival has a clear reason for interfering with the characters&rsquo; lives. Think about what the rival wants, how and why the characters stand in the way, and how the conflict could be resolved. Ideally, a rival&rsquo;s goal directly involves the characters or something they care about. Assets. Think about the resources the rival can marshal. Does the character have enough money to pay bribes or to hire a small gang of mercenaries? Does the rival hold sway over any guilds, temples, or other groups? Make a list of the rival&rsquo;s assets, and consider how they can be used. Plans. The foundation of a rival&rsquo;s presence in the campaign is the actions the rival takes or the events that occur as a result of that character&rsquo;s goals. Each time you resolve one or more workweeks of downtime, pick one of the ways a rival&rsquo;s plans might be advanced and introduce it into play. Think about how a rival might operate in order to bring specific plans to fruition, and jot down three or four kinds of actions the rival might undertake. Some of these might be versions of the downtime activities described later in this section, but these are more often efforts that are specific to the rival.</p>
+<p>A rival&rsquo;s action might be a direct attack, such as an assassination attempt, that you play out during a session. Or it might be a background activity that you describe as altering the campaign in some way. For example, a rival who wants to increase the prestige of the temple of a war god might hold a festival with drink, food, and gladiatorial games. Even if the characters aren&rsquo;t directly involved, the event becomes the talk of the town.</p>
+<p>Some elements of a rival&rsquo;s plans might involve events in the world that aren&rsquo;t under the rival&rsquo;s control. Whether such an event can be easily anticipated or not, the rival&rsquo;s plans might include contingencies for taking advantage of such happenings.</p>
+<h2 id="downtime-activities">Downtime Activities<a class="headerlink" href="#downtime-activities" title="Permanent link">&para;</a></h2>
+<p>Downtime activities are tasks that usually take a workweek <span><span class="MathJax_Preview">5 days</span><script type="math/tex">5 days</script></span> or longer to perform. These tasks can include buying or creating magic items, pulling off crimes, and working at a job. A character selects a downtime activity from among those available and pays the cost of that activity in time and money. You, as DM, then follow the rules for the activity to resolve it, informing the player of the results and any complications that ensue.</p>
+<p>Consider handling downtime away from the game table. For example, you could have the players pick their downtime activities at the end of a session, and then communicate about them by email or text, until you next see them in person.</p>
+<h3 id="resolving-activities">Resolving Activities<a class="headerlink" href="#resolving-activities" title="Permanent link">&para;</a></h3>
+<p>The description of each activity tells you how to resolve it. Many activities require an ability check, so be sure to note the character&rsquo;s relevant ability modifiers. Follow the steps in the activity, and determine the results.</p>
+<p>Most downtime activities require a workweek <span><span class="MathJax_Preview">5 days</span><script type="math/tex">5 days</script></span> to complete. Some activities require days, weeks <span><span class="MathJax_Preview">7 days</span><script type="math/tex">7 days</script></span>, or months <span><span class="MathJax_Preview">30 days</span><script type="math/tex">30 days</script></span>. A character must spend at least 8 hours of each day engaged in the downtime activity for that day to count toward the activity&rsquo;s completion.</p>
+<p>The days of an activity don&rsquo;t need to be consecutive; you can spread them over a longer period of time than is required for the activity. But that period of time should be no more than twice as long as the required time; otherwise you should introduce extra complications <span><span class="MathJax_Preview">see below</span><script type="math/tex">see below</script></span> and possibly double the activity&rsquo;s costs to represent the inefficiency of the character&rsquo;s progress.</p>
+<h3 id="complications">Complications<a class="headerlink" href="#complications" title="Permanent link">&para;</a></h3>
+<p>The description of each activity includes a discussion of complications you can throw at the characters. The consequences of a complication might spawn entire adventures, introduce NPCs to vex the party, or give the characters headaches or advantages in any number of other ways.</p>
+<p>Each of these sections has a table that offers possible complications. You can roll to determine a complication randomly, pick one from the table, or devise one of your own, and then share it with the player.</p>
+<h3 id="example-downtime-activities">Example Downtime Activities<a class="headerlink" href="#example-downtime-activities" title="Permanent link">&para;</a></h3>
+<p>The following activities are suitable for any character who can afford to pursue them. As DM, you have the final say on which activities are available to the characters. The activities you allow might depend on the nature of the area where the characters are located. For example, you might disallow the creation of magic items or decide that the characters are in a town that is too isolated from major markets for them to buy such items.</p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2019 Palant и команда Киборгов и Чародеев
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/palikhov" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/AVPalikhov" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://linkedin.com/in/avpalikhov" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+          
+            
+              
+              
+                <script src="../../assets/javascripts/lunr/lunr.ru.js"></script>
+              
+            
+          
+            
+              
+              
+            
+          
+          
+            <script src="../../assets/javascripts/lunr/lunr.multi.js"></script>
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>

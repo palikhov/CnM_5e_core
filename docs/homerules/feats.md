@@ -130,7 +130,7 @@ When you first take this feat, you must choose a combat school to join and you g
 You may take this feat again to gain the **next tier (master)** benefits of your chosen school. When you take this feat again to become a master of your chosen school, your resolve die changes to a d8 and you gain an additional resolve die.
 
 ```
-Also take look on updated fighting styles -> [NEW FIGHTING STYLES](https://github.com/palikhov/dnd-setting-rules/blob/master/player-handbook-ii/fighting-styles.md)
+Also take look on updated fighting styles -> [NEW FIGHTING STYLES]()
 ```
 
 
