@@ -3,7 +3,7 @@
 
 
 <!DOCTYPE html>
-<html lang="uk" class="no-js">
+<html lang="ru" class="no-js">
   <head>
     
       <meta charset="utf-8">
@@ -17,9 +17,9 @@
         <meta name="author" content="Антон Палихов aka Palant">
       
       
-        <meta name="lang:clipboard.copy" content="Скопіювати в буфер">
+        <meta name="lang:clipboard.copy" content="Копировать в буфер">
       
-        <meta name="lang:clipboard.copied" content="Скопійовано в буфер">
+        <meta name="lang:clipboard.copied" content="Скопировано в буфер">
       
         <meta name="lang:search.language" content="en, ru, uk">
       
@@ -27,11 +27,11 @@
       
         <meta name="lang:search.pipeline.trimmer" content="True">
       
-        <meta name="lang:search.result.none" content="Збігів не знайдено">
+        <meta name="lang:search.result.none" content="Совпадений не найдено">
       
-        <meta name="lang:search.result.one" content="Знайдено 1 збіг">
+        <meta name="lang:search.result.one" content="Найдено 1 совпадение">
       
-        <meta name="lang:search.result.other" content="Знайдено # збігів">
+        <meta name="lang:search.result.other" content="Найдено # совпадений">
       
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
@@ -40,7 +40,7 @@
     
     
       
-        <title>Revised Ranger - D&D Palant edition</title>
+        <title>Рейнджер - D&D Palant edition</title>
       
     
     
@@ -104,7 +104,7 @@
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
       <a href="#revised-ranger" tabindex="1" class="md-skip">
-        Перейти до змісту
+        Перейти к содержанию
       </a>
     
     
@@ -129,7 +129,7 @@
                 D&D Palant edition
               </span>
               <span class="md-header-nav__topic">
-                Revised Ranger
+                Рейнджер
               </span>
             
           
@@ -144,7 +144,7 @@
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" placeholder="Пошук" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <input type="text" class="md-search__input" name="query" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
       <label class="md-icon md-search__icon" for="__search"></label>
       <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
         &#xE5CD;
@@ -154,7 +154,7 @@
       <div class="md-search__scrollwrap" data-md-scrollfix>
         <div class="md-search-result" data-md-component="result">
           <div class="md-search-result__meta">
-            Розпочніть писати для пошуку
+            Начните печатать для поиска
           </div>
           <ol class="md-search-result__list"></ol>
         </div>
@@ -174,7 +174,7 @@
   
 
 
-  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти до репозиторію" class="md-source" data-md-source="github">
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
     
       <div class="md-source__icon">
         <svg viewBox="0 0 24 24" width="24" height="24">
@@ -201,14 +201,16 @@
       
         
 
-<nav class="md-tabs" data-md-component="tabs">
+  
+
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
   <div class="md-tabs__inner md-grid">
     <ul class="md-tabs__list">
       
         
   <li class="md-tabs__item">
     
-      <a href="../../.." title="Главная" class="md-tabs__link md-tabs__link--active">
+      <a href="../../.." title="Главная" class="md-tabs__link">
         Главная
       </a>
     
@@ -220,7 +222,7 @@
   
     <li class="md-tabs__item">
       
-        <a href="../../character-creation/" title="Домашние правила" class="md-tabs__link">
+        <a href="../../character-creation/" title="Домашние правила" class="md-tabs__link md-tabs__link--active">
           Домашние правила
         </a>
       
@@ -290,7 +292,7 @@
   
 
 
-  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти до репозиторію" class="md-source" data-md-source="github">
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
     
       <div class="md-source__icon">
         <svg viewBox="0 0 24 24" width="24" height="24">
@@ -323,10 +325,12 @@
       
       
 
+  
 
-  <li class="md-nav__item md-nav__item--nested">
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
     
     <label class="md-nav__link" for="nav-2">
       Домашние правила
@@ -426,11 +430,20 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../classes/ranger-rework.md" title="Рейнджер" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" title="Рейнджер" class="md-nav__link md-nav__link--active">
       Рейнджер
     </a>
+    
   </li>
 
         
@@ -886,7 +899,7 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/homerules/classes/ranger-rework.md" title="Редагувати сторінку" class="md-icon md-content__icon">&#xE3C9;</a>
+                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/homerules/classes/ranger-rework.md" title="Редактировать страницу" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
                 <h1 id="revised-ranger">Revised Ranger<a class="headerlink" href="#revised-ranger" title="Permanent link">&para;</a></h1>
@@ -1263,6 +1276,41 @@ to the ability check. </p>
       
         
 <footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../mystic/" title="Мистик" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Назад
+                </span>
+                Мистик
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../rogue/" title="Специалист (авантюрист)" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Вперед
+                </span>
+                Специалист (авантюрист)
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
