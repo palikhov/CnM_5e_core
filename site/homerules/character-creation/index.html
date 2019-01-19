@@ -1,0 +1,1482 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.">
+      
+      
+      
+        <meta name="author" content="Антон Палихов aka Palant">
+      
+      
+        <meta name="lang:clipboard.copy" content="Копировать в буфер">
+      
+        <meta name="lang:clipboard.copied" content="Скопировано в буфер">
+      
+        <meta name="lang:search.language" content="en, ru, uk">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Совпадений не найдено">
+      
+        <meta name="lang:search.result.one" content="Найдено 1 совпадение">
+      
+        <meta name="lang:search.result.other" content="Найдено # совпадений">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Правила по созданию персонажей - D&D Palant edition</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#_1" tabindex="1" class="md-skip">
+        Перейти к содержанию
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../.." title="D&D Palant edition" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">library_books</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                D&D Palant edition
+              </span>
+              <span class="md-header-nav__topic">
+                Правила по созданию персонажей
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Начните печатать для поиска
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+  
+
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../.." title="Главная" class="md-tabs__link">
+        Главная
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="./" title="Домашние правила" class="md-tabs__link md-tabs__link--active">
+          Домашние правила
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../shared_campaign/index.md" title="Мультикампания" class="md-tabs__link">
+          Мультикампания
+        </a>
+      
+    </li>
+  
+
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../drow-units/" title="Противники" class="md-tabs__link">
+          Противники
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../.." title="D&D Palant edition" class="md-nav__button md-logo">
+      
+        <i class="md-icon">library_books</i>
+      
+    </a>
+    D&D Palant edition
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." title="Главная" class="md-nav__link">
+      Главная
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
+    
+    <label class="md-nav__link" for="nav-2">
+      Домашние правила
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Домашние правила
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Правила по созданию персонажей
+      </label>
+    
+    <a href="./" title="Правила по созданию персонажей" class="md-nav__link md-nav__link--active">
+      Правила по созданию персонажей
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Содержание</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_3" title="Стартовое снаряжение" class="md-nav__link">
+    Стартовое снаряжение
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" title="Региональные языки при создании персонажа" class="md-nav__link">
+    Региональные языки при создании персонажа
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_5" title="Описание персонажа" class="md-nav__link">
+    Описание персонажа
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_6" title="Ребилд персонажа" class="md-nav__link">
+    Ребилд персонажа
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_7" title="Прочее" class="md-nav__link">
+    Прочее
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-2" type="checkbox" id="nav-2-2">
+    
+    <label class="md-nav__link" for="nav-2-2">
+      Изменения системы классов и самих классов
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-2">
+        Изменения системы классов и самих классов
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/classes/" title="Классы" class="md-nav__link">
+      Классы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/arcanis-work/" title="Классы из Арканиса" class="md-nav__link">
+      Классы из Арканиса
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/barbarian/" title="Варвар" class="md-nav__link">
+      Варвар
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/elder-sorcerer/" title="Древние колдуны" class="md-nav__link">
+      Древние колдуны
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/fighter/" title="Боец (воин)" class="md-nav__link">
+      Боец (воин)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/mystic/" title="Мистик" class="md-nav__link">
+      Мистик
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/ranger-rework/" title="Рейнджер" class="md-nav__link">
+      Рейнджер
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/rogue/" title="Специалист (авантюрист)" class="md-nav__link">
+      Специалист (авантюрист)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/shaman/" title="Шаман" class="md-nav__link">
+      Шаман
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/wizard/" title="Волшебник (маг)" class="md-nav__link">
+      Волшебник (маг)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-3" type="checkbox" id="nav-2-3">
+    
+    <label class="md-nav__link" for="nav-2-3">
+      Твердыни и последователи
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-3">
+        Твердыни и последователи
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/non-combat-followers/" title="Не бовые последователи" class="md-nav__link">
+      Не бовые последователи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/strongholds/" title="Твердыни" class="md-nav__link">
+      Твердыни
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/villains/" title="Злодеи" class="md-nav__link">
+      Злодеи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../stronghold_and_followers/warfare/" title="Военное дело" class="md-nav__link">
+      Военное дело
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../combat-maneuvers/" title="Боевые маневры" class="md-nav__link">
+      Боевые маневры
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../fighting-styles/" title="Боевые стили" class="md-nav__link">
+      Боевые стили
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../languages/" title="Языки" class="md-nav__link">
+      Языки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../feats/" title="Навыки (feats)" class="md-nav__link">
+      Навыки (feats)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../spells/" title="Заклинания" class="md-nav__link">
+      Заклинания
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../equipment/" title="Снаряжение" class="md-nav__link">
+      Снаряжение
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../magic-items/" title="Волшебные предметы" class="md-nav__link">
+      Волшебные предметы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../traps/" title="Ловушки" class="md-nav__link">
+      Ловушки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../downtime-activities/" title="Деятельность между приключениями" class="md-nav__link">
+      Деятельность между приключениями
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../additional_rules/" title="Дополнительные правила" class="md-nav__link">
+      Дополнительные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../expanded_rules/" title="Расширенные правила" class="md-nav__link">
+      Расширенные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../misc/" title="Разное" class="md-nav__link">
+      Разное
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Мультикампания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Мультикампания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/index.md" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/needs_organized_play/" title="Потребность в игротеке" class="md-nav__link">
+      Потребность в игротеке
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/shared_rules/" title="Правила общей кампании" class="md-nav__link">
+      Правила общей кампании
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/factions-renown-fame/" title="Фракции, известность, слава" class="md-nav__link">
+      Фракции, известность, слава
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/three-pillars-modified/" title="Модифицированные правила трех столбов" class="md-nav__link">
+      Модифицированные правила трех столбов
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../character-template/" title="Шаблон персонажа" class="md-nav__link">
+      Шаблон персонажа
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../location-template/" title="Шаблон местности, места" class="md-nav__link">
+      Шаблон местности, места
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../external-links/" title="Внешние ссылки" class="md-nav__link">
+      Внешние ссылки
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../playing-as-mage/" title="Играя магом" class="md-nav__link">
+      Играя магом
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8" type="checkbox" id="nav-8">
+    
+    <label class="md-nav__link" for="nav-8">
+      Противники
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-8">
+        Противники
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../drow-units/" title="Дроу" class="md-nav__link">
+      Дроу
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elemental-evil-cults/" title="Культы стихийного зла" class="md-nav__link">
+      Культы стихийного зла
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Содержание</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_3" title="Стартовое снаряжение" class="md-nav__link">
+    Стартовое снаряжение
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" title="Региональные языки при создании персонажа" class="md-nav__link">
+    Региональные языки при создании персонажа
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_5" title="Описание персонажа" class="md-nav__link">
+    Описание персонажа
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_6" title="Ребилд персонажа" class="md-nav__link">
+    Ребилд персонажа
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_7" title="Прочее" class="md-nav__link">
+    Прочее
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/homerules/character-creation.md" title="Редактировать страницу" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <h1 id="_1">Правила по созданию персонажей<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
+<h2 id="_2"><a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<p>Характеристики</p>
+<p>наброска 4к6 убирая меньший куб. Мастер может разрешить переброс в случае низких характеристик, или потребовать переброс в случае очень высоких характеристик.</p>
+<p>·         поскольку игра не по правилам Лиги Авантюристов, то правило PHB +1 не используется, но мастер оставляет за собой право на &ldquo;бан&rdquo; отдельных комбинаций <span><span class="MathJax_Preview">без очень сильного обоснования не пущу монстровые расы, гитов</span><script type="math/tex">без очень сильного обоснования не пущу монстровые расы, гитов</script></span></p>
+<h2 id="_3">Стартовое снаряжение<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
+<p>стартовое снаряжение определяется броском по таблице класса + снаряжение от предыстории + тринкет определенный случайным образом.</p>
+<p>·         персонажи впервые в Глубоководье и не имеют с ними каких либо связей.</p>
+<p>·         персонажи не являются членами каких либо организаций</p>
+<p>·         можно использовать таблицы из XGE It&rsquo;s my life <span><span class="MathJax_Preview">в присутствии мастера</span><script type="math/tex">в присутствии мастера</script></span></p>
+<h2 id="_4">Региональные языки при создании персонажа<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<p>Люди в начале получают 1 региональный язык.</p>
+<p>Half-elves могут вместо эльфийского также выбрать 1 региональный язык.</p>
+<p>Half-orcs могут вместо орочьего выбрать 1 региональный язык.</p>
+<p>Tieflings могут вместо языков Ада или Бездны выбрать 1 региональный язык.</p>
+<p>·         необходимо обсуждение патронов, становления паладином, клериканства с мастером</p>
+<p>·         необходимо всем договориться о персонажах чтобы не было конфликтов вида паладин / варлок, келемворит / некромант и т.д.</p>
+<p>·         в виду наличия простоя, травм, лечения, смертности без прямого доступа к воскрешению - рекомендуется сразу сделать двух персонажей <span><span class="MathJax_Preview">дополнительный персонаж может быть из Глубоководья</span><script type="math/tex">дополнительный персонаж может быть из Глубоководья</script></span>.</p>
+<p>·         подытоживая - чем больше отклонений от человека файтера, тем меньше вероятность одобрения, но с хорошей предысторией - почему бы и нет.</p>
+<h2 id="_5">Описание персонажа<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h2>
+<p>рекомендуемый размер предыстории - два абзаца без учета дополнений от мастера.</p>
+<h2 id="_6">Ребилд персонажа<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h2>
+<p>обсуждаемы с мастером. Мастер понимает важность выбора правильных вещей на первых уровнях и всегда пойдет на встречу. Но сделать из тифлинга-варлока гнома-паладина точно не получится.</p>
+<h2 id="_7">Прочее<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h2>
+<p>·         в кампании будет возможно получить огнестрельное оружие и научиться им пользоваться.</p>
+<p>·         разрешен Revised Ranger, также животное-компаньон Beastmaster-а может самостоятельно защищаться и использовать свои атаки и продолажет атаковать цель после получения приказа рейнджера до получения следующей команды <span><span class="MathJax_Preview">не требуется тратить действие каждый ход</span><script type="math/tex">не требуется тратить действие каждый ход</script></span>.</p>
+<h1 id="_8">Разрешенные классы и расы<a class="headerlink" href="#_8" title="Permanent link">&para;</a></h1>
+<p>Классы и их архетипы могут быть стандартными, необычными, редкими.</p>
+<p _="%" endhint="endhint">{% hint style=&rdquo;success&rdquo; %}
+Стандартные классы и архетипы - не ограничены. </p>
+<p _="%" endhint="endhint">{% hint style=&rdquo;warning&rdquo; %}
+Необычные - </p>
+<p _="%" endhint="endhint">{% hint style=&rdquo;danger&rdquo; %}
+Редкие - не более одного в пати.</p>
+<h2 id="_9">Классы<a class="headerlink" href="#_9" title="Permanent link">&para;</a></h2>
+<h3 id="barbarian">Barbarian<a class="headerlink" href="#barbarian" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Ancestral Guardian</li>
+<li>Battlerager</li>
+<li>Berserker</li>
+<li>Storm Herald</li>
+<li>Totem Warrior</li>
+<li>Zealot</li>
+</ul>
+<h3 id="bard">Bard<a class="headerlink" href="#bard" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Glamour</li>
+<li>Lore</li>
+<li>Swords</li>
+<li>Valor</li>
+<li>Whispers</li>
+</ul>
+<h3 id="cleric">Cleric<a class="headerlink" href="#cleric" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Arcana</li>
+<li>Death - редкий</li>
+<li>Forge</li>
+<li>Grave</li>
+<li>Knowledge</li>
+<li>Life</li>
+<li>Light</li>
+<li>Nature</li>
+<li>Tempest</li>
+<li>Trickery</li>
+<li>War</li>
+<li>Order <span><span class="MathJax_Preview">UA</span><script type="math/tex">UA</script></span></li>
+<li>Destruction <span><span class="MathJax_Preview">Twitter</span><script type="math/tex">Twitter</script></span></li>
+</ul>
+<p>{% page-ref page=&rdquo;classes/cleric/domain-of-order.md&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/cleric/domain-of-destruction.md&rdquo; %}</p>
+<h3 id="druid">Druid<a class="headerlink" href="#druid" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Dreams</li>
+<li>Land</li>
+<li>Moon</li>
+<li>Shephard</li>
+<li>Spores <span><span class="MathJax_Preview">UA</span><script type="math/tex">UA</script></span> - редкий</li>
+</ul>
+<p>{% page-ref page=&rdquo;classes/druid/spores.md&rdquo; %}</p>
+<h3 id="fighter">Fighter<a class="headerlink" href="#fighter" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Arcane Archer</li>
+<li>Battle Master</li>
+<li>Brute <span><span class="MathJax_Preview">UA</span><script type="math/tex">UA</script></span></li>
+<li>Cavalier</li>
+<li>Champion</li>
+<li>Eldritch Knight</li>
+<li>Psychic Warrior <span><span class="MathJax_Preview">Stream</span><script type="math/tex">Stream</script></span></li>
+<li>Purple Dragon Knight <span><span class="MathJax_Preview">Banneret</span><script type="math/tex">Banneret</script></span></li>
+<li>Slayer <span><span class="MathJax_Preview">Stream</span><script type="math/tex">Stream</script></span></li>
+<li>Warlord <span><span class="MathJax_Preview">Stream</span><script type="math/tex">Stream</script></span></li>
+<li>Weapon Master <span><span class="MathJax_Preview">Stream</span><script type="math/tex">Stream</script></span></li>
+</ul>
+<p>{% page-ref page=&rdquo;classes/fighter/brute.md&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/fighter/slayer.md&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/fighter/psychic-warrior.md&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/fighter/warlord.md&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/fighter/weapon-master.md&rdquo; %}</p>
+<h3 id="monk">Monk<a class="headerlink" href="#monk" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Drunken Master</li>
+<li>Four Elements</li>
+<li>Kensei - необычный</li>
+<li>Long Death</li>
+<li>Open Hand</li>
+<li>Shadow</li>
+<li>Soul Knife <span><span class="MathJax_Preview">Stream</span><script type="math/tex">Stream</script></span> - необычный</li>
+<li>Sun Soul</li>
+</ul>
+<p>{% page-ref page=&rdquo;classes/monk/way-of-the-soul-knife.md&rdquo; %}</p>
+<h3 id="paladin">Paladin<a class="headerlink" href="#paladin" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Conquest</li>
+<li>Crown</li>
+<li>Devotion</li>
+<li>Redemption</li>
+<li>Vengeance</li>
+<li>Oathbreaker - редкий</li>
+<li>Treachery - необычный</li>
+</ul>
+<p>{% page-ref page=&rdquo;classes/paladin/treachery.md&rdquo; %}</p>
+<h3 id="ranger-ranger-revisitedrevisited-ranger-spell-lessspell-less">Ranger, Ranger <span><span class="MathJax_Preview">Revisited</span><script type="math/tex">Revisited</script></span>, Ranger <span><span class="MathJax_Preview">Spell-less</span><script type="math/tex">Spell-less</script></span><a class="headerlink" href="#ranger-ranger-revisitedrevisited-ranger-spell-lessspell-less" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Beast Master</li>
+<li>Gloom Stalker</li>
+<li>Horizon Walker - необычный</li>
+<li>Hunter</li>
+<li>Monster Slayer</li>
+</ul>
+<p>{% page-ref page=&rdquo;classes/ranger-variants/revised.md&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/ranger-variants/spell-less.md&rdquo; %}</p>
+<h3 id="rogue">Rogue<a class="headerlink" href="#rogue" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Arcane Trickster</li>
+<li>Assassin</li>
+<li>Inquisitive</li>
+<li>Mastermind</li>
+<li>Scout</li>
+<li>Swashbuckler</li>
+<li>Thief</li>
+<li>Acrobat <span><span class="MathJax_Preview">Stream</span><script type="math/tex">Stream</script></span></li>
+</ul>
+<p>{% page-ref page=&rdquo;classes/rogue/acrobat.md&rdquo; %}</p>
+<h3 id="sorcerer">Sorcerer<a class="headerlink" href="#sorcerer" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Divine Soul</li>
+<li>Draconic</li>
+<li>Shadow</li>
+<li>Storm</li>
+<li>Wild Magic</li>
+</ul>
+<h3 id="wizard">Wizard<a class="headerlink" href="#wizard" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Abjuration</li>
+<li>Bladesinging - необычный</li>
+<li>Conjuration</li>
+<li>Divination</li>
+<li>Enchantment</li>
+<li>Evocation</li>
+<li>Illusion</li>
+<li>Necromancy</li>
+<li>Transmutation</li>
+<li>War Magic - необычный</li>
+<li>Theurgy <span><span class="MathJax_Preview">UA</span><script type="math/tex">UA</script></span> - необычный</li>
+</ul>
+<p>{% page-ref page=&rdquo;classes/wizard/theurgy.md&rdquo; %}</p>
+<h3 id="warlock">Warlock<a class="headerlink" href="#warlock" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Archfey</li>
+<li>Fiend</li>
+<li>Celestial</li>
+<li>Great Old One</li>
+<li>Hexblade - необычный</li>
+<li>Undying - редкий</li>
+<li>Kraken <span><span class="MathJax_Preview">stream</span><script type="math/tex">stream</script></span> - необычный</li>
+<li>Lolth <span><span class="MathJax_Preview">Twitter</span><script type="math/tex">Twitter</script></span> - необычный</li>
+</ul>
+<p>{% page-ref page=&rdquo;classes/warlock/kraken.md&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/warlock/lolth.md&rdquo; %}</p>
+<h3 id="mystic-">Mystic - редкий<a class="headerlink" href="#mystic-" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Avatar</li>
+<li>Awakened</li>
+<li>Immortal</li>
+<li>Nomad</li>
+<li>Soul Knife</li>
+<li>Wu Jen</li>
+</ul>
+<p>{% page-ref page=&rdquo;classes/mystic/&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/mystic/avatar.md&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/mystic/untitled-4.md&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/mystic/untitled-3.md&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/mystic/untitled-2.md&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/mystic/order-of-the-soul-knife.md&rdquo; %}</p>
+<p>{% page-ref page=&rdquo;classes/mystic/untitled-1.md&rdquo; %}</p>
+<h2 id="_10">Стандартные расы<a class="headerlink" href="#_10" title="Permanent link">&para;</a></h2>
+<p _="%" endhint="endhint">{% hint style=&rdquo;success&rdquo; %}
+Стандартные расы не требуют согласования. </p>
+<h3 id="human">Human<a class="headerlink" href="#human" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Standard</li>
+<li>Variant</li>
+</ul>
+<h3 id="half-elf">Half-elf<a class="headerlink" href="#half-elf" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Aquatic Elf Descent</li>
+<li>Drow Descent</li>
+<li>High elf Descent</li>
+<li>Wood elf Descent</li>
+</ul>
+<h3 id="dwarf">Dwarf<a class="headerlink" href="#dwarf" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Hill</li>
+<li>Mountain</li>
+<li>Duergar</li>
+</ul>
+<h3 id="elf">Elf<a class="headerlink" href="#elf" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Wood</li>
+<li>High</li>
+<li>Drow</li>
+<li>Sea</li>
+</ul>
+<h3 id="gnome">Gnome<a class="headerlink" href="#gnome" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Deep</li>
+<li>Rock</li>
+<li>Forest</li>
+</ul>
+<h3 id="halfling">Halfling<a class="headerlink" href="#halfling" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Stout</li>
+<li>Lightfoot</li>
+<li>Ghostwise</li>
+</ul>
+<h3 id="half-orc">Half-orc<a class="headerlink" href="#half-orc" title="Permanent link">&para;</a></h3>
+<h2 id="_11">Редкие расы<a class="headerlink" href="#_11" title="Permanent link">&para;</a></h2>
+<p _="%" endhint="endhint">{% hint style=&rdquo;danger&rdquo; %}
+Не могут быть использованы вместе с редкими классами.</p>
+<h3 id="aasimar">Aasimar<a class="headerlink" href="#aasimar" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Protector</li>
+<li>Scourge</li>
+<li>Fallen</li>
+</ul>
+<h3 id="dragonborn">Dragonborn<a class="headerlink" href="#dragonborn" title="Permanent link">&para;</a></h3>
+<h3 id="tiefling">Tiefling<a class="headerlink" href="#tiefling" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Asmodeus</li>
+<li>Baalzebul</li>
+<li>Dispater</li>
+<li>Fierna</li>
+<li>Glasya</li>
+<li>Levistus</li>
+<li>Mammon</li>
+<li>Mephistopheles</li>
+<li>Zariel</li>
+<li>Variant <span><span class="MathJax_Preview">including wingded</span><script type="math/tex">including wingded</script></span></li>
+</ul>
+<h3 id="tabaxi">Tabaxi<a class="headerlink" href="#tabaxi" title="Permanent link">&para;</a></h3>
+<h3 id="tortle">Tortle<a class="headerlink" href="#tortle" title="Permanent link">&para;</a></h3>
+<h3 id="triton">Triton<a class="headerlink" href="#triton" title="Permanent link">&para;</a></h3>
+<h3 id="goliath">Goliath<a class="headerlink" href="#goliath" title="Permanent link">&para;</a></h3>
+<h3 id="genasi">Genasi<a class="headerlink" href="#genasi" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Fire</li>
+<li>Earth</li>
+<li>Water</li>
+<li>Air</li>
+</ul>
+<h3 id="firbolg">Firbolg<a class="headerlink" href="#firbolg" title="Permanent link">&para;</a></h3>
+<h3 id="yuan-ti-pureblood">Yuan-ti Pureblood<a class="headerlink" href="#yuan-ti-pureblood" title="Permanent link">&para;</a></h3>
+<h3 id="kenku">Kenku<a class="headerlink" href="#kenku" title="Permanent link">&para;</a></h3>
+<h2 id="_12">Чудовищные расы<a class="headerlink" href="#_12" title="Permanent link">&para;</a></h2>
+<p _="%" endhint="endhint">{% hint style=&rdquo;danger&rdquo; %}
+Не могут быть использованы с редкими и необычными классами. Не более одного представителя чудовищних или планарных рас в пати.</p>
+<h3 id="bugbear">Bugbear<a class="headerlink" href="#bugbear" title="Permanent link">&para;</a></h3>
+<h3 id="hobgoblin">Hobgoblin<a class="headerlink" href="#hobgoblin" title="Permanent link">&para;</a></h3>
+<h3 id="goblin">Goblin<a class="headerlink" href="#goblin" title="Permanent link">&para;</a></h3>
+<h3 id="orc">Orc<a class="headerlink" href="#orc" title="Permanent link">&para;</a></h3>
+<h3 id="kobold">Kobold<a class="headerlink" href="#kobold" title="Permanent link">&para;</a></h3>
+<h3 id="gnoll">Gnoll<a class="headerlink" href="#gnoll" title="Permanent link">&para;</a></h3>
+<h3 id="lizardfolk">Lizardfolk<a class="headerlink" href="#lizardfolk" title="Permanent link">&para;</a></h3>
+<h2 id="_13">Планарные расы<a class="headerlink" href="#_13" title="Permanent link">&para;</a></h2>
+<p _="%" endhint="endhint">{% hint style=&rdquo;danger&rdquo; %}
+Не могут быть использованы с редкими и необычными классами. Не более одного представителя чудовищних или планарных рас в пати.</p>
+<h3 id="gith">Gith<a class="headerlink" href="#gith" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Githyanki</li>
+<li>Githzerai</li>
+</ul>
+<h3 id="elf_1">Elf<a class="headerlink" href="#elf_1" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Eladrin</li>
+<li>Shadar-kai</li>
+</ul>
+<h3 id="_14"><a class="headerlink" href="#_14" title="Permanent link">&para;</a></h3>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../.." title="Главная" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Назад
+                </span>
+                Главная
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../classes/" title="Общее" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Вперед
+                </span>
+                Общее
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2019 Palant и команда Киборгов и Чародеев
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/palikhov" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/AVPalikhov" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://linkedin.com/in/avpalikhov" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+          
+            
+              
+              
+                <script src="../../assets/javascripts/lunr/lunr.ru.js"></script>
+              
+            
+          
+            
+              
+              
+            
+          
+          
+            <script src="../../assets/javascripts/lunr/lunr.multi.js"></script>
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>

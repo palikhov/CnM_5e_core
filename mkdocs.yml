@@ -12,35 +12,39 @@ copyright: 'Copyright &copy; 2019 Palant и команда Киборгов и �
 nav:
     - Главная: index.md
     - Домашние правила:
-      - Правила по созданию персонажей: homerules\homerules\character-creation.md
-      - Классы: homerules/classes.md
-      - Классы из Арканиса: homerules/homerules/classes/arcanis-work.md
-      - Варвар: homerules/homerules/classes/barbarian.md
-      - Древние колдуны: homerules/homerules/classes/elder-sorcerer.md
-      - Боец (воин): homerules/homerules/classes/fighter.md
-      - Мистик: homerules/homerules/classes/mystic.md
-      - Рейнджер: homerules\homerules\classes\ranger-rework.md
-      - Специалист (авантюрист): homerules\homerules\classes\rogue.md
-      - Шаман: homerules\homerules\classes\shaman.md
-      - Волшебник (маг): homerules\homerules\classes\wizard.md
-      - Твердыни и последователи:  
-        - Не бовые последователи: homerules\homerules\stronghold_and_followers\non-combat-followers.md
-        - Твердыни: homerules\homerules\stronghold_and_followers\strongholds.md
-        - Злодеи: homerules\homerules\stronghold_and_followers\villains.md
-        - Военное дело: homerules\homerules\stronghold_and_followers\warfare.md
-      - Боевые маневры: homerules\homerules\combat-maneuvers.md
-      - Боевые стили: homerules\homerules\fighting-styles.md
-      - Языки: homerules\homerules\languages.md
+      - Правила по созданию персонажей: homerules/character-creation.md
+      - Изменения системы классов и самих классов:
+        - Общее: homerules/classes/index.md
+        - Классы: homerules/classes/classes.md
+        - Классы из Арканиса: homerules/classes/arcanis-work.md
+        - Варвар: homerules/classes/barbarian.md
+        - Древние колдуны: homerules/classes/elder-sorcerer.md
+        - Боец (воин): homerules/classes/fighter.md
+        - Мистик: homerules/classes/mystic.md
+        - Рейнджер: homerules/classes/ranger-rework.md
+        - Специалист (авантюрист): homerules/classes/rogue.md
+        - Шаман: homerules/classes/shaman.md
+        - Волшебник (маг): homerules/classes/wizard.md
+      - Твердыни и последователи:
+        - Общее: homerules/stronghold_and_followers/index.md  
+        - Не бовые последователи: homerules/stronghold_and_followers/non-combat-followers.md
+        - Твердыни: homerules/stronghold_and_followers/strongholds.md
+        - Злодеи: homerules/stronghold_and_followers/villains.md
+        - Военное дело: homerules/stronghold_and_followers/warfare.md
+      - Боевые маневры: homerules/combat-maneuvers.md
+      - Боевые стили: homerules/fighting-styles.md
+      - Языки: homerules/languages.md
       - Навыки (feats): homerules/feats.md
       - Заклинания: homerules/spells.md
-      - Снаряжение: homerules\homerules\equipment.md
-      - Волшебные предметы: homerules\homerules\magic-items.md
-      - Ловушки: homerules\homerules\traps.md
+      - Снаряжение: homerules/equipment.md
+      - Волшебные предметы: homerules/magic-items.md
+      - Ловушки: homerules/traps.md
       - Деятельность между приключениями: homerules\downtime-activities.md
       - Дополнительные правила: homerules/additional_rules.md
-      - Расширенные правила: homerules\homerules\expanded_rules.md
+      - Расширенные правила: homerules/expanded_rules.md
       - Разное: homerules\misc.md
     - Мультикампания:
+        - Общее: shared_campaign/index.md
         - Потребность в игротеке: shared_campaign/needs_organized_play.md
         - Правила общей кампании: shared_campaign/shared_rules.md
         - Фракции, известность, слава: shared_campaign\factions-renown-fame.md
@@ -48,7 +52,7 @@ nav:
     - Шаблон персонажа: character-template.md
     - Шаблон местности, места: location-template.md
     - Внешние ссылки: external-links.md
-    - Играя магом: playing-as-mage.md
+    - Играя магом: homerules/playing-as-mage.md
     - Противники:
         - Дроу: drow-units.md
         - Культы стихийного зла: elemental-evil-cults.md
@@ -65,7 +69,7 @@ theme:
     code: 'Ubuntu Mono'
   logo:
     icon: 'library_books'
-  language: 'uk'
+  language: 'ru'
   feature:
     tabs: true
     
