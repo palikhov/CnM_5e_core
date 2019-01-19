@@ -1,37 +1,124 @@
 [Черновик по навыкам в Microsoft Word Online](https://1drv.ms/w/s!Atcrhwwo1lBAvdUlouMRNii993cHlw)
 
 # Feats 
-Warriors across the Forgotten Realms have spent years perfecting the art of combat. Over the years, masters
-of various weapons and styles of combat have taken on apprentices and formed schools to pass on their techniques.
-When you join a combat school, by taking the Combat School Training feat, you gain the journeyman benefits of that combat school. You gain the master benefits once you take the feat a second time. Once you join a combat school, you cannot join another one until you are a master in your first combat school.
-Most combat schools have prerequisites that must be met before you join them. You can join a combat school at the same time as you meet its prerequisites.
 
-All combat schools grant a mixture of maneuvers and techniques, as well as some physical training. Combat schools require specific weapons or combinations of weapons. You cannot use the maneuvers or techniques from a combat school unless you are both proficient in and wielding the school’s specified weapons.
 
-Combat schools use resolve to power their maneuvers and techniques. If a maneuver or a technique requires a saving throw, your combat school will tell you how to determine the DC.
+# Изменение оружейных навыков
 
-Maneuvers: These are the signature moves of a school and require the expenditure of resolve dice. You can use only one maneuver per attack.
+[Черновик в формате docx на Onedrive по мартиальщикам](https://1drv.ms/w/s!Atcrhwwo1lBAvdknSWJJSEovUXs83A)
 
-Physical Training: When you first join a combat school, you can increase one of your attributes, reflecting the training you receive. 
 
-Techniques: These are the skills of a school. They do not require resolve dice and grant a passive benefit if you are using the combat school’s weapons.
+## Боевые школы и личные боевые стили
 
-**Resolve:** Martial maneuvers and techniques require cunning, strength, timing and panache, all of which are represented by resolve dice. Resolve dice are d6’s. You recover all expended resolve die after completing a short or long rest.
+Все боевые школы предоставляют возможность изучить смесь маневров и техник, равно как и физическую подготовку.
 
-When you take the Combat School Training feat a second time to become a master in a combat school, your resolve die increases to a d8.
-```
-## Combat style feats
+Некоторые боевые школы имеют требования, которым необходимо соответствовать прежде чем Ваш персонаж сможет взять этот навык.
 
-**Stance:** You may only utilize one stance feat at a time. You must use a bonus action to enter a stance and you can switch stances as a bonus action.
-The following core feats are now treated as (stance) feats:
-• Dual Wielder
-• Great Weapon Master
-• Polearm Master
-• Shield Master
-• Sentinel
+Также все боевые школы имеют два уровня навыка - Ученик и Мастер. Будучи Учеником в одной боевой школе нельзя изучать вторую
 
-Tier: Some feats possess more than one rank of abilities (initiate, journeyman, and master). When you first take a btiered feat you learn the initial abilities. You may take the feat a second and then third time to learn the journeyman and master level abilities. 
-```
+Боевые школы требуют для своего применения как **конкретных видов оружия так и их комбинации.** Использовать техники и маневры из боевой школы можно только используя определенные для каждой боевой школы оружия или комбинации оружия и только если Ваш персонаж одновременно умеет обращаться с этим оружием.
+
+**Уровень Сложности** (Difficulty Class, DC) для маневров и техник боевой школы рассчитывается на основании модификатора базовой для боевой школы характеристики.
+
+**Физические тренировки:** Когда Ваш персонаж в первый раз получает навык боевой школы Вы можете повысить ему одну из определенных для конкретной школы характеристик.
+
+**Маневры:** это определяющие боевую школу движения и для их реализации требуется потратить куб превосходства. Можно использовать только один маневр за одну атаку.
+
+**Техники:** Это умения школы. Они не требуют кубов превосходства для ипользования и предоставляют пассивный эффект если персонаж использует определенное для боевой школы оружие (или набор оружий)
+
+**Превосходство и решимость** - Superiority and resolve
+
+Маневры и техники ближнего боя требуют хитрости, силы, умения, определения нужного момента и задора которые определяются кубами превосходства (решимости), которые при получении навыков Ученика являютя к6. Персонаж восстанавливает все потраченные кубы превосходства после завершения длинного или короткого отдыха.
+
+При получении навыка Тренировка в Боевой школы во второй раз Ваш персонаж становится Мастером в этой боевой школе  и кубы превосходства увеличиваются до к8.
+
+
+# Личный боевой стиль
+
+**Требование:** У персонажа не должно быть навыка Боевой школы. 
+
+Некоторые воители разрабатывают свой собственный уникальный боевой стиль методом проб и ошибок. Вы создали стиль который подходит вам но ему не хватает отточенности и глубины системы, которая развивалась на протяжении десятилетий.
+
+При создании личного боевого стиля вы должны выбрать предпочитаемое оружие и желательный вид доспехов. Если техника требует от вас использования оружия, щита или доспеха этот предмет должен быть частью списка требуемого для личного боевого стиля оружия и доспехов.
+
+Вы получаете преимущества от вашего личного стиля только если вы умеете владеть и используете ваше избранное оружие.
+
+Выберите или Силу или Ловкость - какая характеристика лучше всего отражает вашу манеру боя? Эта же характеристика будет определять **Уровень Сложности** маневров и техник вашего личного боевого стиля (его нельзя изменить после выбора). УС будет равен 8 + модификатори избранной характеристики + бонус мастерства.
+
+**Маневры и техники** Выберите две ученических техники и один ученический маневр из боевых стилей. 
+
+**Превосходство и решимость** Когда вы берете этот навык в первый раз вы получаете два куба превосходства для использования с маневрами. При получении этого навыка второй раз вы получаете дополнительный куб превосходства и можете выбрать дополнительные технику и маневр из любого боевого стиля. Также куб превосходства увеличиться до к8.
+
+## Известные боевые школы:
+
+### Школа парных клинков
+
+''' # Twin Sword Style (Brother & Sister)'''
+
+**Требования** Предыстория Гладиатора или Ветерена ИЛИ Ловкость от 13 и выше.
+
+''' # Twin Sword Style (Brother & Sister)'''
+
+**УС маневров и техник** 8 + модификатор Ловкости вашего персонажа + Ваш **бонус мастерства**.
+
+**Физические тренировки** Когда ваш персонаж в первый раз получает навык этой боевой школы, его Ловкость увеличивается на 1, до максимума в 20. 
+
+**Оружие** Школа двойных мечей использует двойные кинжалы, гладиусы, палаши, короткие мечи, сабли - в общем любые два режущих не тяжелых, легких, не обладающих свойствами версатильного оружия.
+
+#### Уровень ученика
+
+Маневры: Riposte (Maneuver)
+
+Техники: Unfettered Defense (Technique), Fancy Footwork (Technique), 
+
+### Уровень мастера
+
+#### Перенаправленная атака (Maneuver)
+
+Когда вы промахнулись атакой ближнего боя, вы можете использовать 1 куб превосходства, чтобы перенаправить свой удар в другое существо рядом с вашим персонажем. Бросок куба превосходства добавляется и к попаданию, и к урону против выбранной цели.
+
+#### Кровь для Стали (Технрка)
+
+Во время осуществления действия Атака, вы можете атаковать столь отчаянно, что ваш КД (Armor Class) будет понижен на 2, но вы получите бонус +1 ко всем вашим атакам и броскам урона до конца Вашего хода.
+
+When you are missed with a melee attack, as a reaction you may spend 1 resolve die to redirect that attack to another creature adjacent to you. Roll the resolve die you spent and add your result to the creature’s original attack roll and damage rolls against your chosen target.
+
+ Blood for Steel (Technique): When you take the Attack action, you can choose to lower your AC by 2 to gain a +1 bonus to all your attack and damage rolls until the end of your turn.
+
+# The Flower of Battle - Цветок Битвы
+
+# Iron Hand  - Железнолапый
+
+# Military Step - Военный шаг
+
+# Primary Shield - Основной щит
+
+# Dual Blades - Двойные клинки
+
+# Single Blade - Одиночный клинок
+
+# The Dance of Blades - Танец Клинков
+
+# Arrow Storm - Шторм стрел
+
+# Crushing Wave - Крушащая Волна
+
+# Galloping Ram - Галлопирующий Таран
+
+# Laughing Viper - Смеющаяся Гадюка
+
+# Road Maces - Дорожные Булавы
+
+
+
+
+
+
+
+
+
+
+
 # Combat School Training
 
 **Prerequisite:** You cannot have the Personal Combat Style feat, and you must meet the prerequisites of your chosen combat school.
@@ -47,15 +134,7 @@ Also take look on updated fighting styles -> [NEW FIGHTING STYLES](https://githu
 ```
 
 
-# Twin Sword Style (Brother & Sister)
 
-**Prerequisites:** Gladiator or Veteran background, or Dexterity 13 or higher
-
-**Maneuver and Technique DC:** 8 + your Dexterity modifier + your proficiency bonus
-
-**Physical Training:** When you first join this combat school, your Dexterity score increases by 1, to a maximum of 20.
-
-**Weapons:** Twin Sword Style style utilizes twin daggers, gladii, short swords, scimitars or any combination of two light, finesse or versatile weapons.
 
 #### Journeyman
 
@@ -507,113 +586,22 @@ throw or fall prone.
 
 **Fancy Footwork (Technique):** Anytime you score a critical hit, or reduce a creature to 0 hit points, as a reaction you can take the Dash or Disengage action.
 
-## Combat Schools
+# Личный боевой стиль
 
-1 Twin Sword Style (Brother & Sister)
+**Требование:** У персонажа не должно быть навыка Боевой школы. 
 
-2 Flower of Battle
+Некоторые воители разрабатывают свой собственный уникальный боевой стиль методом проб и ошибок. Вы создали стиль который подходит вам но ему не хватает отточенности и глубины системы, которая развивалась на протяжении десятилетий.
 
-3 Iron Hand  
+При создании личного боевого стиля вы должны выбрать предпочитаемое оружие и желательный вид доспехов. Если техника требует от вас использования оружия, щита или доспеха этот предмет должен быть частью списка требуемого для личного боевого стиля оружия и доспехов.
 
-4 Military Step
+Вы получаете преимущества от вашего личного стиля только если вы умеете владеть и используете ваше избранное оружие.
 
-5 Single Blade
+Выберите или Силу или Ловкость - какая характеристика лучше всего отражает вашу манеру боя? Эта же характеристика будет определять УС маневров и техник вашего личного боевого стиля (его нельзя изменить после выбора). УС будет равен 8 + модификатори избранной характеристики + бонус мастерства.
 
-6 Dual blade
-
-7 Primary Shield
-
-8 The Dance of Blades
-
-9 Arrow Storm 
-
-10 Crushing Wave 
-
-11 Galloping Ram 
+Выберите две ученических техники и один ученический маневр из боевых стилей. Когда вы берете этот навык в первый раз вы получаете два куба превосходства для использования с маневрами. При получении этого навыка второй раз вы получаете дополнительный куб превосходства и можете выбрать дополнительные технику и маневр из любого боевого стиля. Также куб превосходства увеличиться до к8.
 
 
-## Maneuvers
-
-* Blinding Strike
-
-* Crippling Strike
-
-* Disarm Foe
-
-* Grasp the Blade
-
-* Precision Strike
-
-* Pressing attack
-
-* Redirect Attack
-
-* Riposte
-
-* Unbalancing Attack
-
-* Double Arrow 
-
-* Snap Shot
-
-* Entangling Defense
-
-* Galloping Shot
-
-
-## Techniques
-
-* Balanced Hands
-
-* Blade Step
-
-* Blood for Steel
-
-* Charge
-
-* Deadly strike
-
-* Defensive Stance
-
-* Distracting strike
-
-* Fancy Footwork
-
-* Flowing Stool
-
-* Flowing Sand
-
-* Force the Opening
-
-* Polearm expertise
-
-* Reactive Strike 
-
-* Shield Bash
-
-* Shield Defense
-
-* Threatening Stance
-
-* Unfetterd DefVense
-
-* Road maceds
-
-* Always Armed 
-
-* Snap Shot
-
-* Quick Reactions 
-
-* Close Quarters Archery 
-
-* Shielding Net 
-
-* Fancy Ridin
-
-# Personal Combat Style 
-
-**Prerequisite:** You cannot have the Combat School Training feat.
+You cannot have the Combat School Training feat.
 
 Some warriors develop their own unique combat style through trial and error. You have created a style that works for you but lacks the refinement and depth of a system with many years of development.
 ► When building your personal style, you must create a list of chosen weapons and preferred armor types. If a technique requires you to use a weapon, shield, or armor that item must be part of your personal combat weapon and armor list. 
@@ -829,3 +817,16 @@ You are not only a fine penman and calligrapher, but you have unlocked the magic
 
 Increase your Intelligence by 1. You gain proficiency in one additional language. When creating certain magic items, each day of work is worth 100gp toward the time to finishing the item, rather than the normal 50gp. Only magic items that include extensive writing are included in this category, including scrolls of all kinds, magical books, and the like. You gain advantage on checks \(including passive checks\) to detect the presence of dangerous writing-based magical traps and wards. If the spell or effect does not include a check to detect it, you may make a normal Intelligence \(Calligrapher's Supplies\) check at a DC 12 + spell level to detect it. You also gain advantage on saving throws against all symbol- or writing-based magics, including glyphs, symbols, and the like.
 
+```
+## Combat style feats
+
+**Stance:** You may only utilize one stance feat at a time. You must use a bonus action to enter a stance and you can switch stances as a bonus action.
+The following core feats are now treated as (stance) feats:
+• Dual Wielder
+• Great Weapon Master
+• Polearm Master
+• Shield Master
+• Sentinel
+
+Tier: Some feats possess more than one rank of abilities (initiate, journeyman, and master). When you first take a btiered feat you learn the initial abilities. You may take the feat a second and then third time to learn the journeyman and master level abilities. 
+```

@@ -13,16 +13,45 @@ Like all kio-crafted goods, this armor is rare outside kio families.
 **Lorica Segmentata:** The armor of the finest and bestequipped Coryani legions, lorica segmentata has seen many improvements over centuries of outstanding service to the Empire. It consists of steel plates bent and molded around the chest and shoulders, then linked together with steel mail worn beneath. Steel arm and leg greaves complete the kit. This armor is built for maximum protection and 
 maneuverability.
 
+
+
+
+**Buckler**: This small shield is fitted around the arm and made of metal, wood, or boiled leather. It takes the same time to don and doff as a normal shield \(1 action\) and a character cannot benefit from a buckler and any other type of shield at the same time. Unlike a shield, a character can still use the hand in which the buckler is equipped. If during a character's turn they use an item with this hand, attack with a weapon in this hand, or attack with a two-handed weapon, then the character does not gain the buckler's bonus to AC until the start of their next turn. Attacking with a one-handed weapon or thrown weapon using the buckler hand causes disadvantage on the attack roll. The hand wielding the buckler does not count as a free hand for the purposes of spellcasting, grappling, or unarmed attacks. A character proficient with shields is also considered proficient with bucklers. A buckler does not benefit from the rules or abilities that specifically refer to shields, such as the Protection Fighting Style or the Shield Master feat.
+
+**Tower Shield**: A huge metal-reinforced shield nearly as tall as its wielder. Donning and doffing the tower shield takes 1 action. A character cannot benefit from a tower shield and any other type of shield at the same time. While a tower shield is equipped, its bearer takes disadvantage on all attack rolls due to the off-balancing encumbrance of the shield, unless the weapon has the Light property. A character proficient with both shields and heavy armor is assumed to be proficient with tower shields. All other rules that affect shields still apply to tower shields.
+Lorica Squamata
+Medium armor
+Description: Lorica squamata consists of a metal scale shirt fitted with steel shoulders, like those found on lorica segmentata. Used by standard bearers, musicians, centurions, and cavalry troops, lorica squamata is common within the legions of Coryan, even finding its way to some auxiliary infantry legions as well.
+
+Milandisian Andrean Suit of Plate Heavy armor
+Description: Named for Andreas II, former king of Milandir and creator of this style of armor, Andrean plate offers the greatest protection achieved to date. Though it is far too heavy for all but the strongest knights to wear, Andrean plate is surprisingly easy to move around in. Its clever design permits the wearer to enjoy almost a full range of motion. This armor is rare, not because its construction is controlled, but because it is extremely expensive to manufacture. Only the wealthiest of individuals can afford such a suit of armor.
+
+Milandisian Gothic Cuirass Heavy armor
+Description: Milandisian armor smiths are some of the most accomplished in the history of the craft. One of their many innovations is the Milandisian cuirass, which increases the effectiveness of the typical horseman’s cuirass by adding a series of cunningly designed curves to the breastplate and helm.
+
+
+Ss’ressen Scale Armor
+Light armor
+Description: This heavy coat and skirt of scaled leather is made from the hides of the huge ss’ressen of the Agamassi egg clutch. This extremely rare armor may only be found in Altheria or the eloran city of Entaris. It is an accepted fact that the elorii were the originators of this type of armor, and they have several suits of ss’ressen scale dating back to time of the eloran hegemony over the continent.
+Special: If you are a ss’ressen with the Natural Armor racial ability, they gain a +1 bonus to your AC while wearing this armor.
+
+
+#### New Armor Table
+
 Leather 11 + Dex modifier - 10 lbs. 10 gp Armored coat
 Lorica Segmentata 15 + Dex modifier (max 2) - 40 lbs. 900 gp
 Kio Hauberk 15 + Dex modifier (max 3) - - 15 lbs 1,500gp
 
+Spiked shield
+
+
+
+Armor Cost Armor Class \(AC\) Strength Stealth Weight Buckler 5 gp +1 - - 4 lb Tower Shield 30 gp +3 Str 13 Disadvantage 40 lb
+
 ### Weapons
 
 
-Kio sword†† 50 gp 1d8 slashing 4 lb. Finesse, versatile (1d10)
 
-Man catcher 40 gp 1d4 piercing - 3 lb. Heavy, two-handed, special
 
 **Penetrating:** Some ranged weapons are particularly effective against armored opponents at close range. Weapons with the penetrating property grant advantage on attack rolls when used against armored opponents within 15 feet. This ability is ineffective against abilities that increase AC but are not armor such as the monk’s Unarmored Defense.
 
@@ -30,15 +59,50 @@ Man catcher 40 gp 1d4 piercing - 3 lb. Heavy, two-handed, special
 
 **Worn:** Worn weapons augment your unarmed attack damage and may not be disarmed. Putting on or removing a worn weapon takes an action. 
 
-### About Worn Weapons
-You can use weapons you wear on your body, (worn weapons), to make unarmed strikes. When you make an unarmed strike while wearing a worn weapon, you deal the weapon’s damage instead of your normal unarmed strike damage. You must able to use the part of your body where the weapon is attached to make the unarmed strike. You cannot use a cestus to make an unarmed strike if you are using that hand to wield a 
-sword or hold a lantern. For example, when you attack with a cestus, your unarmed strike deals 1d4 + your Strength modifier bludgeoning damage, assuming you use the fist wearing the cestus to make that unarmed strike. 
-Worn weapons do allow you to benefit from runes and other magical effects that can be applied to weapons.Any rune or spell that would affect a weapon can be applied to a worn weapon, and the rune or effect applies to your unarmed strikes.
 
+#### New Weapons Table
+Cestus              5gp 1d4 bludgeoning 2lb Special, worn
 
-Simple Weapons  
-Weapons with special rules are described here, as well 
-as the weapons unique to Arcanis.
+Kio sword**         50 gp 1d8 slashing 4 lb. Finesse, versatile (1d10)
+
+Man catcher         40 gp 1d4 piercing - 3 lb. Heavy, two-handed, special
+
+Cutlass             30gp 1d6 slashing 3lb Basket hilt, finesse, light
+
+Gladius             40gp 1d6 piercing 3lb Finesse, light, versatile damage (slashing)
+
+Khopesh             30gp 1d8 slashing 3lb Heavy
+
+Man catcher         40gp 1d4 piercing 3lb Heavy, two-handed, special
+
+Spiked chain        30gp 1d6 piercing 3lb Finesse, two-handed, special
+
+Tail Bracer          20gp 1d8 bludgeoning 3lb Worn
+
+Tralian Hammer      70gp 1d12 bludgeoning 10lb Heavy, two-handed, versatile damage (piercing)
+
+War scythe          30gp 1d12 slashing 8lb Heavy, two-handed
+
+Gauntlet                    1d4 bludgeoning
+
+Spiked chain               1d8  slashing 5 lb Finesse, two-handed, reach
+
+Spiked shield
+
+Hooked Shortspear   martial           1d4 piercing 2 lb light, special***
+
+Light Repeating Crossbow    martial     1d8 piercing lb 40/160 ft range Ammuntion, ****
+
+**Firearms**
+
+Flintlock pistol 300gp 1d10 piercing 5 lb. Ammunition (range 50/300), loading,
+
+Flintlock rifle 500gp 2d6 piercing 10 lbs. Ammunition (range 100/500), loading, melee use: greatclub, penetrating, special, two-handed
+
+**Ammunition**
+
+Blastpowder and shot (10) 25 gp per weapon 2 lbs. per weapon
+
 Cestus: Popular in the arenas and tavernas of 
 Coryan, this reinforced leather glove consists of 
 a series of leather thongs that are tied over the 
@@ -52,6 +116,23 @@ property and the sphairai "bone-
 breaker" has the versatile damage 
 (slashing) property.
 
+*** On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
+
+**** This weapon is similar to a light crossbow except that it has half the range (40/160 feet) and doesn't have the loading property. It automatically reloads after firing until it runs out of ammunition. Reloading the cartridge takes an action.
+
+Weapon: Like Sarishan steel weapons, weapons made of tempered Sarishan steel are considered to be magical weapons for the purposes of bypassing the damage resistance of infernals, but unlike Sarishan steel weapons, weapons made of tempered Sarishan steel deal an additional 1d6 damage of the weapon’s type when dealing damage to infernals.
+If a tempered Sarishan steel weapon is used while smiting an infernal either using a smite spell or the Smite class feature, this weapon deals an additional 1d10 damage instead.
+
+### About Worn Weapons
+You can use weapons you wear on your body, (worn weapons), to make unarmed strikes. When you make an unarmed strike while wearing a worn weapon, you deal the weapon’s damage instead of your normal unarmed strike damage. You must able to use the part of your body where the weapon is attached to make the unarmed strike. You cannot use a cestus to make an unarmed strike if you are using that hand to wield a 
+sword or hold a lantern. For example, when you attack with a cestus, your unarmed strike deals 1d4 + your Strength modifier bludgeoning damage, assuming you use the fist wearing the cestus to make that unarmed strike. 
+Worn weapons do allow you to benefit from runes and other magical effects that can be applied to weapons.Any rune or spell that would affect a weapon can be applied to a worn weapon, and the rune or effect applies to your unarmed strikes.
+
+
+Simple Weapons  
+Weapons with special rules are described here, as well as the weapons unique to Arcanis.
+
+
 Flintlocks: Altheria may be a center of knowledge and learning, but it is the power of blastpowder that has kept the Republic of Altheria safe for many years. The Altherians’ advanced understanding of blastpowder and its explosive potential has aided them in the design of their flintlock weapons. 
 Altherian flintlocks are designed to take advantage of specific amounts of blastpowder for every shot, leading to the creation of blastpowder rounds – small paper or cloth packets of blastpowder pre-measured to gain the most efficient and accurate shot. Therefore, these fine weapons are usually easier, safer, and faster to reload and fire.
 
@@ -62,106 +143,22 @@ Repairing a jammed flintlock requires proficient use of a flintlock maintenance 
 
 Additionally, in Arcanis flintlocks are reinforced and balanced for use as improvised melee weapons. Flintlock pistols may be used as clubs, while flintlock rifles may be used as greatclubs. If you are proficient with a club or greatclub, you can add your proficiency bonus to attack rolls with your flintlock when you use it as an improvised weapon.
 
-#### Simple Melee Weapons ### Cost Damage Weight Properties
 
 
-### Simple Melee Weapons ### Cost Damage Weight Properties
-
-Cestus 5gp 1d4 bludgeoning 2lb Special, worn
-
-### Martial Melee Weapons ### 
-
-Cutlass 30gp 1d6 slashing 3lb Basket hilt, finesse, light
-
-Gladius 40gp 1d6 piercing 3lb Finesse, light, versatile damage (slashing)
-
-Khopesh 30gp 1d8 slashing 3lb Heavy
-
-Man catcher 40gp 1d4 piercing 3lb Heavy, two-handed, special
-
-Spiked chain 30gp 1d6 piercing 3lb Finesse, two-handed, special
-
-Tail Bracer 20gp 1d8 bludgeoning 3lb Worn
-
-Tralian Hammer 70gp 1d12 bludgeoning 10lb Heavy, two-handed, versatile damage (piercing)
-
-War scythe 30gp 1d12 slashing 8lb Heavy, two-handed
-
-**Firearms**
-
-Flintlock pistol 300gp 1d10 piercing 5 lb. Ammunition (range 50/300), loading,
-
-Flintlock rifle 500gp 2d6 piercing 10 lbs. Ammunition (range 100/500), loading, melee use: greatclub, penetrating, special, two-handed
-
-**Ammunition**
-
-Blastpowder and shot (10) 25 gp per weapon 2 lbs. per weapon
-
-#### New rule: fire 
-
-&&Soldier’s Pack (14 gp):** Includes a backpack, a bedroll, a hammer, a mess-kit, 10 pitons, 10 torches, a tinderbox, a tent, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it. 
+**Soldier’s Pack (14 gp):** Includes a backpack, a bedroll, a hammer, a mess-kit, 10 pitons, 10 torches, a tinderbox, a tent, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it. 
 
 
-Optional Rule: Large Weapons and Armor
+### Optional Rule: Large Weapons and Armor
+
+```
 There are some Heroes who are naturally Large size, or who have the ability to increase their size and become Large.
 If this occurs, you may be required to purchase weapons and armor sized for a Large creature.
-Finding someone with the skill to forge Large-sized equipment is no easy task, and the equipment itself costs
-double its listed price. Large weapons deal an extra die of damage, so a Large longsword deals 2d8 damage. You
-cannot wear armor that is too small for you.
-If you try to wield a weapon too big for you, you suffer disadvantage on all attack rolls with that weapon, even if
-you are proficient with it. If you wear armor that is too big for you, you suffer disadvantage on all Dexterity (Stealth)
-checks and your speed is reduced by 10, no matter your Strength.
+Finding someone with the skill to forge Large-sized equipment is no easy task, and the equipment itself costs double its listed price. Large weapons deal an extra die of damage, so a Large longsword deals 2d8 damage. You cannot wear armor that is too small for you.
+If you try to wield a weapon too big for you, you suffer disadvantage on all attack rolls with that weapon, even if you are proficient with it. If you wear armor that is too big for you, you suffer disadvantage on all Dexterity (Stealth) checks and your speed is reduced by 10, no matter your Strength.
+```
 
 
 
-Lorica Squamata
-Medium armor
-Description: Lorica squamata consists of a metal scale 
-shirt fitted with steel shoulders, like those found on 
-lorica segmentata. Used by standard bearers, musicians, 
-centurions, and cavalry troops, lorica squamata is common 
-within the legions of Coryan, even finding its way to some 
-auxiliary infantry legions as well.
-Milandisian Andrean Suit of Plate
-Heavy armor
-Description: Named for Andreas II, former king of 
-Milandir and creator of this style of armor, Andrean plate 
-offers the greatest protection achieved to date. Though it 
-is far too heavy for all but the strongest knights to wear, 
-Andrean plate is surprisingly easy to move around in. Its 
-clever design permits the wearer to enjoy almost a full range 
-of motion. This armor is rare, not because its construction 
-is controlled, but because it is extremely expensive to 
-manufacture. Only the wealthiest of individuals can afford 
-such a suit of armor.
-Milandisian Gothic Cuirass
-Heavy armor
-Description: Milandisian armor smiths are some of the 
-most accomplished in the history of the craft. One of 
-their many innovations is the Milandisian cuirass, which 
-increases the effectiveness of the typical horseman’s cuirass 
-by adding a series of cunningly designed curves to the 
-breastplate and helm.
-
-
-Ss’ressen Scale Armor
-Light armor
-Description: This heavy coat and skirt of scaled leather is 
-made from the hides of the huge ss’ressen of the Agamassi 
-egg clutch. This extremely rare armor may only be found in 
-Altheria or the eloran city of Entaris. It is an accepted fact 
-that the elorii were the originators of this type of armor, 
-and they have several suits of ss’ressen scale dating back to 
-time of the eloran hegemony over the continent.
-Special: If you are a ss’ressen with the Natural Armor 
-racial ability, they gain a +1 bonus to your AC while 
-wearing this armor.
-Weapon: Like Sarishan steel weapons, weapons made of tempered Sarishan steel are considered to be magical
-weapons for the purposes of bypassing the damage resistance of infernals, but unlike Sarishan steel weapons,
-weapons made of tempered Sarishan steel deal an additional 1d6 damage of the weapon’s type when dealing damage to
-infernals.
-If a tempered Sarishan steel weapon is used while smiting an infernal either using a smite spell or the Smite class
-feature, this weapon deals an additional 1d10 damage instead.
 
 
 Armor: A suit of scale or plate made from fervidite may look dull, but it is much lighter than a similar suit made of a different metal. Fervidite armor removes disadvantage of
@@ -224,8 +221,11 @@ from glass steel gains the light or finesse weapon quality,
 chosen during construction.
 Shields: A shield forged from glass steel weighs only 3 lbs. 
 
-Alchemical 
-Items
+
+
+# Alchemical equipment
+
+Alchemical Items
 Alchemical items are not products of magic, but of science. 
 All these items have one thing in common; they may only 
 be used once. Unlike magic items, alchemical items can be 
@@ -271,8 +271,6 @@ Description: This small sphere is filled with a gray powder thatmay be thrown, c
 Abilities/Effects: As an action you can throw this flask at a creature, object, or empty space up to 20 feet away, shattering it on impact. Make a ranged attack against a creature or object, treating the flash sphere as an improvised weapon; no attack roll is needed if you target an empty space. All creatures within 5 feet of the point of impact must make a successful DC 10 Constitution saving throw 
 or become blinded until the beginning of their next turn. A creature that cannot see gains advantage on their saving throw.
 Frost Sphere
-
-#### Alchemical equipment
 
 Description: This small sphere is filled with two chemicals each a distinct shade of blue. When the chemicals are mixed they suddenly bsorb all heat from the surrounding area, flash freezing water and chilling those unfortunate enough to be close to the point of impact.
 Abilities/Effects: As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the frost sphere as an improvised weapon. On a hit, the target takes 2d6 cold damage. If thrown into a body of water, the sphere instantly shatters and freezes 2 cubic feet of the water.
@@ -351,189 +349,6 @@ clear luminescent liquid.
 Abilities/Effects: One vial of sweet water cleanses 2 gallons 
 of liquid of any poisons or impurities. It has no effect on 
 creatures entirely comprised of liquid, like water elementals.
-
-
-## Weapons
-
-Gauntlet
-
-Spiked chain
-
-Spiked shield
-
-Hooked Shortspear martial melee weapon that deals 1d4 piercing damage, weighs 2 pounds, and has the light weapon property (see chapter 5, "Equipment," of the Player's Handbook). It doesn't possess the thrown or versatile weapon properties of a normal spear. On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
-
-Light Repeating Crossbow 1d8, piercing, 40/160 light repeating crossbow fitted with a cartridge that can hold up to six crossbow bolts. This weapon is similar to a light crossbow except that it has half the range (40/160 feet) and doesn't have the loading property. It automatically reloads after firing until it runs out of ammunition. Reloading the cartridge takes an action.
-
-## Armor
-
-Spiked shield
-
-
-
-Armor Cost Armor Class \(AC\) Strength Stealth Weight Buckler 5 gp +1 - - 4 lb Tower Shield 30 gp +3 Str 13 Disadvantage 40 lb
-
-**Buckler**: This small shield is fitted around the arm and made of metal, wood, or boiled leather. It takes the same time to don and doff as a normal shield \(1 action\) and a character cannot benefit from a buckler and any other type of shield at the same time. Unlike a shield, a character can still use the hand in which the buckler is equipped. If during a character's turn they use an item with this hand, attack with a weapon in this hand, or attack with a two-handed weapon, then the character does not gain the buckler's bonus to AC until the start of their next turn. Attacking with a one-handed weapon or thrown weapon using the buckler hand causes disadvantage on the attack roll. The hand wielding the buckler does not count as a free hand for the purposes of spellcasting, grappling, or unarmed attacks. A character proficient with shields is also considered proficient with bucklers. A buckler does not benefit from the rules or abilities that specifically refer to shields, such as the Protection Fighting Style or the Shield Master feat.
-
-**Tower Shield**: A huge metal-reinforced shield nearly as tall as its wielder. Donning and doffing the tower shield takes 1 action. A character cannot benefit from a tower shield and any other type of shield at the same time. While a tower shield is equipped, its bearer takes disadvantage on all attack rolls due to the off-balancing encumbrance of the shield, unless the weapon has the Light property. A character proficient with both shields and heavy armor is assumed to be proficient with tower shields. All other rules that affect shields still apply to tower shields.
-
-# Mastercraft Items
-
-## Mastercraft Items 
-
-A mastercraft item is an item created with such skill and care that it is clearly superior to a normal item. Not just any craftsmen can create a mastercraft item; only an expert in his or her craft, with exceptional skill and years of experience, can create such an item. Mastercraft items can take the form of weapons, armor, or tools. All mastercraft items are exceptionally durable and can take wear and tear better than a normal item. Although mastercraft items are not magical, magic items are mastercraft items, but their magical description and properties replaces any benefit they grant from being mastercraft. 
-
-### Mastercraft weapons 
-
-Mastercraft weapons are particularly sharp and sturdy. You gain a +1 bonus to damage rolls made with a mastercraft weapon. Your weapon is less likely to break under normal use. Ammunition generally cannot be mastercrafted. If a mastercraft weapon gains a bonus to damage from any other source, that bonus replaces the bonus granted from the weapon being a mastercraft weapon. Mastercraft weapons cost 300 GPs more than the base price of the weapon. A mastercraft weapon can also be silvered, but this costs an additional 100 GPs. 
-
-### Mastercraft Armor 
-
-Mastercraft armor and shields provide the same protection as their normal counterparts but weigh less. Mastercraft light armor, medium armor, and shields weigh half as much as normal. Mastercraft heavy armor weighs three-quarters as much as normal. The strength score required to wear mastercraft heavy armor before one's speed is reduced is one point less than the listed score. Mastercraft armor and shields are less likely to break under normal use. They cost twice as much as their normal counterparts. 
-
-### Mastercraft Tools 
-
-Mastercraft tools are created with such quality that they make it easier for you to use them. You gain a +1 bonus to any check you make with a mastercraft tool with which you are proficient. They are more durable under normal use. Mastercraft tools cost four times as much as their normal counterparts.
-
-Джерело: [http://farlandworld.com/mastercraft.html](http://farlandworld.com/mastercraft.html)
-
-# Rare materials
-
-Material/Treatment Cost Adamantine 428 gp per lb Adamant x gp Arandur x gp Darksteel x gp Dlarun x gp Dragonhide x gp Gold 50 gp per lb Mithral 210 gp per lb Silver 5 gp per lb Telstang x gp Blueshine x gp Everbright x gp Halabar's Stealth x gp
-
-Hides & Leathers Dragon Leather: Armor \(leather, studded leather, scale mail, hide\): The powerful virtues of dragon's hide can be invested into suits of armor made of the material by cunning craftsmen. When you're wearing armor made from it, you reduce the damage taken from slashing and piercing injuries by 1. You additionally reduce damage taken from a single damage type that corresponds with the original dragon's breath weapon by 1 \(fire for red dragons, lightning for blue, etc\). Wearers are warned, however, that dragons do take ill to those they encounter wearing this. Metals Adamantine: An alloy of adamant, silver, and electrum, or of steel and mithral, it is black in color, with a green sheen in candlelight or a purple-white light in magical radiance. Armor \(Chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate\): Adamant makes armor of exquisite diamond-hard substance. While you're wearing it, any critical hit against you becomes a normal hit. Weapons: Though adamantine weapons have no additional properties, adamantine takes and holds magic quite well. Many magical weapons are wrought of adamantine because of this. Adamant: A gleaming, glossy black refinement of adamantine, a natural jet-black ferromagnetic ore found in obsidian beds. It is gleaming, glossy black, with a rainbow sheen in bright light. It is too brittle to make keen weapons from, but is a favorite of dwarf-folk for hammers. Armor \(Chain shirt, scale mail, ring mail, chain mail, splint\): Though this jet black metal is too fragile to form actual armor, strips of it can be used to reinforce flexible armors. It strengthens the armor minutely, but its main property is to partially absorb fire. You reduce all slashing damage by 1, and all fire damage by 1d6. In any combat in which you take bludgeoning damage, however, roll a d20 at the end of the combat. If you roll a 9 or lower, the strips of adamant have been shattered and will need to be repaired \(which costs 20% of the cost to install the reinforcements\) by a smith skilled in the working of adamant. Until repairs are done, you lose all benefits of this material. Weapons \(bludgeoning\): When you have advantage on an attack roll, if the lower of the two dice would also hit your target's AC, you inflict an additional d4 damage. Arandur: Once the exclusive secret of the gnome-kind, arandur is a gleaming silver-blue metal, with a green reflective sheen in sunlight. It also naturally absorbs the magical injuries used to inflict raw kinetic injuries. Armor \(scale mail, breastplate, half plate; splint, plate; shield\): When used to make non-flexible metal armors, arandur grants its wearer the ability to reduce force damage by 2. Weapons \(slashing or piercing\): Arandur can be honed to wicked edges that are not easily dulled. When you inflict a critical with a slashing or piercing weapons wrought of arandur, add your Proficiency bonus to the final damage total. Darksteel: A silvery metal with a shadowed cast that gleams purple-ish in firelight, darksteel's making is lost today, an ancient secret of teh Ironstar clan of dwarves. Smiths throughout the Realms offer great amounts of gold for the recovery of any lost ingots of the metal. Armor \(Chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate\): Armor wrought of darksteel reduces all bludgeoning and lightning damage inflicted to the wearer by 1. Dlarun: A little known halfling metal dug up from clumps of river clay and then kilned at high temperatures, dlarun is a bone-white metal that can take a high polish, and gains a distinctive greenish sheen under magical lighting. It has the strange benefit of steadying the minds of those that wear it. Armor \(Studded leather; breastplate, half plate; splint, plate; shield\): Armor wrought of dlarun reduces all bludgeoning and psychic damage by 1, and grants a +1 to saves against all Enchantment spells. Gold: Though quite precious, gold is still considered one of the "common metals." Gold is aligned with solar and celestial magics, purifying undeath. Gold continually flakes and chips away, however, necessitating constant \(although simple\) repairs. Armor \(any\): Though gold is too soft to make armor from, while wearing gold-filigreed armor, reduce all necrotic damage taken by 1. For each item of armor possessed and used, add the following costs to your Lifestyle expenditures per month: 1sp for light armor or shield, 5sp for medium armor, 1gp for heavy armor. Weapon \(any\): Gold-filigreed weapons used to strike the undead inflict 1 additional point of radiant damage. For each such weapon, add 2sp to your Lifestyle cost expenditures per month. Mithral: Called the "truemetal" by dwarf-folk, mithral is derived from soft, glittering, silvery-black ore found in rare veins and pockets from the depths of the Underdark to surface rocks. Armor \(chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate; shield\): Mithral lends subtlety and grace to the wearer. If the armor normally inflicts disadvantage on Stealth rolls, that property is negated. If it does not, then the armor can be worn normally under clothes without giving away the fact that the wearer is wearing armor. Weapons \(slashing or piercing\): The fine edge of mithral is sung about in elven ballads, and with good reason. When you have advantage on an attack roll, if the lower of the two dice would also hit your target's AC, you inflict an additional d4 damage. Silver: Another common metal, silver is aligned with the powers and mysteries of Selûne. Weapon \(any\): Many creatures take grievous wounds from silvered weapons. Though the metal is too soft and costly to make weapons from directly, weapons can easily be silvered with the stuff, granting the property of the metal without taking away from its utility. Telstang: Originally a gnomish secret, this alloy of copper, mithral, platinum, and silver is a dull pewter-silver in hue, and gives off a clear bell-like tone when struck with another metal \(leading to its other name of "singing metal"\). It also collects and reverberates sudden sonic assaults outward away from itself. Armor \(Scale mail, breastplate, half plate; splint, plate\): Though telstang's construction make it largely unsuitable for armors, some craft them anyway for its two tremendous benefits. The first is that any sonic damage taken by the wearer is reduced by 1d6 points. The second is that the wearer automatically succeeds at any saving throws that paralyze or change his shape. Any critical hit with bludgeoning or force damage shatters your armor, however \(though this critical hit only inflicts normal damage instead of doubling it\). Metal Treatments These are alchemical and metallurgical treatments used to treat specific kinds of metals.
-
-Blueshine: Metal weapons and armor. A treatment that gives a bluish sheen to any items wrought of iron, steel, adamantine, arandur, darksteel, mithral, silver, or telstang, blueshine helps negate caustic substances. The metal part of weapons coated in the stuff become immune to acid damage, and armors coated in it grant resistance to acid damage: reduce all acid damage taken by 1 for medium armors or 2 for heavy armors. Everbright: Metal weapons and armor. A dwarven process now known to smiths of many folk, everbright-treated items gleam with a mirror finish \(like a chromium finish\). Metal objects \(which can only be made of steel, adamantine, or mithral\) treated with everbright are immune to rust and the passage of time, and those wearing armor or bearing shields treated with it reduce radiant damage taken by 1 for medium armors and shields or 2 for heavy armors. Remaining unseen while wearing such armor is quite difficult, however; those searching visually for everbright-clad characters gain advantage on their checks to spot them. Halabar's Stealth: Metal weapons and armor. An expensive but increasingly common metal treatment that renders metallic weapons and armor nonferromagnetic, nonreflective, and wholly silent, not even clanging when struck against other metals or stone. Drawing or wielding such weapons will not reveal a hidden character, and metal armor wrought of it does not inflict disadvantage on Stealth checks.
-
-# Расходуемое снаряжение
-
-Alchemical Fire
-
-Acid
-
-Antitoxin
-
-Holy water
-
-
-
-# Spellbook Costs
-
-
-
-These prices provide the Base Cost referred to below
-
-Blank Spellbook, Quarto \(Standard; 12" x 9.5"\), sold in signatures of 8 pages, at a cost of 6gp per signature. \(Minimum 2 signatures • Maximum 37 signatures\)
-
-16 pages \(2 signatures\): 12 gp
-
-40 pages \(5 signatures\): 30 gp
-
-80 pages \(10 signatures\): 60 gp
-
-200 pages \(25 signatures\): 150 gp
-
-296 pages \(37 signatures\): 220 gp
-
-Blank Spellbook, Octavo \(Traveling; 9" x 6"\), sold in signatures of 8 pages, at a cost of 3 gp per signature \(Minimum 1 signature • Maximum 25 signatures\)
-
-8 pages \(1 signatures\): 3 gp
-
-16 pages \(2 signatures\): 6 gp
-
-40 pages \(5 signatures\): 15 gp
-
-80 pages \(10 signatures\): 30 gp
-
-200 pages \(25 signatures\): 75 gp
-
-Blank Spellbook, Folio \(Sanctum; 15" x 12"\), sold in signatures of 8 pages, at a cost of 12 gp per signature. \(Minimum 2 signatures • Maximum x signatures\)
-
-16 pages \(2 signatures\): 24 gp
-
-40 pages \(5 signatures\): 60 gp
-
-80 pages \(10 signatures\): 120 gp
-
-200 pages \(25 signatures\): 300 gp
-
-296 pages \(37 signatures\): 440 gp
-
-400 pages \(50 signatures\): 600 gp
-
-496 pages \(62 signatures\): 740 gp
-
-Covers
-
-Costs are assumed to be for quarto-sized books. Halve costs for octavo-sized books, and double them for folio-sized ones.
-
-Cloth: Ragcloth: 5 sp • Sturdy: 1 gp
-
-Paperboard: Basic: 1 gp • Sturdy: 2 gp • Cloth-Covered: 3 gp
-
-Leather: Scrapstitch: 2 gp • Basic: 5 gp • Decorative: 20 gp • Fine: 40 gp
-
-Wood: Glueboard: 3 gp • Simple: 5 gp • Decorative: 15 gp • Fine: 25 gp • Sealing: +15 gp
-
-Metals: Thinsheet: 5 gp • Simple: 10 gp • Decorative: 30 gp • Fine: 75 gp • Sealing: +30 gp
-
-Adornments
-
-Gilding: Silver +10% of Base Cost; Gold +20% of Base Cost
-
-Precious Metal & Gem Accents: Cost of gems and metals, plus 10gp \(5gp for octavos, 20gp for folios\)
-
-Cover Artwork: Varies
-
-Practical Additions
-
-Key Lock: DC 15 - 25gp; DC 20 - 50gp; DC 25 - 100gp
-
-Puzzle Lock: DC 15 - 35gp; DC 20 - 70gp; DC 25 - 150gp
-
-Enchantments
-
-Minor Property: 150gp
-
-Arcane Locking: 250gp
-
-Arcane Words: 50gp
-
-Immunity: 100 gp + 50gp per additional damage type
-
-Illusory Appearance: Single Appearance 100gp; Variable Appearance 200gp; Mutable Appearance 400gp
-
-Levitating: 75gp
-
-Spells
-
-Cantrips: 30 gp each
-
-Higher Level Spells: 50 gp per spell level each
-
-# Potions & Spell Scrolls
-
-Potions
-
-Common: 50 gp
-
-Uncommon: 250 gp
-
-Rare: 1500 gp
-
-Very Rare: 15,000 gp
-
-Spell Scrolls
-
-Common: Cantrip: 25 gp • 1st Level: 50 gp
-
-Uncommon: 2nd Level: 150 gp • 3rd Level: 300 gp
-
-Rare: 4th Level: 800 gp • 5th Level: 1500 gp
-
-Very Rare: 6th Level: 4000 gp • 7th Level: 8000 gp • 8th Level: 16,000 gp
-
-Legendary: 9th Level: 50,000 gp
 
 # Alchemical items
 
@@ -742,3 +557,163 @@ Red war paint gives advantage on Strength and Dexterity saving throws
 Blue gives advantage on Intelligence and Wisdom saving throws
 Violet affords a +1d4 bonus to all weapon damage rolls.
 Black grants the ability to take the Hide action as a bonus action on your turn as well as the benefits of the pass without trace spell (self-only, no concentration required).
+
+
+# Mastercraft Items
+
+## Mastercraft Items 
+
+A mastercraft item is an item created with such skill and care that it is clearly superior to a normal item. Not just any craftsmen can create a mastercraft item; only an expert in his or her craft, with exceptional skill and years of experience, can create such an item. Mastercraft items can take the form of weapons, armor, or tools. All mastercraft items are exceptionally durable and can take wear and tear better than a normal item. Although mastercraft items are not magical, magic items are mastercraft items, but their magical description and properties replaces any benefit they grant from being mastercraft. 
+
+### Mastercraft weapons 
+
+Mastercraft weapons are particularly sharp and sturdy. You gain a +1 bonus to damage rolls made with a mastercraft weapon. Your weapon is less likely to break under normal use. Ammunition generally cannot be mastercrafted. If a mastercraft weapon gains a bonus to damage from any other source, that bonus replaces the bonus granted from the weapon being a mastercraft weapon. Mastercraft weapons cost 300 GPs more than the base price of the weapon. A mastercraft weapon can also be silvered, but this costs an additional 100 GPs. 
+
+### Mastercraft Armor 
+
+Mastercraft armor and shields provide the same protection as their normal counterparts but weigh less. Mastercraft light armor, medium armor, and shields weigh half as much as normal. Mastercraft heavy armor weighs three-quarters as much as normal. The strength score required to wear mastercraft heavy armor before one's speed is reduced is one point less than the listed score. Mastercraft armor and shields are less likely to break under normal use. They cost twice as much as their normal counterparts. 
+
+### Mastercraft Tools 
+
+Mastercraft tools are created with such quality that they make it easier for you to use them. You gain a +1 bonus to any check you make with a mastercraft tool with which you are proficient. They are more durable under normal use. Mastercraft tools cost four times as much as their normal counterparts.
+
+Джерело: [http://farlandworld.com/mastercraft.html](http://farlandworld.com/mastercraft.html)
+
+# Rare materials
+
+Material/Treatment Cost Adamantine 428 gp per lb Adamant x gp Arandur x gp Darksteel x gp Dlarun x gp Dragonhide x gp Gold 50 gp per lb Mithral 210 gp per lb Silver 5 gp per lb Telstang x gp Blueshine x gp Everbright x gp Halabar's Stealth x gp
+
+Hides & Leathers Dragon Leather: Armor \(leather, studded leather, scale mail, hide\): The powerful virtues of dragon's hide can be invested into suits of armor made of the material by cunning craftsmen. When you're wearing armor made from it, you reduce the damage taken from slashing and piercing injuries by 1. You additionally reduce damage taken from a single damage type that corresponds with the original dragon's breath weapon by 1 \(fire for red dragons, lightning for blue, etc\). Wearers are warned, however, that dragons do take ill to those they encounter wearing this. Metals Adamantine: An alloy of adamant, silver, and electrum, or of steel and mithral, it is black in color, with a green sheen in candlelight or a purple-white light in magical radiance. Armor \(Chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate\): Adamant makes armor of exquisite diamond-hard substance. While you're wearing it, any critical hit against you becomes a normal hit. Weapons: Though adamantine weapons have no additional properties, adamantine takes and holds magic quite well. Many magical weapons are wrought of adamantine because of this. Adamant: A gleaming, glossy black refinement of adamantine, a natural jet-black ferromagnetic ore found in obsidian beds. It is gleaming, glossy black, with a rainbow sheen in bright light. It is too brittle to make keen weapons from, but is a favorite of dwarf-folk for hammers. Armor \(Chain shirt, scale mail, ring mail, chain mail, splint\): Though this jet black metal is too fragile to form actual armor, strips of it can be used to reinforce flexible armors. It strengthens the armor minutely, but its main property is to partially absorb fire. You reduce all slashing damage by 1, and all fire damage by 1d6. In any combat in which you take bludgeoning damage, however, roll a d20 at the end of the combat. If you roll a 9 or lower, the strips of adamant have been shattered and will need to be repaired \(which costs 20% of the cost to install the reinforcements\) by a smith skilled in the working of adamant. Until repairs are done, you lose all benefits of this material. Weapons \(bludgeoning\): When you have advantage on an attack roll, if the lower of the two dice would also hit your target's AC, you inflict an additional d4 damage. Arandur: Once the exclusive secret of the gnome-kind, arandur is a gleaming silver-blue metal, with a green reflective sheen in sunlight. It also naturally absorbs the magical injuries used to inflict raw kinetic injuries. Armor \(scale mail, breastplate, half plate; splint, plate; shield\): When used to make non-flexible metal armors, arandur grants its wearer the ability to reduce force damage by 2. Weapons \(slashing or piercing\): Arandur can be honed to wicked edges that are not easily dulled. When you inflict a critical with a slashing or piercing weapons wrought of arandur, add your Proficiency bonus to the final damage total. Darksteel: A silvery metal with a shadowed cast that gleams purple-ish in firelight, darksteel's making is lost today, an ancient secret of teh Ironstar clan of dwarves. Smiths throughout the Realms offer great amounts of gold for the recovery of any lost ingots of the metal. Armor \(Chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate\): Armor wrought of darksteel reduces all bludgeoning and lightning damage inflicted to the wearer by 1. Dlarun: A little known halfling metal dug up from clumps of river clay and then kilned at high temperatures, dlarun is a bone-white metal that can take a high polish, and gains a distinctive greenish sheen under magical lighting. It has the strange benefit of steadying the minds of those that wear it. Armor \(Studded leather; breastplate, half plate; splint, plate; shield\): Armor wrought of dlarun reduces all bludgeoning and psychic damage by 1, and grants a +1 to saves against all Enchantment spells. Gold: Though quite precious, gold is still considered one of the "common metals." Gold is aligned with solar and celestial magics, purifying undeath. Gold continually flakes and chips away, however, necessitating constant \(although simple\) repairs. Armor \(any\): Though gold is too soft to make armor from, while wearing gold-filigreed armor, reduce all necrotic damage taken by 1. For each item of armor possessed and used, add the following costs to your Lifestyle expenditures per month: 1sp for light armor or shield, 5sp for medium armor, 1gp for heavy armor. Weapon \(any\): Gold-filigreed weapons used to strike the undead inflict 1 additional point of radiant damage. For each such weapon, add 2sp to your Lifestyle cost expenditures per month. Mithral: Called the "truemetal" by dwarf-folk, mithral is derived from soft, glittering, silvery-black ore found in rare veins and pockets from the depths of the Underdark to surface rocks. Armor \(chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate; shield\): Mithral lends subtlety and grace to the wearer. If the armor normally inflicts disadvantage on Stealth rolls, that property is negated. If it does not, then the armor can be worn normally under clothes without giving away the fact that the wearer is wearing armor. Weapons \(slashing or piercing\): The fine edge of mithral is sung about in elven ballads, and with good reason. When you have advantage on an attack roll, if the lower of the two dice would also hit your target's AC, you inflict an additional d4 damage. Silver: Another common metal, silver is aligned with the powers and mysteries of Selûne. Weapon \(any\): Many creatures take grievous wounds from silvered weapons. Though the metal is too soft and costly to make weapons from directly, weapons can easily be silvered with the stuff, granting the property of the metal without taking away from its utility. Telstang: Originally a gnomish secret, this alloy of copper, mithral, platinum, and silver is a dull pewter-silver in hue, and gives off a clear bell-like tone when struck with another metal \(leading to its other name of "singing metal"\). It also collects and reverberates sudden sonic assaults outward away from itself. Armor \(Scale mail, breastplate, half plate; splint, plate\): Though telstang's construction make it largely unsuitable for armors, some craft them anyway for its two tremendous benefits. The first is that any sonic damage taken by the wearer is reduced by 1d6 points. The second is that the wearer automatically succeeds at any saving throws that paralyze or change his shape. Any critical hit with bludgeoning or force damage shatters your armor, however \(though this critical hit only inflicts normal damage instead of doubling it\). Metal Treatments These are alchemical and metallurgical treatments used to treat specific kinds of metals.
+
+Blueshine: Metal weapons and armor. A treatment that gives a bluish sheen to any items wrought of iron, steel, adamantine, arandur, darksteel, mithral, silver, or telstang, blueshine helps negate caustic substances. The metal part of weapons coated in the stuff become immune to acid damage, and armors coated in it grant resistance to acid damage: reduce all acid damage taken by 1 for medium armors or 2 for heavy armors. Everbright: Metal weapons and armor. A dwarven process now known to smiths of many folk, everbright-treated items gleam with a mirror finish \(like a chromium finish\). Metal objects \(which can only be made of steel, adamantine, or mithral\) treated with everbright are immune to rust and the passage of time, and those wearing armor or bearing shields treated with it reduce radiant damage taken by 1 for medium armors and shields or 2 for heavy armors. Remaining unseen while wearing such armor is quite difficult, however; those searching visually for everbright-clad characters gain advantage on their checks to spot them. Halabar's Stealth: Metal weapons and armor. An expensive but increasingly common metal treatment that renders metallic weapons and armor nonferromagnetic, nonreflective, and wholly silent, not even clanging when struck against other metals or stone. Drawing or wielding such weapons will not reveal a hidden character, and metal armor wrought of it does not inflict disadvantage on Stealth checks.
+
+# Расходуемое снаряжение
+
+Alchemical Fire
+
+Acid
+
+Antitoxin
+
+Holy water
+
+
+
+# Spellbook Costs
+
+
+
+These prices provide the Base Cost referred to below
+
+Blank Spellbook, Quarto \(Standard; 12" x 9.5"\), sold in signatures of 8 pages, at a cost of 6gp per signature. \(Minimum 2 signatures • Maximum 37 signatures\)
+
+16 pages \(2 signatures\): 12 gp
+
+40 pages \(5 signatures\): 30 gp
+
+80 pages \(10 signatures\): 60 gp
+
+200 pages \(25 signatures\): 150 gp
+
+296 pages \(37 signatures\): 220 gp
+
+Blank Spellbook, Octavo \(Traveling; 9" x 6"\), sold in signatures of 8 pages, at a cost of 3 gp per signature \(Minimum 1 signature • Maximum 25 signatures\)
+
+8 pages \(1 signatures\): 3 gp
+
+16 pages \(2 signatures\): 6 gp
+
+40 pages \(5 signatures\): 15 gp
+
+80 pages \(10 signatures\): 30 gp
+
+200 pages \(25 signatures\): 75 gp
+
+Blank Spellbook, Folio \(Sanctum; 15" x 12"\), sold in signatures of 8 pages, at a cost of 12 gp per signature. \(Minimum 2 signatures • Maximum x signatures\)
+
+16 pages \(2 signatures\): 24 gp
+
+40 pages \(5 signatures\): 60 gp
+
+80 pages \(10 signatures\): 120 gp
+
+200 pages \(25 signatures\): 300 gp
+
+296 pages \(37 signatures\): 440 gp
+
+400 pages \(50 signatures\): 600 gp
+
+496 pages \(62 signatures\): 740 gp
+
+Covers
+
+Costs are assumed to be for quarto-sized books. Halve costs for octavo-sized books, and double them for folio-sized ones.
+
+Cloth: Ragcloth: 5 sp • Sturdy: 1 gp
+
+Paperboard: Basic: 1 gp • Sturdy: 2 gp • Cloth-Covered: 3 gp
+
+Leather: Scrapstitch: 2 gp • Basic: 5 gp • Decorative: 20 gp • Fine: 40 gp
+
+Wood: Glueboard: 3 gp • Simple: 5 gp • Decorative: 15 gp • Fine: 25 gp • Sealing: +15 gp
+
+Metals: Thinsheet: 5 gp • Simple: 10 gp • Decorative: 30 gp • Fine: 75 gp • Sealing: +30 gp
+
+Adornments
+
+Gilding: Silver +10% of Base Cost; Gold +20% of Base Cost
+
+Precious Metal & Gem Accents: Cost of gems and metals, plus 10gp \(5gp for octavos, 20gp for folios\)
+
+Cover Artwork: Varies
+
+Practical Additions
+
+Key Lock: DC 15 - 25gp; DC 20 - 50gp; DC 25 - 100gp
+
+Puzzle Lock: DC 15 - 35gp; DC 20 - 70gp; DC 25 - 150gp
+
+Enchantments
+
+Minor Property: 150gp
+
+Arcane Locking: 250gp
+
+Arcane Words: 50gp
+
+Immunity: 100 gp + 50gp per additional damage type
+
+Illusory Appearance: Single Appearance 100gp; Variable Appearance 200gp; Mutable Appearance 400gp
+
+Levitating: 75gp
+
+Spells
+
+Cantrips: 30 gp each
+
+Higher Level Spells: 50 gp per spell level each
+
+# Potions & Spell Scrolls
+
+Potions
+
+Common: 50 gp
+
+Uncommon: 250 gp
+
+Rare: 1500 gp
+
+Very Rare: 15,000 gp
+
+Spell Scrolls
+
+Common: Cantrip: 25 gp • 1st Level: 50 gp
+
+Uncommon: 2nd Level: 150 gp • 3rd Level: 300 gp
+
+Rare: 4th Level: 800 gp • 5th Level: 1500 gp
+
+Very Rare: 6th Level: 4000 gp • 7th Level: 8000 gp • 8th Level: 16,000 gp
+
+Legendary: 9th Level: 50,000 gp
+

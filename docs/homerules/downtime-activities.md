@@ -1,12 +1,14 @@
 # Research
 
-Lore Research
+##  Lore Research
 
 You seek through tomes of lore and folios of letters, collections of journals and the scribbled notes of sages and scholars for some piece of important lore. Each Topic has a given DC - the more obscure the lore, the higher the DC. This DC is what it takes to simply know that fact using a normal Skill check. If no one knows it, then research is necessary. Researchers should add their full Skill bonus to this roll, with additional researchers adding only their Intelligence bonuses.
 
 Everyday Lore \(DC 10\): +15% • 1gp • 1 hour. Lore that even those without any real training are likely to know. Common Lore \(DC 15\): +10% • 1 gp • 1 hour. Common lore among those who are trained in the discipline in question. Uncommon Lore \(DC 20\): +0% • 10 gp • 1 day. Lore known most commonly to those with great knowledge in the discipline. Rare \(DC 25\): -10% • 25 gp • 1 day. Lore considered rare even among the sages of this discipline. Very Rare \(DC 30\): -20% • 50 gp • 3 days. Lore likely to be known only to those at the pinnacle of learning in this discipline. Legendary \(DC 35\): -30% • 100 gp • 5 days. Lore unlikely to be known by even the finest of sages, usually requiring extensive libraries and weeks of research to uncover. d100 Result 10 or lower Failed Research. Your research takes you down meandering paths and wrong turns. You suffer a -10 to your next Lore Research roll on this Topic. 11-20 No Progress. Your research takes you nowhere useful. 21-45 Simple Progress. You're getting somewhere and quickly. Gain a +10% to the next Lore Research roll on this Topic. 31-55 Solid Progress. Your research is fruitful. If you are researching a DC 10 Topic, you succeed at finding your answer. If your goal is higher than that, gain a +15% to your next Lore Research roll on this Topic. 41-80 Marked Progress. If you are researching DC 15 Topic, you succeed at finding the answer. If your goal is higher than that, gain a +20% to your next roll. 66-95 Tremendous Progress. If you are researching a DC 20 Topic, you succeed at finding the answer. If your goal is higher than that, gain +25% to your next roll. 81-99 Breakthrough Progress. If you are researching a DC 25 Topic, you succeed at finding the answer. If your goal is higher than that, gain +30% to your next roll. 100-125 Masterful Progress. If you are researching a DC 30 Topic, you succeed at finding the answer. If your goal is higher than that, gain +35% to your next roll. 126+ Legendary Progress. You succeed at finding the answer you seek, even if you are researching a DC 35 Topic.
 
-Magical Research You engage in extensive research, experimenting with any number of magical principles and theories in an attempt to expand your understanding of the Art. You must choose what you are seeking to research, whether a new spell or the formula of a new magic item. The level of the item being researched imposes a modifier to this roll. In order to research a formula, a researcher must be of the level needed to either learn the spell or create the magic item. Each research roll also costs a base amount to even make the roll at all, though this cost can be modified by the result gained. The researcher adds his total Arcana, Nature, or Religion bonus to these rolls, depending on the item or spell in question.
+## Magical Research 
+
+You engage in extensive research, experimenting with any number of magical principles and theories in an attempt to expand your understanding of the Art. You must choose what you are seeking to research, whether a new spell or the formula of a new magic item. The level of the item being researched imposes a modifier to this roll. In order to research a formula, a researcher must be of the level needed to either learn the spell or create the magic item. Each research roll also costs a base amount to even make the roll at all, though this cost can be modified by the result gained. The researcher adds his total Arcana, Nature, or Religion bonus to these rolls, depending on the item or spell in question.
 
 Spells Cantrip \(+15 to roll, 1gp and 1 day per roll\) 1st Level \(+10 to roll, 10gp and 1 week per roll\) 2nd or 3rd Level \(+0 to roll, 25gp and 1 week per roll\) 4th or 5th Level \(-10 to roll, 50gp and 2 weeks per roll\) 6th or 7th Level \(-20 to roll, 100gp and 1 month per roll\) 8th or 9th Level \(-30 to roll, 500gp and 1 season per roll\) \[edit\]Magic Items Common \(+10 to roll, 10gp and 1 week per roll\) Uncommon \(+0 to roll, 25gp and 1 week per roll\) Rare \(-10 to roll, 50gp and 2 weeks per roll\) Very Rare \(-20 to roll, 100gp and 1 month per roll\) Legendary \(-30 to roll, 500gp and 1 season per roll\) d100 Result 01 or lower Magical Disaster. Your experiments have gone terribly awry, and you have accidentally laid a curse of other lingering malignant effect on yourself or something you treasure. Research expenses are doubled for this Research roll. 02-10 Failed Research. Your research takes you down meandering paths and wrong turns. You suffer a -10 to your next Magical Research roll, and the cost of this Research roll is half-again as expensive. 11-20 No Progress. Your research takes you nowhere useful. 21-45 Simple Progress. You're getting somewhere and quickly. Gain a +10 to the next Research roll. 31-55 Solid Progress. Your research is fruitful. Gain a +15 to your next Research roll. 41-80 Marked Progress. If you are researching a Cantrip or 1st Level spell, or a Common or Uncommon magic item, you succeed at finding the formula. If your goal is higher than that, reduce the cost of this Research roll by 10%, and gain a +15 to your next roll. 66-95 Tremendous Progress. If you are researching a spell of 4th Level or lower, or a magic item of Rare quality or lower, you succeed at finding the formula. If your goal is higher than that, reduce the cost of this Research roll by 10%, and gain +25 to your next roll. 81-99 Breakthrough Progress. If you are researching a spell of 6th Level or lower, or a magic item of Very Rare quality or lower, you succeed at finding the formula. If your goal is higher than that, reduce the cost of this Research roll by 25%, and gain +25 to your next roll. 100-125 Masterful Progress. If you are researching a spell of 8th Level or lower, or a magic item of Very Rare quality or lower, you succeed at finding the formula. If your goal is higher than that, reduce the cost of this Research roll by 25%, and gain +35 to your next roll. 126+ Legendary Progress. You succeed at finding the formula you seek, no matter its complexity. Reduce the cost of this Research roll by 50% \[edit\]Rare and Unique Spells The above mechanics assume that the spells being researched are common spells.
 
@@ -16,7 +18,7 @@ Rare Spells: If creating a spell that is unique to a character or organization, 
 
 A mage gains access to new spells in one of two ways: he can either research them or he can study spells that he finds. Either of these approaches allow him to understand the spell in question.
 
-Researching Spells
+## Researching Spells
 
 Automatic Research: As mages advance through their levels, they are assumed to constantly be researching, studying, experimenting and discovering or awakening new magical techniques and understandings. These form a body of ongoing "research". At each level, a mage may add 2 new spells to his spellbook. These spells must come from the list of common spells, or from spells whose formulae the wizard has had a chance to read but not copy.
 
@@ -28,7 +30,7 @@ Even if this doesn't happen immediately, the insights and notes are there: they 
 
 If more than a week passes between successfully researching the spell and writing down, the mage must make an Intelligence check \(DC 5 + 1 per week that has passed\) and the amount of time needed to scribe the spell. Failure on this roll results in wasted time, and 1d6gp worth of wasted scrivening materials.
 
-Copying A Spell
+## Copying A Spell
 
 The other way to learn new spells is to copy and already-finished formula, whether one that is written out in another mage's spellbook or one that has been imbued onto a spell scroll.
 
@@ -54,7 +56,7 @@ This is halved if the spell is being scribed into a folio, or doubled if being s
 
 Spellbook Types & Costs
 
-Spellbook Costs
+### **Spellbook Costs
 
 Spellbook Costs
 
@@ -206,7 +208,7 @@ Levitating: When opened, the book can be commanded to simply hover in place, all
 
 Successfully running a business means having the right people and putting time into the work done.
 
-Business Costs
+## Business Costs
 
 The cost to run a business is made up of four things: Owner's Lifestyle + Employee Costs + Building Costs + Goods Cost
 
@@ -220,7 +222,7 @@ Time: Roll 1d4 per Skilled Worker the business must start with, and add +1 per N
 
 The Business Roll Business Roll: On the last day of each month, a business owner may make a business roll. A Direct Hand \(Bonus\): This gains a +1 per day of downtime the character dedicated to working on the business exclusively. Other characters may also lend help, granting a +1 per two days of dedicated assistance. Insufficient Employees \(Penalty\): If you do not have the proper number of employees to run your business, you gain a -1 to the roll per Unskilled missing, and -5 per Skilled. If you have Unskilled employees covering Skilled roles, that penalty becomes a -2 per Skilled employee missing. Skilled employees can easily cover Unskilled roles, however. Plentiful Employees \(Bonus\): If you have more employees than you need, your business can run more smoothly. For Skilled employees, gain a +2 if you hire more than you need; this becomes a +5 if you double the requirements or more. For Unskilled employees, gain a +1 if you hire more than you need; this becomes a +3 if you double the requirements or more. Advertising \(Bonus\): Hiring criers and putting up printed leaflets for your business can provide a boost. For each 1 gp you spend on doing so \(to a maximum of 3 gp\), you may add +1d4-1% to your roll. It is possible \(though rare\) for this to generate a negative number, the result of bad timing, lazy criers, and the like. Other Events \(Bonus or Penalty\): Other events occurring in or around your business can affect how it runs. Bonuses include city festivals, booking excellent entertainers, one's services or products becoming in fashion, and the like. Penalties can include violence or damage to the business, smear campaigns against your business, seasons where your services are less in demand, and the like. Quality: Each business is given a Quality, which describes at what Lifestyle most of their customers exist. It is easier to make coin on cheaper business ventures, but one can make larger profits. Squalid: Base cost of business is reduced by 50%. Gain a +10% to the Running a Business roll. Reduce any profit by 50%. Poor: Base cost of business is reduced by 25%. Gain +5% to the Running a Business roll. Reduce any profit by 25%. Modest: Profit, Running a Business roll and profits are normal. Comfortable: Base cost of business is increased by 50%. Gain -5% to the Running a Business roll. Increase any profit by 50%. Wealthy: Base cost of business is increased by 100%. Gain -10% to the Running a Business roll. Increase any profit by 100%. d100 roll Result 01-20 Disastrous Month: You must pay 150% of business's Total Business Costs for the month. 21-30 Hard Month: You must pay 100% of the business's Total Business Costs for the month. 31-40 Difficult Month: You must pay 50% of the business's Total Business Costs for the month. 41-60 Fair Month: The business covers its own Business Costs for the month. 61-80 Good Month: The business covers its own Business Costs for the month. You also earn a Profit of 1d6x5 gp. 81-90 Excellent Month: The business covers its own Business Costs for the month. You also earn a Profit of 2d8x5 gp. 91+ Windfall Month: The business covers its own Business Costs for the month. You also earn a Profit of 3d10x5 gp.
 
-Criminal Businesses
+## Criminal Businesses
 
 Business Costs Skilled Hirelings Unskilled Hirelings Goods Base Cost Burglary 1 0 10gp Drug Trade 1 5 100gp Fencing 2 10 50gp Smuggling 3 0 25gp Gang of Pickpockets 1 5 10gp Thugs & Legbreakers 1 2 5gp Criminal businesses can be more profitable, but can also result in being discovered by the law or running afoul of rivals.
 
@@ -237,10 +239,6 @@ Dealing with Rivals As a criminal enterprise grows and is successful, it attract
 Money Makers: Reduce rolls by -15% for Poor businesses, -5% for Modest businesses, +0% for Comfortable businesses, +10% for Wealthy businesses, and +20% for Aristocratic businesses. Dealing with Rivals \(Downtime Action\): For each day a character deals with rivals, reduce the check by 2%. Leery of the Law: Legal Attention can sometimes cause rivals to step more carefully, reducing Rival Reprisal checks.
 
 # Establish Information Network
-
-## 
-
-### Establish Information Network
 
 A character may cultivate an information network as a downtime action, deliberately seeking to find those who are either sympathetic or willing to take coin in order to provide the character with information. Networks are rated in size encompassed, from Neighborhood to Regional. Once a network is established \(at Neighborhood size\), the character can continue to expand that network. Each stage has a threshold of both time and gold necessary to get it to a given level. When work begins on a network by a PC, the DM should roll to determine what these thresholds are, but not reveal this information to the player. Taking this action, then involves investing both downtime and coin towards these goals, hoping to increase the size and utility of a given network.
 
@@ -262,7 +260,7 @@ A character may cultivate an information network as a downtime action, deliberat
 
 
 
-### Utilize Information Network \(Downtime Action\)
+# Utilize Information Network
 
 Information networks serve a single purpose: to provide a source of information. Acquiring this involves "chasing down" your contacts, setting them to the task of what you're looking for, and then waiting to see what they bring back to you. This involves a roll on the following table, with the following modifiers:
 
@@ -285,15 +283,13 @@ Information networks serve a single purpose: to provide a source of information.
 | 66-85 | **Of Interest:** You gain two Rumors. |
 | 86+ | **Secrets:** You gain 1d3 Rumors and a Secret. |
 
-### Sow Network Rumors \(Downtime Action\)
+## Sow Network Rumors (Downtime Action)
 
 If you have an information network, you can direct them to spread a rumor. This mimics the "Sowing Rumors" downtime action, except that the network itself takes the time to spread it, without you having to do anything during that time yourself. This still takes the normal amount of time and cost, but frees you up to do other things. You must simply spend 1 day establishing the rumor with your people.
 
-# Types of Information Networks
+## Types of Information Networks
 
 
-
-## 
 
  Sources of information can be extremely valuable. Entire groups often know things that any given individual might not. The exact nature of the information is usually based on the make-up of the group: street and criminal contacts usually know what's going on in the shadows, while noble contacts are aware of happenings in the aristocratic sphere. Some kinds of information networks available:
 
@@ -315,7 +311,7 @@ Religious: This category covers information about things going on in temples and
 
 Street: This category covers the rough lives of a city's populace, from beggars and the homeless to those who simply work hard for poor earnings.
 
-### The Rewards of Information
+## The Rewards of Information
 
 There are two core rewards gained through the use of information networks: secrets and rumors.
 
