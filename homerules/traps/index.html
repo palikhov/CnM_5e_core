@@ -1,0 +1,989 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="uk" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.">
+      
+      
+      
+        <meta name="author" content="Антон Палихов aka Palant">
+      
+      
+        <meta name="lang:clipboard.copy" content="Скопіювати в буфер">
+      
+        <meta name="lang:clipboard.copied" content="Скопійовано в буфер">
+      
+        <meta name="lang:search.language" content="en, ru, uk">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Збігів не знайдено">
+      
+        <meta name="lang:search.result.one" content="Знайдено 1 збіг">
+      
+        <meta name="lang:search.result.other" content="Знайдено # збігів">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>TRAPS & EFFECTS - D&D Palant edition</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#traps-effects" tabindex="1" class="md-skip">
+        Перейти до змісту
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../.." title="D&D Palant edition" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">library_books</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                D&D Palant edition
+              </span>
+              <span class="md-header-nav__topic">
+                TRAPS & EFFECTS
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Пошук" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Розпочніть писати для пошуку
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти до репозиторію" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../.." title="Главная" class="md-tabs__link md-tabs__link--active">
+        Главная
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../homerules/character-creation.md" title="Домашние правила" class="md-tabs__link">
+          Домашние правила
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../shared_campaign/needs_organized_play/" title="Мультикампания" class="md-tabs__link">
+          Мультикампания
+        </a>
+      
+    </li>
+  
+
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../drow-units/" title="Противники" class="md-tabs__link">
+          Противники
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../.." title="D&D Palant edition" class="md-nav__button md-logo">
+      
+        <i class="md-icon">library_books</i>
+      
+    </a>
+    D&D Palant edition
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти до репозиторію" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." title="Главная" class="md-nav__link">
+      Главная
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      Домашние правила
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Домашние правила
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../homerules/character-creation.md" title="Правила по созданию персонажей" class="md-nav__link">
+      Правила по созданию персонажей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes.md" title="Классы" class="md-nav__link">
+      Классы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/arcanis-work/" title="Классы из Арканиса" class="md-nav__link">
+      Классы из Арканиса
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/barbarian/" title="Варвар" class="md-nav__link">
+      Варвар
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/elder-sorcerer/" title="Древние колдуны" class="md-nav__link">
+      Древние колдуны
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/fighter/" title="Боец (воин)" class="md-nav__link">
+      Боец (воин)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/mystic/" title="Мистик" class="md-nav__link">
+      Мистик
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/classes/ranger-rework.md" title="Рейнджер" class="md-nav__link">
+      Рейнджер
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/rogue/" title="Специалист (авантюрист)" class="md-nav__link">
+      Специалист (авантюрист)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/shaman/" title="Шаман" class="md-nav__link">
+      Шаман
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../classes/wizard/" title="Волшебник (маг)" class="md-nav__link">
+      Волшебник (маг)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-12" type="checkbox" id="nav-2-12">
+    
+    <label class="md-nav__link" for="nav-2-12">
+      Твердыни и последователи
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-12">
+        Твердыни и последователи
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../non-combat-followers.md" title="Не бовые последователи" class="md-nav__link">
+      Не бовые последователи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../homerules/stronghold_and_followers/strongholds.md" title="Твердыни" class="md-nav__link">
+      Твердыни
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../homerules/stronghold_and_followers/villains.md" title="Злодеи" class="md-nav__link">
+      Злодеи
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../homerules/stronghold_and_followers/warfare.md" title="Военное дело" class="md-nav__link">
+      Военное дело
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../combat-maneuvers.md" title="Боевые маневры" class="md-nav__link">
+      Боевые маневры
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../homerules/fighting-styles.md" title="Боевые стили" class="md-nav__link">
+      Боевые стили
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../homerules/languages.md" title="Языки" class="md-nav__link">
+      Языки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../feats/" title="Навыки (feats)" class="md-nav__link">
+      Навыки (feats)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../spells/" title="Заклинания" class="md-nav__link">
+      Заклинания
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../homerules/equipment.md" title="Снаряжение" class="md-nav__link">
+      Снаряжение
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../homerules/magic-items.md" title="Волшебные предметы" class="md-nav__link">
+      Волшебные предметы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../homerules/traps.md" title="Ловушки" class="md-nav__link">
+      Ловушки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../downtime-activities/" title="Деятельность между приключениями" class="md-nav__link">
+      Деятельность между приключениями
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../additional_rules/" title="Дополнительные правила" class="md-nav__link">
+      Дополнительные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../homerules/expanded_rules.md" title="Расширенные правила" class="md-nav__link">
+      Расширенные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../misc/" title="Разное" class="md-nav__link">
+      Разное
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Мультикампания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Мультикампания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/needs_organized_play/" title="Потребность в игротеке" class="md-nav__link">
+      Потребность в игротеке
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/shared_rules/" title="Правила общей кампании" class="md-nav__link">
+      Правила общей кампании
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/factions-renown-fame/" title="Фракции, известность, слава" class="md-nav__link">
+      Фракции, известность, слава
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../shared_campaign/three-pillars-modified/" title="Модифицированные правила трех столбов" class="md-nav__link">
+      Модифицированные правила трех столбов
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../character-template/" title="Шаблон персонажа" class="md-nav__link">
+      Шаблон персонажа
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../location-template/" title="Шаблон местности, места" class="md-nav__link">
+      Шаблон местности, места
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../external-links/" title="Внешние ссылки" class="md-nav__link">
+      Внешние ссылки
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../playing-as-mage.md" title="Играя магом" class="md-nav__link">
+      Играя магом
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8" type="checkbox" id="nav-8">
+    
+    <label class="md-nav__link" for="nav-8">
+      Противники
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-8">
+        Противники
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../drow-units/" title="Дроу" class="md-nav__link">
+      Дроу
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elemental-evil-cults/" title="Культы стихийного зла" class="md-nav__link">
+      Культы стихийного зла
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/homerules/traps.md" title="Редагувати сторінку" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <h1 id="traps-effects">TRAPS &amp; EFFECTS<a class="headerlink" href="#traps-effects" title="Permanent link">&para;</a></h1>
+<p>FINDING TRAPS If the characters are searching for traps, the general order of checks and effects is as follows: • Wisdom <span><span class="MathJax_Preview">Perception</span><script type="math/tex">Perception</script></span> checks to find a trap • Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> to determine how best to interact with or disable a trap • Once the disabling method has been determined, Intelligence <span><span class="MathJax_Preview">Arcana</span><script type="math/tex">Arcana</script></span> for magic traps or Dexterity checks for mechanical traps <span><span class="MathJax_Preview">if the character has thieves' tools</span><script type="math/tex">if the character has thieves' tools</script></span> If a character is using thieves&rsquo; tools and fails to disable a trap by a result of 5 or more, their tools will break. As Durlag&rsquo;s Tower is very trap-heavy, if the characters break their tools you should modify any additional traps in this adventure as if the party was one step weaker <span><span class="MathJax_Preview">see the APL table near the beginning of this document</span><script type="math/tex">see the APL table near the beginning of this document</script></span> than they actually are. CUSTOMIZING TRAPS While the Dungeon Master&rsquo;s Guide may not present a lot of options for traps, there are a few simple things you can do to customize the options as- presented in this adventure <span><span class="MathJax_Preview">and of course in the DMG!</span><script type="math/tex">and of course in the DMG!</script></span> in order to make this experience more memorable for your players. If you know that one or more of your players has already played this adventure one or more times previously, you are strongly encouraged to exercise a little DM empowerment and adjust the challenges using any of the following tips in this section. As always, remember that adjusting traps - much like adjusting monsters - should be done carefully and with forethought. Adding new damage dice or damage types may make some challenges insurmountable for our heroes, and cause players to lose interest in the face of adversity. Proceed boldly but carefully! Adding additional effects to a trap or a trap encounter will almost certainly turn that trap into a complex trap, which means that you will need to roll initiative <span><span class="MathJax_Preview">for an example of this, refer to the “rolling sphere” suggestions later on</span><script type="math/tex">for an example of this, refer to the “rolling sphere” suggestions later on</script></span>. If you adjust the traps in this adventure, please use the following outlines to modify the saving throws and damage output in order to keep things balanced: TRAP SAVE DCS AND ATTACK BONUSES Trap Danger Save DC Attack Bonus Setback 10-11 +3 to +5 Dangerous 12-15 +6 to +8 Deadly 16-20 +9 to +12 DAMAGE SEVERITY BY LEVEL<br />
+Character Level Setback Dangerous Deadly 11<sup>th</sup> - 16<sup>th</sup> 4d10 10d10 18d10</p>
+<p>FIRE-BREATHING STATUE Magic trap These traps are almost always primed to fire when pressure plates receive the appropriate amount of weight. You can very easily change damage types, though, in order to keep players on their toes. If a statue belches out a cloud of poison gas, or spits a bolt of lightning&hellip; it is the charm of the unexpected! You can also easily exchange a damage-dealing magic trap for one that casts bestow curse instead. PITS Mechanical trap If ever there was a “default” trap for a dungeon or battlefield, it would be the pit trap. However, these classic traps can be customized by adding oil or ice on top of them, coating the tips of a spiked pit trap with poison, or even adjusting a locked pit trap to deposit the hapless character into a watery tomb. POISON DARTS Mechanical trap The easiest way to modify a poison dart trap is to simply change the effect of the poison. You could lower the damage done but have characters make Constitution saving throws or fall unconscious, or even adjust to one of the other “injury” poison types as listed in the Dungeon Master&rsquo;s Guide. Remember that “inhaled” and “ingested” poisons are not suitable for this type of trap, though a contact poison combined with a large number of tiny objects may create quite a stir! ROLLING SPHERE Mechanical trap If you are seeking to dramatically raise the danger of a rolling sphere trap, you may choose to place pit traps of fire-breathing statue traps along its path. This can bring about immediate reactions from characters that otherwise believe that they are safe from this rolling death machine. Another option is to coat the sphere in the remains of a black pudding, the corpse of a gelatinous cube, tar, or some other acidic, flammable, or poisonous substance. Should a character find themselves bowled over by the sphere, the worst part may have yet to come! Be aware that adding additional damage types on top of the damage of the sphere, or by adding additional traps, you are raising the overall difficulty of the adventure as a whole. Combining traps in this way should only be used for very strong parties. SPHERE OF ANNIHILATION Magic trap The Sphere of Annihilation trap is not suitable for Adventurers League play at this level. SYMBOL SPELLS Magic trap Glyphs and symbols are part of everyday life for arcane casters and dungeon explorers, but sometimes those elements are dangerous. The symbol spell should be used carefully; once characters read <span><span class="MathJax_Preview">and therefore trigger</span><script type="math/tex">and therefore trigger</script></span> a glyph, they are unlikely to fall for it again. Change the triggering conditions or even the symbol&rsquo;s effect to one of those samples listed in the Player&rsquo;s Handbook for maximum impact on the characters! DETECTING A TRAP Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame erupt, or otherwise detect something that points to a trap&rsquo;s presence. A trap&rsquo;s description specifies the checks and DCs actively looking for a trap can attempt an Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> or Wisdom <span><span class="MathJax_Preview">Perception</span><script type="math/tex">Perception</script></span> check against the trap&rsquo;s DC. You can also compare the DC to detect the trap with each character&rsquo;s passive Investigation or Perception score to determine whether anyone in the party notices the trap in passing. Each trap&rsquo;s description indicates which ability is used in detecting it. If the adventurers detect a trap before triggering it, they may be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> check for a character to deduce what needs to be done, followed by a Dexterity check using thieves&rsquo; tools to perform the necessary sabotage. Some magical traps, however, can&rsquo;t be disabled outside of spells like dispel magic.</p>
+<p>TRAP. DROP IT LIKE IT’S HOT The eyes of the fresco are a pair of fire opals—each of which is trapped. Each opal is connected to a series of wires and iron bars that release a 10-foot square stone block set into the ceiling. Detection and Disabling. A character inspecting an opal that succeeds on a DC 17 Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> check detects the wires. A successful DC 20 Dexterity check using thieves&rsquo; tools disables the wires harmlessly. Each opal is independently trapped; they must both be disabled to avoid triggering the trap. Trigger. If the check to disable the trap fails by 5 or more, or if the characters attempt to remove the fire opals without disabling the wires, the trap is triggered. Effect. The bars slide away, releasing the stone block—which quickly acquiesces to gravity&rsquo;s whims. Any creature beneath the block <span><span class="MathJax_Preview">that is any creature adjacent to the trapped object</span><script type="math/tex">that is any creature adjacent to the trapped object</script></span> must succeed on a DC 15 Dexterity saving throw, taking 33 <span><span class="MathJax_Preview">6d10</span><script type="math/tex">6d10</script></span> bludgeoning damage on a failed save, or half as much damage on a successful one. Once triggered, the fire opals are destroyed; trapped beneath a block of stone that weighs approximately 75 tons; without some clever thinking <span><span class="MathJax_Preview">and probably some magic</span><script type="math/tex">and probably some magic</script></span>, they are lost forever.</p>
+<p>TRAP. A ROLLING STONE GATHERS BLOOD Tucked into a niche above the doorway is a 5-foot thick stone cylinder that spans the entire width of the hallway. The niche is concealed by a trap door. Detection and Disabling. A successful DC 17 Wisdom <span><span class="MathJax_Preview">Perception</span><script type="math/tex">Perception</script></span> check spots the trapdoor in the ceiling. A search of the floor accompanied by a successful DC 17 Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> check reveals variations in the mortar and stone that betray the pressure plate&rsquo;s presence. Wedging an iron spike or other object under the pressure plate prevents the trap from activating. The trap door can&rsquo;t be wedged shut—it is simply too large and the cylinder too heavy. Trigger. A pressure plate set into the floor of the hallway opens the trapdoor, which releases the cylinder; sending it crashing and rolling down the hallway. Effect. Once triggered, the trap and all creatures present roll initiative <span><span class="MathJax_Preview">the cylinder rolls initiative with a +8 bonus</span><script type="math/tex">the cylinder rolls initiative with a +8 bonus</script></span>. On its turn, the cylinder moves 60 feet in a straight line towards the other end of the hall. The cylinder can move through creatures&rsquo; spaces, and creatures can move through its space, treating it as difficult terrain. Whenever the cylinder enters a creature&rsquo;s space or a creature enters its space while it&rsquo;s rolling, that creature must succeed on a DC 15 Dexterity saving throw or take 33 <span><span class="MathJax_Preview">6d10</span><script type="math/tex">6d10</script></span> bludgeoning damage and be knocked prone. As an action, a creature within 5 feet of the cylinder can attempt to slow it down with a DC 20 Strength check. On a successful check, the cylinder&rsquo;s speed is reduced by 15 feet. If the cylinder&rsquo;s speed drops to 0, it stops moving and is no longer a threat. Once the cylinder reaches the end of the hallway, the door can&rsquo;t be opened until the cylinder is destroyed or moved. The cylinder weighs 5 tons. XP AWARD If the characters successfully disable this trap without triggering it, award each character 350 XP. TRAP. DOWN IN A HOLE This room bears a trap. While this is the default encounter for this area, you may substitute it with any of the encounters found in Appendix. Room Traps, below. This trap itself consists of little more than a simple, 20-foot deep pit. Detection and Disabling. A character that succeeds on a DC 17 Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> check notices that the 20-foot-square section of floor here is slightly discolored. Trigger. This false floor has a weight tolerance of 100 pounds. Whenever the total weight on the false floor exceeds its tolerance, the entire false floor collapses.</p>
+<p>Effect. Any creatures on the false floor when this happens fall into the pit below and take 7 <span><span class="MathJax_Preview">2d6</span><script type="math/tex">2d6</script></span> bludgeoning damage and are prone. The walls of the pit are smooth and featureless. Climbing out of the pit requires a successful DC 15 Strength <span><span class="MathJax_Preview">Athletics</span><script type="math/tex">Athletics</script></span> check. The true danger of these pits depend on what is contained within. Choose one of the following: • Brown Mold. Any characters falling into this type of pit find themselves in the middle of a patch of brown mold. If a prone character is carrying a torch or any other fire-based light source, the patch of brown mold they find themselves in immediately expands 10 feet up the wall of the pit <span><span class="MathJax_Preview">see below</span><script type="math/tex">see below</script></span>. When a creature moves to within 5 feet of the mold for the first time on a turn or starts its turn there, it must make a DC 12 Constitution saving throw, taking 22 <span><span class="MathJax_Preview">4d10</span><script type="math/tex">4d10</script></span> cold damage on a failed save, or half as much damage on a successful one. Brown mold is immune to fire, and any source of fire brought within 5 feet of a patch causes it to instantly expand outward in the direction of the fire, covering a 10-foot-square area <span><span class="MathJax_Preview">with the source of the fire at the center of that area</span><script type="math/tex">with the source of the fire at the center of that area</script></span>. A patch of brown mold exposed to an effect that deals cold damage is instantly destroyed. • Glyph of Warding. Any character falling into this type of pit activates a glyph of warding at the pit&rsquo;s bottom. Each character within 20 feet of the pit&rsquo;s center <span><span class="MathJax_Preview">that is, any character in the pit</span><script type="math/tex">that is, any character in the pit</script></span> must make a DC 15 Dexterity saving throw. A creature takes 23 <span><span class="MathJax_Preview">5d8</span><script type="math/tex">5d8</script></span> damage on a failed saving throw, or half as much damage on a successful one. The type of the damage is determined by rolling on the table below: GLYPH DAMAGE TYPE 1d10 Damage Type 1-2 Acid 3-4 Cold 5-6 Fire 7-8 Lightning 9-10 Thunder</p>
+<p>• Spiked Pit. Any character falling into this type of pit takes an additional 11 <span><span class="MathJax_Preview">2d10</span><script type="math/tex">2d10</script></span> piercing damage from the multitude of poisoned-tipped spikes that line the bottom, and must make a DC 13 Constitution saving throw or take 22 <span><span class="MathJax_Preview">4d10</span><script type="math/tex">4d10</script></span> poison damage on a failed save, of half as much on damage on a successful one. TRAP. FLIPPED-TURNED UPSIDE DOWN The obelisk is trapped; it bears a near-invisible spell glyph. Detection and Disabling. The presence of the glyph can be detected by a successful DC 17 Intelligence <span><span class="MathJax_Preview">Arcana or Investigation</span><script type="math/tex">Arcana or Investigation</script></span> check or automatically by anyone using detect magic or similar spells. Dispel magic <span><span class="MathJax_Preview">DC 17</span><script type="math/tex">DC 17</script></span> disarms the trap. Trigger. The trap is triggered when a creature touches the obelisk or otherwise attempts to remove the gemstones. Effect. The obelisk becomes the center of a reverse gravity spell. All creatures and objects that aren&rsquo;t somehow anchored to the ground in the area fall upward and reach the top of the area. A creature can make a DC 13 Dexterity saving throw to grab onto a fixed object it can reach <span><span class="MathJax_Preview">described in the room containing the trapped object</span><script type="math/tex">described in the room containing the trapped object</script></span>, thus avoiding the fall. Falling objects and creatures strike the ceiling <span><span class="MathJax_Preview">which is 80-feet high</span><script type="math/tex">which is 80-feet high</script></span>; taking 28 <span><span class="MathJax_Preview">8d6</span><script type="math/tex">8d6</script></span> bludgeoning damage. At the end of the duration <span><span class="MathJax_Preview">1 minute</span><script type="math/tex">1 minute</script></span>, gravity reverts to normal and affected creatures fall back down; taking damage 28 <span><span class="MathJax_Preview">8d6</span><script type="math/tex">8d6</script></span> bludgeoning damage again, unless they somehow prevent it <span><span class="MathJax_Preview">e.g., using featherfall, fly, etc.</span><script type="math/tex">e.g., using featherfall, fly, etc.</script></span>.</p>
+<p>CRAMPING ONE’S STYLE Magic trap The crushing walls of this trap are featureless and unadorned, but a character succeeding on a DC 11 Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> check notices scrape marks on the ceilings and floor of the room. The underside of the center-most paving stone in the room bears a glyph. Detection and Disabling. The presence of the glyph can be detected by a successful DC 17 Intelligence <span><span class="MathJax_Preview">Arcana</span><script type="math/tex">Arcana</script></span> check or automatically by anyone using detect magic or similar spells. A dispel magic spell disarms the trap. Otherwise, the trap can be deactivated after it&rsquo;s been triggered <span><span class="MathJax_Preview">see, below</span><script type="math/tex">see, below</script></span>. Trigger. The trap is triggered when a creature passes the center of the room without saying the passphrase &ldquo;By the Ordning We Are All Bound&rdquo; in Giant. Effect. Two iron rods drop from the ceiling into the doors into this section of the hallway. This renders the doors impossible to open using force or thieves&rsquo; tools, but they can still be opened using knock <span><span class="MathJax_Preview">though the spell must be cast twice; once for each rod</span><script type="math/tex">though the spell must be cast twice; once for each rod</script></span>, or be destroyed <span><span class="MathJax_Preview">AC 17, 82 hit points; immune to poison and psychic damage; resistant to bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</span><script type="math/tex">AC 17, 82 hit points; immune to poison and psychic damage; resistant to bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</script></span>. The doors are unbarred when the trap reset <span><span class="MathJax_Preview">see below</span><script type="math/tex">see below</script></span>. Activation of the trap requires all creatures present to roll initiative. The trap rolls initiative with a +5 bonus. On the trap&rsquo;s turn, one pair of facing walls that do not bear doors each move 15 feet towards the center of the room—pushing adjacent creatures along with them. An adjacent creature that succeeds on a DC 20 Strength <span><span class="MathJax_Preview">Athletics</span><script type="math/tex">Athletics</script></span> check is able to prevent it from moving during that round, provided the creature remains adjacent to the wall. An iron spike or other, similar object, wedged under the wall grants advantage on this check. If the creature moves during the same round, it immediately moves 10 feet towards the center of the room. A wall stops moving once it reaches the center of the room. If the room becomes small enough to force a creature to squeeze, that creature is restrained. Any creature so restrained by the crushing walls or who starts their turn restrained by the crushing walls must succeed on a DC 15 Strength saving throw or take 22 <span><span class="MathJax_Preview">4d10</span><script type="math/tex">4d10</script></span> bludgeoning damage. Once one or both walls reach the center of the room, they remain there for an additional three rounds—after which time, the trap resets and the walls retract to their original position. Once activated, the trap can also be deactivated by two concealed catches. Detecting a hidden switch requires a successful DC 20 Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> check. Both switches must be individually located and activated simultaneously in order to deactivate and the trap. Once deactivated, the walls retract at the rate of 10 feet per round. Once the walls have moved into their normal position, the trap is reset <span><span class="MathJax_Preview">unless the glyph has been dispelled</span><script type="math/tex">unless the glyph has been dispelled</script></span>. NEEDLE BARRAGE Mechanical trap The walls here bear hundreds of carved giant faces, each with their mouths open in song and adulation. Two-dozen of them conceal pressurized tubes inside their mouths. Each of these tubes contains a poison dart. Detection and Disabling. Any character adjacent to a one of the faces notices the tubes on a with a successful DC 17 Wisdom <span><span class="MathJax_Preview">Perception</span><script type="math/tex">Perception</script></span> check. In the middle of the area there is a pressure plate. Any character succeeding on a DC 17 Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> check distinguishes the pressure plate from the surrounding floor. Wedging an iron spike or other object under the pressure plate prevents the trap from activating. Similarly, stuffing the tubes may prevent the darts from launching. Trigger. The trap activates when more than 2 0 pounds of weight is placed on the pressure place. Effect. The trap releases thirty-six darts. Each character within 60 feet of the pressure plate is attacked by 1d4 darts. Each dart makes a ranged attack with a +8 bonus <span><span class="MathJax_Preview">vision is irrelevant to this attack roll</span><script type="math/tex">vision is irrelevant to this attack roll</script></span>. If there are no targets in the area, the darts don&rsquo;t hit anything. Each dart that hits a target inflicts 2 <span><span class="MathJax_Preview">1d4</span><script type="math/tex">1d4</script></span> piercing damage and the target must make a DC 15 Constitution saving throw, taking 11 <span><span class="MathJax_Preview">2d10</span><script type="math/tex">2d10</script></span> poison damage on a failed save, or half as much damage on a successful one. I’M NOT HERE Magic trap This door out of this hallway is marked with a nearly-invisible glyph of warding. Detection and Disabling. The presence of the glyph can be detected by a successful DC 17 Intelligence <span><span class="MathJax_Preview">Arcana</span><script type="math/tex">Arcana</script></span> check or automatically by anyone using detect magic or similar spells. A dispel magic dispels the glyph. Trigger. The glyph is triggered when someone approaches within 5 feet of it. Effect. The glyph releases the suggestion spell stored within. The triggering creature must succeed on a DC 15 Wisdom saving throw or be subject to the suggestion: &ldquo;There is no door here.&rdquo; This trap resets itself automatically after being triggered. BREATHLESS Magic trap The bottom of this area is filled with a ten-foot deep cloud of invisible gas that seems to sap the life out of those who breathe it. Detection. The fog is odorless and colorless. Detecting the trap is possible only by detect poison or similar magic. While the fog can&rsquo;t be disabled and doesn&rsquo;t spill out of the room, it can be blown out of the way by a gust of wind or other similar effect. If dispersed, it returns at the end of the following round. Trigger. Entering the fog subjects a creature to its effects. Effect. A creature entering the fog or starting its turn there without holding its breath must succeed on a DC 13 Constitution saving throw or gain a level of exhaustion. These levels of exhaustion last only until the end of a short rest taken near a warm fire. BURNING VENOM Magical trap The room features a 20-foot diameter cylindrical column carved to resemble a mass of intertwined serpents. A number of enchanted serpent heads equal to the number of characters are spaced evenly around the column about four feet off of the ground. Detecting and Disabling. A character investigating the serpents that succeeds on a DC 17 Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> check notices that the serpents&rsquo;s mouths bear a tiny seam; as if they are capable of opening. A head can only be disabled by casting dispel magic or other similar magic. Casting dispel magic on a head disables that particular head for 1d4 rounds. If all of the heads are disabled at the same time, the trap is permanently disabled. Trigger. The trap is triggered when a character touches the column or one of the serpent heads. Effect. The serpent heads each animate, open their mouths, and—with a sharp &ldquo;hssssss”—spew a pale green, odorless, and highly poisonous gas into the area. The doors into the chamber close and are thrice-barred—thus requiring knock or similar magic to be cast three times to open the door; once for each locking mechanism. At the end of the first round, the gas deals 1 poison damage to each creature in the room. This damage continues until the trap is disabled, but increases by 1 every other round <span><span class="MathJax_Preview">first round: 1 poison damage, second round: 1 poison damage, third round: 2 poison damage, fourth round: 2 poison damage, etc.</span><script type="math/tex">first round: 1 poison damage, second round: 1 poison damage, third round: 2 poison damage, fourth round: 2 poison damage, etc.</script></span> Once triggered, the trap can only be disabled if the serpents&rsquo;s mouths are forcibly closed. As they are magically animated, there are no mechanisms to be physically disabled; there are no hinges or locks to be manipulated. Forcibly closing a serpent&rsquo;s mouth requires a Strength <span><span class="MathJax_Preview">Athletics</span><script type="math/tex">Athletics</script></span> check opposed by the serpent&rsquo;s own check <span><span class="MathJax_Preview">the serpent has a +2 to this check</span><script type="math/tex">the serpent has a +2 to this check</script></span>. Once a mouth has been closed, it must be held closed each round <span><span class="MathJax_Preview">with an opposed Strength \(Athletics</span><script type="math/tex">with an opposed Strength \(Athletics</script></span> check) or else it immediately opens again. Let the characters be creative; using a rope or other equipment to lever or pry the mouth closed might result in their making the check with advantage. Casting dispel magic on a serpent head closes the mouth for 1d4 rounds, at which point it reopens if the trap has not been disabled. Destroying a head <span><span class="MathJax_Preview">AC 15; 15 hit points; immune to poison and psychic damage</span><script type="math/tex">AC 15; 15 hit points; immune to poison and psychic damage</script></span> doubles the rate at which the damage escalates <span><span class="MathJax_Preview">every round, instead of every other round</span><script type="math/tex">every round, instead of every other round</script></span>. Once all of the mouths have been closed, the trap is disabled. Once the trap has been disabled, the gas lingers and continues to deal damage until dispersed, though the damage it deals doesn&rsquo;t increase. The gas can be removed by opening the door<span><span class="MathJax_Preview">s</span><script type="math/tex">s</script></span> leading out of the chamber. Alternatively, the gas is highly flammable. If an open flame is introduced, the remaining gas violently ignites and deals 7 <span><span class="MathJax_Preview">2d6</span><script type="math/tex">2d6</script></span> fire damage for each round that it took the characters to disable the trap, to a maximum of 35 <span><span class="MathJax_Preview">10d6</span><script type="math/tex">10d6</script></span> fire damage. A successful DC 13 Dexterity saving throw reduces the fire damage by half. If the gas is ignited before the trap is disabled, the gas burns away as normal, but continues to burn as the heads continue to spew it into the room. The characters no longer take poison damage, but any creature that starts their turn within 20 feet of the column must make a DC 13 Dexterity saving throw or take 7 <span><span class="MathJax_Preview">2d6</span><script type="math/tex">2d6</script></span> fire damage. RUBY-RED FLAME Magical trap The trapped object bears what appears to be a flawless red ruby. Detection and Disabling. An aura of magic can be detected by a character inspecting the ruby that also succeeds at a DC 17 Intelligence <span><span class="MathJax_Preview">Arcana</span><script type="math/tex">Arcana</script></span> check or automatically by anyone using detect magic or similar spell. A successful dispel magic <span><span class="MathJax_Preview">DC 15</span><script type="math/tex">DC 15</script></span> dispels the trap. Trigger. When removed from its housing without dispelling its magic, the trap is triggered. Effect. The ruby explodes into a 20-foot radius sphere of flame. Any creature caught in the area must make a DC 15 Dexterity saving throw, taking 22 <span><span class="MathJax_Preview">4d10</span><script type="math/tex">4d10</script></span> fire damage on a failed save, or half as much damage on a successful one. If the trap is dispelled, the gem can be retrieved but is discovered to be worthless, red glass. If the trap is triggered, the gem is destroyed. Mechanical trap A small packet of Malice poison is hidden within a pressurized capsule inside the trapped object. Interacting with the object without disabling the trap causes the capsule to suddenly rupture, expelling the poison in a small cloud around the object. Detection and Disabling. A successful DC 17 Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> check allows a character to deduce the trap&rsquo;s presence from alterations made to the trapped object. A successful DC 20 Dexterity check using thieves&rsquo; tools disarms the trap, rupturing the capsule slowly and carefully so as to not release the poison. Trigger. If the check to disable the trap fails or if object is interacted with in a particular fashion <span><span class="MathJax_Preview">as detailed in the object's description</span><script type="math/tex">as detailed in the object's description</script></span> without disabling the trap, the wires break, and the trap is triggered. Effect. Any creature within 10 feet of the trapped object must succeed on a DC 15 Constitution saving throw or be poisoned for 1 hour. The poisoned creature is blinded. Mechanical trap A large scythe-like blade swings out from the trapped object when a hidden pressure plate adjacent to it is pressed. Detection and Disabling. The pressure plate can be spotted with a DC 17 Wisdom <span><span class="MathJax_Preview">Perception</span><script type="math/tex">Perception</script></span> check. A character studying the area can determine the pressure plate is a slightly different color than the rest of the floor with a DC 17 Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> check and that the object bears a seam <span><span class="MathJax_Preview">from which the trap's blade springs forth</span><script type="math/tex">from which the trap's blade springs forth</script></span> with a DC 17 Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> check. Wedging an iron spike or other object under the pressure plate prevents the trap from activating. Trigger. Any weight of more than 50 pounds placed on the pressure plate triggers the trap. Effect. The blade emerges from the seam and slashes at each creature within 10 feet of the trapped object before withdrawing once more. The blade makes an attack roll against creatures in its path with a +7 bonus to attack. On a hit the attack deals 33 <span><span class="MathJax_Preview">6d10</span><script type="math/tex">6d10</script></span> slashing damage. КАТЯЩИЙСЯ ШАР Механическая ловушка Если на нажимной пластине этой ловушки оказы¬вается 20 или больше фунтов веса, в потолке от¬крывается потайной люк, выпуская каменный 3¬метровый шар. Совершив успешную проверку Мудрости <span><span class="MathJax_Preview">Вни¬мательность</span><script type="math/tex">Вни¬мательность</script></span> со Сл 15, персонаж может заметить люк и нажимную плиту. Поиски на полу, сопро¬вождаемые успешной проверкой Интеллекта <span><span class="MathJax_Preview">Ана¬лиз</span><script type="math/tex">Ана¬лиз</script></span> со Сл 15, позволяют найти разницу в высоте, выдающую наличие нажимной плиты. Эта же про¬верка при исследовании потолка позволяет найти люк. Если поместить под нажимную плиту желез¬ный шип или другой тонкий предмет, это не даст ловушке активироваться. При активации шара все присутствующие су¬щества совершают проверку инициативы. Шар со¬вершает проверку инициативы с бонусом +8. В свой ход он перемещается на 60 футов по прямой линии. Шар может проходить сквозь пространство существ, и существа могут проходить через его пространство, считая его труднопроходимой мест¬ностью. Когда шар входит в пространство суще¬ства или существо входит в его пространство, пока шар катится, это существо должно преуспеть в спасброске Ловкости со Сл 15, иначе оно полу¬чает дробящий урон 55 <span><span class="MathJax_Preview">10к10</span><script type="math/tex">10к10</script></span> и сбивается с ног. Шар останавливается, когда ударяется о стену или подобное препятствие. Он не может огибать углы, но умные строители подземелий делают плавные повороты, позволяющие шару катиться дальше. Существо, находящееся в пределах 5 футов от шара, может попытаться замедлить его проверкой Силы со Сл 20. При успехе скорость шара уменьша¬ется на 15 футов. Если скорость шара уменьшается до 0, он останавливается и перестаёт представ¬лять угрозу. ОБРУШИВАЮЩИЙСЯ ПОТОЛОК Механическая ловушка В этой ловушке используется натянутая верёвка, ломающая подставку, удерживающую кусок рас¬крошившегося потолка. Верёвка находится в 7 сантиметрах над полом и натягивается между двумя опорами. Сл обнару¬жения верёвки — 10. Успешная проверка Ловкости со Сл 15 с использованием воровских инструмен¬тов обезвреживает ловушку. Персонаж без воров¬ских инструментов может совершить эту проверку с помехой, используя острое оружие или инстру¬мент. При провале ловушка срабатывает. Тот, кто исследует опоры, может с лёгкостью определить, что они едва держатся на месте. Пер¬сонаж может действием толкнуть опору, вызывая срабатывание ловушки. Потолок над верёвкой находится в плохом со¬стоянии, и тот, кто видит его, может сказать, что есть риск его обрушения. Когда ловушка срабатывает, потолок рушится. Все существа в области под шатким потолком должны преуспеть в спасброске Ловкости со Сл 15, получая при провале дробящий урон 22 <span><span class="MathJax_Preview">4к10</span><script type="math/tex">4к10</script></span>, или половину этого урона при успехе. После того как ловушка сработает, пол под ней заполняется об¬ломками и становится труднопроходимой местно¬стью. ОГНЕДЫШАЩАЯ СТАТУЯ Магическая ловушка Эта ловушка активируется когда чужак наступает на потайную нажимную плиту, выпуская магиче¬ский сгусток пламени из статуи. Статуя может быть какой угодно, в том числе драконом или вол¬шебником, накладывающим заклинание. Сл обнаружения нажимной плиты, а также не¬больших подпалин на полу и стенах, — 15. Заклина¬ние или другой эффект, ощущающий присутствие магии, такой как обнаружение магии., раскрывает присутствие вокруг статуи магии школы Воплоще¬ния. Ловушка активируется когда на нажимной плите оказывается больше 20 фунтов веса, после чего статуя испускает 30-футовый конус огня. Все существа в этом огне обязаны совершить спасбро¬сок Ловкости со Сл 13, получая урон огнём 22 <span><span class="MathJax_Preview">4к10</span><script type="math/tex">4к10</script></span> при провале, или половину при успехе. Если поместить под нажимную плиту желез¬ный шип или другой тонкий предмет, это не даст ловушке активироваться. Успешное рассеивание магии <span><span class="MathJax_Preview">Сл 13</span><script type="math/tex">Сл 13</script></span>, наложенное на статую, уничтожает ловушку. ОТРАВЛЕННАЯ ИГЛА Механическая ловушка Отравленная игла прячется в замке сундука или другого предмета. Если попытаться открыть сун¬дук без правильного ключа, выскочит игла, переда¬ющая дозу яда. Когда ловушка активируется, игла выскаки¬вает на 7 сантиметров из замка. Существо, находя¬щееся в этой области, получает колющий урон 1 и урон ядом 11 <span><span class="MathJax_Preview">2к10</span><script type="math/tex">2к10</script></span>, а также должно преуспеть в спасброске Телосложения со Сл 15, иначе оно ста-нет отравленным на 1 час. Успешная проверка Интеллекта <span><span class="MathJax_Preview">Анализ</span><script type="math/tex">Анализ</script></span> со Сл 20 позволяет персонажу понять наличие ловушки по изменениям, сделанным в замке, чтобы тот уместил иглу. Успешная проверка Ловкости со Сл 15 с использованием воровских инструментов обез-вреживает ловушку, вынимая иглу из замка. Не¬удачная попытка вскрыть замок тоже вызывает срабатывание ловушки. ОТРАВЛЕННЫЕ ДРОТИКИ Механическая ловушка Когда существо наступает на потайную нажимную плиту, из трубок в стене, находящихся под давле¬нием или оснащённых пружинами, вылетают дро¬тики с ядом на конце. На полу может быть не¬сколько нажимных пластин, и каждая будет акти¬вировать свой набор дротиков. Крохотные отверстия в стене закрываются пылью и паутиной, либо маскируются среди баре¬льефов и фресок. Сл их обнаружения — 15. Успеш¬ная проверка Интеллекта <span><span class="MathJax_Preview">Анализ</span><script type="math/tex">Анализ</script></span> со Сл 15 позво¬лит понять присутствие нажимных пластин по ко¬лебаниям уровня пола. Если поместить под нажим¬ную плиту железный шип или другой тонкий предмет, это не даст ловушке активироваться. Если отверстия забить тканью или залить воском, это не даст дротикам вылететь. Ловушка активируется когда на нажимной плите оказывается больше 20 фунтов веса, после чего вылетают четыре дротика. Каждый дротик совершает дальнобойную атаку с бонусом +8 про¬тив случайной цели в пределах 10 футов от нажимной пластины <span><span class="MathJax_Preview">видимость никак не мешает этому броску атаки</span><script type="math/tex">видимость никак не мешает этому броску атаки</script></span>. Если в этой области нет це¬лей, дротики ни во что не попадают. Цель, по ко¬торой попали, получает колющий урон 2 <span><span class="MathJax_Preview">1к4</span><script type="math/tex">1к4</script></span> и должна преуспеть в спасброске Телосложения со Сл 15, получая урон ядом 11 <span><span class="MathJax_Preview">2к10</span><script type="math/tex">2к10</script></span> при провале, или половину этого урона при успехе. ПАДАЮЩАЯ СЕТЬ Механическая ловушка В этой ловушке натянутая верёвка сбрасывает подвешенную к потолку сеть. Верёвка находится в 7 сантиметрах над полом и растягивается между двумя колоннами или де¬ревьями. Сеть маскируется паутиной или листвой. Сл обнаружения верёвки и сети — 10. Успешная проверка Ловкости со Сл 15 с использованием во-ровских инструментов позволяет безопасно перере¬зать верёвку. Персонаж без воровских инструмен¬тов может совершить эту проверку с помехой, ис¬пользуя острое оружие или инструмент. При про¬вале ловушка срабатывает. Когда ловушка срабатывает, сеть падает, накрывая квадратную площадь с длиной стороны 10 футов. Те, кто находятся в этой области, стано¬вятся опутанными, а провалившие спасбросок Силы со Сл 10 ещё и сбиваются с ног. Существа могут действием совершать проверку Силы со Сл 10, освобождая при успехе себя или другое суще¬ство в пределах досягаемости. У сети КД 10 и 20 хитов. Причинение сети рубящего урона 5 <span><span class="MathJax_Preview">КД 10</span><script type="math/tex">КД 10</script></span> уничтожает квадратный участок с длиной сто¬роны 5 футов, освобождая находящихся там су¬ществ. СФЕРА АННИГИЛЯЦИИ Магическая ловушка Магическая непроницаемая тьма заполняет рази¬нутый рот каменного лица, вырезанного в стене. Диаметр круглого рта 60 сантиметров. Из него не слышны звуки, свет не может проникнуть внутрь его, и вся материя, входящая туда, мгновенно уни-чтожается. Успешная проверка Интеллекта <span><span class="MathJax_Preview">Анализ</span><script type="math/tex">Анализ</script></span> со Сл 20 даст понять, что во рту находится сфера анни¬гиляции, которую нельзя контролировать и пере¬мещать. Во всём остальном она идентична обыч¬ной сфере аннигиляции, как описано в главе 7. В некоторых разновидностях этой ловушки на каменное лицо накладывают чары, чтобы опреде¬лённые существа чувствовали неодолимое жела¬ние подойти ко рту и залезть внутрь. Этот эффект подобен эффекту симпатия заклинания антипа- тия/симпатия. Успешное рассеивание магии <span><span class="MathJax_Preview">Сл 18</span><script type="math/tex">Сл 18</script></span> устраняет эти чары. ЯМЫ Механическая ловушка Здесь представлены четыре разновидности лову¬шек-ям. Простая яма. Простая яма выкапывается в земле. Отверстие прикрывают большим куском ткани, закреплённым по краям, и маскируют гря¬зью и обломками. Сл обнаружения ямы — 10. Тот, кто наступит на ткань, падает, утягивая ткань за собой, получая урон, зависящий от глубины ямы <span><span class="MathJax_Preview">обычно 10 фу¬тов, но может быть и глубже</span><script type="math/tex">обычно 10 фу¬тов, но может быть и глубже</script></span>. Скрытая яма. Такая яма сверху прикрывается материалом, идентичным окружающему полу. Успешная проверка Мудрости <span><span class="MathJax_Preview">Вниматель¬ность</span><script type="math/tex">Вниматель¬ность</script></span> со Сл 15 позволит увидеть отсутствие сле¬дов на участке пола над ямой. Успешная проверка Интеллекта <span><span class="MathJax_Preview">Анализ</span><script type="math/tex">Анализ</script></span> со Сл 15 позволит понять, что под этой частью пола вырыта яма. Если существо наступает на поверхность над ямой, та распахивается как люк, сбрасывая чу¬жака вниз. Обычно глубина такой ямы от 10 до 20 футов, но она может быть и глубже. После того как ловушка обнаружена, между крышкой ямы и окружающим полом можно во¬гнать железный шип или подобный предмет, чтобы крышка не могла провернуться, и по ней можно было пройти. Крышку также можно удер¬жать закрытой заклинанием волшебный замок или подобной магией. Запирающаяся яма. Эта ловушка идентична скрытой яме, за одним исключением: люк, накры¬вающий яму, снабжён засовом. После того как су¬щество падает яму, крышка запирает его внутри. Для открывания люка требуется успешная проверка Силы со Сл 20. Люк можно также разру¬шить <span><span class="MathJax_Preview">определите его характеристики согласно ре¬комендациям из главы 8</span><script type="math/tex">определите его характеристики согласно ре¬комендациям из главы 8</script></span>. Персонаж, находящийся в яме, может также попытаться обезвредить запи¬рающий механизм проверкой Ловкости со Сл 15, используя воровские инструменты, при условии, что до механизма можно дотянуться и персонаж может видеть. В некоторых случаях люк открыва¬ется механизмом <span><span class="MathJax_Preview">обычно спрятанным за потай¬ной дверью</span><script type="math/tex">обычно спрятанным за потай¬ной дверью</script></span>. Яма с шипами. Это простая, скрытая или запи¬рающаяся яма с деревянными или железными шипами на дне. Существо, упавшее в неё, получает колющий урон 11 <span><span class="MathJax_Preview">2к10</span><script type="math/tex">2к10</script></span> от шипов, а также обыч¬ный урон от падения. Есть и более опасные разно¬видности, когда шипы покрывают ядом. В этом случае тот, кто получает колющий урон от шипов, должен также совершить спасбросок Телосложе¬ния со Сл 13, получая урон ядом 22 <span><span class="MathJax_Preview">4к10</span><script type="math/tex">4к10</script></span> при про-вале, или половину этого урона при успехе. Обнаружение и ОБЕЗВРЕЖИВАНИЕ ЛОВУШКИ Обычно какую-то часть ловушки можно обнару­жить при тщательном исследовании. Персонажи могут заметить выступающую каменную плитку, под которой находится нажимная плита, отблеск света на натянутой проволоке, небольшие отвер­стия в стене, из которых может вырваться пламя, или другие признаки наличия ловушки.</p>
+<div class="codehilite"><pre><span></span>В описании ловушки указываются проверки и их Сл для обнаружения, обезвреживания, или и того и другого. Персонаж, активно ищущий ло­вушку, может совершить проверку Мудрости (Вни­мательность) против Сл ловушки. Вы можете также сравнить Сл обнаружения с пассивным значением
+</pre></div>
+
+<p>Мудрости <span><span class="MathJax_Preview">Внимательность</span><script type="math/tex">Внимательность</script></span> всех персонажей, чтобы определить, не заметил ли кто из персонажей ло­вушку мимоходом. Если искатели приключений об­наруживают ловушку до того как та сработает, они могут попробовать обезвредить её, либо навсегда, либо на небольшой период, чтобы спокойно мино­вать её. Вы можете попросить совершить проверку Интеллекта <span><span class="MathJax_Preview">Анализ</span><script type="math/tex">Анализ</script></span>, чтобы персонаж понял, что нужно сделать, после чего будет проверка Ловкости с использованием воровских инструментов, чтобы выполнить нужные действия. Любой персонаж может попытаться совер­шить проверку Интеллекта <span><span class="MathJax_Preview">Магия</span><script type="math/tex">Магия</script></span> для обнаруже­ния или обезвреживания магической ловушки, вдобавок ко всем остальным проверкам, указан­ным в описании ловушки. Сл будет такой же. Кроме того, большую часть магических ловушек может обезвредить рассеивание магии. В описа­нии магической ловушки указана Сл для проверки характеристики при использовании рассеивания магии. В большинстве случаев описание ловушки поз­воляет чётко рассудить, могут ли персонажи дей­ствиями обнаружить или сломать ловушку. Как и во многих других случаях не позволяйте броскам костей портить интересную игру и хорошие планы. Используйте здравый смысл и описание ловушки, чтобы определить, что могло произойти. Ни одна ловушка не может предусмотреть все варианты действий, которые могут предпринять персонажи. Вы должны позволить персонажам обнару­жить ловушку без проверок характеристик, если их действия однозначно должны выдать присут­ствие ловушки. Например, если персонаж подни­мет ковёр, под которым прячется нажимная плита, он обнаружит спусковой механизм без про­верок. С обезвреживанием ловушек дела обстоят не­сколько сложнее. Рассмотрим сундук с сокрови­щами и ловушкой. Если его открыть, не повернув предварительно две рукоятки, находящийся внутри механизм выстреливает в тех, кто стоит перед ним, град отравленных игл. Исследовав сун­дук и совершив несколько проверок, персонажи всё ещё не уверены, есть ли в нём ловушки. Вме­сто того чтобы просто открыть сундук, они ставят перед ним щит и открывают с расстояния желез­ным прутом. В этом случае ловушка срабатывает, но шипы бессильно ударяются о щит. Ловушки часто создают с механизмами, позво­ляющими их временно отключать или обходить. Разумные чудовища, помещающие ловушки в своём логове ли около него, должны как-то суще­ствовать рядом с ними, не причиняя себе вреда У таких ловушек может быть потайной рычаг, от­ключающий спусковой механизм, или потайная дверь, позволяющая обойти ловушку стороной.</p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2019 Palant и команда Киборгов и Чародеев
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/palikhov" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/AVPalikhov" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://linkedin.com/in/avpalikhov" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+          
+            
+              
+              
+                <script src="../../assets/javascripts/lunr/lunr.ru.js"></script>
+              
+            
+          
+            
+              
+              
+            
+          
+          
+            <script src="../../assets/javascripts/lunr/lunr.multi.js"></script>
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>
