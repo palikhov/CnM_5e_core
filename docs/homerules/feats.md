@@ -1,3 +1,5 @@
+[Черновик по навыкам в Microsoft Word Online](https://1drv.ms/w/s!Atcrhwwo1lBAvdUlouMRNii993cHlw)
+
 # Feats 
 Warriors across the Forgotten Realms have spent years perfecting the art of combat. Over the years, masters
 of various weapons and styles of combat have taken on apprentices and formed schools to pass on their techniques.

@@ -1,0 +1,1 @@
+[Черновик по Классам в Microsoft Word Online](https://1drv.ms/w/s!Atcrhwwo1lBAvdUiPMR6TGTvcSRu4w)
