@@ -1,30 +1,34 @@
 # DM RESOURCES
 
-* Critter Compendium
+* [Critter Compendium](https://www.dmsguild.com/product/210151/Critter-Compendium)
 
-* Gem Dragons of Faerun
+* [Gem Dragons of Faerun](https://www.dmsguild.com/product/180402/Gem-Dragons-of-Faerun?term=Gem+Drago&test_epoch=0)
 
-* Ultimate Bestiary Revenge of the Horde
+* [Ultimate Bestiary Revenge of the Horde]()
 
-* Titles as Rewards
+* [Titles as Rewards]()
 
-* Visions of the Vault
+* [Visions of the Vault]()
 
-* Creating Magic Items - WGE
+* [Creating Magic Items - WGE]()
 
-* Monsters of the Guild
+* [Monsters of the Guild](https://www.dmsguild.com/product/234150/Monsters-of-the-Guild)
 
-* Sane Magic Item Prices
+* [Sane Magic Item Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?usp=sharing)
 
-* Everyday Rituals for Travelling Wizards
+* [Everyday Rituals for Travelling Wizards](https://www.dmsguild.com/product/184141/Everyday-Rituals-for-Travelling-Wizards) - F2P
 
-* Rule of Law
+* [Rule of Law]()
 
-* Adaptable NPCs
+* [Adaptable NPCs](https://www.dmsguild.com/product/262588/Adaptable-NPCs?affiliate_id=18983)
 
-* Versatile NPCs
+* [Versatile NPCs II](https://www.dmsguild.com/product/250621/Versatile-NPCs-II)
 
-* The Monster Harvester Handbook
+## For further inspiration
+
+* [Armor and Shields Reworked](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/Armour_and_Shields_Reworked.pdf)
+
+* [The Monster Harvester Handbook]()
 
 * [Monster Talents](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/DM%20Options%20-%20Monster%20Talents.pdf)
 
