@@ -1,0 +1,2274 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.">
+      
+      
+      
+        <meta name="author" content="Антон Палихов aka Palant">
+      
+      
+        <meta name="lang:clipboard.copy" content="Копировать в буфер">
+      
+        <meta name="lang:clipboard.copied" content="Скопировано в буфер">
+      
+        <meta name="lang:search.language" content="en, ru, uk">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Совпадений не найдено">
+      
+        <meta name="lang:search.result.one" content="Найдено 1 совпадение">
+      
+        <meta name="lang:search.result.other" content="Найдено # совпадений">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Cantrips - D&D "Palant edition"</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../../../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#cantrips" tabindex="1" class="md-skip">
+        Перейти к содержанию
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../../.." title="D&D "Palant edition"" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">library_books</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                D&D "Palant edition"
+              </span>
+              <span class="md-header-nav__topic">
+                Cantrips
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Начните печатать для поиска
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../../.." title="Главная" class="md-tabs__link md-tabs__link--active">
+        Главная
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../character-creation/" title="Домашние правила" class="md-tabs__link">
+          Домашние правила
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../../.." title="D&D "Palant edition"" class="md-nav__button md-logo">
+      
+        <i class="md-icon">library_books</i>
+      
+    </a>
+    D&D "Palant edition"
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../.." title="Главная" class="md-nav__link">
+      Главная
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      Домашние правила
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Домашние правила
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../character-creation/" title="Правила по созданию персонажей" class="md-nav__link">
+      Правила по созданию персонажей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-2" type="checkbox" id="nav-2-2">
+    
+    <label class="md-nav__link" for="nav-2-2">
+      Расы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-2">
+        Расы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../races/shade/" title="Шейд" class="md-nav__link">
+      Шейд
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../races/feyri/" title="Фейри (демонфеи)" class="md-nav__link">
+      Фейри (демонфеи)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-3" type="checkbox" id="nav-2-3">
+    
+    <label class="md-nav__link" for="nav-2-3">
+      Изменения системы классов и самих классов
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-3">
+        Изменения системы классов и самих классов
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/classes/" title="Классы" class="md-nav__link">
+      Классы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/arcanis-work/" title="Классы из Арканиса" class="md-nav__link">
+      Классы из Арканиса
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/barbarian/" title="Варвар" class="md-nav__link">
+      Варвар
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/elder-sorcerer/" title="Древние колдуны" class="md-nav__link">
+      Древние колдуны
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/fighter/" title="Боец (воин)" class="md-nav__link">
+      Боец (воин)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/mystic/" title="Мистик" class="md-nav__link">
+      Мистик
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/paladin/" title="Паладин" class="md-nav__link">
+      Паладин
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/ranger-rework/" title="Рейнджер" class="md-nav__link">
+      Рейнджер
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/rogue/" title="Специалист (авантюрист)" class="md-nav__link">
+      Специалист (авантюрист)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/shaman/" title="Шаман" class="md-nav__link">
+      Шаман
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/sorcerer/" title="Чародей (Sorcerer)" class="md-nav__link">
+      Чародей (Sorcerer)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/wizard/" title="Волшебник (маг)" class="md-nav__link">
+      Волшебник (маг)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/warlock/" title="Колдун (Warlock)" class="md-nav__link">
+      Колдун (Warlock)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../combat-maneuvers.md" title="Боевые маневры" class="md-nav__link">
+      Боевые маневры
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-4" type="checkbox" id="nav-2-4">
+    
+    <label class="md-nav__link" for="nav-2-4">
+      Настраивая персонажа
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-4">
+        Настраивая персонажа
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/fighting-styles/" title="Боевые стили" class="md-nav__link">
+      Боевые стили
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/languages.md" title="Языки" class="md-nav__link">
+      Языки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/feats/" title="Навыки (feats)" class="md-nav__link">
+      Навыки (feats)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-5" type="checkbox" id="nav-2-5">
+    
+    <label class="md-nav__link" for="nav-2-5">
+      Заклинания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-5">
+        Заклинания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../item-enchanting-spells/" title="Зачарование предметов" class="md-nav__link">
+      Зачарование предметов
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../cantrips/" title="Кантрипы" class="md-nav__link">
+      Кантрипы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../spells-3rd-lvl/" title="3й круг заклинаний" class="md-nav__link">
+      3й круг заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells.md" title="Общий список" class="md-nav__link">
+      Общий список
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-6" type="checkbox" id="nav-2-6">
+    
+    <label class="md-nav__link" for="nav-2-6">
+      Снаряжение
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-6">
+        Снаряжение
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment.md" title="Снаряжение" class="md-nav__link">
+      Снаряжение
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/drugs/" title="Наркотики" class="md-nav__link">
+      Наркотики
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/herbalism/" title="Травы и гербализм" class="md-nav__link">
+      Травы и гербализм
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/monster-parts-harvesting/" title="Использование частей тел чудовищ" class="md-nav__link">
+      Использование частей тел чудовищ
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../magic-items.md" title="Волшебные предметы" class="md-nav__link">
+      Волшебные предметы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../traps/" title="Ловушки" class="md-nav__link">
+      Ловушки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-9" type="checkbox" id="nav-2-9">
+    
+    <label class="md-nav__link" for="nav-2-9">
+      Дикая природа
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-9">
+        Дикая природа
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../environment/hazards-weather-encounters-silver-marches/" title="Случайные встречи и погода в Серебрянных пределах" class="md-nav__link">
+      Случайные встречи и погода в Серебрянных пределах
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-10" type="checkbox" id="nav-2-10">
+    
+    <label class="md-nav__link" for="nav-2-10">
+      Время между приключениями (XGE+)
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-10">
+        Время между приключениями (XGE+)
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/buying-a-magic-item/" title="Покупка волшебных вещей" class="md-nav__link">
+      Покупка волшебных вещей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/research/" title="Исследования" class="md-nav__link">
+      Исследования
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/crafting-an-item/" title="Создание предмета" class="md-nav__link">
+      Создание предмета
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/crime/" title="Преступления" class="md-nav__link">
+      Преступления
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/gambling/" title="Азартные игры" class="md-nav__link">
+      Азартные игры
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/pit-fighting/" title="Подпольные бои" class="md-nav__link">
+      Подпольные бои
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/relaxation/" title="Отдых-отдых-отдых" class="md-nav__link">
+      Отдых-отдых-отдых
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/religious-service/" title="Религиозная служба" class="md-nav__link">
+      Религиозная служба
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/scribing-a-spell-scroll/" title="Написание свитка заклинаний" class="md-nav__link">
+      Написание свитка заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/selling-a-magic-item/" title="Продажа волшебного предмета" class="md-nav__link">
+      Продажа волшебного предмета
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/training/" title="Training" class="md-nav__link">
+      Training
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/work/" title="Work" class="md-nav__link">
+      Work
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-activities.md" title="Новые возможности в простое" class="md-nav__link">
+      Новые возможности в простое
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-11" type="checkbox" id="nav-2-11">
+    
+    <label class="md-nav__link" for="nav-2-11">
+      Расширенные правила
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-11">
+        Расширенные правила
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../expanded_rules.md" title="Расширенные правила" class="md-nav__link">
+      Расширенные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../mounted-combat-expanded.md" title="Бой верхом" class="md-nav__link">
+      Бой верхом
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../additional-rules/additional_rules/" title="Дополнительные правила" class="md-nav__link">
+      Дополнительные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../misc/" title="Разное" class="md-nav__link">
+      Разное
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-14" type="checkbox" id="nav-2-14">
+    
+    <label class="md-nav__link" for="nav-2-14">
+      Расширенные правила по инструментам из XGE
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-14">
+        Расширенные правила по инструментам из XGE
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../tool-proficiencies/alchemists-supplies/" title="Набор алхимика" class="md-nav__link">
+      Набор алхимика
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../tool-proficiencies/herbalism-kit/" title="Набор травника" class="md-nav__link">
+      Набор травника
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../tool-proficiencies/poisoners-kit/" title="Набор отравителя" class="md-nav__link">
+      Набор отравителя
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../misc/" title="Разное" class="md-nav__link">
+      Разное
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-16" type="checkbox" id="nav-2-16">
+    
+    <label class="md-nav__link" for="nav-2-16">
+      Правила для общей кампании
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-16">
+        Правила для общей кампании
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/needs_organized_play/" title="Потребность в игротеке" class="md-nav__link">
+      Потребность в игротеке
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/shared_rules/" title="Правила общей кампании" class="md-nav__link">
+      Правила общей кампании
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/factions-renown-fame/" title="Фракции, известность, слава" class="md-nav__link">
+      Фракции, известность, слава
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/three-pillars-modified/" title="Модифицированные правила трех столбов" class="md-nav__link">
+      Модифицированные правила трех столбов
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Содержание</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#shifting-shadow" title="Shifting Shadow" class="md-nav__link">
+    Shifting Shadow
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/homerules/spells/spells.md" title="Редактировать страницу" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <h1 id="cantrips">Cantrips<a class="headerlink" href="#cantrips" title="Permanent link">&para;</a></h1>
+<h2 id="shifting-shadow">Shifting Shadow<a class="headerlink" href="#shifting-shadow" title="Permanent link">&para;</a></h2>
+<p>Conjuration cantrip </p>
+<p>Casting Time: 1 action </p>
+<p>Range: Self </p>
+<p>Components: S </p>
+<p>Duration: Instantaneous</p>
+<p>Too quickly for mortal eyes to perceive, you move no further than the reach of your shadow. Your movement doesn&rsquo;t provoke opportunity attacks for the rest of the turn, and you instantly move to an empty space within 5 feet.</p>
+<h1 id="new-spells-by-class">New Spells by Class<a class="headerlink" href="#new-spells-by-class" title="Permanent link">&para;</a></h1>
+<h2 id="bard-spells">Bard Spells<a class="headerlink" href="#bard-spells" title="Permanent link">&para;</a></h2>
+<h3 id="cantrip">Cantrip<a class="headerlink" href="#cantrip" title="Permanent link">&para;</a></h3>
+<p>Flying Blade</p>
+<h3 id="first-level">First Level<a class="headerlink" href="#first-level" title="Permanent link">&para;</a></h3>
+<p>Detect Life</p>
+<p>Fire Burst</p>
+<p>Invigorate</p>
+<p>Scatterspray</p>
+<p>Snilloc&rsquo;s Snowball</p>
+<p>Tasso&rsquo;s shriek</p>
+<p>Wardaway</p>
+<h3 id="second-level">Second Level<a class="headerlink" href="#second-level" title="Permanent link">&para;</a></h3>
+<p>Irithra&rsquo;s Spelltouch</p>
+<p>Mind Mantle</p>
+<p>Protection from Missiles</p>
+<p>Seasight</p>
+<h3 id="seventh-level">Seventh Level<a class="headerlink" href="#seventh-level" title="Permanent link">&para;</a></h3>
+<p>Create soundstaff</p>
+<h2 id="cleric-spells">Cleric Spells<a class="headerlink" href="#cleric-spells" title="Permanent link">&para;</a></h2>
+<h3 id="first-level_1">First Level<a class="headerlink" href="#first-level_1" title="Permanent link">&para;</a></h3>
+<p>Invigorate</p>
+<p>Repair Undead</p>
+<h3 id="second-level_1">Second Level<a class="headerlink" href="#second-level_1" title="Permanent link">&para;</a></h3>
+<p>Examine the Weft</p>
+<p>Glyph of Revealing</p>
+<p>Maskstone</p>
+<h3 id="third-level">Third Level<a class="headerlink" href="#third-level" title="Permanent link">&para;</a></h3>
+<p>Spell Shield</p>
+<h3 id="fourth-level">Fourth Level<a class="headerlink" href="#fourth-level" title="Permanent link">&para;</a></h3>
+<p>Mantle of Mystra</p>
+<p>Stars of Mystra</p>
+<h3 id="fifth-level">Fifth Level<a class="headerlink" href="#fifth-level" title="Permanent link">&para;</a></h3>
+<p>Spell Phylactery</p>
+<h3 id="sixth-level">Sixth Level<a class="headerlink" href="#sixth-level" title="Permanent link">&para;</a></h3>
+<p>Flameproof</p>
+<h3 id="seventh-level_1">Seventh Level<a class="headerlink" href="#seventh-level_1" title="Permanent link">&para;</a></h3>
+<p>Holy Star</p>
+<h2 id="paladin-spells">Paladin Spells<a class="headerlink" href="#paladin-spells" title="Permanent link">&para;</a></h2>
+<h3 id="first-level_2">First Level<a class="headerlink" href="#first-level_2" title="Permanent link">&para;</a></h3>
+<p>Invigorate</p>
+<h2 id="mage-spells">Mage Spells<a class="headerlink" href="#mage-spells" title="Permanent link">&para;</a></h2>
+<h3 id="cantrip_1">Cantrip<a class="headerlink" href="#cantrip_1" title="Permanent link">&para;</a></h3>
+<p>Flying Blade</p>
+<h3 id="first-level_3">First Level<a class="headerlink" href="#first-level_3" title="Permanent link">&para;</a></h3>
+<p>Detect Life</p>
+<p>Detect Metals and Minerals</p>
+<p>Dunragarr&rsquo;s Steelstone</p>
+<p>Fire Burst</p>
+<p>Repair Undead</p>
+<p>Rune of Power</p>
+<p>Scatterspray</p>
+<p>Snilloc&rsquo;s Snowball</p>
+<p>Storm Imbuement</p>
+<p>Tasso&rsquo;s shriek</p>
+<p>Wardaway</p>
+<h3 id="second-level_2">Second Level<a class="headerlink" href="#second-level_2" title="Permanent link">&para;</a></h3>
+<p>Disguise Undead</p>
+<p>Irithra&rsquo;s Spelltouch</p>
+<p>Lightningrod</p>
+<p>Maskstone</p>
+<p>Mind Mantle</p>
+<p>Poisonstar</p>
+<p>Portal Well</p>
+<p>Rockburst</p>
+<p>Seasight</p>
+<p>Sunbolt</p>
+<h3 id="third-level_1">Third Level<a class="headerlink" href="#third-level_1" title="Permanent link">&para;</a></h3>
+<p>Analyze Portal</p>
+<p>Cone of Teeth</p>
+<p>Fiery Fists</p>
+<p>Gembolt</p>
+<p>Protection from Missiles</p>
+<p>Scintillating Sphere</p>
+<p>Spell Shield</p>
+<p>Teleport Object</p>
+<h3 id="fourth-level_1">Fourth Level<a class="headerlink" href="#fourth-level_1" title="Permanent link">&para;</a></h3>
+<p>Dweomerflow</p>
+<p>Hailcone</p>
+<p>Stars of Mystra</p>
+<h3 id="fifth-level_1">Fifth Level<a class="headerlink" href="#fifth-level_1" title="Permanent link">&para;</a></h3>
+<p>Spell Phylactery</p>
+<p>Wind Carpet</p>
+<h3 id="sixth-level_1">Sixth Level<a class="headerlink" href="#sixth-level_1" title="Permanent link">&para;</a></h3>
+<p>Flameproof</p>
+<p>Gate Seal</p>
+<p>Spellmantle</p>
+<h3 id="seventh-level_2">Seventh Level<a class="headerlink" href="#seventh-level_2" title="Permanent link">&para;</a></h3>
+<p>Create Shade</p>
+<p>Create Soundstaff</p>
+<p>Holy Star</p>
+<p>Water Form</p>
+<h3 id="eighth-level">Eighth Level<a class="headerlink" href="#eighth-level" title="Permanent link">&para;</a></h3>
+<p>Dimensional Lock</p>
+<h1 id="untitled">Untitled<a class="headerlink" href="#untitled" title="Permanent link">&para;</a></h1>
+<p>Analyze Portal</p>
+<p>3<sup>rd</sup>-level divination <span><span class="MathJax_Preview">ritual</span><script type="math/tex">ritual</script></span></p>
+<p>Casting Time: 1 minute</p>
+<p>Range: 60 ft</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">a crystal lens and a small mirror</span><script type="math/tex">a crystal lens and a small mirror</script></span></p>
+<p>Duration: Concentration, up to 1 minute</p>
+<p>You can tell if an area contains magical portals. If you study an area for 1 round, you know the sizes and locations of any portals in the area. Once you find a portal, you can study it. <span><span class="MathJax_Preview">If you find more than one portal, you can only study one at a time</span><script type="math/tex">If you find more than one portal, you can only study one at a time</script></span>.</p>
+<p>Each round you study a portal, you discover one property of the portal, making an ability check using your spellcasting ability against a DC 17. If successful, you gain learn one property, in this order. If a given property does not apply to a portal, skip to the next applicable topic.</p>
+<p>Any key or command word needed to activate the portal.</p>
+<p>Special circumstances governing the use of the portal.</p>
+<p>Whether the portal is one-way or two-way.</p>
+<p>Any unusual properties of the portal.</p>
+<p>A glimpse of the area to where the portal leads, allowing you to view it for one round <span><span class="MathJax_Preview">though other divination spells may not be cast through it</span><script type="math/tex">though other divination spells may not be cast through it</script></span>.</p>
+<p>This spell interacts in different ways with variant types of portals, as follows:</p>
+<p>Random portals are revealed only as random, and whether it can be activated now. It does not reveal when the portal starts or stops functioning.</p>
+<p>Variable portals are revealed only as variable. If you study the portal&rsquo;s destination, the spell reveals only the destination to which the portal is currently set.</p>
+<p>Creature-only portals are revealed as such. If you study the portal&rsquo;s destination, the spell reveals where the portal sends creatures. If it is the type of portal that sends creature one place and their equipment another place, the spell does not reveal where the equipment goes.</p>
+<p>Malfunctioning portals are revealed as such, without detailing what sort of malfunction it produces.</p>
+<p>Chromatic Blade</p>
+<p>5<sup>th</sup>-level transmutation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Self</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">small dagger set with gems in the color of the spectrum, worth at least 100gp</span><script type="math/tex">small dagger set with gems in the color of the spectrum, worth at least 100gp</script></span></p>
+<p>Duration: Concentration, up to 1 minute</p>
+<p>You create a shimmering prismatic blade of needle width and magical sharpness. This weapon functions as a sword of sharpness <span><span class="MathJax_Preview">including the light-shedding abilities</span><script type="math/tex">including the light-shedding abilities</script></span>, with a rapier&rsquo;s basic stats, and uses your spell attack bonus. While this spell is active, you are immune to color spray. If you are the target of a prismatic spray while using this spell, you may elect to sacrifice the chromatic blade, causing it to end in exchange for immunity to the effects of the prismatic spray. The blade can only be destroyed by a dispel magic, disintegrate, or a properly worded limited wish.</p>
+<p>Cone of Teeth</p>
+<p>3<sup>rd</sup>-level evocation</p>
+<p>Casting time: 1 action</p>
+<p>Range: Self <span><span class="MathJax_Preview">40-foot cone</span><script type="math/tex">40-foot cone</script></span></p>
+<p>Components: V, M <span><span class="MathJax_Preview">a shark’s tooth</span><script type="math/tex">a shark’s tooth</script></span></p>
+<p>Duration: Instantaneous</p>
+<p>You shape water into thin blades as sharp as a shark’s teeth and grind your enemies in your watery maw. The water extends in a 40-foot cone, dealing 8d6 slashing damage unless the target succeeds at a Constitution saving throw for half damage. The spell leaves a bit of water on the ground <span><span class="MathJax_Preview">and often blood too</span><script type="math/tex">and often blood too</script></span>, and extinguishes candles and other small flames. When used against fire elementals or other creatures that take damage from water, the spell deals additional damage equal to your spellcasting modifier.</p>
+<p>At Higher Levels. When you cast this spell using a spell slot of 4<sup>th</sup> level or higher, the damage in- creases by 1d6 for each slot level above 3<sup>rd</sup>.</p>
+<p>Create Shade</p>
+<p>7<sup>th</sup>-level transmutation</p>
+<p>Casting time: 1 action</p>
+<p>Range: 120 feet</p>
+<p>Components: V, S</p>
+<p>Duration: 12 hours</p>
+<p>You transform one patch of natural ground <span><span class="MathJax_Preview">e.g. a beach or park, not city streets or the deck of a ship</span><script type="math/tex">e.g. a beach or park, not city streets or the deck of a ship</script></span> into a shaded area. The patch may be any shape as long as it fits within a 100-foot by 100-foot cube. There is no obvious source of the shade, but the temperature in the area is cool and the light is not otherwise dimmed. Those in the area do not suffer from ill effects of the sun <span><span class="MathJax_Preview">whether dehydration, sun-light sensitivity, or effects of excessive heat caused by sun exposure</span><script type="math/tex">whether dehydration, sun-light sensitivity, or effects of excessive heat caused by sun exposure</script></span>. Any creature taking a short rest in your shade recovers from one level of exhaustion caused by heat or the sun, while a creature taking a long rest in your shade recovers from all levels of exhaustion that were caused by heat or the sun.</p>
+<p>At Higher Levels. When you cast this spell using an 8<sup>th</sup> level spell slot, the duration increases to one week. When you cast this spell using a 9<sup>th</sup> level spell slot, the duration increases to one month.</p>
+<p>Create Soundstaff</p>
+<p>7<sup>th</sup>-level transmutation</p>
+<p>Casting time: 10 minutes</p>
+<p>Range: Touch</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">a dark wooden staff with a blue stone at its tip worth 300gp</span><script type="math/tex">a dark wooden staff with a blue stone at its tip worth 300gp</script></span></p>
+<p>Duration: 60 days</p>
+<p>You fix a staff into the ground, which absorbs ambient noise within 300 feet. This creates an area of tranquility surrounding the staff for up to 60 days. All thunder attacks within 300 feet of the staff are made with disadvantage and saving throws against thunder are made with advantage; all creatures within 300 feet of the staff resist thunder damage. The spell ceases to function if the staff is moved before the 30<sup>th</sup> day. If the staff is removed after the 30<sup>th</sup> day, it functions as a limited staff of thunder and lightning, except it can only produce one thunder or thunderclap effect for each full 10 days that it was in place before the staff loses its potency. The staff ceases to have any magic after the 60<sup>th</sup> day.</p>
+<p>Detect Life</p>
+<p>1<sup>st</sup>-level divination <span><span class="MathJax_Preview">ritual</span><script type="math/tex">ritual</script></span></p>
+<p>Casting Time: 1 action</p>
+<p>Range: Self</p>
+<p>Duration: Concentration, up to 10 minutes</p>
+<p>For the duration, you detect the presence of intelligent, living creatures within 30 feet of you, and such creatures cannot become hidden from you. You can tell if each creature is aware, but not exactly what the life is. It also does not give exact numbers - merely an indication of life and sentience in a general direction relative to the caster.</p>
+<p>Detect Metals and Minerals</p>
+<p>1<sup>st</sup>-level divination <span><span class="MathJax_Preview">ritual</span><script type="math/tex">ritual</script></span></p>
+<p>Casting Time: 1 action</p>
+<p>Range: Self</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">a bit of the material sought</span><script type="math/tex">a bit of the material sought</script></span></p>
+<p>Duration: Concentration, up to 10 minutes</p>
+<p>For the duration, you can sense the presence and location of a single type of ore or mineral deposit within 30 feet of you. The spell can penetrate most barriers, but it is blocked by 3 feet of wood.</p>
+<p>Dimensional Lock</p>
+<p>8<sup>th</sup>-level abjuration</p>
+<p>Casting Time: 1 action</p>
+<p>Range: 120 ft.</p>
+<p>Components: V, S</p>
+<p>Duration: 10 days</p>
+<p>A target point within range is the center of a 15&rsquo; radius effect for the duration of the spell. Extradimensional travel within this area is completely barred, preventing passage into other planes <span><span class="MathJax_Preview">including the astral and ethereal</span><script type="math/tex">including the astral and ethereal</script></span>, all teleportation magics, phasing, and similar abilities.</p>
+<p>The dimensional lock does not interfere with the movement of creatures already in ethereal or astral forms, nor does it block extradimensional perception. It also does not prevent summoned creatures from returning to their home planes at the end of a summoning spell, but it does prevent creatures from being summoned from other planes within it.</p>
+<p>Disguise Undead</p>
+<p>2<sup>nd</sup> level illusion</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">cocoon of a death's head moth</span><script type="math/tex">cocoon of a death's head moth</script></span></p>
+<p>Duration: 1 hour</p>
+<p>You make one mindless or willing corporeal undead look different, including clothing, armor, weapons, and equipment. You can make it seem one foot shorter or taller, and anywhere between very thin or very fat. You cannot change the creature&rsquo;s body type, however: bipedal creatures retain that form. Otherwise, the extent of the change is entirely up to you. This spell can alter how the creature in question smells, as well, allowing even rotting undead to be disguised by it - although the spell does only work in the moment, so that a putrescent undead disguised by it will fool viewers in the moment, but may leave the stench of death in its wake.</p>
+<p>The changes wrought by the spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to the undead creature, objects pass through the hat, and anyone who touches it would feel only the creature&rsquo;s true form beneath. To discern that the undead is disguised, a creature can use its action to inspect its appearance and must succeed on an Intelligence <span><span class="MathJax_Preview">Investigation</span><script type="math/tex">Investigation</script></span> check against your spell save DC.</p>
+<p>Dunragarr&rsquo;s Steelstone</p>
+<p>1<sup>st</sup>-level transmutation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Duration: 1 hour</p>
+<p>You touch an item made of steel or iron, and it transforms into a strange amalgamation of stone and steel with a gout of <span><span class="MathJax_Preview">non-damaging</span><script type="math/tex">non-damaging</script></span> steam. This can transform items no heavier than 15lbs in weight. This transformation has the following effects:</p>
+<p>Weapons inflict +1 damage.</p>
+<p>Armor reduces all damage taken by 1 point <span><span class="MathJax_Preview">to a minimum of 1</span><script type="math/tex">to a minimum of 1</script></span>.</p>
+<p>Metal barriers and objects inflict disadvantage to attempts to force, damage or destroy them.</p>
+<p>At Higher Level: For each additional spell level above 1<sup>st</sup> used to cast this spell, add another 15lbs of weight that may be so transformed.</p>
+<p>Dweomerflow</p>
+<p>4<sup>th</sup>-level transmutation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Components: V, S</p>
+<p>Duration: 1 round</p>
+<p>One of the works of Wyara of Mystra, dweomerflow is a work of meta-magic, creating a field of magic that encompasses another spell and shifts them into or out of a receptacle without permitting the spell to manifest normally. There are two forms of this spell, which the caster chooses to use when the spell is cast.</p>
+<p>Fill Receptacle: With this version, the spell causes the next spell the target casts to flow from the caster into a prepared receptacle instead of taking its usual effect. Only receptacles innately prepared to accept a spell can be targeted by this effect. These include a focal stone, a magic item into which spells can be stored, or other myriad items, such as crucibles empowered to accept enchantments, certain artifacts, and the like. If the magic item is one that can already accept spells <span><span class="MathJax_Preview">such as a ring of spell storing</span><script type="math/tex">such as a ring of spell storing</script></span>, the spell level limit of the item becomes equal to the level at which dweomerflow is cast instead of its normal limits. This function can also be used with effects such as glyph of warding; in that case, the subsequent spell cast is imbued into the glyph as a secondary magical effect that is triggered at the same time as its main effect.</p>
+<p>Charge Transference: With this version, the caster may alter the charges contained by magic items that use them, such as wands. It functions as the Fill Receptacle effect above, but the spell that is cast into the item must be one of the spells that item can cast, and it regains a number of charges equal to the cost of casting that charge for the item. Alternately, it can be used to siphon charges from one item to another, transferring up to one charge per level of spell slot used in casting dweomerflow. Excess charges are wasted, and an item that is reduced to 0 charges has its normal effect. If one or both of these items are in the possession of an unwilling owner, that owner is permitted an Intelligence save to totally negate the effect.</p>
+<p>At Higher Levels: When this spell is cast using a spell slot of 5<sup>th</sup> or higher, increase the possible spell levels of the effects noted above.</p>
+<p>Examine the Weft</p>
+<p>2<sup>nd</sup>-level divination <span><span class="MathJax_Preview">ritual</span><script type="math/tex">ritual</script></span></p>
+<p>Casting Time: Swift, or Reaction</p>
+<p>Range: Self</p>
+<p>Duration: Instantaneous</p>
+<p>You immediately peruse a spell as it is being cast <span><span class="MathJax_Preview">as a Reaction</span><script type="math/tex">as a Reaction</script></span>, is currently in effect <span><span class="MathJax_Preview">if it has no visible effects, you must study it while using detect magic</span><script type="math/tex">if it has no visible effects, you must study it while using detect magic</script></span> or that is in written form before you. You tap into the Weave to discern the pattern of that magic, and then fill your mind with its weft. As long as you are able to prepare a spell of that level, you prepare the studied spell; if necessary, you lose a spell you already have prepared in order to make room for the new one. As long as you retain the prepared spell, you may scribe it or cast it as normal.</p>
+<p>If the spell is too high in level for you to cast, you take 1d6 radiant damage per spell level above your ability from the attempt to read and incorporate something of spell power too great for you to manage.</p>
+<p>Gods Granted: Any god that can grant the Arcane Domain.</p>
+<p>Fiery Fists</p>
+<p>3<sup>rd</sup>-level transmutation</p>
+<p>Casting Time: 1 bonus action</p>
+<p>Range: Self</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">a lump of coal</span><script type="math/tex">a lump of coal</script></span></p>
+<p>Duration: 1 minute</p>
+<p>Your hands burst into flames that emit noxious smoke and shed light as torches. While the spell is active, you may use your action to make a melee spell attack against one adjacent creature. Creatures hit by your touch take 4d6 fire damage and must make a Constitution saving throw against your spell- casting DC or be poisoned until the end of your next turn.</p>
+<p>At Higher Levels. When you cast the spell using a slot of 5<sup>th</sup> level or higher, you may make two at- tacks when you use your action to make a melee spell attack with your fiery fists.</p>
+<p>Fire Burst</p>
+<p>1<sup>st</sup>-level transmutation</p>
+<p>Casting Time: 1 bonus action</p>
+<p>Range: 30 feet</p>
+<p>Components: V, S</p>
+<p>Duration: Instantaneous</p>
+<p>You make a non-magical flame <span><span class="MathJax_Preview">equivalent to a can- dle, torch or campfire</span><script type="math/tex">equivalent to a can- dle, torch or campfire</script></span> erupt in an arrow, firing at a creature within 5 feet before extinguishing itself. You extinguish the target flame and the creature must make a Dexterity saving throw. If your target was a candle, the creature takes 2d4 damage on a failed saving throw. If your target was a torch, the creature takes 2d6 damage on a failed saving throw. If your target was a campfire <span><span class="MathJax_Preview">up to a 5-foot cube of flame</span><script type="math/tex">up to a 5-foot cube of flame</script></span>, the creature takes 2d8 damage on a failed saving throw.</p>
+<p>At Higher Levels. When you cast this spell using a spell slot of 2<sup>nd</sup> level or higher, the target takes an additional die of damage for each slot level above 1<sup>st</sup>.</p>
+<p>Flameproof</p>
+<p>6<sup>th</sup>-level abjuration</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">a bit of wax</span><script type="math/tex">a bit of wax</script></span></p>
+<p>Duration: Concentration, up to 1 hour</p>
+<p>You touch a creature or item and imbue them with the strength to withstand any flame. The target is immune to fire damage and is not affected by any deleterious effects caused by fire, heat, or the sun.</p>
+<p>Flying Blade</p>
+<p>Transmutation cantrip</p>
+<p>Casting Time: 1 bonus action</p>
+<p>Range: Touch</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">a dagger</span><script type="math/tex">a dagger</script></span></p>
+<p>Duration: 1 minute</p>
+<p>You toss a dagger into the air and it is borne aloft by the winds. For the duration of the spell, the dagger hovers and you may use your action to make a ranged weapon attack with the dagger against a target creature or object within 60 feet of you. When you do so, you may use your spellcasting ability in place of your Strength or Dexterity for the attack and damage roll.</p>
+<p>As you increase in level, this spell can animate additional daggers, and make attacks with them simultaneously. It can animate two daggers at 5<sup>th</sup> level, three at 11<sup>th</sup> level, and 4 at 17<sup>th</sup> level.</p>
+<p>Gate Seal</p>
+<p>6<sup>th</sup>-level abjuration <span><span class="MathJax_Preview">ritual</span><script type="math/tex">ritual</script></span></p>
+<p>Casting Time: 1 action</p>
+<p>Range: 30 ft.</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">a silver bar with 50gp</span><script type="math/tex">a silver bar with 50gp</script></span></p>
+<p>Duration: Permanent</p>
+<p>You permanently seal a gate or portal you designate within range as part of the casting. This prevents any activation of the gate or portal, although the gate seal remains as a magical effect around the gate or portal, and is subject to effects such as dispel magic. A knock does not function on a gate seal, though a chime of opening does.</p>
+<p>Gembolt</p>
+<p>3<sup>rd</sup>-level evocation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: 200 feet</p>
+<p>Duration: Instantaneous</p>
+<p>Holding aloft a gemstone, you map tap into the power locked within it, causing it to streak forth in the form of a bolt of energy that shimmers with the same hue as the stone itself, striking a single target in range. This inflicts six dice worth of damage, with the specific die type being based on the quality of the gem: ornamental gems inflict d4s of damage, semiprecious inflict d6s of damage, and precious stones inflict d8s.</p>
+<p>This does not consume the gemstone, although you may choose to do so in the casting. In such case, the damage is d6s for ornamental stones, d8s for semiprecious and d10s for precious. All that remains of the stone after the casting is simple, inert grey dust of half the volume of the original stone.</p>
+<p>At Higher Level: For each level of spell above 3<sup>rd</sup> used to cast this spell, increase the damage by one additional die.</p>
+<p>Material Component: A gemstone of ornamental, semiprecious or precious quality. This does not usually consume the stone, but you may choose to have the casting of the spell do so in order to inflict additional damage.</p>
+<p>Glyph of Revealing</p>
+<p>2<sup>nd</sup>-level evocation <span><span class="MathJax_Preview">ritual</span><script type="math/tex">ritual</script></span></p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Duration: 1 hour</p>
+<p>You write a glyph upon any surface that will retain the ink necessary to cast the spell, even for just a few seconds. When it is complete, the glyph glows for a moment and then sends out a wave of white light 120&rsquo; in every direction and then vanishes. When the wave of light touches anything magical, it begins to glow with a white radiance the same brightness as faerie fire. The outlines of magically hidden inscriptions or magical writing of any kind is immediately revealed. This allows them to be read without triggering their effects.</p>
+<p>Material Components: An ink made of the juiced of crushed eyebright, white chalk and crushed quartz.</p>
+<p>Gods Granted: Any god that can grant the Knowledge or Logos Domains.</p>
+<p>Hailcone</p>
+<p>4<sup>th</sup>-level evocation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: x</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">pinch of dust and a few drops of water</span><script type="math/tex">pinch of dust and a few drops of water</script></span></p>
+<p>Duration: x</p>
+<p>The spellcaster causes large hailstones <span><span class="MathJax_Preview">2 inches across and greater</span><script type="math/tex">2 inches across and greater</script></span> to rain down in an cylindrical area 30 feet across and 30 feet high. As the magically conductive hailstones fall, they spark with lighting that leaps from stone to stone in a torrent, filling the area with a web of blue-white burning threads and the smell of ozone. Creatures in the area of effect take 6d6 points of lightning and bludgeoning damage and are knocked prone. A Strength save prevents being knocked prone, and reduces the damage to half.</p>
+<p>At Higher Levels: When this spell is cast using a spell slot of 5<sup>th</sup> level or higher, add 1d6 damage to the damage for each spell slot above 4<sup>th</sup>.</p>
+<p>Holy Star</p>
+<p>7<sup>th</sup>-level abjuration</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Self</p>
+<p>Components: V, S</p>
+<p>Duration: Concentration, up to 1 minute</p>
+<p>You create a gleaming magical construct about the size of a dinner plate in the shape of a star. It stays near your shoulder, providing light out to 20&rsquo;, and dim light for a further 20&rsquo;. This star has the following three functions, and you can designate which function to activate as a free action on your turn.</p>
+<p>Protection. You gain a +3 AC bonus from the holy star, which swerves to intercept attacks against you.</p>
+<p>Starbolt. As an action, you may cause the holy star to fire a bolt of searing white-blue stellar fire at a target within 90 feet. This attack uses your spell attack bonus, and inflicts 8d6 radiant and lightning damage <span><span class="MathJax_Preview">creatures must be resistant or immune to both to apply such defenses</span><script type="math/tex">creatures must be resistant or immune to both to apply such defenses</script></span>.</p>
+<p>Spell Reflection. As a reaction, you can cause the holy star to reflect back a spell directed at you or that includes you in its area of effect. The holy star may reflect up to six levels worth of spells; as a spell is reflected, the level of that spell is subtracted from the remaining levels worth of spell turning available. When a spell is reflected, its target is simply moved to the originator of the spell - all other effects are as though the original caster were still its caster. If there are not enough levels left to reflect a spell, they may still be expended to instead counter it, as though by a counterspell cast at a level equal to the number of spell levels available. If the last spell level of a holy star&rsquo;s spell reflection is used, the spell ends early.</p>
+<p>Gods Granted: Mystra, Azuth</p>
+<p>Invigorate</p>
+<p>1<sup>st</sup>-level evocation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Duration: Instantaneous</p>
+<p>You touch the target of the spell, refreshing it and undoing the effects of weariness. The creature&rsquo;s Exhaustion Level drops by one.</p>
+<p>At Higher Levels: When you cast this spell using a spell slot of 2<sup>nd</sup> level or higher, it reduces Exhaustion Level by another step for each level above 1<sup>st</sup>.</p>
+<p>Irithra&rsquo;s Spelltouch</p>
+<p>2<sup>nd</sup>-level enchantment</p>
+<p>Casting Time: 10 minutes</p>
+<p>Range: Touch</p>
+<p>Duration: 1 hour, or until discharged</p>
+<p>You cast this spell on a non-living item. Another spell is then cast &ldquo;into&rdquo; that item on the subsequent round - you do not have to be the caster of the second. This second spell is then &ldquo;stored&rdquo; in the item, awaiting touch by a trigger creature.</p>
+<p>You determine the trigger creature when you create this spell: it can be race and/or sex, or by &ldquo;type&rdquo; <span><span class="MathJax_Preview">undead, etc</span><script type="math/tex">undead, etc</script></span>. When the trigger creature touches the item, the stored spell is unleashed, taking immediate effect as though cast by the one who cast that spell into the item.</p>
+<p>This second spell cannot be directed <span><span class="MathJax_Preview">i.e., it must work without choosing a specific target</span><script type="math/tex">i.e., it must work without choosing a specific target</script></span>, and the item is ground zero for any spell effect. Neither you nor the caster of the second spell can trigger the stored spell, even if you meet the requirements for the trigger. Someone may throw the item to strike a target, making a normal Dexterity attack roll to do so. If the item hits a creature that is its trigger, the magic is unleashed.</p>
+<p>The spelltouch item radiates magic faintly, and identifying magics never reveal more than the fact that this item has &ldquo;a single to-be-triggered magic stored by another, underlying enchantment&rdquo;. If the spelltouched item is shattered or more than half of it is broken away, the stored spell is lost, silently and harmlessly dissipating. This also occurs if the spelltouched item comes within the area of effect of a dispel magic effect, or within 10 feet of any other spelltouched item.</p>
+<p>Higher Levels: For each spell level beyond 2<sup>nd</sup> level this spell is cast at, double the duration <span><span class="MathJax_Preview">so 2 hours at 3rd level, 4 hours at 4th, etc</span><script type="math/tex">so 2 hours at 3rd level, 4 hours at 4th, etc</script></span>.</p>
+<p>Material Components: The material components of this spell are a pinch of powdered gemstone <span><span class="MathJax_Preview">requiring 10gp worth of powdered gemstone per level of the second spell to be stored</span><script type="math/tex">requiring 10gp worth of powdered gemstone per level of the second spell to be stored</script></span> and a pinch of the ash left by any fire created or augmented by a spell, combined with a drop of water and touched to the item during the casting.</p>
+<p>Liquid Earth</p>
+<p>4<sup>th</sup>-level transmutation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Self</p>
+<p>Components: V, M <span><span class="MathJax_Preview">a bent tube of nickel costing 100gp</span><script type="math/tex">a bent tube of nickel costing 100gp</script></span></p>
+<p>Duration: Concentration, up to 10 minutes</p>
+<p>You can burrow through nonmagical, unworked earth and stone at your normal speed. While burrow- ing, you cannot be tracked except by magical means nor can any creatures follow you; you do not disturb the sand or earth that you burrow through. If you have not ceased to burrow when the spell ends, you are forcibly ejected to nearest inhabitable space and take 5d4 damage.</p>
+<p>At Higher Levels. If you cast this spell using a spell slot of 5<sup>th</sup> level or higher, you can target one additional creature that you can touch per spell slot level above 4<sup>th</sup>.</p>
+<p>Lightning Rod</p>
+<p>2<sup>nd</sup>-level transmutation <span><span class="MathJax_Preview">ritual</span><script type="math/tex">ritual</script></span></p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">braided copper wire</span><script type="math/tex">braided copper wire</script></span></p>
+<p>Duration: Until discharged, or 1 day</p>
+<p>This spell forces magical lightning to a specific spot imbued with this spell. When cast, the wizard touches the material component to the target object, which cannot be animate, living, or magical, nor can it weight more than 100 pounds. When any part of a ranged magical attack of 3<sup>rd</sup> level or lower that inflicts lightning damage passes within 150 feet of the item thus imbued, the attack is diverted away and pulled into the item imbued with lightning rod.</p>
+<p>If someone is in contact with the item affected by lightning rod, that person receives the full damage of the attack; if the attack normally permits a Dexterity saving throw, it instead becomes a Constitution saving throw that is made at disadvantage. Though nominally a defensive spell used to ground out lightning attacks by an enemy, Rogaster was also fond of using this spell offensively, imbuing an enemy&rsquo;s breastplate or weapon.</p>
+<p>At Higher Levels: When this spell is cast using a spell slot of 3<sup>rd</sup> level or higher, increase the level of the spell the lightning rod may coopt by two levels for each spell slot level above the 2<sup>nd</sup>. Thus, a 3<sup>rd</sup> level spell slot may ground out up to a 5<sup>th</sup> level spell, a 4<sup>th</sup> level spell slot may ground out up to a 7<sup>th</sup> level spell, and a 5<sup>th</sup> level spell slot may ground out up to a 9<sup>th</sup> level spell.</p>
+<p>Mantle of Mystra</p>
+<p>4<sup>th</sup>-level abjuration</p>
+<p>Casting Time: 10 minutes</p>
+<p>Range: Self</p>
+<p>Duration: 1 year, or until discharged</p>
+<p>The spell creative an invisible protective aura around you. Choose any spell that you have cast, felt the effects of or observed cast, or a spell that you know the specific name of, of any level equal to or lower than the spell slot level used to cast this spell. The first time you are struck by this spell, the mantle of Mystra absorbs it perfectly, negating its effects and then rechannels it into an immediate casting of another spell that you know how to cast and sends that spell back at the original caster. The spell that is sent against the target must be equal to or lower in level than the one it absorbed. Both of these spell selections must be made when the mantle of Mystra is cast.</p>
+<p>Higher Level: This spell may be cast at higher levels in order to absorb and reflect spells of higher than 4<sup>th</sup> level.</p>
+<p>Gods Granted: Mystra, Azuth</p>
+<p>Maskstone</p>
+<p>2<sup>nd</sup>-level illusion <span><span class="MathJax_Preview">ritual</span><script type="math/tex">ritual</script></span></p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Duration: 1 year</p>
+<p>You weave a complicated illusion over a stone surface. The illusion is simply that of any kind of solid, unbroken stone surface, hiding any seams, carvings or even openings. The stone created by the illusion blends perfectly with the surrounding stone in appearance.</p>
+<p>Anyone with reason to doubt the veracity of the illusion may make a Wisdom save to pierce it <span><span class="MathJax_Preview">dwarves, gnomes and other subterranean denizens gain advantage on this save</span><script type="math/tex">dwarves, gnomes and other subterranean denizens gain advantage on this save</script></span>. The illusion is visual-only, and touching it can reveal any details concealed by the spell that could be sensed by touch, also granting advantage on the save.</p>
+<p>At Higher Level: Casting this spell at higher spell levels increases the duration to 5 years at 3<sup>rd</sup> level, a decade at 4<sup>th</sup>, twenty years at 5<sup>th</sup> and a full century at 6<sup>th</sup>. Each spell level after that adds an additional century to the duration.</p>
+<p>Gods Granted: Any god in the dwarven or gnomish pantheons.</p>
+<p>Mind Mantle</p>
+<p>2<sup>nd</sup>-level abjuration</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Duration: 1 hour</p>
+<p>You create a cloaking web of random mental impulses that screens the mind of the one protected by the spell. All mind-reading and influencing spells of 4<sup>th</sup> level or less are useless against the one thus protected, as are magic items or other powers that mimic those effects. The caster may end it by silent act of will.</p>
+<p>Higher Levels: For every level above 2<sup>nd</sup> this spell is cast at, it lasts one additional hour.</p>
+<p>Poisonstar</p>
+<p>2<sup>nd</sup>-level evocation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Self</p>
+<p>Components: V,S</p>
+<p>Duration: 1 minute or until stars are discharged</p>
+<p>This spell creates six vivid purple winking stars around one of your hands. At any time within the duration, you may cause a number of these stars to race after a target of your choice, deploying either a number equal to your Intelligence bonus as a standard action, or a single star as a bonus action. Targets may make a Dexterity saving throw to resist being struck; success on this save causes the star to also wink out of existence. This save is at disadvantage if the target is attacked with a number of stars equal to or greater than the target&rsquo;s Dexterity bonus.</p>
+<p>A living creature struck by one of these stars takes 1 point of poison damage, or 2 points if the creature is undead. Living creatures must also make a Constitution save or become Intoxicated for one minute <span><span class="MathJax_Preview">though at the end of each of their rounds, they may attempt to throw off the remaining effects with another Constitution save</span><script type="math/tex">though at the end of each of their rounds, they may attempt to throw off the remaining effects with another Constitution save</script></span>.</p>
+<p>Higher Levels: For every level above 2<sup>nd</sup> this spell is cast at, it creates three additional stars. Increasing numbers of these stars limn the caster&rsquo;s arm and course up around the head like a vivid purple halo.</p>
+<p>Portal Well</p>
+<p>2<sup>nd</sup>-level transmutation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">silver wire tied into a knot</span><script type="math/tex">silver wire tied into a knot</script></span></p>
+<p>Duration: Concentration, up to 10 minutes</p>
+<p>You alter the operation of a portal you target with this spell. Upon entering it, accompanied by up to five others, you are transported into an extradimensional pocket instead of the other side of the portal. This only functions on a portal which you can use.</p>
+<p>The extradimensional space created by this spell is similar to that created by rope trick. While within it, you can see both ends of the portal, although it is murky and indistinct, as viewed through a fog. When the spell ends, you exit the space at either end of the portal, according to your choice.</p>
+<p>A successful dispel magic or other magic that inhibits the functioning of the portal traps you in the space for the duration of that effect, although creatures within the space may make an Intelligence save at the casting of the spell to be ejected from their choice of portal end to avoid being so trapped. Any effects that destroy the portal ejects all creatures within from a random end of the portal, inflicting 5d6 points of force damage to them; each creature is ejected out of a different end of the portal.</p>
+<p>At Higher Levels. When you cast this spell using a spell slot of 3<sup>rd</sup> level or higher, you increase the duration of spell. It becomes &ldquo;Concentration, up to 30 minutes&rdquo; at 3<sup>rd</sup> level, and &ldquo;Concentration, up to 1 hour&rdquo; at 4<sup>th</sup> level. At 5<sup>th</sup> level, the Concentration component ends, the duration simply becoming &ldquo;1 hour&rdquo;, and then doubling for each spell slot level above 5<sup>th</sup>.</p>
+<p>Protection from Missiles</p>
+<p>2<sup>nd</sup>-level abjuration</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch Components: V, S, M <span><span class="MathJax_Preview">piece of tortoise shell</span><script type="math/tex">piece of tortoise shell</script></span></p>
+<p>Duration: Concentration, up to 1 minute</p>
+<p>The touched target of this spell gains resistance to bludgeoning, slashing, and piercing damage that derives from non-magical ranged weapons.</p>
+<p>At Higher Levels: For every level above 2<sup>nd</sup> this spell is cast at, it protects one additional target touched as part of the action spent casting it.</p>
+<p>Repair Undead</p>
+<p>1<sup>st</sup> level necromancy</p>
+<p>Casting Time: 1 minute</p>
+<p>Range: Touch</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">meat pieces or bone fragments, which the spell consumes</span><script type="math/tex">meat pieces or bone fragments, which the spell consumes</script></span></p>
+<p>Duration: Instantaneous</p>
+<p>An undead creature you touch regains a number of hit points equal to 1d6+your spellcasting ability modifier.</p>
+<p>At Higher Levels. When you cast this spell using a spell slot of 2<sup>nd</sup> level or higher, the healing increases by 1d6 for each slot level above 1<sup>st</sup>.</p>
+<p>Gods Granted: Any gods that grant the Death or Grave Domains.</p>
+<p>Rockburst</p>
+<p>2<sup>nd</sup>-level transmutation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: 60 feet</p>
+<p>Duration: Instantaneous</p>
+<p>You cause a selection of stone to suddenly explode in all directions, spraying jagged stone shrapnel in a 20&rsquo; radius of it. Damage inflicted is based on how much stone is destroyed by the casting: for each 1 cubic foot of rock, it inflicts 1d4+1 die of piercing damage. The spell may destroy up to four cubic feet of rock, giving it a maximum damage of 4d4+4 piercing damage, but only if sufficient stone exists to be affected.</p>
+<p>This spell destroys the structural integrity of the stone in question, and so can do damage to structures, caverns and the like as well. If intending to inflict such damage towards a specific purpose, you must make a successful Intelligence check with a DC determined by your DM, based on how difficult your goal is.</p>
+<p>At Higher Level: For each spell level above the 2<sup>nd</sup> used to cast this spell, you may affect one additional cubic foot of stone.</p>
+<p>Rune of Power</p>
+<p>1<sup>st</sup>-level evocation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Duration: 1 day</p>
+<p>You touch a surface of stone or metal, leaving behind a dwarven rune-sigil. You may cause the rune to discharge on the round following its creation, or it may &ldquo;wait&rdquo; for a trigger. The baseline rune triggers when a living or undead creature moves within five feet of it, though you may give it exceptions to this. You determine the situations under which the rune does not discharge its power, establishing a number of these exemptions equal to three plus your proficiency bonus. A rune disappears once its duration has passed, or once it is discharged.</p>
+<p>The effects of this rune is based on what specific rune is wrought through its use. When learned, you know how to create a Basic rune. Research and discovery can reveal other such runes of power.</p>
+<p>Basic <span><span class="MathJax_Preview">1st level</span><script type="math/tex">1st level</script></span>: If not employing one of the known runes of dwarfkind, you can create a runic symbol that communicates a simple concept to anyone who sees it. When created, compose a sentence of no more than six words. Reading the rune does not cause it to disappear, however; these runes remain for their entire duration. <span><span class="MathJax_Preview">You may extend the duration by casting it with higher levels than 1st - 2nd level lasts a tenday, 3rd lasts a month, 4th level lasts a season, 5th level lasts a year, 6th level lasts a decade, 7th level lasts a century, 8th level lasts a millennium, and 9th level is permanent</span><script type="math/tex">You may extend the duration by casting it with higher levels than 1st - 2nd level lasts a tenday, 3rd lasts a month, 4th level lasts a season, 5th level lasts a year, 6th level lasts a decade, 7th level lasts a century, 8th level lasts a millennium, and 9th level is permanent</script></span></p>
+<p>Velurndyn <span><span class="MathJax_Preview">1st-level</span><script type="math/tex">1st-level</script></span>: This rune, when triggered, activates an effect like that of thunderwave. <span><span class="MathJax_Preview">"At Higher Level" effects for thunderwave apply to this rune as well.</span><script type="math/tex">"At Higher Level" effects for thunderwave apply to this rune as well.</script></span></p>
+<p>Faerindyl <span><span class="MathJax_Preview">2nd level</span><script type="math/tex">2nd level</script></span>: This rune generates a flaming sphere <span><span class="MathJax_Preview">as the wizard spell</span><script type="math/tex">as the wizard spell</script></span>, which rolls in a straight line up to thirty feet away from the surface protected by the rune. You may choose where the sphere stops at the casting. <span><span class="MathJax_Preview">You may increase the damage inflicted, as per the flaming sphere spell, by casting this rune as a higher level spell.</span><script type="math/tex">You may increase the damage inflicted, as per the flaming sphere spell, by casting this rune as a higher level spell.</script></span></p>
+<p>Material Component: Casting a rune of power requires the sacrifice of a gemstone of some quality. Ornamental gemstones are required for effects of up to 3<sup>rd</sup> level, and semiprecious for higher levels than that. There are thought to be runes or techniques for casting a rune of power with precious stones that may imbue them with greater power or even permanency, but those secrets may be lost.</p>
+<p>Scatterspray</p>
+<p>1<sup>st</sup>-level transmutation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: 60 ft</p>
+<p>Duration: 1 round</p>
+<p>Choose a point within range that has a number of small, unsecured objects - rocks, marbles, dinnerware, caltrops and the like. There is a sudden flash from the center of those objects, which go flying in all directions, literally rebounding back into the field when they hit the edge of the spell&rsquo;s effect, filling it with flying projectiles. Each creature <span><span class="MathJax_Preview">other than the caster himself</span><script type="math/tex">other than the caster himself</script></span> in a 10-foot-radius cloud centered on that spot must make a Dexterity saving throw or take 1d4 bludgeoning damage. Spellcasters caught in the area must make a Constitution save for suffering from severe distractions. The caster may also choose non-injurous articles, such as fruit, eggs or rag dolls, which fly around as normal, but inflict no damage.</p>
+<p>Material Component: The material components of the spell are the items themselves and a flint and steel or tinderbox.</p>
+<p>Scintillating Sphere</p>
+<p>3<sup>rd</sup>-level evocation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: 150 ft</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">copper shavings and a silver of amber</span><script type="math/tex">copper shavings and a silver of amber</script></span></p>
+<p>Duration: Instantaneous</p>
+<p>A darting streak of lightning flashes from your pointing finger to a point you choose within range and then rapidly expands in all directions into a sphere of arcing blue-white electrical bolts. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 lightning damage on a failed save, or half as much damage on a successful one. The electricity spreads around corners.</p>
+<p>At Higher Levels. When you cast this spell using a spell slot of 4<sup>th</sup> level or higher, the damage increases by 1d6 for each slot level above 3<sup>rd</sup>.</p>
+<p>Seasight</p>
+<p>2<sup>nd</sup>-level divination</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">eye of a sea creature</span><script type="math/tex">eye of a sea creature</script></span></p>
+<p>Duration: 8 hours</p>
+<p>You touch a willing creature to grant it the ability to see through water. For the duration, that creature has darkvision 60 feet while underwater, can see twice as far as the water’s visibility would normally allow, and suffers no penalties for making attacks in or into the water with a piercing or slashing weapon. In addition, the target can see through fog and mist <span><span class="MathJax_Preview">even magical varieties</span><script type="math/tex">even magical varieties</script></span> without penalties <span><span class="MathJax_Preview">though without the benefits of darkvision granted by this spell</span><script type="math/tex">though without the benefits of darkvision granted by this spell</script></span>.</p>
+<p>Shadow Bolt</p>
+<p>3<sup>rd</sup>-level illusion</p>
+<p>Casting Time: 1 action</p>
+<p>Range: 90 ft</p>
+<p>Components: V, S</p>
+<p>Duration: 1 round</p>
+<p>You select a target within the spell&rsquo;s range. This target suddenly perceives a small mote of darkness that quickly grows larger, appearing as though it were coming from some far distance behind you. It rushes in with a frightening moaning sound and rushing of air during the round in which it is cast. It does not strike the target until the end of the target&rsquo;s next turn. Like a magic missile, this projectile strikes unerringly, even following the target around corners.</p>
+<p>When this spell is cast, the target is permitted a Wisdom save against your spell save DC. If the target fails this save, the target believes that the attack has come from somewhere else, and receives 5d8 psychic damage when struck, and falls prone. If the save is successful, the target takes half damage and comprehends the true source of the spell.</p>
+<p>At Higher Levels.&rsquo; When you cast this spell using a spell slot of 4<sup>th</sup> level or higher, its damage is increased by 1d8 ft for every level above the 3<sup>rd</sup>.</p>
+<p>Shadow Skeleton</p>
+<p>4<sup>th</sup>-level illusion</p>
+<p>Casting Time: 1 action</p>
+<p>Range: 120 ft</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">piece of bone</span><script type="math/tex">piece of bone</script></span></p>
+<p>Duration: Concentration, up to 1 minute</p>
+<p>You create a small cluster of three skeletons that are semi-real phantasms. They can be of any appearance you wish for them, though they always appear as skeletal humanoids. They cannot be turned, and though they appear solid, they are not. As a bonus action, you can impel any number of your skeletons to attack a target. This attack uses your spell attack bonus, and if successful causes the skeleton to pass through the target, inflicting 2d6 necrotic damage. Additionally, a target must make a Constitution save against your spell DC or take the Stunned Condition until the end of its next turn.</p>
+<p>The skeletons have an AC 14, and though they do not take damage, any successful attack against them forces the caster to make a concentration check to avoid the spell being disrupted. If this damage is radiant, the concentration check is made at disadvantage.</p>
+<p>Snilloc&rsquo;s Snowball</p>
+<p>1<sup>st</sup>-level evocation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: 120 ft</p>
+<p>Components: V, S</p>
+<p>Duration: Instantaneous</p>
+<p>You create a mystical snowball in your hand, which is thrown immediately. It strikes automatically <span><span class="MathJax_Preview">as a magic missile - the snowball is considered a magic missle with regards to its interaction with effects or spells that affect them</span><script type="math/tex">as a magic missile - the snowball is considered a magic missle with regards to its interaction with effects or spells that affect them</script></span>, inflicting 1d3 cold damage, or 1d6 damage against fiery creatures. Snillocs snowball is considered by most mages to be a lesser form of magic missile, though it has the advantage in range at higher levels <span><span class="MathJax_Preview">as opposed to multiple strikes</span><script type="math/tex">as opposed to multiple strikes</script></span> and can be directed against an object as well as a creature. It is also more effective against firey creatures.</p>
+<p>At Higher Levels: When you cast this spell using a spell slot of 2<sup>nd</sup> level or higher, its range is increased by 20 ft for every level above the first.</p>
+<p>Spell Phylactery</p>
+<p>5<sup>th</sup>-level transmutation</p>
+<p>Casting Time: 10 minutes</p>
+<p>Range: Touch</p>
+<p>Components: V, S</p>
+<p>Duration: Permanent until triggered or wears away</p>
+<p>You imbue a spell scroll with a set of conditions that will trigger the casting of that spell scroll automatically. The spell on the scroll must be one that affects your person, and cannot be higher than 2<sup>nd</sup> level.</p>
+<p>The conditions that trigger the spell must be clear, although they can be as specific or general as the caster wishes. Only phenomenon which the caster can perceive are viable triggering phenomenon, even if the caster is not aware of them at the time of triggering.</p>
+<p>These scrolls must be worn around the head or wrists, often by creating small boxes or folded cloth around the paper scroll proper. As such, you can only wear up to three such phylacteries, and you of course may not be wearing other items at head and wrists. This spell remains in place for up to 24 hours after the phylactery is removed; if it is not put back on before then, the magic dissipates.</p>
+<p>At Higher Levels. When you cast this spell using a spell slot of 6<sup>th</sup> level or higher, increase the level of the spell that can be on the scroll to 3<sup>rd</sup> level with a 6<sup>th</sup> level spell slot, and one more level for every other level of spell slot thereafter <span><span class="MathJax_Preview">so 3rd for a 6th level spell slot, 4th for a 7th level spell slot, and 5th for a 9th level spell slot</span><script type="math/tex">so 3rd for a 6th level spell slot, 4th for a 7th level spell slot, and 5th for a 9th level spell slot</script></span>.</p>
+<p>Gods Granted: Any with the Arcana, Knowledge, or Logos Domains.</p>
+<p>Spell Shield</p>
+<p>3<sup>rd</sup>-level abjuration</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Components: V, S</p>
+<p>Duration: 1 minute</p>
+<p>This spell protects the target of the spell from all magic in the following ways:</p>
+<p>Target gains advantage on saves against all spells;</p>
+<p>Target is immune to all illusion and enchantment spells of 2<sup>nd</sup> level or lower</p>
+<p>The shield generates a pool of 25 points of damage. Half of all magical damage is taken by the shield instead. The spell ends if this damage pool is depleted.</p>
+<p>At Higher Levels. If this spell is cast using a higher level spell slot, the defended target is rendered immune to illusion and enchantment spells of the level below that for the duration of the protection, and the pool of absorbed damage is increased by 10 per level above 3<sup>rd</sup>.</p>
+<p>Spellmantle</p>
+<p>6<sup>th</sup>-level abjuration</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Components: V, S</p>
+<p>Duration: Concentration, up to 2 hours</p>
+<p>You place a magical aura around the target of the spell, a single creature that must be touched as the spell is cast. As part of casting, you may designate any combination of warded or activated spells.</p>
+<p>Warded spells are spells of 4<sup>th</sup> level or lower that you can prepare <span><span class="MathJax_Preview">wizards may choose any spell in their spell books, for instance</span><script type="math/tex">wizards may choose any spell in their spell books, for instance</script></span> that you wish to protect the target from. When the target of the spell is subject to one of the designated spells, the spellmantle absorbs the incoming spell&rsquo;s energy completely without any action.</p>
+<p>Activated spells are spells of 4<sup>th</sup> level or lower that you currently know or have prepared that will be cast on the target when a warded spell of at least equal level is absorbed. This spell is cast on the target of the spell as a reaction, triggered by the absorption of a warded spell. Activated spells may even be spells with a Range of Self, allowing the subject of the spell to receive spells a caster couldn&rsquo;t normally cast on them. Warded spells cannot be used to trigger activated spells higher in level than the warded spell.</p>
+<p>For example, Evendur casts spellmantle on Glim. He chooses fireball and lightning bolt as the warded spells, and blink and magic weapon as the activated spells. When Glim is targeted by a fireball or a lightning bolt, she may choose - as a reaction - to immediately be targeted by a casting of blink or magic weapon.</p>
+<p>At Higher Levels. When you cast this spell using a spell slot of 7<sup>th</sup> or higher level, gain one additional spell to your allotment of spells that can be designated as warded or activated spells for each spell level beyond the 6<sup>th</sup>. Additionally, the spells&rsquo; maximum level becomes two less than the spell slot used, rather than 4<sup>th</sup>.</p>
+<p>Stars of Mystra</p>
+<p>4<sup>th</sup>-level conjuration</p>
+<p>Casting Time: 1 action</p>
+<p>Range: 60 ft.</p>
+<p>Components: V, S</p>
+<p>Duration: 1 hour</p>
+<p>You create six twinkling stars that orbit your head like ioun stones, casting light in a 10&rsquo; radius, and dim light out another 10&rsquo;. Beginning on the turn you cast the spell, you can launch one star as a bonus action at a target you designate within range, making a spell attack roll to hit.</p>
+<p>Each time a target is struck by a star, they must make a Charisma save at your spell save DC or lose a 4<sup>th</sup> level spell slot as if the target had used it to cast a spell. If the target has no 4<sup>th</sup>-level spell slots, they lose a spell slot of their next highest spell level. If they have no spell slots of 1<sup>st</sup> through 4<sup>th</sup> levels, the star instead inflicts 2d4 radiant damage and bursts in a distinctive way, communicating this fact to you.</p>
+<p>Gods Granted: Mystra, Azuth</p>
+<p>Storm Imbuement</p>
+<p>1<sup>st</sup>-level evocation</p>
+<p>Casting Time: 1 bonus action</p>
+<p>Range: Self</p>
+<p>Components: V, S</p>
+<p>Duration: 1 round or until activated</p>
+<p>Rather than constantly reverse engineer damaging evocations into the lightning magics he favored, Rogaster Stormson <span><span class="MathJax_Preview">considered "ingeniously lazy" by Wyara's margin notes</span><script type="math/tex">considered "ingeniously lazy" by Wyara's margin notes</script></span> developed this spell. When cast, it creates a field of unseen magic that transmutes the next spell cast by the caster which creates damaging magic. As that second spell is cast, it transmutes the damage type of the second spell to lightning, replacing whatever the original damage type is. This spell is explicitly exempt from the normal limitations around casting two non-cantrip spells in the same action. If the caster does not follow up the casting of this spell with another damaging spell, its effects end by the end of the next turn, the spell slot spent and the magic wasted.</p>
+<p>Sunbolt</p>
+<p>2<sup>nd</sup>-level evocation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: 120 feet</p>
+<p>Components: V, S</p>
+<p>Duration: Instantaneous</p>
+<p>A ray of burning sunlight springs from your hand. Make a ranged spell attack to hit your target. A creature struck by the bolt takes 3d8 radiant damage and must make a Dexterity save. On a failed save, the target is also blinded for 1 round. Creatures with sunlight-based limitations take double damage as though they possessed a Damage Vulnerability to radiant damage.</p>
+<p>At Higher Levels. When you cast this spell using a spell slot of 3<sup>rd</sup> level or higher, the duration of blindness is increased by 1 round for each slot level above 2<sup>nd</sup>.</p>
+<p>Tasso&rsquo;s Shriek</p>
+<p>1<sup>st</sup>-level illusion</p>
+<p>Casting Time: 1 bonus action</p>
+<p>Range: 60 yards</p>
+<p>Components: V or S</p>
+<p>Duration: Instant</p>
+<p>This spell creates an audible sound centered anywhere within the spell&rsquo;s range. This limits on this spell&rsquo;s manifestation is that it must be a sound the caster is himself capable of making - all spoken voices will be those of the caster <span><span class="MathJax_Preview">although skilled vocal mimics can be very effective in this regard</span><script type="math/tex">although skilled vocal mimics can be very effective in this regard</script></span>. Targets distracted by these sounds are permitted an Intelligence save to not fall for the illusion. The spell is unusual, in that it can be cast with solely a vocal or somatic component, making it a favorite spell for those who are hidden or those who are tied up.</p>
+<p>Teleport Object</p>
+<p>3<sup>rd</sup>-level alteration</p>
+<p>Casting Time: varies</p>
+<p>Range: Touch</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">a brass key</span><script type="math/tex">a brass key</script></span></p>
+<p>Duration: Instant</p>
+<p>This spell involves the magical teleportation of objects to a prepared receptacle for them. This spell is cast in one of three ways, depending on the purpose of the spell.</p>
+<p>Prepare Receptacle. With this, the caster prepares a receptacle to hold items that he sends into it. It is, in effect, the creation of a &ldquo;landing pad&rdquo; for those items, and without at least one such receptacle, the other versions of the spell cannot be cast at all. This casting has a longer Casting Time than normal, taking 1 minute to enchant a container the size of a small chest, 10 minutes to enchant a large chest or crate, 1 hour to enchant a cabinet or wardrobe, and 10 hours to enchant a small room, of a maximum of 20&rsquo; x 20&rsquo; in size. A caster may have one such receptacle per point of his Proficiency Bonus. The casting of this spell burns a circular rune-pattern similar to those created by the teleportation circle spell, but on a smaller scale. These patterns are often hidden on the object or room, for if another caster with access to this spell learns the pattern, he may choose to make that receptacle one of his own with a simple casting of this spell.</p>
+<p>Banish Item. This has a Casting Time of 1 action. With it, the caster may banish any single item of 10 pounds or less to one of his prepared receptacles, as long as that item will conceivably fit in it. The item must be held by the caster when he casts it, and no one may be contesting his physical possession of it at the time. A bag or container can be banished as a single item, and all its contents will transfer, as long as it does not weigh more than 10 pounds. Items that themselves contain extradimensional space <span><span class="MathJax_Preview">such as bags of holding</span><script type="math/tex">such as bags of holding</script></span> cannot be affected by this spell.</p>
+<p>Summon Item. This has a Casting Time of 1 action. With it, the caster may summon any single item of 10 pounds or less from one of his prepared receptacles. The caster must know that the item is in that receptacle, and the item appears in his hand, which must be free and unbound to cast the spell.</p>
+<p>At Higher Levels: When this spell is cast at higher levels, it increases the weight and/or number of items that may be summoned or banished. <span><span class="MathJax_Preview">It has no effect on the Prepare Receptacle function of this spell.</span><script type="math/tex">It has no effect on the Prepare Receptacle function of this spell.</script></span> At 4<sup>th</sup> level, the spell may affect up to two items of no more than 20 lbs in total weight. For each spell level thereafter, the spell may affect one additional item, and 10 additional pounds, allowing a 6<sup>th</sup> level casting of the spell to affect four items of up to 40 total lbs, as an example.</p>
+<p>Wardaway</p>
+<p>1<sup>st</sup>-level evocation</p>
+<p>Casting Time: Swift action, or Reaction</p>
+<p>Range: 60 feet</p>
+<p>Components: V, S</p>
+<p>Duration: 2 rounds</p>
+<p>You hurl a small, shimmering sphere of twisting magical force at a single opponent in range, striking them unerringly and inflicting a -1 penalty to all attack rolls during the duration of the spell. The character also goes last in initiative order during that time as well. Additionally, the target must make a Wisdom save. Failure on this check inflicts 1d4+4 force damage to the target.</p>
+<p>This spell is cast as a Swift action. The spell may be cast as a Reaction if an enemy charges. If the target fails the Wisdom save, not only do they take damage, but their charge is interrupted and they must stop movement after half of their movement has been completed in the charge.</p>
+<p>Water Form</p>
+<p>7<sup>th</sup>-level transmutation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Self</p>
+<p>Components: V, S</p>
+<p>Duration: Concentration, up to 1 hour</p>
+<p>You turn into an amorphous puddle of water that resembles an ooze. Your water form uses all of your ability scores, but has 40 hit points and AC 13 + your Dexterity modifier. You revert back to your original form if reduced to 0 hit points. While in water form you are invisible if you are in water <span><span class="MathJax_Preview">whether a body of water, a puddle, or a wet surface</span><script type="math/tex">whether a body of water, a puddle, or a wet surface</script></span>, you gain resistance to slashing, bludgeoning, and piercing damage, you are immune to cold damage and the prone condition, and are restrained until the end of your next turn if you would take cold damage. You may squeeze through tiny openings as small as one inch without penalty. You retain your normal vision and speed, but gain a swim speed equal to your normal movement. You may not attack or cast spells as an amorphous puddle of water. As an action, however, you may cause your watery form to become humanoid, which resembles your normal shape, or revert from humanoid shape to a puddle. While in humanoid form you can talk, attack, cast spells, etc., though you are visible unless completely immersed in water.</p>
+<p>At Higher Levels. When you cast this spell with a spell slot of 8<sup>th</sup> level or higher, your watery form gains an additional 20 hit points per slot level used over 7<sup>th</sup>.</p>
+<p>Wind Carpet</p>
+<p>5<sup>th</sup>-level evocation</p>
+<p>Casting Time: 1 action</p>
+<p>Range: Touch</p>
+<p>Components: V, S, M <span><span class="MathJax_Preview">a scrap of cloth</span><script type="math/tex">a scrap of cloth</script></span></p>
+<p>Duration: 1 hour</p>
+<p>You call forth a 3 ft. × 5 ft. carpet of flying <span><span class="MathJax_Preview">see DMG page 157</span><script type="math/tex">see DMG page 157</script></span> made of glowing force that only the target can control. The carpet emits dim light in a 10-foot radius. You can dismiss the spell as a free action on your turn or as a reaction.</p>
+<p>At Higher Levels. If you cast this spell using a spell slot of 6<sup>th</sup> level or higher, you may increase the carpet’s dimensions up to 4 ft. × 6 ft. using a 6<sup>th</sup> level slot, 5 ft. × 7 ft. using a 7<sup>th</sup> level slot, or 6 ft. × 9 ft. using an 8<sup>th</sup> level slot.</p>
+<p>Bestial Form
+3<sup>rd</sup>-level transmutation
+Secret Spell: Faithful of Saluwé or val’Dellenov bloodline
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 1 hour
+With a whisper, you transform yourself into a primal 
+humanoid, summoning forth the aspects of several beasts 
+and incorporating them into your physical form. For the 
+duration, you gain the following benefits:
+   Animal Endurance: You have advantage on all 
+Constitution saving throws to maintain concentration on 
+your spells.
+   Bestial Traits: You gain one of the traits from the 
+following list: 
+• Eyes of the Eagle: You gain advantage on all Wisdom 
+(Perception) skill checks that rely on sight.
+• Ferocity of the Tiger: When you take the Attack 
+action you can make an extra attack with your natural 
+weapon as a bonus action.<br />
+• Hide of the Boar: You possess natural armor class </p>
+<p>of 12 + proficiency bonus + your spellcasting ability 
+modifier.
+• Might of the Bear: You gain 2d6 temporary hit 
+points, which are lost when the spell ends.
+• Nose of the Wolf: You gain advantage on all Wisdom 
+(Perception) skill checks that rely on smell scent. 
+• Swiftness of the Cat: Your base speed increase by 10 
+feet. 
+   Natural Weapons: You grow claws, fangs, spines, horns, 
+or a different natural weapon of your choice and you 
+gain proficiency with whatever you choose. Your natural 
+weapons are magical and deal 1d6 slashing, bludgeoning 
+or piercing damage. You must choose the type of damage 
+dealt when you cast this spell and you cannot change it 
+unless you cast this spell again.
+At Higher Levels: When you cast this spell using a spell 
+slot of 4<sup>th</sup> level or higher, you may choose an additional 
+Bestial Trait for each level slot above 3<sup>rd</sup>. You cannot 
+choose the same trait more than once.</p>
+<p>Ebon Blade
+Conjuration cantrip
+Secret Spell: Elder Tradition 
+Casting Time: 1 bonus action 
+Component: V, S 
+Range: Self 
+Duration: 1 minute
+You conjure forth a blade of dark, crackling energy. Your 
+blade can take the form of any simple or martial weapon 
+with a blade that doesn’t have the heavy or two-handed 
+property. 
+For the duration, you can use your spellcasting 
+ability instead of Strength for attack and damage rolls 
+you make with your blade. Your ebon blade deals 1d8 
+slashing damage and counts as magical for the purpose of 
+overcoming resistance and immunity to nonmagical attacks 
+and damage. The spell ends if you cast it again or if you 
+release the blade, causing it to instantly dissipate.</p>
+<p>Empowered Strike
+Evocation cantrip
+Casting Time: 1 action 
+Component: V, M (a weapon) 
+Range: 5 feet 
+Duration: Instantaneous
+You envelop your weapon with energy that empowers your 
+strike and it slams into an adjacent foe. As part of casting 
+this spell, make a melee weapon attack against one creature 
+within range, otherwise the spell fails. On a hit, the target 
+suffers the attack’s normal effects, and crackling black force 
+leaps from the target to a different creature of your choice 
+that you can see within 5 feet of it. The second creature takes 
+force damage equal to your spellcasting ability modifier.
+This spell’s damage increases when you reach higher 
+levels. At 5<sup>th</sup> level, the melee attack deals an extra 1d8 
+force damage to the target, and the force damage to the 
+second creature increases to 1d8 + your spellcasting ability 
+modifier. Both damage rolls increase by 1d8 at 11<sup>th</sup> level 
+and 17<sup>th</sup> level.</p>
+<p>Resonant Blade Strike
+Evocation cantrip
+Secret Spell: Eldritch Tradition 
+Casting Time: 1 action 
+Components: V, M (a weapon) 
+Range: 5 feet 
+Duration: Instantaneous</p>
+<p>You sheath your blade in humming energy that is 
+violently released when you strike. As part of the action 
+used to cast this spell, you must make a melee attack with 
+a weapon against one creature within the spell’s range, 
+otherwise the spell fails. On a hit, the target suffers the 
+attack’s normal effects, and all other creatures within 
+5 feet of you must make a Dexterity saving throw or 
+take thunder damage equal to your spellcasting ability 
+modifier.
+This spell’s damage increases when you reach higher 
+levels. At 5<sup>th</sup> level, the melee attack deals an extra 1d6 
+thunder damage to the target, and the thunder damage 
+to the other creatures increases to 1d6 + your spellcasting 
+ability modifier. Both damage rolls increase by 1d6 at 
+11<sup>th</sup> level and 17<sup>th</sup> level. </p>
+<p>Smith’s Hammer 
+Evocation cantrip
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+A beam of crackling force streaks toward a construct or 
+unattended object within range. Make a ranged spell 
+attack against the target. On a hit, the target takes 1d10 </p>
+<p>Arc anis 5e • Chap ter 6: Magic 282</p>
+<p>force damage, which bypasses any damage resistance or 
+immunities. 
+This spell’s damage increases by 1d10 when you reach 5<sup>th</sup> 
+level (2d10), 11<sup>th</sup> level (3d10), and 17<sup>th</sup> level (4d10). </p>
+<p>Spiritcraft
+Transmutation cantrip
+Casting Time: 1 action 
+Range: 30 feet 
+Components: V, S 
+Duration: Instantaneous
+Whispering to the spirits, you create one of the following 
+effects within range: 
+• Spirits of wind and rain whisper to you what the 
+weather will be at your location for the next 24 hours. 
+• You whisper to the spirit of a tree or plant to instantly 
+make a flower blossom, a seed pod open, or a leaf bud 
+bloom. 
+• You whisper to a lesser spirit to create an instantaneous, 
+harmless sensory effect, such as falling leaves, a puff of 
+wind, the sound of a small animal, or the faint odor of 
+skunk. The effect must fit in a 5-foot cube. 
+• You whisper to a lesser spirit of flame to instantly light 
+or snuff out a candle, a torch, or a small campfire.
+• If you have the Boon feature you can create harmless 
+sensory effects as appropriate to that spirit, such as the 
+loud howl of a wolf.
+Rapid Armament
+Prerequisite: Elder Sorcerer Tradition: Magi When you cast ebon blade (or any spell which summons an ebon blade, such as witch blade) or invoke your Ebon Armor class feature, you may spend 1 arcane point to cast either ebon shield or false life as part of the same action. You can use Rapid Armament even if you have already used a different Metamagic option during the casting of the spell.
+Circle of Elemental Focus
+When you cast any spell that deals an elemental damage type, you may spend 1 arcane point to create a circle of crackling elemental energy of that same damage type at your feet. This circle remains stationary for 1 minute. As long as you are standing within the circle any spell you cast of the same elemental damage type deals additional damage equal to your spell casting attribute modifier (minimum of one). If you choose to create another circle of elemental focus while one is still active that circle dissipates as you enact a new one.
+Elemental Admixture
+Prerequisite: Elorii
+When you cast any spell that deals an elemental damage type you may spend 1 arcane point to change half of the spell’s damage type to the damage type akin to your elemental bloodline. For example, if you cast a fireball and are an Osalikene (Bloodline of Air) you may spend 1 arcane point to change half of the damage dealt to lightning damage.
+SP€LL Lists
+Spells marked with f are found in the Arcanis 5e Campaign Setting and spells marked with a * are new spells found later in this chapter
+Elder Sorcerer Spell List
+IST LEVEL SPELLS Earth-Spikes*
+Ebon shield*
+Witch Blade*
+3RD LEVEL SPELLS
+Inner Sprit*
+5TH LEVEL SPELLS
+Elemental Crown*
+6TH LEVEL SPELLS Cloak of Life*
+Elemental Soul*
+Elder Warlock Spell List
+CANTRIPS (O LEVEL)
+Dancing Lights Ebon bladej Empowered Strikej Light
+Mage Hand Minor Illusion Poison Spray Prestidigitation Spell-Bane Bladej True Strike
+IST LEVEL
+Charm Person Color Spray
+Comprehend Languages Detect Magic Disguise Self Elemental Rebuke*
+Expeditious Retreat Illusory Script
+Protection from Evil and Good Unseen Servant
+2ND LEVEL
+Alter Self
+Blindness/Deafness Call to Armsj Darkness Enhance Ability Forceful Repositioning^ 
+Hold Person
+Invisibility
+Mirror Image
+Misty Step
+Ray of Enfeeblement
+Shatter
+Silence
+Slip Sidewaysj Spider Climb Suggestion Web
+3RD LEVEL
+Counterspell
+Daylight
+Dispel Magic
+Fear
+Fly
+Hypnotic Pattern Inner Spirit*
+Magic Circle Major Image Phantom Steed Protection from Energy Tongues Vampiric Touch
+4TH LEVEL
+Arcane Eye
+Banishment
+Black Tentacles
+Conjure Minor Elementals
+Dimension Door
+Fabricate
+Greater Invisibility Stoneskin
+5TH LEVEL
+Conjure Elemental Contact Other Plane Dream
+Elemental Crown*
+Hold Monster Insect Plague Mind Fogj Planar Binding Scrying
+Scrying Inscription^
+6TH LEVEL
+Circle of Death Contingency Disintegrate Elemental Soul*
+Eyebite
+Globe of Invulnerability Guards and Wards Instant Summons Irresistible Dance Magic Jar Mass Suggestion</p>
+<p>Programmed Illusion Repulsion^
+Sunbeam True Seeing
+7TH LEVEL
+Etherealness Finger of Death Forcecage
+Magnificent Mansion Plane Shift Prismatic Spray Project Image Sequester S,mbol
+8TH LEVEL
+Antimagic Field
+Antipathy/Sympathy
+Clone
+Demiplane
+Dominate Monster
+Feeblemind
+Maze
+Mind Blank Power Word Stun Sunburst
+9TH LEVEL
+Foresight
+Gate
+Imprisonment
+Implosion!
+Power Word Kill Prismatic Wall Shapechange Time Stop True Polymorph Weird
+New Spells Cloak of Life
+6<sup>th</sup>-level transmutation (ritual)
+Casting Time: 10 minutes Range: self Components: V, S Duration: 24 hours
+Created by the Archmage Telas for his travels through the Inner Realms, this spell weaves a protective cocoon of life- sustaining energy around the caster.
+While this spell is active, you are sustained without air and become immune to all damaging effects from environments while on planes of existence other than Arcanis. For example, you would be immune to damage from the incredible water pressures in the realm of the Crushing Deep. 
+While you are immune from environmental effects, they are not necessarily immune to all environmental hazards. For example, if traversing the Realm of the Burnished Flame, you could withstand the intense heat of the environment without taking damage. But, if a volcanic geyser were to throw him into the air, he would still take falling damage as normal.
+At Higher Levels. When you cast this spell using a spell slot of 7<sup>th</sup> level or higher, you may affect one other creature within 10 feet of you for every spell level slot above the 6<sup>th</sup>.
+Earth-Spikes
+1<sup>st</sup> level Evocation Secret Spell: Marokene Elorii Casting Time: 1 action Range: Self (15-foot cube)
+Components: V, S Duration: Instantaneous
+A seismic force emanates from you causing spikes of stone to erupt from the earth. Each creature in a 15- foot cube originating from you and which must extend at least five feet into solid ground (i.e. not aboard a ship, while flying or on the sea) must make a Dexterity saving throw. On a failed save, a creature takes 2d8 piercing damage from the spikes and is knocked prone by the tremor. On a successful save, the creature takes half as much damage and isn’t knocked prone.
+In addition, any buried objects less than five feet beneath the earth and completely within the area of effect are automatically uncovered and brought to the surface.
+At Higher Levels:When you cast this spell using a spell slot of 2<sup>nd</sup> level or higher, the damage increases by 1d8 for each slot above 1<sup>st</sup>.
+Ebon Shield
+1<sup>st</sup>-level evocation
+Secret Spell: Elder Sorcerer Tradition: Magi
+Casting Time: 1 bonus action
+Range: self
+Components: V, S
+Duration: 1 minute
+You summon forth a small disk of dark cracking energy. This disk floats in front of you, defending you from incoming attack.
+You may only cast this spell if you are not wearing armor or wielding a shield. For the spell’s duration you gain your spellcasting attribute bonus to your Armor
+Class. This spell instantly ends if you ready a shield or don armor.
+While this spell is active, if you are successfully damaged by a creature within 5 feet you my use your reaction to shatter your shield forcing that creature make a Dexterity saving throw. It takes 3d6 thunder damage on a failed save, or half as much damage on a successful one, ending the spell.
+At Higher Levels. When you cast this spell using a spell slot of 2<sup>nd</sup> level or higher, the damage increases dealt by shattering your shield increases by 1d6 for each slot level above 1<sup>st</sup>.
+Elemental blast
+Evocation Cantrip
+Secret Spell: Elder Warlock
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, 1 minute
+Reaching deep within yourself you bring forth your
+elemental nature with devastating results.
+A beam of crackling elemental energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 damage of a type determined by the caster’s Ancient Pact (see the Ancient Pacts section on page 8).
+The spell creates more than one beam when you reach higher levels; two beams at 5<sup>th</sup> level, three beams at 11<sup>th</sup> level, and four beams at 17<sup>th</sup> level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam
+Elemental Crown
+5<sup>th</sup>-level evocation
+Casting Time: 1 action
+Range: self
+Components: V, S
+Duration: Concentration, 1 minute
+Gathering an element close at hand you forge it into a
+crown that floats inches above your head.
+Choose one of the elemental damage types (Acid, Lightning, Fire, or Cold); you must have access to some of the element (an open flame or standing next to a puddle of water) or be a spell focus for the appropriate elemental type to use that particular element.
+As long as this spell is active, any spell you cast that deals the same damage type as your crown is cast as if you had used a spell slot one level higher. Additionally, 
+Duration: Instantaneous As a reaction taken in response to being damaged by a creature within 60 feet of you that you can see, you summon the element associated with your Ancient Pact to engulf the creature that damaged you. The creature must make a Dexterity saving throw. It takes 2d10 damage of the same type as your Ancient Pact defines for your elemental blast (see the Ancient Pacts section on page 8).
+At Higher Levels: When you cast this spell using a spell slot of 2<sup>nd</sup> level or higher, the damage increases by 1d10 for each slot level above 1<sup>st</sup>.
+Elemental Soul
+6<sup>th</sup>-level evocation
+Secret Spell: Elorii Only
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, 1 minute
+With a few arcane words you bring forth
+and enhance your elemental nature,
+empowering it for a short time.
+Ardakene (Life): Your body begins to rapidly regenerate, become immune to radiant damage. Additionally, for the duration of the spell you regain 5 hit points at the beginning of every turn (50 hit points per minute).</p>
+<p>Berokene (Water): You gain some of the properties of water. You gain immunity to bludgeoning damage and resistance to slashing and piercing damage. Additionally, if swimming your base swim speed is increased by 30 feet.
+Kelekene (Fire): You become an avatar of destruction. All melee, ranged, and spells that deal damage have that damage increased by an additional 1d6 fire damage, regardless of the spell’s or effect’s initial damage type. Additionally, while under the effects of this spell you may cast firebolt as a bonus action.
+Marokene (Earth): You gain some of the qualities of earth. You gain immunity to piercing damage and resistance to bludgeoning and slashing damage. Additionally, while standing upon solid earth any attempt to shove you automatically fails. 
+Osalikene (Air): You gain some of the qualities of air. You gain immunity to slashing damage and resistance to bludgeoning and piercing damage. Additionally, you may use your bonus action to jump 30 feet and are immune to damage caused by falling, regardless of the distance fallen.
+Fist of the Crushing Deep
+3<sup>rd</sup>-level evocation
+Secret Spell: Elder Warlock, Elorii only.
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, 1 minute
+The caster invokes the Vizier of the Mad King to allow
+one of his favorite spells to form in the petitioner’s mind.
+The spell manifests a giant fist made of water, as an action you may use it to do one of two things.</p>
+<p>•    Smashing Fist of the Deep: You may have it attack a single creature within range, dealing 3d10 + your spell casting modifier doing bludgeoning damage.
+•   The Crushing Fist of the Deep: Alternately, you may choose to use it to grab and crush a single creature. That creature must make a Dexterity saving throw or become restrained suffering 3d8 bludgeoning damage. At the beginning of each of its turns, the target can make Strength saving throw. If they fail this saving throw they suffer an additional 3d8 bludgeoning damage.
+On a successful save, they break free of the spell, ending it by causing the fist to burst into a shower of water.
+At Higher Levels. When you cast this spell using a spell slot of 4<sup>th</sup> level or higher, the damage increases by 1 damage die (either d10 or d6 respectively) for each slot level above 3<sup>rd</sup>. </p>
+<p>Inhale </p>
+<p>4<sup>th</sup>-level evocation
+Secret Spell: Elder Warlock, Elorii only. Casting Time: 1 action Range: Self (30 foot cone)
+Components: V, S
+Duration: Instantaneous
+The Seneschal temporarily grants the summoner
+the ability to cast this spell. The caster then
+positions herself before her foes and begins to
+inhale, drawing in all the air within the affected
+area.
+You take in an imposable amount of air forcing all creatures within a 30 foot cone to make a Strength Saving throw. Creatures which fail their saving throw suffer 7d6 bludgeoning damage as they are forced prone and roll 10 feet closer to you. Creatures who succeed in their saving throw only suffer half damage and remain standing but are still moved 5 feet closer to you. Flying creatures are especially susceptible to this spell and fall from the sky upon a failed saving throw, suffering additional falling damage.
+At Higher Levels. When you cast this spell using a spell slot of 5<sup>th</sup> level or higher, the damage increases by 1d6 for each slot level above 4<sup>th</sup>. 
+Inner Sprit
+3<sup>rd</sup>-level evocation Secret Spell: Elorii Only Casting Time: 1 action Range: Self (30-foot cone)
+Components: V, S
+Duration: Instantaneous
+Elorii possess an inner elemental spark, which they
+can tap and unleash to impressive effect.
+A burst of elemental energy erupts from your hands, each creature in a 30-foot cone must make a Dexterity saving throw. A creature takes 8d6 damage of the element corresponding to the elorii casting the spell, for example, an Osalikene would deal lightning damage, on a failed save, or half as much damage on a successful one.
+At Higher Levels. When you cast this spell using a spell slot of 4<sup>th</sup> level or higher, the damage increases by 1d6 for each slot level above 3<sup>rd</sup>.
+Mirage
+5<sup>th</sup>-level enchantment Secret Spell: Elder Warlock, Elorii only.
+Casting Time: 1 action Range: 30 feet
+Components: V, S, M (20gp in crushed diamonds)
+Duration: Concentration, up to 1 minute
+Once invoked, the Mistress of the Burning will allow one of her favorite spells to form in the summoner’s mind. The caster of this spell causes fevered delusions to appear in the mind of his victims.
+Select a single creature within range. That creature is forced to make a Wisdom saving throw of suffer 8d8 psychic damage as they see the object of their heart’s greatest desire (or most imminent need) in the distance.
+At the beginning of their next turn the affected creature will do nothing but move in a direction of your choosing, avoiding opportunity attacks if able, while they attempt to reach the object of their desire. If the creature suffers any damage the spell ends. Additionally, at the end of every turn the creature may attempt a new Wisdom saving throw to end the spells effect.</p>
+<p>Suckled by the Earth 5<sup>th</sup>-level evocation
+Secret Spell: Elder Warlock, Elorii only.
+Casting Time: 1 action Range: 30 feet
+Components: V, S, M (300gp in crushed precious stones)
+Duration: 6 Hours
+You cause the very plants of the earth to grow into the target, providing healing and nourishment.
+You may only cast this spell upon a willing creature within range that must be upon solid ground on which plants may grow (i.e. not aboard a ship, while flying or on the sea). The creature is instantly cocooned in plants that spring out of the ground enwrapping and protecting it from all harm. For the spell’s duration the target creature is unconscious but is immune from all damage. The cocoon cannot be moved by any means. A creature affected by this spell recovers a number of hit points equal to 5d8+your spellcasting 
+ability modifier, are cured of disease, and poison. Additionally, if that creature died within the last 4 hours, that creature is returned to life. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts.
+Witch Blade
+1<sup>st</sup>-level evocation
+Secret Spell: Elder Sorcerer Tradition: Magi
+Casting Time: 1 bonus action
+Range: self
+Components: V, S
+Duration: 10 minutes
+You summon forth a blade of pure darkness.
+With this spell you summon forth an enhanced ebon blade (as the spell, ebon blade in the Arcanis Campaign Setting, pg. 268). However, unlike its lesser version, your witch blade deals d8 damage or the equal the type of weapon you choose to manifest, whichever is greater, and acts as an arcane spell focus for the spell’s duration.
+Also, when you are the target of a harmful cantrip or spell cast using a 1<sup>st</sup> level spell slot that does not possess 
+an area of effect, you may, as a reaction, absorb that spell into the blade causing it to shatter, and ending the spell. When using your blade to absorb a spell, you may choose to either simply allow the spell to dissipate harmlessly or attempt to capture and store the power of that spell for your own use. Capturing a spell’s power in this way requires a successful intelligence saving throw against the caster’s spell save DC and you recover 1 arcane point. Upon failed saving throw you suffer the full effects of the spell, as if you were successfully hit with or failed the spells saving throw.
+At Higher Levels: When you cast this spell using a spell slot of 2<sup>nd</sup> level or higher, you may use the witch blade to absorb a spell cast with a spell level slot equal to or lower than the spell slot used.
+Wrath of Stone
+4<sup>th</sup>-level evocation
+Secret Spell: Elder Warlock, Elorii only. Casting Time: 1 action Range: Self (50-foot line)
+Components: V, S Duration: Instantaneous When invoked, Korred will allow one of his favorite spells to form in the summoner’s mind, allowing them to order spikes of stone erupt from the ground, impaling those who dare stand against them.
+With a wave of your hand you force spikes of stone the size of great swords to burst from the earth in a line 50 feet long and 5 feet wide out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw.
+A creature takes 8d6 piercing damage on a failed save, or half as much damage on a successful one. The wall of stone remains in place for 1 minute after which it crumbles to dust, leaving the earth below it undisturbed. Anyone wishing to cross the wall of spikes treats it as difficult terrain and must make another Dexterity saving throw or suffer 2d6 piercing damage.
+The wall is an object made of stone that can be damaged and thus breached. Each 5 foot section has an AC 13 and 20 hit points. Reducing section to 0 hit points destroys it creates a 5 foot wide safe passage though the wall.
+At Higher Levels. When you cast this spell using a spell slot of 5<sup>th</sup> level or higher, the damage increases by 1d6 for each slot level
+above IIIi. </p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2019 Palant и команда Киборгов и Чародеев
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/palikhov" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/AVPalikhov" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://linkedin.com/in/avpalikhov" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+          
+            
+              
+              
+                <script src="../../../assets/javascripts/lunr/lunr.ru.js"></script>
+              
+            
+          
+            
+              
+              
+            
+          
+          
+            <script src="../../../assets/javascripts/lunr/lunr.multi.js"></script>
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>
