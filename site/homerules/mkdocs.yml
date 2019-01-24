@@ -11,8 +11,9 @@ copyright: 'Copyright &copy; 2019 Palant и команда Киборгов и �
 
 nav:
     - Главная: index.md
+    - DM Resources:  docs\homerules\dm-resources.md
     - Домашние правила:
-      - Правила по созданию персонажей: homerules/character-creation.md
+      - Правила по созданию персонажей: dm-resources.md
       - Расы:
         - Шейд: homerules\races\shade.md
         - Фейри (демонфеи): homerules\races\feyri.md

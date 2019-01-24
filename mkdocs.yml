@@ -31,17 +31,17 @@ nav:
         - Чародей (Sorcerer): homerules/classes/sorcerer.md
         - Волшебник (маг): homerules/classes/wizard.md
         - Колдун (Warlock): homerules/classes/warlock.md
-      - Настраивая персонажа:
-        - Боевые стили: homerules/customizing/fighting-styles.md
-        - Языки: homerules/customizing/languages.md
-        - Навыки (feats): homerules/customizing/feats.md
-        - Боевые маневры: homerules/customizing/combat-maneuvers.md
+    - Настраивая персонажа:
+      - Боевые стили: homerules/customizing/fighting-styles.md
+      - Языки: homerules/customizing/languages.md
+      - Навыки (feats): homerules/customizing/feats.md
+      - Боевые маневры: homerules/customizing/combat-maneuvers.md
       - Заклинания: 
-          - Зачарование предметов: homerules/spells/item-enchanting-spells.md
-          - Кантрипы: homerules/spells/cantrips.md
-          - 3й круг заклинаний: homerules/spells/spells-3rd-lvl.md
-          - Общий список: homerules/spells.md
-      - Снаряжение: 
+         - Зачарование предметов: homerules/spells/item-enchanting-spells.md
+         - Кантрипы: homerules/spells/cantrips.md
+         - 3й круг заклинаний: homerules/spells/spells-3rd-lvl.md
+         - Общий список: homerules/spells.md
+     - Снаряжение: 
         - Снаряжение: homerules/equipment.md
         - Наркотики: homerules/equipment/drugs.md
         - Травы и гербализм: homerules/equipment/herbalism.md
@@ -64,17 +64,17 @@ nav:
         - Training: homerules/downtime-revisited/training.md
         - Work: homerules/downtime-revisited/work.md
         - Новые возможности в простое: homerules/downtime-activities.md
-      - Расширенные правила:
+    - Расширенные правила:
         - Расширенные правила: homerules/expanded_rules.md
         - Бой верхом: homerules/mounted-combat-expanded.md
-      - Дополнительные правила: homerules/additional-rules/additional_rules.md
-      - Разное: homerules/misc.md
-      - Расширенные правила по инструментам из XGE: 
+    - Дополнительные правила: homerules/additional-rules/additional_rules.md
+    - Разное: homerules/misc.md
+    - Расширенные правила по инструментам из XGE: 
           - Набор алхимика: homerules/tool-proficiencies/alchemists-supplies.md
           - Набор травника: homerules/tool-proficiencies/herbalism-kit.md
           - Набор отравителя: homerules/tool-proficiencies/poisoners-kit.md
-      - Разное: homerules/misc.md
-      - Правила для общей кампании:
+    - Разное: homerules/misc.md
+    - Правила для общей кампании:
         - Общее: shared_campaign/index.md
         - Потребность в игротеке: shared_campaign/needs_organized_play.md
         - Правила общей кампании: shared_campaign/shared_rules.md
