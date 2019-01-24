@@ -56,10 +56,27 @@ nav:
         - Использование частей тел чудовищ: homerules\equipment\monster-parts-harvesting.md
       - Волшебные предметы: homerules/magic-items.md
       - Ловушки: homerules/traps.md
-      - Деятельность между приключениями: homerules\downtime-activities.md
-      - Дополнительные правила: homerules/additional_rules.md
-      - Расширенные правила: homerules/expanded_rules.md
+      - Дикая природа:
+        - Случайные встречи и погода в Серебрянных пределах: homerules/environment/silver-marches.md
+      - Расширенные правила по простою из XGE:
+          - Исследования: homerules\downtime-revisited\research.md
+      - Новые возможности в простое: homerules\downtime-activities.md
+      - Измененные и расширенные правила:
+        - Дополнительные правила: homerules/additional_rules.md
+        - Расширенные правила: homerules/expanded_rules.md
+        - Бой верхом: homerules/mounted-combat-expanded.md
       - Разное: homerules\misc.md
+      - Расширенные правила по инструментам из XGE: 
+          - Набор алхимика: homerules\tool-proficiencies\alchemists-supplies.md
+      - Советы из старых редакци:
+          - Приключения в городах:
+          - Таблица встреч:
+          - Как придумать оборонительные силы города:
+          - Как держать партию вместе:
+          - Работа для авантюристов:
+      
+      
+      
     - Мультикампания:
         - Общее: shared_campaign/index.md
         - Потребность в игротеке: shared_campaign/needs_organized_play.md
@@ -131,8 +148,8 @@ markdown_extensions:
     - pymdownx.caret
     - pymdownx.critic
     - pymdownx.details
-    - pymdownx.emoji:
-          emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  #  - pymdownx.emoji:
+  #        emoji_generator: !!python/name:pymdownx.emoji.to_svg
     - pymdownx.inlinehilite
     - pymdownx.magiclink
     - pymdownx.mark

@@ -10,8 +10,6 @@
 
 ### Character History
 
-
-
 ### Character Traits
 
 **Ideals**
@@ -23,14 +21,9 @@
 \*\*\*\*
 
 ### **Knowledge**
-
 \*\*\*\*
 
 ### **Statblock**
-
 ### \*\*\*\*
 
 ### **DM Notes**
-
-
-

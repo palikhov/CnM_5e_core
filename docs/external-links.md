@@ -8,51 +8,75 @@
 * [**World Anvil**](https://worldanvil.com/)
 * [**D&D 5e Resource List**](https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources/)\
 
-# Links
+## Links
 
 [Table of Tables](https://www.reddit.com/r/BehindTheTables/wiki/index)
 
+## Отличные генераторы
 
+### Kassoon
 
-[NPC Character Generator by Profession ](http://miniworlds.online/generators/generateNPC.html)
- 
- [5E D&D Character Sheet (Tintagel)](v2.4https://docs.google.com/spreadsheets/d/1ojyz199p_sk1QC9pPctld9g2E1KO5mJPmGFKHQTycHQ/edit#gid=1538485300)
- 
- 5eToolsRoll20ImageList 
- 
- DnD 5e Layout and Format Template
- https://docs.google.com/document/d/1huB-66vOkFWU3bjw_oE8CRLB4EDVajGB22VFGwTC-4s/edit
- 
- ## Campaign Log Template
- 
- [](https://docs.google.com/document/d/1D5I1R0AvNgovM0pz5JFi-RLgg8ePE6TB2uIOaH_xH_I/edit)
+[Random Plot Hook Generator - Kassoon](https://www.kassoon.com/dnd/random-plot-hooks-generator)
 
- 
- [](https://docs.google.com/spreadsheets/d/14NJeO5HJhUwVkBVzN3Mg7-W7adJ9FE9C9f_oT93n4M8/edit#gid=0)
- 
- [5th ed. Player Resources](https://docs.google.com/document/d/1SxFrqX5KU7yFLzxE7KApgg5XLCo0ytHPWNJODyUgutM/edit)
- 
-[ Копия Travelling Merchants](https://docs.google.com/spreadsheets/d/1LJGKY2X1-yHztZPO4exSfEfHDg9JYZaGLZlqVX5SS3o/edit#gid=1882409195)
+[Random Town Generator - Kassoon](https://www.kassoon.com/dnd/town-generator/)
 
- [Dungeon Master’s Resource List 29102018](https://docs.google.com/document/d/1d10BJDOE8U_z4MKr0wdpGBobQRXzqITi_2jREplLuqU/edit#)
- 
- [Flexible Magic Tables 25092018](https://docs.google.com/spreadsheets/d/1oEXRoKH84gppCkHEENTSAJ_ReifLXR3Mz9-zraelk80/edit#gid=1358860148)
- 
- [](https://docs.google.com/spreadsheets/d/1yTdMvnZggEjbZCiv6Rxrn90bDiKxavipQsdmgJJjni8/edit#gid=0)
- 
- [](https://docs.google.com/spreadsheets/d/1etrBJ0qCDXACovYHUM4XvjE0erndThwRLcUQzX6ts8w/edit#gid=1750226729)
- 
- [Cost, Item cost](https://docs.google.com/spreadsheets/d/1JQVJ8sjKRgP80I5Ja0_oHcxMlYEuS6j70tNfSoXi2L8/edit#gid=0)on Collvil's folder
- 
- [Travelling Merchants](https://docs.google.com/spreadsheets/d/11Akap3yrVAQlPqviyVAAQQET4cbES3SayrSw5Z-DQow/edit#gid=1882409195)
- 
- [Google Character Sheet](https://docs.google.com/spreadsheets/d/1rw7T6tNkogcNxx7PQtLdEPtuA0RRQeRR687G9m_L_LY/edit?usp=drive_web&ouid=113731665467982106598)
+[Magic Item Genetor - Kassoon](https://www.kassoon.com/dnd/magic-item-generator)
 
-[](https://dicecloud.com/)
+### donbjon
 
-[](https://drive.google.com/file/d/1m0iAHPJKPZo0Ugim_c2iqznL8s7vwAX_/view)
+[5e Random Generator - donjon](https://donjon.bin.sh/5e/random)
 
-[](https://docs.google.com/spreadsheets/d/1UfZ9e9Z9XFiZ7uapyDxrh9UskZSmPGa-nWr7mCqzevw/edit#gid=0)
+[5e Random Dungeon Generator](https://donjon.bin.sh/5e/dungeon/)
+
+[e Random Magic Shop Generator](https://donjon.bin.sh/5e/magic/shop.html) 
+
+[5e Random Generator - Treasure](https://donjon.bin.sh/5e/random/#type=treasure)
+
+### OTHER
+
+[Red Dragon Inn Town Generator](http://www.rdinn.com/town_generator.php)
+
+[PF Settlement Creat](http://nairb.net/pathfindertools/settlement_creator.php)
+
+[Fantasy Town Map Generator](https://watabou.itch.io/medieval-fantasy-city-generator)
+
+[NPC Character Generator by Profession](http://miniworlds.online/generators/generateNPC.html)
+
+[5E D&D Character Sheet (Tintagel)](v2.4https://docs.google.com/spreadsheets/d/1ojyz199p_sk1QC9pPctld9g2E1KO5mJPmGFKHQTycHQ/edit#gid=1538485300)
+
+5eToolsRoll20ImageList
+
+DnD 5e Layout and Format Template
+https://docs.google.com/document/d/1huB-66vOkFWU3bjw_oE8CRLB4EDVajGB22VFGwTC-4s/ed
+## Campaign Log Template
+
+[some link](https://docs.google.com/document/d/1D5I1R0AvNgovM0pz5JFi-RLgg8ePE6TB2uIOaH_xH_I/edit)
+
+[some link](https://docs.google.com/spreadsheets/d/14NJeO5HJhUwVkBVzN3Mg7-W7adJ9FE9C9f_oT93n4M8/edit#gid=0)
+
+[5th ed. Player Resources](https://docs.google.com/document/d/1SxFrqX5KU7yFLzxE7KApgg5XLCo0ytHPWNJODyUgutM/edit)
+
+[Копия Travelling Merchants](https://docs.google.com/spreadsheets/d/1LJGKY2X1-yHztZPO4exSfEfHDg9JYZaGLZlqVX5SS3o/edit#gid=1882409195)
+
+[Dungeon Master’s Resource List 29102018](https://docs.google.com/document/d/1d10BJDOE8U_z4MKr0wdpGBobQRXzqITi_2jREplLuqU/edit#)
+
+[Flexible Magic Tables 25092018](https://docs.google.com/spreadsheets/d/1oEXRoKH84gppCkHEENTSAJ_ReifLXR3Mz9-zraelk80/edit#gid=1358860148)
+
+[some link](https://docs.google.com/spreadsheets/d/1yTdMvnZggEjbZCiv6Rxrn90bDiKxavipQsdmgJJjni8/edit#gid=0)
+
+[some link](https://docs.google.com/spreadsheets/d/1etrBJ0qCDXACovYHUM4XvjE0erndThwRLcUQzX6ts8w/edit#gid=1750226729)
+
+[Cost, Item cost](https://docs.google.com/spreadsheets/d/1JQVJ8sjKRgP80I5Ja0_oHcxMlYEuS6j70tNfSoXi2L8/edit#gid=0)on Collvil's folder
+
+[Travelling Merchants](https://docs.google.com/spreadsheets/d/11Akap3yrVAQlPqviyVAAQQET4cbES3SayrSw5Z-DQow/edit#gid=1882409195)
+
+[Google Character Sheet](https://docs.google.com/spreadsheets/d/1rw7T6tNkogcNxx7PQtLdEPtuA0RRQeRR687G9m_L_LY/edit?usp=drive_web&ouid=113731665467982106598)
+
+[some link](https://dicecloud.com/)
+
+[some link](https://drive.google.com/file/d/1m0iAHPJKPZo0Ugim_c2iqznL8s7vwAX_/view)
+
+[some link](https://docs.google.com/spreadsheets/d/1UfZ9e9Z9XFiZ7uapyDxrh9UskZSmPGa-nWr7mCqzevw/edit#gid=0)
 
 [Creature Loot: Intro and index](http://medievalmelodies.blogspot.com/2017/06/creature-loot-intro.html)
 
@@ -63,12 +87,10 @@
 [Compendium of Forgotten Secrets](https://www.dropbox.com/sh/rpkfb32qfq89qxr/AACyDUa0RFhYnx2GxpX1hXH2a?dl=0)
 
 
-
 Hey all! Some people have asked what resources I'm using for the sandbox game The West Marches, so here's a list of all the blog posts, random generators, and supplements I've found most useful so far!
 
 Blog Posts:
-
-·         Where it all came from: [http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/](http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/)
+Where it all came from: [http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/](http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/)
 
 ·         Why you should make your hexes 6 miles: [http://steamtunnel.blogspot.ca/2009/12/in-praise-of-6-mile-hex.html](http://steamtunnel.blogspot.ca/2009/12/in-praise-of-6-mile-hex.html)
 
@@ -156,7 +178,7 @@ And if you had to only read 5 things from the above to build a sandbox game of y
 
 [Home Brew](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fhomebrewery.naturalcrit.com%252f)
 
-[DM's Guild](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.dmsguild.com%252f)
+[DM's Guild](hs://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.dmsguild.com%252f)
 
 [Donjon](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fdonjon.bin.sh%252f)
 
@@ -333,8 +355,8 @@ PLAYLISTS        16
 VIRTUAL TABLETOPS        17
 
 
+## ДОПОЛНЕНИЯ НА РУССКОМ ЯЗЫКЕ
 
-## ДОПОЛНЕНИЯНАРУССКОМЯЗЫКЕ
 
 [Ролевые игры на Штормовой башне](http://stormtower.ru/)  http://stormtower.ru/generator/
 
@@ -353,7 +375,7 @@ BY &#39;Anton Palikhov&#39;
 ON &#39;2018-12-25T03:08:00&#39;ПА
 NOTE: &#39;Некоммерческий проект справочных материалов для новичков и опытных игроков.&#39;
 NOTE: &#39;Не секрет, что в Книге Игрока, какой бы красивой она ни была, достаточно трудно ориентироваться. А если принять во внимание ещё и разнообразные дополнения в виде дополнительных книг, выпусков Unearthed Arcana и прочих материалов, то ориентирование усложняется в разы. Поэтому, если вам это надоело, я постараюсь собрать на этом небольшом веб-сайте всё, что может понадобиться в ваших игровых сессиях. Пока сайт позволяет только посмотреть заклинания, но и это уже хорошо.&#39;
-NOTE: &#39;&#39;]
+NOTE:
 D&amp;DHelpers - D&amp;DNext в веб-флаконе - [https](https://dnd.inkyquill.net/calculator)[://](https://dnd.inkyquill.net/calculator)[dnd](https://dnd.inkyquill.net/calculator)[.](https://dnd.inkyquill.net/calculator)[inkyquill](https://dnd.inkyquill.net/calculator)[.](https://dnd.inkyquill.net/calculator)[net](https://dnd.inkyquill.net/calculator)[/](https://dnd.inkyquill.net/calculator)[calculator](https://dnd.inkyquill.net/calculator) - Заклинания, Расчёт боевых сцен, Магические предметы
 
 [Руководство Паланта по](https://palant.gitbook.io/palant-roll20-guide/)[Roll](https://palant.gitbook.io/palant-roll20-guide/)[20](https://palant.gitbook.io/palant-roll20-guide/)
@@ -366,7 +388,7 @@ D&amp;DHelpers - D&amp;DNext в веб-флаконе - [https](https://dnd.inky
 
 # D&amp;D 5e Random Character Generator
 
-  [https://tetra-cube.github.io/dnd/dnd-char-gen.html](https://tetra-cube.github.io/dnd/dnd-char-gen.html)
+ [https://tetra-cube.github.io/dnd/dnd-char-gen.html](https://tetra-cube.github.io/dnd/dnd-char-gen.html)
 
 https://rpgtinker.com/index.php?template=Scoundrel&amp;race=Wood+Elf&amp;radioattribute=Random+Array+%284d6+method%29&amp;numberofhitdice=10&amp;hitdice=d8&amp;hidefeatures=nothing
 

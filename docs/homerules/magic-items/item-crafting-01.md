@@ -210,7 +210,7 @@ Belt of storm giant strength
 Dragon Hide Plate
 Vampiric Weapon
 Sun Blade
-
+D:\Anton\GitHub\DnD_Palant_edition\docs\homerules\classes\ranger-rework.md
 
 Common Consumables
 Money (Copper pieces)
