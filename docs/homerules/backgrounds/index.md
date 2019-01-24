@@ -1,1 +1,0 @@
-[Черновик по Предысториям в Microsoft Word Online](https://1drv.ms/w/s!Atcrhwwo1lBAvdUhZWuuNWD50_apDA)
