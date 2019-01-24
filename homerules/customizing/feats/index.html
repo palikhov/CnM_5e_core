@@ -1,0 +1,1943 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.">
+      
+      
+      
+        <meta name="author" content="Антон Палихов aka Palant">
+      
+      
+        <meta name="lang:clipboard.copy" content="Копировать в буфер">
+      
+        <meta name="lang:clipboard.copied" content="Скопировано в буфер">
+      
+        <meta name="lang:search.language" content="en, ru, uk">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Совпадений не найдено">
+      
+        <meta name="lang:search.result.one" content="Найдено 1 совпадение">
+      
+        <meta name="lang:search.result.other" content="Найдено # совпадений">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Навыки (feats) - D&D "Palant edition"</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../../../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#feats" tabindex="1" class="md-skip">
+        Перейти к содержанию
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../../.." title="D&D "Palant edition"" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">library_books</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                D&D "Palant edition"
+              </span>
+              <span class="md-header-nav__topic">
+                Навыки (feats)
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Начните печатать для поиска
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+  
+
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../../.." title="Главная" class="md-tabs__link">
+        Главная
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../character-creation/" title="Домашние правила" class="md-tabs__link md-tabs__link--active">
+          Домашние правила
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../../.." title="D&D "Palant edition"" class="md-nav__button md-logo">
+      
+        <i class="md-icon">library_books</i>
+      
+    </a>
+    D&D "Palant edition"
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../.." title="Главная" class="md-nav__link">
+      Главная
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
+    
+    <label class="md-nav__link" for="nav-2">
+      Домашние правила
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Домашние правила
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../character-creation/" title="Правила по созданию персонажей" class="md-nav__link">
+      Правила по созданию персонажей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-2" type="checkbox" id="nav-2-2">
+    
+    <label class="md-nav__link" for="nav-2-2">
+      Расы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-2">
+        Расы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../races/shade/" title="Шейд" class="md-nav__link">
+      Шейд
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../races/feyri/" title="Фейри (демонфеи)" class="md-nav__link">
+      Фейри (демонфеи)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-3" type="checkbox" id="nav-2-3">
+    
+    <label class="md-nav__link" for="nav-2-3">
+      Изменения системы классов и самих классов
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-3">
+        Изменения системы классов и самих классов
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/classes/" title="Классы" class="md-nav__link">
+      Классы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/arcanis-work/" title="Классы из Арканиса" class="md-nav__link">
+      Классы из Арканиса
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/barbarian/" title="Варвар" class="md-nav__link">
+      Варвар
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/elder-sorcerer/" title="Древние колдуны" class="md-nav__link">
+      Древние колдуны
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/fighter/" title="Боец (воин)" class="md-nav__link">
+      Боец (воин)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/mystic/" title="Мистик" class="md-nav__link">
+      Мистик
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/paladin/" title="Паладин" class="md-nav__link">
+      Паладин
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/ranger-rework/" title="Рейнджер" class="md-nav__link">
+      Рейнджер
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/rogue/" title="Специалист (авантюрист)" class="md-nav__link">
+      Специалист (авантюрист)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/shaman/" title="Шаман" class="md-nav__link">
+      Шаман
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/sorcerer/" title="Чародей (Sorcerer)" class="md-nav__link">
+      Чародей (Sorcerer)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/wizard/" title="Волшебник (маг)" class="md-nav__link">
+      Волшебник (маг)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/warlock/" title="Колдун (Warlock)" class="md-nav__link">
+      Колдун (Warlock)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-4" type="checkbox" id="nav-2-4" checked>
+    
+    <label class="md-nav__link" for="nav-2-4">
+      Настраивая персонажа
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-4">
+        Настраивая персонажа
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../fighting-styles/" title="Боевые стили" class="md-nav__link">
+      Боевые стили
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../languages.md" title="Языки" class="md-nav__link">
+      Языки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" title="Навыки (feats)" class="md-nav__link md-nav__link--active">
+      Навыки (feats)
+    </a>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../combat-maneuvers/" title="Боевые маневры" class="md-nav__link">
+      Боевые маневры
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-5" type="checkbox" id="nav-2-5">
+    
+    <label class="md-nav__link" for="nav-2-5">
+      Заклинания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-5">
+        Заклинания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/item-enchanting-spells/" title="Зачарование предметов" class="md-nav__link">
+      Зачарование предметов
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/cantrips/" title="Кантрипы" class="md-nav__link">
+      Кантрипы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/spells-3rd-lvl/" title="3й круг заклинаний" class="md-nav__link">
+      3й круг заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells.md" title="Общий список" class="md-nav__link">
+      Общий список
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-6" type="checkbox" id="nav-2-6">
+    
+    <label class="md-nav__link" for="nav-2-6">
+      Снаряжение
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-6">
+        Снаряжение
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment.md" title="Снаряжение" class="md-nav__link">
+      Снаряжение
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/drugs/" title="Наркотики" class="md-nav__link">
+      Наркотики
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/herbalism/" title="Травы и гербализм" class="md-nav__link">
+      Травы и гербализм
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/monster-parts-harvesting/" title="Использование частей тел чудовищ" class="md-nav__link">
+      Использование частей тел чудовищ
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../magic-items.md" title="Волшебные предметы" class="md-nav__link">
+      Волшебные предметы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../traps/" title="Ловушки" class="md-nav__link">
+      Ловушки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-9" type="checkbox" id="nav-2-9">
+    
+    <label class="md-nav__link" for="nav-2-9">
+      Дикая природа
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-9">
+        Дикая природа
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../environment/hazards-weather-encounters-silver-marches/" title="Случайные встречи и погода в Серебрянных пределах" class="md-nav__link">
+      Случайные встречи и погода в Серебрянных пределах
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-10" type="checkbox" id="nav-2-10">
+    
+    <label class="md-nav__link" for="nav-2-10">
+      Время между приключениями (XGE+)
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-10">
+        Время между приключениями (XGE+)
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/buying-a-magic-item/" title="Покупка волшебных вещей" class="md-nav__link">
+      Покупка волшебных вещей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/research/" title="Исследования" class="md-nav__link">
+      Исследования
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/crafting-an-item/" title="Создание предмета" class="md-nav__link">
+      Создание предмета
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/crime/" title="Преступления" class="md-nav__link">
+      Преступления
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/gambling/" title="Азартные игры" class="md-nav__link">
+      Азартные игры
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/pit-fighting/" title="Подпольные бои" class="md-nav__link">
+      Подпольные бои
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/relaxation/" title="Отдых-отдых-отдых" class="md-nav__link">
+      Отдых-отдых-отдых
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/religious-service/" title="Религиозная служба" class="md-nav__link">
+      Религиозная служба
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/scribing-a-spell-scroll/" title="Написание свитка заклинаний" class="md-nav__link">
+      Написание свитка заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/selling-a-magic-item/" title="Продажа волшебного предмета" class="md-nav__link">
+      Продажа волшебного предмета
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/training/" title="Training" class="md-nav__link">
+      Training
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/work/" title="Work" class="md-nav__link">
+      Work
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-activities.md" title="Новые возможности в простое" class="md-nav__link">
+      Новые возможности в простое
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-11" type="checkbox" id="nav-2-11">
+    
+    <label class="md-nav__link" for="nav-2-11">
+      Расширенные правила
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-11">
+        Расширенные правила
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../expanded_rules.md" title="Расширенные правила" class="md-nav__link">
+      Расширенные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../mounted-combat-expanded.md" title="Бой верхом" class="md-nav__link">
+      Бой верхом
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../additional-rules/additional_rules/" title="Дополнительные правила" class="md-nav__link">
+      Дополнительные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../misc/" title="Разное" class="md-nav__link">
+      Разное
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-14" type="checkbox" id="nav-2-14">
+    
+    <label class="md-nav__link" for="nav-2-14">
+      Расширенные правила по инструментам из XGE
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-14">
+        Расширенные правила по инструментам из XGE
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../tool-proficiencies/alchemists-supplies/" title="Набор алхимика" class="md-nav__link">
+      Набор алхимика
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../tool-proficiencies/herbalism-kit/" title="Набор травника" class="md-nav__link">
+      Набор травника
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../tool-proficiencies/poisoners-kit/" title="Набор отравителя" class="md-nav__link">
+      Набор отравителя
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../misc/" title="Разное" class="md-nav__link">
+      Разное
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-16" type="checkbox" id="nav-2-16">
+    
+    <label class="md-nav__link" for="nav-2-16">
+      Правила для общей кампании
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-16">
+        Правила для общей кампании
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/needs_organized_play/" title="Потребность в игротеке" class="md-nav__link">
+      Потребность в игротеке
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/shared_rules/" title="Правила общей кампании" class="md-nav__link">
+      Правила общей кампании
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/factions-renown-fame/" title="Фракции, известность, слава" class="md-nav__link">
+      Фракции, известность, слава
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/three-pillars-modified/" title="Модифицированные правила трех столбов" class="md-nav__link">
+      Модифицированные правила трех столбов
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/homerules/customizing/feats.md" title="Редактировать страницу" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <p><a href="https://1drv.ms/w/s!Atcrhwwo1lBAvdUlouMRNii993cHlw">Черновик по навыкам в Microsoft Word Online</a></p>
+<h1 id="feats">Feats<a class="headerlink" href="#feats" title="Permanent link">&para;</a></h1>
+<h1 id="_1">Изменение оружейных навыков<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
+<p><a href="https://1drv.ms/w/s!Atcrhwwo1lBAvdknSWJJSEovUXs83A">Черновик в формате docx на Onedrive по мартиальщикам</a></p>
+<h2 id="_2">Боевые школы и личные боевые стили<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<p>Все боевые школы предоставляют возможность изучить смесь маневров и техник, равно как и физическую подготовку.</p>
+<p>Некоторые боевые школы имеют требования, которым необходимо соответствовать прежде чем Ваш персонаж сможет взять этот навык.</p>
+<p>Также все боевые школы имеют два уровня навыка - Ученик и Мастер. Будучи Учеником в одной боевой школе нельзя изучать вторую</p>
+<p>Боевые школы требуют для своего применения как <strong>конкретных видов оружия так и их комбинации.</strong> Использовать техники и маневры из боевой школы можно только используя определенные для каждой боевой школы оружия или комбинации оружия и только если Ваш персонаж одновременно умеет обращаться с этим оружием.</p>
+<p><strong>Уровень Сложности</strong> (Difficulty Class, DC) для маневров и техник боевой школы рассчитывается на основании модификатора базовой для боевой школы характеристики.</p>
+<p><strong>Физические тренировки:</strong> Когда Ваш персонаж в первый раз получает навык боевой школы Вы можете повысить ему одну из определенных для конкретной школы характеристик.</p>
+<p><strong>Маневры:</strong> это определяющие боевую школу движения и для их реализации требуется потратить куб превосходства. Можно использовать только один маневр за одну атаку.</p>
+<p><strong>Техники:</strong> Это умения школы. Они не требуют кубов превосходства для ипользования и предоставляют пассивный эффект если персонаж использует определенное для боевой школы оружие (или набор оружий)</p>
+<p><strong>Превосходство и решимость</strong> - Superiority and resolve</p>
+<p>Маневры и техники ближнего боя требуют хитрости, силы, умения, определения нужного момента и задора которые определяются кубами превосходства (решимости), которые при получении навыков Ученика являютя к6. Персонаж восстанавливает все потраченные кубы превосходства после завершения длинного или короткого отдыха.</p>
+<p>При получении навыка Тренировка в Боевой школы во второй раз Ваш персонаж становится Мастером в этой боевой школе  и кубы превосходства увеличиваются до к8.</p>
+<h1 id="_3">Личный боевой стиль<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h1>
+<p><strong>Требование:</strong> У персонажа не должно быть навыка Боевой школы. </p>
+<p>Некоторые воители разрабатывают свой собственный уникальный боевой стиль методом проб и ошибок. Вы создали стиль который подходит вам но ему не хватает отточенности и глубины системы, которая развивалась на протяжении десятилетий.</p>
+<p>При создании личного боевого стиля вы должны выбрать предпочитаемое оружие и желательный вид доспехов. Если техника требует от вас использования оружия, щита или доспеха этот предмет должен быть частью списка требуемого для личного боевого стиля оружия и доспехов.</p>
+<p>Вы получаете преимущества от вашего личного стиля только если вы умеете владеть и используете ваше избранное оружие.</p>
+<p>Выберите или Силу или Ловкость - какая характеристика лучше всего отражает вашу манеру боя? Эта же характеристика будет определять <strong>Уровень Сложности</strong> маневров и техник вашего личного боевого стиля (его нельзя изменить после выбора). УС будет равен 8 + модификатори избранной характеристики + бонус мастерства.</p>
+<p><strong>Маневры и техники</strong> Выберите две ученических техники и один ученический маневр из боевых стилей. </p>
+<p><strong>Превосходство и решимость</strong> Когда вы берете этот навык в первый раз вы получаете два куба превосходства для использования с маневрами. При получении этого навыка второй раз вы получаете дополнительный куб превосходства и можете выбрать дополнительные технику и маневр из любого боевого стиля. Также куб превосходства увеличиться до к8.</p>
+<h2 id="_4">Известные боевые школы:<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<h3 id="_5">Школа парных клинков<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h3>
+<p>&rsquo;&lsquo;&rsquo; # Twin Sword Style (Brother &amp; Sister)&rsquo;&lsquo;&rsquo;</p>
+<p><strong>Требования</strong> Предыстория Гладиатора или Ветерена ИЛИ Ловкость от 13 и выше.</p>
+<p>&rsquo;&lsquo;&rsquo; # Twin Sword Style (Brother &amp; Sister)&rsquo;&lsquo;&rsquo;</p>
+<p><strong>УС маневров и техник</strong> 8 + модификатор Ловкости вашего персонажа + Ваш <strong>бонус мастерства</strong>.</p>
+<p><strong>Физические тренировки</strong> Когда ваш персонаж в первый раз получает навык этой боевой школы, его Ловкость увеличивается на 1, до максимума в 20. </p>
+<p><strong>Оружие</strong> Школа двойных мечей использует двойные кинжалы, гладиусы, палаши, короткие мечи, сабли - в общем любые два режущих не тяжелых, легких, не обладающих свойствами версатильного оружия.</p>
+<h4 id="_6">Уровень ученика<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h4>
+<p>Маневры: Riposte (Maneuver)</p>
+<p>Техники: Unfettered Defense (Technique), Fancy Footwork (Technique), </p>
+<h3 id="_7">Уровень мастера<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h3>
+<h4 id="maneuver">Перенаправленная атака (Maneuver)<a class="headerlink" href="#maneuver" title="Permanent link">&para;</a></h4>
+<p>Когда вы промахнулись атакой ближнего боя, вы можете использовать 1 куб превосходства, чтобы перенаправить свой удар в другое существо рядом с вашим персонажем. Бросок куба превосходства добавляется и к попаданию, и к урону против выбранной цели.</p>
+<h4 id="_8">Кровь для Стали (Технрка)<a class="headerlink" href="#_8" title="Permanent link">&para;</a></h4>
+<p>Во время осуществления действия Атака, вы можете атаковать столь отчаянно, что ваш КД (Armor Class) будет понижен на 2, но вы получите бонус +1 ко всем вашим атакам и броскам урона до конца Вашего хода.</p>
+<p>When you are missed with a melee attack, as a reaction you may spend 1 resolve die to redirect that attack to another creature adjacent to you. Roll the resolve die you spent and add your result to the creature’s original attack roll and damage rolls against your chosen target.</p>
+<p>Blood for Steel (Technique): When you take the Attack action, you can choose to lower your AC by 2 to gain a +1 bonus to all your attack and damage rolls until the end of your turn.</p>
+<h1 id="the-flower-of-battle-">The Flower of Battle - Цветок Битвы<a class="headerlink" href="#the-flower-of-battle-" title="Permanent link">&para;</a></h1>
+<h1 id="iron-hand-">Iron Hand  - Железнолапый<a class="headerlink" href="#iron-hand-" title="Permanent link">&para;</a></h1>
+<h1 id="military-step-">Military Step - Военный шаг<a class="headerlink" href="#military-step-" title="Permanent link">&para;</a></h1>
+<h1 id="primary-shield-">Primary Shield - Основной щит<a class="headerlink" href="#primary-shield-" title="Permanent link">&para;</a></h1>
+<h1 id="dual-blades-">Dual Blades - Двойные клинки<a class="headerlink" href="#dual-blades-" title="Permanent link">&para;</a></h1>
+<h1 id="single-blade-">Single Blade - Одиночный клинок<a class="headerlink" href="#single-blade-" title="Permanent link">&para;</a></h1>
+<h1 id="the-dance-of-blades-">The Dance of Blades - Танец Клинков<a class="headerlink" href="#the-dance-of-blades-" title="Permanent link">&para;</a></h1>
+<h1 id="arrow-storm-">Arrow Storm - Шторм стрел<a class="headerlink" href="#arrow-storm-" title="Permanent link">&para;</a></h1>
+<h1 id="crushing-wave-">Crushing Wave - Крушащая Волна<a class="headerlink" href="#crushing-wave-" title="Permanent link">&para;</a></h1>
+<h1 id="galloping-ram-">Galloping Ram - Галлопирующий Таран<a class="headerlink" href="#galloping-ram-" title="Permanent link">&para;</a></h1>
+<h1 id="laughing-viper-">Laughing Viper - Смеющаяся Гадюка<a class="headerlink" href="#laughing-viper-" title="Permanent link">&para;</a></h1>
+<h1 id="road-maces-">Road Maces - Дорожные Булавы<a class="headerlink" href="#road-maces-" title="Permanent link">&para;</a></h1>
+<h1 id="combat-school-training">Combat School Training<a class="headerlink" href="#combat-school-training" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisite:</strong> You cannot have the Personal Combat Style feat, and you must meet the prerequisites of your chosen combat school.
+<div class="codehilite"><pre><span></span>You have gained acceptance into a school that teaches a combat style.
+</pre></div>
+When you first take this feat, you must choose a combat school to join and you gain 2 resolve dice. Combat schools are found at the end of this chapter. You must be proficient in the weapons your chosen school teaches and you must wield those weapons to gain any benefits from your chosen school. You gain the <strong>first tier (journeyman)</strong> benefits of your chosen school.</p>
+<p>You may take this feat again to gain the <strong>next tier (master)</strong> benefits of your chosen school. When you take this feat again to become a master of your chosen school, your resolve die changes to a d8 and you gain an additional resolve die.</p>
+<div class="codehilite"><pre><span></span>Also take look on updated fighting styles -&gt; [NEW FIGHTING STYLES]()
+</pre></div>
+
+<h4 id="journeyman">Journeyman<a class="headerlink" href="#journeyman" title="Permanent link">&para;</a></h4>
+<ul>
+<li>
+<p>Riposte (Maneuver): When you are missed with a melee attack, as a reaction you can spend 1 resolve die to make an opportunity attack against the triggering creature. Roll the resolve die you spent and add its result to both your attack and damage roll.</p>
+</li>
+<li>
+<p>Unfettered Defense (Technique): If you are wearing light or no armor, and not wielding a shield, you gain a +1 bonus to your AC. </p>
+</li>
+<li>
+<p>Fancy Footwork (Technique): Any time you score a critical hit or reduce a creature to 0 hit points, as a reaction you can take the Dash or Disengage action.</p>
+</li>
+</ul>
+<h4 id="master">Master<a class="headerlink" href="#master" title="Permanent link">&para;</a></h4>
+<ul>
+<li>
+<p>Redirect Attack (Maneuver): When you are missed with a melee attack, as a reaction you may spend 1 resolve die to redirect that attack to another creature adjacent to you. Roll the resolve die you spent and add your result to the creature’s original attack roll and damage rolls against your chosen target.</p>
+</li>
+<li>
+<p>Blood for Steel (Technique): When you take the Attack action, you can choose to lower your AC by 2 to gain a +1 bonus to all your attack and damage rolls until the end of your turn.</p>
+</li>
+</ul>
+<p>2</p>
+<h1 id="the-flower-of-battle">The Flower of Battle<a class="headerlink" href="#the-flower-of-battle" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisites:</strong> Proficiency with shields, Strength or Dexterity 13 or higher</p>
+<p><strong>Maneuver and Technique DC:</strong> 8 + your Dexterity or Strength modifier + your proficiency bonus. If you chose 
+to increase your Dexterity when you joined this combat school, you use your Dexterity modifier for your DC. If 
+you increased your Strength, use that instead.</p>
+<p><strong>Physical Training:</strong> When you first join this combat school your Dexterity or Strength score increases by 1, to a 
+maximum of 20. </p>
+<p><strong>Weapons:</strong> The Flower of Battle style utilizes a combination of shield and spear, taking advantage of the spear’s flexibility and the shield’s utility.</p>
+<h4 id="journeyman_1">Journeyman<a class="headerlink" href="#journeyman_1" title="Permanent link">&para;</a></h4>
+<p><strong>Pressing Attack (Maneuver):</strong> When you successfully hit a creature with a melee weapon attack you may spend 1 resolve die as a reaction. Roll the resolve die you spent and add the result to the damage dealt. Your target must also make a successful Strength or Dexterity saving throw or be moved back 10 feet. If you choose you may move with your target.</p>
+<p><strong>Distracting Strike (Technique):</strong> When you successfully strike an opponent with an opportunity attack they may not take reactions until the beginning of their next turn.</p>
+<p><strong>Shield Defense (Technique):</strong> You can apply your shield’s bonus to your AC to your Dexterity saving throws. Additionally, when you succeed on a Dexterity saving throw against an effect which would deal half damage with a successful save, as a reaction you can reduce the damage to 0.</p>
+<h4 id="master_1">Master<a class="headerlink" href="#master_1" title="Permanent link">&para;</a></h4>
+<p><strong>Precision Strike (Maneuver):</strong> When you miss with a weapon attack, as a reaction you may spend 1 resolve die. Roll it and add the result to your attack roll. If your new attack roll would have hit your target, roll damage as normal.</p>
+<p><strong>Polearm Expertise (Technique):</strong> When you wield a spear, it gains the reach property. In addition, when a creature enters your reach you can make an opportunity attack against that creature. (Keep in mind, the reach quality increases your reach all the time, not just when you are making an attack.)</p>
+<p><strong>Shield Bash (Technique):</strong> When you take the Attack action while wielding a shield, you can attempt to shove a creature as a bonus action.</p>
+<p>3</p>
+<h1 id="iron-hand">Iron Hand<a class="headerlink" href="#iron-hand" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisites:</strong> Heavy armor proficiency, Strength 13 or higher</p>
+<p><strong>Maneuver and Technique DC:</strong> 8 + your Strength modifier + your proficiency bonus</p>
+<p><strong>Physical Training:</strong> When you first join this combat school your Strength score increases by 1, to a maximum of 20.</p>
+<p><strong>Weapons:</strong> The Iron Hand style relies on heavy armor with gauntlets and heavy or two-handed melee weapons.</p>
+<h4 id="journeyman_2">Journeyman<a class="headerlink" href="#journeyman_2" title="Permanent link">&para;</a></h4>
+<p><strong>Grasp the Blade (Maneuver):</strong> Any time you are the target of a melee weapon attack, as a reaction you may spend 1 resolve die to grasp your foe’s weapon. Roll the resolve die you spent and add the result to a grapple check you make to seize your target and to your Armor Class against the triggering attack. If you sucessfuly grapple your target and their attack misses, they cannot make attacks with the 
+weapon they used for the triggering attack. On their turn, your target can drop the weapon they used for the triggering attack, ending the grapple. You must have a free hand to use this maneuver and it is ineffective against unarmed strikes or natural attacks.</p>
+<p><strong>Charge (Technique):</strong> When you take the Dash action you may make a single melee attack as a bonus action at the end of your move. If you hit, you deal double your proficiency bonus in additional damage. This damage is of the same type as your weapon.</p>
+<p><strong>Deadly Strike (Technique):</strong> When you take the Attack action, you may choose to not apply your proficiency bonus to your attack roll. If your attack hits, you deal additional damage equal to double your proficiency bonus. This damage is of the same type as your weapon.</p>
+<h4 id="master_2">Master<a class="headerlink" href="#master_2" title="Permanent link">&para;</a></h4>
+<p><strong>Pressing Attack (Maneuver):</strong> When you successfully hit a creature with a melee weapon attack you may spend 1 resolve die as a reaction. Roll the resolve die you spent and add the result to the damage dealt. Your target must also make a successful Strength or Dexterity saving throw or be moved back 10 feet. If you choose you may move with your target.</p>
+<p><strong>Flowing Sand (Technique):</strong> Any time you score a critical hit or reduce a creature to 0 hit points with a melee attack, as a reaction you can move up to 10 feet and make a single melee attack.</p>
+<p><strong>Threatening Stance (Technique):</strong> Creatures within your reach provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.</p>
+<p>4</p>
+<h1 id="military-step">Military Step<a class="headerlink" href="#military-step" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisites:</strong> Proficiency with shields, Strength 13 or higher </p>
+<p><strong>Maneuver or Technique DC:</strong> 8 + your Strength modifier + your proficiency bonus</p>
+<p><strong>Physical Training:</strong> When you first join this combat school your Strength score increases by 1, to a maximum of 20. </p>
+<p><strong>Weapons:</strong> The Militares Gradus utilizes the traditional combination of the gladius, longsword, or a shortsword paired with a shield. </p>
+<h4 id="journeyman_3">Journeyman<a class="headerlink" href="#journeyman_3" title="Permanent link">&para;</a></h4>
+<p><strong>Unbalancing Attack (Maneuver):</strong> When you successfully hit a creature with a weapon attac, as a reaction you can spend 1 resolve die to force your target to make a Wisdom saving throw. If they fail, a friendly creature adjacent to your target can make opportunity attack against them. Your ally rolls the resolve die you spent and adds it to the attack roll and damage roll of the opportunity attack.</p>
+<p><strong>Reactive Strike (Technique):</strong> When a creature within 5 feet of you makes an attack against one of your allies, they provoke an opportunity attack from you.</p>
+<p><strong>Shield Bash (Technique):</strong> When you take the Attack action while wielding a shield, you can attempt to shove a creature as a bonus action.</p>
+<h4 id="master_3">Master<a class="headerlink" href="#master_3" title="Permanent link">&para;</a></h4>
+<p><strong>Blinding Strike (Maneuver):</strong> When you successfully hit a creature with a melee weapon attack you may spend 1 resolve die as a reaction. Roll the resolve die you spent and add the result to the damage dealt. Your target must also make a successful Constitution saving throw or be blinded until the end of their next turn. </p>
+<p><strong>Distracting Strike (Technique):</strong> When you successfully strike an opponent with an opportunity attack they may not take reactions until the beginning of their next turn.</p>
+<p><strong>Shield Defense (Technique):</strong> You can apply your shield’s bonus to your AC to your Dexterity saving throws. Additionally, when you succeed on a Dexterity saving throw against an effect that would deal half damage with a successful save, as a reaction you can reduce the damage to 0.</p>
+<p>5</p>
+<h1 id="single-blade">Single Blade<a class="headerlink" href="#single-blade" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisites:</strong> Strength or Dexterity 13 or higher </p>
+<p><strong>Maneuver and Technique DC:</strong> 8 + your Dexterity or Strength modifier + your proficiency bonus. If you chose to increase your Dexterity when you joined this combat school, you use your Dexterity modifier for your DC. If you increased your Strength, use that instead.</p>
+<p><strong>Physical Training:</strong> When you first join this combat school your Dexterity or Strength score increases by 1, to a 
+maximum of 20. </p>
+<p><strong>Weapons:</strong> The Single Blade style uses a weapon in one hand, usually a shortsword, while the other hand is left free. </p>
+<h4 id="journeyman_4">Journeyman<a class="headerlink" href="#journeyman_4" title="Permanent link">&para;</a></h4>
+<p><strong>Disarm Foe (Maneuver):</strong> When you successfully hit a creature with a melee weapon attack you may spend 1 resolve die as a reaction. Roll the resolve die you spent and add the result to the damage dealt. Your target must also make a successful Dexterity saving throw or drop their weapon. If your target is wielding one or more weapons, you choose which one they drop. </p>
+<p><strong>Defensive Stance (Technique):</strong> If you are not wielding a shield, as a bonus action you can increase your AC by 2 until the end of your next turn. </p>
+<p><strong>Distracting Strike (Technique):</strong> When you successfully strike an opponent with an opportunity attack they may not take reactions until the beginning of their next turn.</p>
+<p>7</p>
+<h4 id="master_4">Master<a class="headerlink" href="#master_4" title="Permanent link">&para;</a></h4>
+<p><strong>Riposte (Maneuver):</strong> When you are missed with a melee attack, as a reaction you can spend 1 resolve die to make an opportunity attack against the triggering creature. Roll the resolve die you spent and add its result to both your attack and damage roll. </p>
+<p><strong>Deadly Strike (Technique):</strong> When you take the Attack action, you may choose to not apply your proficiency bonus to your attack roll. If your attack hits, you deal additional damage equal to double your proficiency bonus. This damage is of the same type as your weapon.</p>
+<p><strong>Force the Opening (Technique):</strong> When you score a critical hit with a melee attack against a creature, you gain advantage to all subsequent melee attacks against that creature until the end of your turn. </p>
+<p>8</p>
+<h1 id="dual-blades">Dual Blades<a class="headerlink" href="#dual-blades" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisites:</strong> Strength or Dexterity 13 or higher </p>
+<p><strong>Maneuver and Technique DC:</strong> 8 + your Dexterity or Strength modifier + your proficiency bonus. If you chose to increase your Dexterity when you joined this combat school, you use your Dexterity modifier for your DC. If you increased your Strength, use that instead.
+Physical Training: When you first join this combat school your Dexterity or Strength score increases by 1, to a maximum of 20. </p>
+<p><strong>Weapons:</strong> The Two Blades style uses two edged weapons of equal length, usually combining twin longswords or small swords.</p>
+<h4 id="journeyman_5">Journeyman<a class="headerlink" href="#journeyman_5" title="Permanent link">&para;</a></h4>
+<p><strong>Pressing Attack (Maneuver):</strong> When you successfully hit a creature with a melee weapon attack you may spend 1 resolve die as a reaction. Roll the resolve die you spent and add the result to the damage dealt. Your target must also make a successful Strength or Dexterity saving throw or be moved back 10 feet. If you choose you may move with your target.</p>
+<p><strong>Balanced Hands (Technique):</strong> When you take the Attack action and attack with a melee weapon that you’re holding in one hand, you can use a bonus action to attack with another melee weapon that you’re holding in the other hand. You don’t add your ability modifier to the damage of the bonus attack, unless that modifier is negative. If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.</p>
+<p><strong>Charge (Technique):</strong> When you take the Dash action you may make a single melee attack as a bonus action at the end of your move. If you hit, you deal double your proficiency bonus in additional damage. This damage is of the same type as your weapon.</p>
+<h4 id="master_5">Master<a class="headerlink" href="#master_5" title="Permanent link">&para;</a></h4>
+<p><strong>Crippling Strike (Maneuver):</strong> When you successfully hit a creature with a weapon attack you may spend 1 resolve die. Roll it and add the result to your weapon damage. Your target must also make a Dexterity saving throw. On a failed save, the creature’s speed is reduced by half until they complete a short rest.</p>
+<p><strong>Deadly Strike (Technique):</strong> When you take the Attack action, you may choose to not apply your proficiency bonus to your attack roll. If your attack hits, you deal additional damage equal to double your proficiency bonus. This damage is of the same type as your weapon.</p>
+<p><strong>Threatening Stance (Technique):</strong> Creatures within your reach provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.</p>
+<p>9</p>
+<h1 id="primary-shield">Primary Shield<a class="headerlink" href="#primary-shield" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisites:</strong> Proficiency with the gladius, Strength 13 or higher</p>
+<p><strong>Maneuver and Technique DC:</strong> 8 + your Strength modifier + your proficiency bonus.</p>
+<p><strong>Physical Training:</strong> When you first join this combat school your Strength score increases by 1, to a maximum 
+of 20.</p>
+<p><strong>Weapons:</strong> Primary Shield utilizes the shield and gladius, exploiting the shield’s superior cover and the gladius’ speed.</p>
+<h4 id="journeyman_6">Journeyman<a class="headerlink" href="#journeyman_6" title="Permanent link">&para;</a></h4>
+<p><strong>Crippling Strike (Maneuver):</strong> When you successfully hit a creature with a weapon attack you may spend 1 resolve die. Roll it and add the result to your weapon damage. Your target must also make a Dexterity saving throw. On a failed save, the creature’s speed is reduced by half until they complete a short rest.</p>
+<p><strong>Shield Defense (Technique):</strong> You can apply your shield’s bonus to your AC to your Dexterity saving throws. Additionally, when you succeed on a Dexterity saving throw against an effect which would deal half damage with a successful save, as a reaction, you can reduce the damage to 0.</p>
+<p><strong>Shield Bash (Technique):</strong> When you take the Attack action while wielding a shield, you can attempt to shove a creature as a bonus action.</p>
+<h4 id="master_6">Master<a class="headerlink" href="#master_6" title="Permanent link">&para;</a></h4>
+<p><strong>Precision Strike (Maneuver):</strong> When you miss with a weapon attack, as a reaction you may spend 1 resolve die. Roll it and add the result to your attack roll. If your new attack roll would have hit your target, roll damage as normal.</p>
+<p><strong>Distracting Strike (Technique):</strong> When you successfully strike an opponent with an opportunity attack they may not take reactions until the beginning of their next turn.</p>
+<p><strong>Threatening Stance (Technique):</strong> Creatures within your reach provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.</p>
+<h4 id="single-blade_1">Single Blade<a class="headerlink" href="#single-blade_1" title="Permanent link">&para;</a></h4>
+<p><strong>Prerequisites:</strong> Strength or Dexterity 13 or higher </p>
+<p><strong>Manuevers and Technique DC:</strong> 8 + your Dexterity or Strength modifier + your proficiency bonus. If you chose to increase your Dexterity when you joined this combat school, you use your Dexterity modifier for your DC. If you increased your Strength, use that instead.</p>
+<p><strong>Physical Training:</strong> When you first join this combat school your Dexterity or Strength score increases by 1, to a 
+maximum of 20. </p>
+<p><strong>Weapons:</strong> The Single Blade style uses a weapon in one hand, usually a shortsword, while the other hand is left free. </p>
+<h4 id="journeyman_7">Journeyman<a class="headerlink" href="#journeyman_7" title="Permanent link">&para;</a></h4>
+<p><strong>Disarm Foe (Maneuver):</strong> When you successfully hit a creature with a melee weapon attack you may spend 1 resolve die as a reaction. Roll the resolve die you spent and add the result to the damage dealt. Your target must also make a successful Dexterity saving throw or drop their weapon. If your target is wielding one or more weapons, you choose which one they drop. </p>
+<p><strong>Defensive Stance (Technique):</strong> If you are not wielding a shield, as a bonus action you can increase your AC by 2 until the end of your next turn. </p>
+<p><strong>Distracting Strike (Technique):</strong> When you successfully strike an opponent with an opportunity attack they may not take reactions until the beginning of their next turn.</p>
+<h4 id="master_7">Master<a class="headerlink" href="#master_7" title="Permanent link">&para;</a></h4>
+<p><strong>Riposte (Maneuver):</strong> When you are missed with a melee attack, as a reaction you can spend 1 resolve die to make an opportunity attack against the triggering creature. Roll the resolve die you spent and add its result to both your attack and damage roll. </p>
+<p><strong>Deadly Strike (Technique):</strong> When you take the Attack action, you may choose to not apply your proficiency bonus to your attack roll. If your attack hits, you deal additional damage equal to double your proficiency bonus. This damage is of the same type as your weapon.</p>
+<p><strong>Force the Opening (Technique):</strong> When you score a critical hit with a melee attack against a creature, you gain advantage to all subsequent melee attacks against that creature until the end of your turn. </p>
+<p>11</p>
+<h1 id="dual-blades_1">Dual Blades<a class="headerlink" href="#dual-blades_1" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisites:</strong> Strength or Dexterity 13 or higher </p>
+<p><strong>Maneuver and Technique DC:</strong> 8 + your Dexterity or Strength modifier + your proficiency bonus. If you chose to increase your Dexterity when you joined this combat school, you use your Dexterity modifier for your DC. If you increased your Strength, use that instead.
+Physical Training: When you first join this combat school your Dexterity or Strength score increases by 1, to a maximum of 20. </p>
+<p><strong>Weapons:</strong> The Two Blades style uses two edged weapons of equal length, usually combining twin longswords or small swords.</p>
+<h4 id="journeyman_8">Journeyman<a class="headerlink" href="#journeyman_8" title="Permanent link">&para;</a></h4>
+<p><strong>Pressing Attack (Maneuver):</strong> When you successfully hit a creature with a melee weapon attack you may spend 1 resolve die as a reaction. Roll the resolve die you spent and add the result to the damage dealt. Your target must also make a successful Strength or Dexterity saving throw or be moved back 10 feet. If you choose you may move with your target.</p>
+<p><strong>Balanced Hands (Technique):</strong> When you take the Attack action and attack with a melee weapon that you’re holding in one hand, you can use a bonus action to attack with another melee weapon that you’re holding in the other hand. You don’t add your ability modifier to the damage of the bonus attack, unless that modifier is negative. If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.</p>
+<p><strong>Charge (Technique):</strong> When you take the Dash action you may make a single melee attack as a bonus action at the end of your move. If you hit, you deal double your proficiency bonus in additional damage. This damage is of the same type as your weapon.</p>
+<h4 id="master_8">Master<a class="headerlink" href="#master_8" title="Permanent link">&para;</a></h4>
+<p><strong>Crippling Strike (Maneuver):</strong> When you successfully hit a creature with a weapon attack you may spend 1 resolve die. Roll it and add the result to your weapon damage. Your target must also make a Dexterity saving throw. On a failed save, the creature’s speed is reduced by half until they complete a short rest.</p>
+<p><strong>Deadly Strike (Technique):</strong> When you take the Attack action, you may choose to not apply your proficiency bonus to your attack roll. If your attack hits, you deal additional damage equal to double your proficiency bonus. This damage is of the same type as your weapon.</p>
+<p><strong>Threatening Stance (Technique):</strong> Creatures within your reach provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.</p>
+<p>12</p>
+<h1 id="primary-shield_1">Primary Shield<a class="headerlink" href="#primary-shield_1" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisites:</strong> Proficiency with the gladius, Strength 13 or higher</p>
+<p><strong>Maneuver and Technique DC:</strong> 8 + your Strength modifier + your proficiency bonus.</p>
+<p><strong>Physical Training:</strong> When you first join this combat school your Strength score increases by 1, to a maximum of 20</p>
+<p><strong>Weapons:</strong> Scutum Primus utilizes the shield and gladius, exploiting the shield’s superior cover and the gladius’ speed.</p>
+<h4 id="journeyman_9">Journeyman<a class="headerlink" href="#journeyman_9" title="Permanent link">&para;</a></h4>
+<p><strong>Crippling Strike (Maneuver):</strong> When you successfully hit a creature with a weapon attack you may spend 1 resolve die. Roll it and add the result to your weapon damage. Your target must also make a Dexterity saving throw. On a failed save, the creature’s speed is reduced by half until they complete a short rest.</p>
+<p><strong>Shield Defense (Technique):</strong> You can apply your shield’s bonus to your AC to your Dexterity saving throws. Additionally, when you succeed on a Dexterity saving throw against an effect which would deal half damage with a successful save, as a reaction, you can reduce the damage to 0.</p>
+<p><strong>Shield Bash (Technique):</strong> When you take the Attack action while wielding a shield, you can attempt to shove a creature as a bonus action.</p>
+<h4 id="master_9">Master<a class="headerlink" href="#master_9" title="Permanent link">&para;</a></h4>
+<p>You gain the following maneuvers and techniques when you take the Combat School Training feat a second time and select this school again. You can only use these maneuvers and techniques while wielding weapons suited to this combat school.</p>
+<p><strong>Pressing Attack (Maneuver):</strong> When you succesfully hit a creature with a melee weapon attack you may spend 1 resolve die as a reaction. Roll the resolve die you spent and add the result to the damage dealt. Your target must also make a successful Strength or Dexterity saving throw or be moved back 10 feet. If you choose you may move with your target.</p>
+<p><strong>Flowing Sand (Technique):</strong> Any time you score acritical hit or reduce a creature to 0 hit points with a melee
+attack, as a reaction you can move up to 10 feet and make a  single melee attack.</p>
+<p><strong>Threatening Stance (Technique):</strong> Creatures within your reach provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.</p>
+<p>13</p>
+<h1 id="the-dance-of-blades">The Dance of Blades<a class="headerlink" href="#the-dance-of-blades" title="Permanent link">&para;</a></h1>
+<p><strong>Maneuver and Technique DC:</strong> 8 + your Dexterity or Strength modifier + your proficiency bonus. If you chose to increase your Dexterity when you joined this combat school, you use your Dexterity modifier for your DC. If you increased your Strength, use that 
+instead.</p>
+<p><strong>Physical Training:</strong> When you first join this combat school your Dexterity or Strength score increases by 1, to a maximum of 20.
+Weapons: The Tal Lamenth specializes in the use of the short sword, long sword, and great sword.</p>
+<h4 id="journeyman_10">Journeyman<a class="headerlink" href="#journeyman_10" title="Permanent link">&para;</a></h4>
+<p><strong>Riposte (Maneuver):</strong> When you are missed with a melee attack, as a reaction you can spend 1 resolve die to make an opportunity attack against the triggering creature. Roll the resolve die you spent and add its result to both your attack and damage roll.</p>
+<p><strong>Blade Step (Technique):</strong> When you make an opportunity attack you may move up to 10 feet as part of that attack. This movement does not provoke an opportunity attack from the creature that triggered the opportunity attack.</p>
+<p><strong>Flowing Sand (Technique):</strong> Any time you score a critical hit or reduce a creature to 0 hit points with a melee attack, as a reaction you can move up to 10 feet and make a single melee attack.</p>
+<h4 id="master_10">Master<a class="headerlink" href="#master_10" title="Permanent link">&para;</a></h4>
+<p><strong>Precision Strike (Maneuver):</strong> When you miss with a weapon attack, as a reaction you may spend 1 resolve 
+die. Roll it and add the result to your attack roll. If your new attack roll would have hit your target, roll 
+damage as normal.</p>
+<p><strong>Deadly Strike (Technique):</strong> When you take the Attack action, you may choose to not apply your proficiency bonus to your attack roll. If your attack hits, you deal additional damage equal to double your proficiency bonus. This damage is of the same type as 
+your weapon.</p>
+<p><strong>Reactive Strike (Technique):</strong> When a creature within 5 feet of you makes an attack against one of your allies, they provoke an opportunity attack from you.</p>
+<p>14</p>
+<h1 id="arrow-storm">Arrow Storm<a class="headerlink" href="#arrow-storm" title="Permanent link">&para;</a></h1>
+<p><strong>Requirements:</strong> Proficiency with either longbow or shortbow, Dexterity of 13 or higher.</p>
+<p><strong>Weapons:</strong> Longbow and shortbow</p>
+<p><strong>Physical Training:</strong> When you first learn this combat style, increase your Dexterity score by 1, to a maximum of 20.</p>
+<p><strong>Maneuver and Technique DC</strong> = 8 + your Dexterity modifier + your proficiency bonus.</p>
+<h4 id="journeyman_11">Journeyman<a class="headerlink" href="#journeyman_11" title="Permanent link">&para;</a></h4>
+<p><strong>Double Arrow (Maneuver):</strong> As a bonus action you may spend 1 resolve die to notch two arrows for a single ranged weapon attack. You roll a single attack roll against one target or two different targets which must be within 10 feet of each other.</p>
+<p><strong>Always Armed (Technique):</strong> You may use your arrows as melee weapons. Arrows are considered light weapons which deal 1d4 piercing damage and possess the finesse quality.</p>
+<p><strong>Snap Shot (Technique):</strong> If you start the combat with an arrow nocked and are not surprised you may take an opportunity attack with your bow against one target within 30 feet. You may not apply sneak attack dice, smites, or maneuvers to this attack.</p>
+<h4 id="master_11">Master<a class="headerlink" href="#master_11" title="Permanent link">&para;</a></h4>
+<p><strong>Snap Shot ( (Maneuver):</strong> When you successfully hit a creature with a ranged weapon attack you may spend 1 resolve die as a reaction. Roll the resolve die you spent and add the result to the damage dealt. Your target must make a successful Dexterity saving throw or drop an object they are holding, which falls at their feet. If your target is holding one or more items, you choose which one they drop. You cannot disarm shields, worn weapons, or anything that is strapped onto the person.</p>
+<p><strong>Quick Reactions (Technique):</strong> You may take opportunity attacks with your bow as if you had a reach of 10 feet.</p>
+<p><strong>Close Quarters Archery (Technique):</strong> Attacking with a longbow or shortbow in melee does not impose disadvantage on your ranged weapon attack rolls.</p>
+<p>15</p>
+<h1 id="crushing-wave">Crushing Wave<a class="headerlink" href="#crushing-wave" title="Permanent link">&para;</a></h1>
+<p><strong>Requirements:</strong> Strength (Athletics) and proficiency with trident and net.</p>
+<p><strong>Weapons:</strong> Net and trident</p>
+<p><strong>Physical Training:</strong> When you learn this combat style, increase your Strength or Dexterity score by 1, to a maximum of 20.</p>
+<p><strong>Maneuver and Technique DC</strong> = 8 + your Dexterity or Dexterity modifier + your proficiency bonus.</p>
+<h4 id="journeyman_12">Journeyman<a class="headerlink" href="#journeyman_12" title="Permanent link">&para;</a></h4>
+<p><strong>Disarm Foe (Maneuver):</strong> When you successfully hit a creature with a melee weapon attack, you may spend 1 resolve die as a reaction. Roll the resolve die you spent and add the result to the damage dealt. Your target must make a successful Dexterity saving throw or drop their weapon. If your target is wielding more than one weapon, you choose which one they drop.</p>
+<p>**Shielding Net (Technique): **While wielding a net in your off hand, you increase your AC by +2.</p>
+<p><strong>Netting (Technique):</strong> You do not suffer disadvantage for throwing a net while in melee combat. Additionally, if you miss with your attack you may reset the net as a bonus action, allowing you to attack with it a second time during the same attack action.</p>
+<h4 id="master_12">Master<a class="headerlink" href="#master_12" title="Permanent link">&para;</a></h4>
+<p><strong>Entangling Defense (Maneuver):</strong> Anytime you are the target of a melee weapon attack, as a reaction you may spend 1 resolve die to entangle your opponent in your net. This reaction is resolved prior to the triggering attack. The attacker must make a Dexterity 
+saving throw or become restrained.</p>
+<p><strong>Flowing Sand (Technique):</strong> Anytime you score a critical hit or reduce a creature to 0 hit points with a melee attack, as a reaction you may move up to 10 feet and make a single melee attack.</p>
+<p>**Deadly Strike (Technique):**mWhen you take the Attack action, you may choose not to apply your proficiency bonus to your attack roll. If your attack hits, you deal additional damage equal to double your proficiency bonus. This damage is of the same type as your weapon.</p>
+<p>16</p>
+<h1 id="galloping-ram">Galloping Ram<a class="headerlink" href="#galloping-ram" title="Permanent link">&para;</a></h1>
+<p>This style is practiced by the Yhing hir horsemen of the Hinterlands, though historically it was the preferred style of the Maghir people before they settled in the First City under the Tomal Khan. While their time in the First City has led them away from their ancient raiding ways, many of the Maghir clans still maintain the tradition of mounted archery among their warriors.</p>
+<p><strong>Requirements:</strong> Proficiency with shortbow, Dexterity of 13 or higher.</p>
+<p><strong>Weapons:</strong> Shortbow</p>
+<p><strong>Physical Training:</strong> When you first learn this combat style, increase your Dexterity score by 1, to a maximum of 20.</p>
+<p><strong>Maneuver and Technique DC</strong> = 8 + your Dexterity modifier + your proficiency bonus.</p>
+<h4 id="journeyman_13">Journeyman<a class="headerlink" href="#journeyman_13" title="Permanent link">&para;</a></h4>
+<p><strong>Galloping Shot (Maneuver):</strong> While on horseback, when you successfully hit an opponent with a ranged weapon attack after riding your mount 20 feet or more, you may spend a resolve die, adding the result to your attack’s damage. Additionally, add that same result to your mount’s armor class until the beginning of your next turn.</p>
+<p><strong>Shifting Saddle (Technique):</strong> When your mount is successfully attacked or forced to make a saving throw, you may spend a reaction to replace your mount’s AC against that attack or replace your mount’s saving throw with your passive Wisdom (Animal Handling).</p>
+<p><strong>Fancy Riding (Technique):</strong> You gain proficiency in Animal Handling. If you are already proficient with that skill, you gain advantage on all Wisdom (Animal Handling) checks involving riding or maintaining control of your mount.</p>
+<h4 id="master_13">Master<a class="headerlink" href="#master_13" title="Permanent link">&para;</a></h4>
+<p><strong>Crippling Shot (Maneuver):</strong> As a bonus action, upon making a successful hit with a ranged weapon attack, you may spend a resolve die to force your target to make a Constitution saving throw. On a failed save, the arrow becomes deeply embedded, imposing a 1d4 penalty on all attack rolls until they spend an action to remove the arrow. Multiple crippling shots upon one target do not stack.</p>
+<p><strong>Distracting Shot (Technique):</strong> When you successfully hit an opponent with a ranged weapon attack, they may not take reactions until the beginning of their next turn.</p>
+<p><strong>Nimble Horsemanship (Technique):</strong> Mounting your horse only costs you 5 feet of your movement, you gain advantage on all Dexterity saving throws to remain in the saddle, and may dismount as a free action any time your mount is knocked prone.</p>
+<p>17</p>
+<h1 id="laughing-viper">Laughing Viper<a class="headerlink" href="#laughing-viper" title="Permanent link">&para;</a></h1>
+<p>Originally developed by the Order of the Laughing Vipers, holy champions of Larissa, this fighting style relies on drawing the opponent off-guard and taking advantage of their mistakes. The practitioner puts on a show, taunting through quips or movements, goading the opponent to strike.</p>
+<p><strong>Requirements:</strong> Member of the Order of the Laughing Viper or cleric of Larissa, proficient in gladius, side sword and shields.</p>
+<p><strong>Weapons:</strong> Gladius, short sword, shield and side sword.</p>
+<p><strong>Physical Training:</strong> When you first learn this combat style, increase your Dexterity score by 1, to a maximum of 20.</p>
+<p><strong>Maneuver and Technique DC</strong> = 8 + your Dexterity modifier + your proficiency bonus.</p>
+<h4 id="journeyman_14">Journeyman<a class="headerlink" href="#journeyman_14" title="Permanent link">&para;</a></h4>
+<p><strong>Cunning Feint (Maneuver):</strong> When you successfully hit a creature with a melee weapon attack, as a reaction you can spend 1 resolve die to force your target to make a Wisdom saving throw. If they fail their saving throw you gain advantage on all subsequent melee attacks against that creature until the end of your turn.</p>
+<p><strong>Biting Taunts (Technique):</strong> You gain proficiency in Intimidation. If you are already proficient, you gain double your proficiency bonus when making Charisma (Intimidation) checks. If you possess the Challenge feat, anyone who fails their Wisdom saving throw against your challenge also suffers disadvantage on their next attack roll against you.</p>
+<p><strong>Deadly Strike (Technique):</strong> When you take the Attack action, you may choose not to apply your proficiency bonus to your attack roll. If your attack hits, you deal additional damage equal to double your proficiency bonus.</p>
+<h4 id="master_14">Master<a class="headerlink" href="#master_14" title="Permanent link">&para;</a></h4>
+<p><strong>Slashing Trip (Maneuver):</strong> When you successfully hit a creature with a melee weapon attack you may spend 1 resolve die as a reaction. Roll the resolve die you spent and add the result to the damage dealt. Your target must also make a successful Dexterity saving 
+throw or fall prone.</p>
+<p><strong>Distracting Strike (Technique):</strong> When you successfully strike an opponent with a melee attack, they may not take reactions until the beginning of their next turn.</p>
+<p><strong>Threatening Stance (Technique):</strong> Creatures within your reach provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.</p>
+<h1 id="road-maces">Road Maces<a class="headerlink" href="#road-maces" title="Permanent link">&para;</a></h1>
+<p><strong>Requirements:</strong> Proficiency with quarterstaff, mace, and Dexterity (Acrobatics).</p>
+<p><strong>Weapons:</strong> Quarterstaff or twin “iron rods” (maces).</p>
+<p><strong>Physical Training:</strong> When you first learn this combat style, increase your Strength or Dexterity score by 1, to a maximum of 20.</p>
+<p><strong>Maneuver and Technique DC</strong> = 8 + your Dexterity or Dexterity modifier + your proficiency bonus.</p>
+<h4 id="journeyman_15">Journeyman<a class="headerlink" href="#journeyman_15" title="Permanent link">&para;</a></h4>
+<p><strong>Pressing Attack (Maneuver):</strong> When you successfully hit a creature with a melee weapon attack, you may spend 1 resolve die as a reaction. Roll the resolve die  you spent and add the result to the damage dealt. Your target must make a successful Strength or Dexterity saving throw or be moved back 10 feet. If you choose, you may move with your target; this movement does not provoke attacks of opportunity from enemies.</p>
+<p><strong>Defensive Stance (Technique):</strong> If you are not wielding a shield, as a bonus action you can increase your AC by 2 until the end of your next turn.</p>
+<p><strong>Flexible as a Reed (Technique, unique):</strong> In your hands, staves, and maces gain the finesse quality.</p>
+<h4 id="master_15">Master<a class="headerlink" href="#master_15" title="Permanent link">&para;</a></h4>
+<p><strong>Stunning Blow (Maneuver):</strong> When you successfully hit a creature with a melee weapon attack, you may spend 1 resolve die as a reaction. Roll the resolve die you spent and add the result to the damage dealt. Your target must make a successful Constitution saving throw or be stunned until the end of their next turn.</p>
+<p><strong>Mother’s Reach (Technique, unique):</strong> While wielding a staff, your reach increases by 5 feet, and creatures within your reach provoke opportunity attacks from you even if they take the Disengage action before leaving your reach. While wielding twin maces, if a creature moves into an area within 10’ of you, you may use your reaction to move 10’ and perform a single melee attack against that creature.</p>
+<p><strong>Fancy Footwork (Technique):</strong> Anytime you score a critical hit, or reduce a creature to 0 hit points, as a reaction you can take the Dash or Disengage action.</p>
+<h1 id="_9">Личный боевой стиль<a class="headerlink" href="#_9" title="Permanent link">&para;</a></h1>
+<p><strong>Требование:</strong> У персонажа не должно быть навыка Боевой школы. </p>
+<p>Некоторые воители разрабатывают свой собственный уникальный боевой стиль методом проб и ошибок. Вы создали стиль который подходит вам но ему не хватает отточенности и глубины системы, которая развивалась на протяжении десятилетий.</p>
+<p>При создании личного боевого стиля вы должны выбрать предпочитаемое оружие и желательный вид доспехов. Если техника требует от вас использования оружия, щита или доспеха этот предмет должен быть частью списка требуемого для личного боевого стиля оружия и доспехов.</p>
+<p>Вы получаете преимущества от вашего личного стиля только если вы умеете владеть и используете ваше избранное оружие.</p>
+<p>Выберите или Силу или Ловкость - какая характеристика лучше всего отражает вашу манеру боя? Эта же характеристика будет определять УС маневров и техник вашего личного боевого стиля (его нельзя изменить после выбора). УС будет равен 8 + модификатори избранной характеристики + бонус мастерства.</p>
+<p>Выберите две ученических техники и один ученический маневр из боевых стилей. Когда вы берете этот навык в первый раз вы получаете два куба превосходства для использования с маневрами. При получении этого навыка второй раз вы получаете дополнительный куб превосходства и можете выбрать дополнительные технику и маневр из любого боевого стиля. Также куб превосходства увеличиться до к8.</p>
+<p>You cannot have the Combat School Training feat.</p>
+<p>Some warriors develop their own unique combat style through trial and error. You have created a style that works for you but lacks the refinement and depth of a system with many years of development.
+► When building your personal style, you must create a list of chosen weapons and preferred armor types. If a technique requires you to use a weapon, shield, or armor that item must be part of your personal combat weapon and armor list. 
+You can only gain the benefits of your personal style if you are proficient in and wielding your chosen weapons.
+► Choose between Strength or Dexterity to determine your personal style’s maneuver and technique DC. You cannot change the attribute once chosen. Your maneuver and technique DC becomes 8 + your chosen ability modifier + your proficiency bonus.
+► Choose two journeymen techniques and one journeymen maneuver from the combat styles.
+► When you first take this feat, you gain 2 resolve dice to use for your maneuvers. You can take this feat again to gain an additional resolve die, as well as one technique and one maneuver from any of the combat styles. When you take this feat a second time your resolve die increases to a d8.</p>
+<h1 id="hawkeye">Hawkeye<a class="headerlink" href="#hawkeye" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisite:</strong> Dexterity 13 or higher</p>
+<p>You have spent countless hours training with a single ranged weapon, learning how to place the arrow or bullet exactly where you want it. You gain the following benefits when making attacks with a ranged weapon:</p>
+<ul>
+<li>
+<p>You suffer no penalties for attacking at long range.</p>
+</li>
+<li>
+<p>You ignore penalties for firing at targets behind threequarter or half cover.</p>
+</li>
+<li>
+<p>Before making an attack, you may choose to not apply your proficiency bonus to your attack roll. If your attack hits, you deal additional damage equal to double your proficiency bonus.</p>
+</li>
+</ul>
+<h1 id="crossbow-adept">Crossbow Adept<a class="headerlink" href="#crossbow-adept" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisite:</strong> Dexterity 13 or higher</p>
+<p>Your hands move with blurring efficacy allowing you to load weapons with amazing speed. You gain the following
+benefits:</p>
+<ul>
+<li>
+<p>You become proficient with the Sleight of Hand skill. If you are already proficient, you instead add double your proficiency bonus to ability checks you make with Sleight of Hand.</p>
+</li>
+<li>
+<p>You ignore the loading quality on crossbows with which you are proficient.</p>
+</li>
+<li>
+<p>Being adjacent to a hostile creature no longer imposes disadvantage on your ranged attack rolls when firing a crossbow</p>
+</li>
+</ul>
+<p>// Скорее минус. </p>
+<h1 id="spell-and-steel">Spell and Steel<a class="headerlink" href="#spell-and-steel" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisite:</strong> Spellcasting feature</p>
+<p>You have mastered several combat techniques that allow you to blend both spell casting and melee combat with relative ease. You gain the following benefits:</p>
+<ul>
+<li>
+<p>You gain a +5 bonus on Constitution saving throws to maintain concentration on a spell after suffering damage.</p>
+</li>
+<li>
+<p>You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.</p>
+</li>
+<li>
+<p>You may choose to make a weapon your spellcasting focus. Doing so requires a day to forge a bond between yourself and your chosen weapon. You may have up to two bonded weapons at any one time. If you wish to bond yourself to a third weapon you must choose one of your bonded weapons and break the bond you have with it. </p>
+</li>
+</ul>
+<p>// Вставляй кристалл или колокольчик в рукоять оружия и забей. Варкастер лучше.</p>
+<h1 id="pistoleer">Pistoleer<a class="headerlink" href="#pistoleer" title="Permanent link">&para;</a></h1>
+<p>You have incredibly fast hands and can use flintlock pistols ith amazing accuracy and grace, even during combat. You
+gain the following benefits:</p>
+<p>• You gain proficiency with flintlock pistols and the flintlock kit.</p>
+<ul>
+<li>
+<p>Once per turn, when you take the Attack action, you may reload a flintlock if you have a free hand.</p>
+</li>
+<li>
+<p>Being adjacent to a hostile creature no longer imposes disadvantage on you ranged attack rolls when firing a flintlock pistol.</p>
+</li>
+<li>
+<p>Whe have an uncanny eye and steady hand, both of which make you especially deadly with a firearm rifle. You gain the following benefits: </p>
+</li>
+<li>
+<p>You gain proficiency with  pistols,  rifles, and the flintlock kit.</p>
+</li>
+<li>
+<p>Once per turn, when you take the Attack action, you may reload a flintlock if you have a free hand.</p>
+</li>
+<li>
+<p>When firing a  rifle while prone, as a bonus action you may take aim, granting you advantage on your attack roll.</p>
+</li>
+<li>
+<p>As an action, when firing a  rifle while prone, you can line up one, perfect shot. Make one ranged attack with a  rifle. If you successfully hit you deal an additional 2d8 piercing damage for each attack you could have taken with an attack action. For example, a 17<sup>th</sup> level fighter (3 attacks) would deal an additional 6d8 piercing damage.</p>
+</li>
+</ul>
+<h1 id="powerful-cant">Powerful Cant<a class="headerlink" href="#powerful-cant" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisite:</strong> Divine spellcaster </p>
+<p>There is one cant (divine spell) you have come to cherish and whenever you cast it you are filled with righteous awe. Choose one spell of 1<sup>st</sup> level or higher that you can cast with your spell slots. This spell must be from a divine spellcasting class that you have levels in, and you cannot change this spell once you have chosen it. When you cast your chosen spell, you gain the following benefits:</p>
+<ul>
+<li>
+<p>You always have your chosen spell prepared and it doesn’t count against the number of spells you can prepare each day.</p>
+</li>
+<li>
+<p>Anyone attempting to interrupt or end your chosen spell with counterspell or dispel magic must make an ability check using their 
+spellcasting ability regardless of your spell’s level. </p>
+</li>
+<li>
+<p>When you roll for damage or healing with your spell, you may treat any 1 on a damage or healing die as a 2. If your spell doesn’t deal damage or heal, you may treat your spell as if you had cast it with a spell slot one level higher than the one you used to cast the spell, up to a 6<sup>th</sup> level spell slot. </p>
+</li>
+</ul>
+<h1 id="spiritual-awakening">Spiritual Awakening<a class="headerlink" href="#spiritual-awakening" title="Permanent link">&para;</a></h1>
+<p>You have attracted the attention of a lesser spirit, who has blessed you with the ability to cast a lesser spell and gifted you with an aspect of its power, for a price of course.</p>
+<p>You learn a cantrip of your choice from the shaman spell list. </p>
+<p>Choose one boon available to 1<sup>st</sup> level shaman; the spirit that grants this boon is now your spirit guide and you must abide by its taboo. You are now a primal spell caster and must abide by all restrictions and requirements of that Arcanum.</p>
+<h1 id="powerful-prayer">Powerful Prayer<a class="headerlink" href="#powerful-prayer" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisite:</strong> Access to the divine Arcanum</p>
+<p>There is one particular prayer you have come to cherish.</p>
+<p>When you recite it you feel the power of the words and channel them with righteous intent.</p>
+<p>Choose one spell you can cast of 1<sup>st</sup> level of higher. Once this spell is chosen you may not change it.</p>
+<ul>
+<li>
+<p>Your spell becomes more difficult to counter, requiring the caster of counterspell to make an ability check regardless of the spell’s level.</p>
+</li>
+<li>
+<p>When casting your chosen spell you may use your bonus action to select a number of targets equal to the spell slot used to cast your chosen spell. The targets must be within 30 feet of you and members of your church. Those targets are under the effects of a bless spell until the end of your next turn. You may not use this ability again until you complete a short rest.</p>
+</li>
+</ul>
+<h1 id="spell-affinity">Spell Affinity<a class="headerlink" href="#spell-affinity" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisite:</strong> Access to the arcane or primal Arcanum You have mastered a particular spell above all others, allowing you to slightly alter it in the casting.</p>
+<p>Choose one spell you can cast of 1<sup>st</sup> level or higher. When you cast this spell it is difficult to counter, requiring the caster of counterspell to make an ability check regardless of the spell’s level. Also, when you cast this spell you may use your bonus action to gain one of the following benefits. Once an option is used you may not use it again until you complete a short rest.</p>
+<ul>
+<li>
+<p>Cast as if using a spell slot one level higher.</p>
+</li>
+<li>
+<p>Gain advantage on your spell attack roll.</p>
+</li>
+<li>
+<p>Surround your target in aura of dim magical light for 10</p>
+</li>
+</ul>
+<h1 id="tactical-leadership">Tactical Leadership<a class="headerlink" href="#tactical-leadership" title="Permanent link">&para;</a></h1>
+<p><strong>Prerequisite:</strong> Intelligence or Charisma 13 or higher</p>
+<p>You have been trained in tactics and have experience with leading warriors into battle. You gain the following 
+benefits:</p>
+<ul>
+<li>
+<p>You learn two tactics of your choice from the Tactician martial archetype of the fighter class. If a tactic requires your target to make a saving throw to resist the tactic’s effects, the saving throw DC equals 8 + your proficiency bonus + your Intelligence bonus.</p>
+</li>
+<li>
+<p>If you have tactical points, you gain one more; otherwise, you gain 1 tactical point. Tactical points are used to fuel your tactics. You regain your expended tactical points after completing a short or long rest. </p>
+</li>
+</ul>
+<h2 id="tactical-maneuvers">Tactical Maneuvers<a class="headerlink" href="#tactical-maneuvers" title="Permanent link">&para;</a></h2>
+<p>1 <strong>Brutal Ambush:</strong> When you and your allies catch an enemy by surprise the results are simply devastating. When you attack a surprised creature, you may spend 1 tactical point as a reaction to grant all friendly creatures within 30 feet who can hear or see you advantage on their next attack roll before the end of their next turn.</p>
+<p>2 <strong>Distracting Strike:</strong> With an attack, you draw a creature’s attention, allowing your allies to disengage safely. When you hit a creature with a melee attack, you may spend 1 tactical point to prevent that creature from taking reactions until the end of your next turn.</p>
+<p>3 <strong>Hammer and Anvil:</strong> You set up a combined attack, trapping your opponent between you and your allies. As an action, you may make a single melee weapon attack and, if you hit, you may spend 2 tactical points to force that creature to make a Wisdom saving throw. If your target fails, they immediately provoke an opportunity attack from any single friendly creature of your choice that is adjacent to the creature you struck.</p>
+<p>4 <strong>Knight’s Move:</strong> You position yourself and an ally into an advantageous position. Immediately after making an opportunity attack, you
+may spend 1 tactical point to allow a single friendly creature within 30 feet who can hear and see you to instantly move
+15 feet.</p>
+<p>5 <strong>On My Mark:</strong> Sometimes it’s best to lead by example. As part of an attack action, you may spend 1 tactical point to grant a single ally within 30 feet who can hear and see you advantage on their next attack roll against the creature you attack. If your ally successfully hits with this attack they deal an additional 1d6 damage. This damage increases to 1d8 when you reach 5<sup>th</sup> level, 11<sup>th</sup> level becomes 1d10 and finally, 1d12 at 17<sup>th</sup> level.</p>
+<p>6 <strong>Rallying Cry:</strong> You call upon your allies and inspire them to greater acts of heroism. As an action, you may spend 2 tactical points to grant all friendly creatures within 60 feet who can hear or see you a number of temporary hit points equal to 1d10 + your Intelligence modifier. These temporary hit points fade away after 1 minute.</p>
+<p>7 <strong>Stand your Ground:</strong> With a shout, you command your allies to set themselves to receive a charge. When a creature moves within 10 feet of you or an ally within 30 feet of you, as a reaction you can call out to your allies to be ready for an attack. You spend 1 tactical point and all friendly creatures within 30 feet who can hear or see you gain resistance against bludgeoning, piercing, and slashing damage from non-magical weapons until the end of their next turn.</p>
+<p>8 <strong>Strategic Maneuver:</strong> In battle, positioning is everything. As a bonus action, you may spend 1 tactical point to let a
+friendly creature within 60 feet who can hear or see you use their reaction to move up to their speed. </p>
+<p>9 <strong>Strike the Rod:</strong> You can put the fear of a training sergeant into your allies, helping them to shake off lesser fears.
+Whenever one of your allies becomes frightened, as a reaction you can help them regain their composure. You spend 1 tactical point and all friendly creatures within 60 feet who can hear or see you can make a new saving throw to shake off any effect which has resulted in the frightened condition. If the effect that granted the frightened condition does not grant a saving throw, your allies must make a DC: 20 Charisma saving throw to remove the frightened condition. </p>
+<p>10 <strong>Tempting Target:</strong> By making yourself a target for an attack, you force your opponent to overextend, leaving a perfect opening for your allies.
+When you take the Attack action, you may spend 1 tactical point as a bonus action to force a creature within your reach to make a Wisdom saving throw. If your target fails its saving throw, all friendly creatures who saw the attack gain advantage on their next attack roll against your target. Regardless of the result of the saving throw, if the target attacks anyone other than you during its next turn it suffers disadvantage on their attack roll</p>
+<p>11 <strong>Warning Shout:</strong> You warn your allies to dive for cover! When a friendly creature within 60 feet who can hear and see you is the target of a spell, you can use your reaction to shout a warning to them. You spend 1 tactical point and that creature gains advantage on their saving throw against the triggering spell. If the spell has no save your ally gains resistance against the triggering spell’s damage instead.</p>
+<h1 id="born-in-the-saddle">Born in the Saddle<a class="headerlink" href="#born-in-the-saddle" title="Permanent link">&para;</a></h1>
+<p>You were raised riding a horse or a similar animal, and were always eager to mount up and ride off. </p>
+<p>You gain the following benefits:</p>
+<ul>
+<li>You gain proficiency in Animal Handling. </li>
+</ul>
+<p>If you are already proficient, you instead add double your proficiency bonus to ability checks you make with Animal Handling.• You gain advantage on all Wisdom (Animal Handling) checks when attempting to control your mount. </p>
+<ul>
+<li>
+<p>While mounted, you gain advantage on all melee attack rolls against unmounted creatures which are smaller than your mount.</p>
+</li>
+<li>
+<p>When your mount is attacked with a melee or ranged weapon attack, as a reaction you can redirect the triggering attack to yourself.</p>
+</li>
+<li>
+<p>When your mount is required to make a Dexterity saving throw against a spell or effect that deals half damage with a successful save, as a reaction you may replace your Wisdom (Animal Handling) check for your mount’s Dexterity saving throw. If your check is successful, your mount suffers no damage from the triggering effect. </p>
+</li>
+</ul>
+<h1 id="advanced-armor-training">Advanced Armor Training<a class="headerlink" href="#advanced-armor-training" title="Permanent link">&para;</a></h1>
+<p>You have spent countless hours conditioning your body to the needs of wearing armor. You gain the following 
+benefits: </p>
+<ul>
+<li>
+<p>Your Dexterity, Constitution, or Strength score increases by 1, to a maximum of 20.</p>
+</li>
+<li>
+<p>When you first take this feat, choose either light, medium, or heavy armor. You must be proficient in the type of armor you choose. </p>
+</li>
+</ul>
+<p>While wearing your chosen armor, you gain the listed benefits: </p>
+<ul>
+<li>
+<p>Light Armor: Your AC is increased by 1.</p>
+</li>
+<li>
+<p>Medium Armor: You can add 3, rather than 2, to  your AC if you have a Dexterity of 16 or higher.</p>
+</li>
+<li>
+<p>Heavy Armor: Bludgeoning, piercing, and  slashing damage that you take from non-magical  weapons is reduced by 3. </p>
+</li>
+</ul>
+<p>You may choose this feat more than once, selecting a different type or armor each time. You gain the benefits of each of your chosen types of armor.</p>
+<h1 id="homebrew-feats">Homebrew feats<a class="headerlink" href="#homebrew-feats" title="Permanent link">&para;</a></h1>
+<h2 id="blackstaff-apprentice">Blackstaff Apprentice<a class="headerlink" href="#blackstaff-apprentice" title="Permanent link">&para;</a></h2>
+<p>Prerequisite: Wizard levels • Blackstaff Tower Faction <span><span class="MathJax_Preview">Rank 3+</span><script type="math/tex">Rank 3+</script></span> You have trained as an apprentice of Khelben &ldquo;Blackstaff&rdquo; Arunsun. His skill in magic is regarded Realms-wide, and many well-known mages learned their Art at his tower in the city of Waterdeep.</p>
+<p>You gain proficiency in one of the following skills: Arcana, History or Religion. You may &ldquo;store&rdquo; a spell you can prepare as a wizard into a staff focus you own; this spell may not be higher in level than your Intelligence bonus. For all intents and purposes, this spell is considered to be a spell you have prepared for as long as you are in physical contact with your staff. You may change out the spell contained in the staff during a short rest. You have a +1 bonus to AC while you wield a staff in <span><span class="MathJax_Preview">at least</span><script type="math/tex">at least</script></span> one hand. You can &ldquo;bundle&rdquo; your attunement to Blackstaff Tower into attunement with a magical staff. Being attuned to both the Tower and the staff count as just a single &ldquo;attunement.&rdquo; </p>
+<h2 id="scrivener">Scrivener<a class="headerlink" href="#scrivener" title="Permanent link">&para;</a></h2>
+<p>You are not only a fine penman and calligrapher, but you have unlocked the magics inherent in the written word, understanding them as few do.</p>
+<p>Increase your Intelligence by 1. You gain proficiency in one additional language. When creating certain magic items, each day of work is worth 100gp toward the time to finishing the item, rather than the normal 50gp. Only magic items that include extensive writing are included in this category, including scrolls of all kinds, magical books, and the like. You gain advantage on checks <span><span class="MathJax_Preview">including passive checks</span><script type="math/tex">including passive checks</script></span> to detect the presence of dangerous writing-based magical traps and wards. If the spell or effect does not include a check to detect it, you may make a normal Intelligence <span><span class="MathJax_Preview">Calligrapher's Supplies</span><script type="math/tex">Calligrapher's Supplies</script></span> check at a DC 12 + spell level to detect it. You also gain advantage on saving throws against all symbol- or writing-based magics, including glyphs, symbols, and the like.</p>
+<div class="codehilite"><pre><span></span>## Combat style feats
+
+**Stance:** You may only utilize one stance feat at a time. You must use a bonus action to enter a stance and you can switch stances as a bonus action.
+The following core feats are now treated as (stance) feats:
+• Dual Wielder
+• Great Weapon Master
+• Polearm Master
+• Shield Master
+• Sentinel
+
+Tier: Some feats possess more than one rank of abilities (initiate, journeyman, and master). When you first take a btiered feat you learn the initial abilities. You may take the feat a second and then third time to learn the journeyman and master level abilities. 
+</pre></div>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../fighting-styles/" title="Боевые стили" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Назад
+                </span>
+                Боевые стили
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../combat-maneuvers/" title="Боевые маневры" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Вперед
+                </span>
+                Боевые маневры
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2019 Palant и команда Киборгов и Чародеев
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/palikhov" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/AVPalikhov" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://linkedin.com/in/avpalikhov" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+          
+            
+              
+              
+                <script src="../../../assets/javascripts/lunr/lunr.ru.js"></script>
+              
+            
+          
+            
+              
+              
+            
+          
+          
+            <script src="../../../assets/javascripts/lunr/lunr.multi.js"></script>
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>

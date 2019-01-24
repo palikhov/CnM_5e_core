@@ -1,0 +1,1535 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.">
+      
+      
+      
+        <meta name="author" content="Антон Палихов aka Palant">
+      
+      
+        <meta name="lang:clipboard.copy" content="Копировать в буфер">
+      
+        <meta name="lang:clipboard.copied" content="Скопировано в буфер">
+      
+        <meta name="lang:search.language" content="en, ru, uk">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Совпадений не найдено">
+      
+        <meta name="lang:search.result.one" content="Найдено 1 совпадение">
+      
+        <meta name="lang:search.result.other" content="Найдено # совпадений">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Измененные правила - D&D "Palant edition"</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../../../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#_1" tabindex="1" class="md-skip">
+        Перейти к содержанию
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../../.." title="D&D "Palant edition"" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">library_books</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                D&D "Palant edition"
+              </span>
+              <span class="md-header-nav__topic">
+                Измененные правила
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Начните печатать для поиска
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../../.." title="Главная" class="md-tabs__link md-tabs__link--active">
+        Главная
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../character-creation/" title="Домашние правила" class="md-tabs__link">
+          Домашние правила
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../../.." title="D&D "Palant edition"" class="md-nav__button md-logo">
+      
+        <i class="md-icon">library_books</i>
+      
+    </a>
+    D&D "Palant edition"
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../.." title="Главная" class="md-nav__link">
+      Главная
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      Домашние правила
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Домашние правила
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../character-creation/" title="Правила по созданию персонажей" class="md-nav__link">
+      Правила по созданию персонажей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-2" type="checkbox" id="nav-2-2">
+    
+    <label class="md-nav__link" for="nav-2-2">
+      Расы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-2">
+        Расы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../races/shade/" title="Шейд" class="md-nav__link">
+      Шейд
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../races/feyri/" title="Фейри (демонфеи)" class="md-nav__link">
+      Фейри (демонфеи)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-3" type="checkbox" id="nav-2-3">
+    
+    <label class="md-nav__link" for="nav-2-3">
+      Изменения системы классов и самих классов
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-3">
+        Изменения системы классов и самих классов
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/classes/" title="Классы" class="md-nav__link">
+      Классы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/arcanis-work/" title="Классы из Арканиса" class="md-nav__link">
+      Классы из Арканиса
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/barbarian/" title="Варвар" class="md-nav__link">
+      Варвар
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/elder-sorcerer/" title="Древние колдуны" class="md-nav__link">
+      Древние колдуны
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/fighter/" title="Боец (воин)" class="md-nav__link">
+      Боец (воин)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/mystic/" title="Мистик" class="md-nav__link">
+      Мистик
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/paladin/" title="Паладин" class="md-nav__link">
+      Паладин
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/ranger-rework/" title="Рейнджер" class="md-nav__link">
+      Рейнджер
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/rogue/" title="Специалист (авантюрист)" class="md-nav__link">
+      Специалист (авантюрист)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/shaman/" title="Шаман" class="md-nav__link">
+      Шаман
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/sorcerer/" title="Чародей (Sorcerer)" class="md-nav__link">
+      Чародей (Sorcerer)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/wizard/" title="Волшебник (маг)" class="md-nav__link">
+      Волшебник (маг)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/warlock/" title="Колдун (Warlock)" class="md-nav__link">
+      Колдун (Warlock)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-4" type="checkbox" id="nav-2-4">
+    
+    <label class="md-nav__link" for="nav-2-4">
+      Настраивая персонажа
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-4">
+        Настраивая персонажа
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/fighting-styles/" title="Боевые стили" class="md-nav__link">
+      Боевые стили
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/languages.md" title="Языки" class="md-nav__link">
+      Языки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/feats/" title="Навыки (feats)" class="md-nav__link">
+      Навыки (feats)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/combat-maneuvers/" title="Боевые маневры" class="md-nav__link">
+      Боевые маневры
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-5" type="checkbox" id="nav-2-5">
+    
+    <label class="md-nav__link" for="nav-2-5">
+      Заклинания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-5">
+        Заклинания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/item-enchanting-spells/" title="Зачарование предметов" class="md-nav__link">
+      Зачарование предметов
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/cantrips/" title="Кантрипы" class="md-nav__link">
+      Кантрипы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/spells-3rd-lvl/" title="3й круг заклинаний" class="md-nav__link">
+      3й круг заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells.md" title="Общий список" class="md-nav__link">
+      Общий список
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-6" type="checkbox" id="nav-2-6">
+    
+    <label class="md-nav__link" for="nav-2-6">
+      Снаряжение
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-6">
+        Снаряжение
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment.md" title="Снаряжение" class="md-nav__link">
+      Снаряжение
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/drugs/" title="Наркотики" class="md-nav__link">
+      Наркотики
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/herbalism/" title="Травы и гербализм" class="md-nav__link">
+      Травы и гербализм
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/monster-parts-harvesting/" title="Использование частей тел чудовищ" class="md-nav__link">
+      Использование частей тел чудовищ
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../magic-items.md" title="Волшебные предметы" class="md-nav__link">
+      Волшебные предметы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../traps/" title="Ловушки" class="md-nav__link">
+      Ловушки
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-9" type="checkbox" id="nav-2-9">
+    
+    <label class="md-nav__link" for="nav-2-9">
+      Дикая природа
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-9">
+        Дикая природа
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../environment/hazards-weather-encounters-silver-marches/" title="Случайные встречи и погода в Серебрянных пределах" class="md-nav__link">
+      Случайные встречи и погода в Серебрянных пределах
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-10" type="checkbox" id="nav-2-10">
+    
+    <label class="md-nav__link" for="nav-2-10">
+      Время между приключениями (XGE+)
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-10">
+        Время между приключениями (XGE+)
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/buying-a-magic-item/" title="Покупка волшебных вещей" class="md-nav__link">
+      Покупка волшебных вещей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/research/" title="Исследования" class="md-nav__link">
+      Исследования
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/crafting-an-item/" title="Создание предмета" class="md-nav__link">
+      Создание предмета
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/crime/" title="Преступления" class="md-nav__link">
+      Преступления
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/gambling/" title="Азартные игры" class="md-nav__link">
+      Азартные игры
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/pit-fighting/" title="Подпольные бои" class="md-nav__link">
+      Подпольные бои
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/relaxation/" title="Отдых-отдых-отдых" class="md-nav__link">
+      Отдых-отдых-отдых
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/religious-service/" title="Религиозная служба" class="md-nav__link">
+      Религиозная служба
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/scribing-a-spell-scroll/" title="Написание свитка заклинаний" class="md-nav__link">
+      Написание свитка заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/selling-a-magic-item/" title="Продажа волшебного предмета" class="md-nav__link">
+      Продажа волшебного предмета
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/training/" title="Training" class="md-nav__link">
+      Training
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/work/" title="Work" class="md-nav__link">
+      Work
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-activities.md" title="Новые возможности в простое" class="md-nav__link">
+      Новые возможности в простое
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-11" type="checkbox" id="nav-2-11">
+    
+    <label class="md-nav__link" for="nav-2-11">
+      Расширенные правила
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-11">
+        Расширенные правила
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../expanded_rules.md" title="Расширенные правила" class="md-nav__link">
+      Расширенные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../mounted-combat-expanded.md" title="Бой верхом" class="md-nav__link">
+      Бой верхом
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../additional-rules/additional_rules/" title="Дополнительные правила" class="md-nav__link">
+      Дополнительные правила
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../misc/" title="Разное" class="md-nav__link">
+      Разное
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-14" type="checkbox" id="nav-2-14">
+    
+    <label class="md-nav__link" for="nav-2-14">
+      Расширенные правила по инструментам из XGE
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-14">
+        Расширенные правила по инструментам из XGE
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../tool-proficiencies/alchemists-supplies/" title="Набор алхимика" class="md-nav__link">
+      Набор алхимика
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../tool-proficiencies/herbalism-kit/" title="Набор травника" class="md-nav__link">
+      Набор травника
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../tool-proficiencies/poisoners-kit/" title="Набор отравителя" class="md-nav__link">
+      Набор отравителя
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../misc/" title="Разное" class="md-nav__link">
+      Разное
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-16" type="checkbox" id="nav-2-16">
+    
+    <label class="md-nav__link" for="nav-2-16">
+      Правила для общей кампании
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-16">
+        Правила для общей кампании
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/needs_organized_play/" title="Потребность в игротеке" class="md-nav__link">
+      Потребность в игротеке
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/shared_rules/" title="Правила общей кампании" class="md-nav__link">
+      Правила общей кампании
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/factions-renown-fame/" title="Фракции, известность, слава" class="md-nav__link">
+      Фракции, известность, слава
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../shared_campaign/three-pillars-modified/" title="Модифицированные правила трех столбов" class="md-nav__link">
+      Модифицированные правила трех столбов
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Содержание</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" title="Бой двумя оружиями" class="md-nav__link">
+    Бой двумя оружиями
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#detalisation-of-survival-and-travel-rules" title="Detalisation of survival and travel rules" class="md-nav__link">
+    Detalisation of survival and travel rules
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/homerules/expanded-rules/expanded_rules.md" title="Редактировать страницу" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <h1 id="_1">Измененные правила<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
+<h2 id="_2">Бой двумя оружиями<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<ol>
+<li>
+<p>Чтобы сделать атаку офф-хендом, достаточно чтобы только офф-хендовое оружие было легким.</p>
+</li>
+<li>
+<p>При наличи экстра атаки – первая атака офф хендом делается как часть действия Атаки. При наличии двух экстра атак (файтер 11) – можно сделать вторую атаку офф-хендом бонусным действием. При наличии трех атак – можно сделать вторую атаку как часть действия атаки и третью бонусным действием .</p>
+</li>
+<li>
+<p>Можно стрелять из двух легких дистанционных оружий .</p>
+</li>
+</ol>
+<h2 id="detalisation-of-survival-and-travel-rules">Detalisation of survival and travel rules<a class="headerlink" href="#detalisation-of-survival-and-travel-rules" title="Permanent link">&para;</a></h2>
+<h1 id="_3">Достижения как условие повышение уровня<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h1>
+<p>Это опциональное правило требует чтобы персонаж прежде чем получить уровень совершил то или иное деяние, характерное для его класса.</p>
+<p>Вехами, на которых требуются достижения являются:</p>
+<ul>
+<li>5 уровень</li>
+<li>11 уровень</li>
+<li>17 уровень</li>
+</ul>
+<h2 id="_4">Базовые классы<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<h3 id="fighter">Fighter<a class="headerlink" href="#fighter" title="Permanent link">&para;</a></h3>
+<p>5 уровень - необходимо победить могущественного противника в честном бою</p>
+<p>11 уровень - необходимо владеть собственным замком и иметь отряд солдат под своим руководством или получить воинское звание</p>
+<h3 id="wizard">Wizard<a class="headerlink" href="#wizard" title="Permanent link">&para;</a></h3>
+<p>5 уровень - придумать именное заклинание 3его круга или создать необычный предмет разработав схему</p>
+<p>11 уровень - иметь двух учеников с доступом к заклинаниям не меньше 2ого круга И разработать именное заклинание не ниже 5ого круга ИЛИ создать редкий предмет разработав схему</p>
+<h3 id="cleric">Cleric<a class="headerlink" href="#cleric" title="Permanent link">&para;</a></h3>
+<h3 id="rogue">Rogue<a class="headerlink" href="#rogue" title="Permanent link">&para;</a></h3>
+<h2 id="_5">Дополнительные классы<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h2>
+<h3 id="paladin">Paladin<a class="headerlink" href="#paladin" title="Permanent link">&para;</a></h3>
+<h3 id="ranger">Ranger<a class="headerlink" href="#ranger" title="Permanent link">&para;</a></h3>
+<h3 id="barbarian">Barbarian<a class="headerlink" href="#barbarian" title="Permanent link">&para;</a></h3>
+<h3 id="monk">Monk<a class="headerlink" href="#monk" title="Permanent link">&para;</a></h3>
+<h3 id="bard">Bard<a class="headerlink" href="#bard" title="Permanent link">&para;</a></h3>
+<h3 id="druid">Druid<a class="headerlink" href="#druid" title="Permanent link">&para;</a></h3>
+<h3 id="sorcerer">Sorcerer<a class="headerlink" href="#sorcerer" title="Permanent link">&para;</a></h3>
+<h3 id="warlock">Warlock<a class="headerlink" href="#warlock" title="Permanent link">&para;</a></h3>
+<h1 id="_6">Управление животными<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h1>
+<h2 id="_7">Тренировка животных<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h2>
+<h2 id="_8">Поведение животных в бою<a class="headerlink" href="#_8" title="Permanent link">&para;</a></h2>
+<h2 id="_9">Шаблон варбиста<a class="headerlink" href="#_9" title="Permanent link">&para;</a></h2>
+<h1 id="_10">Знания<a class="headerlink" href="#_10" title="Permanent link">&para;</a></h1>
+<p>Использование знаний является опциональным правилом и позволяют более точно описать знания персонажа. В любой момент когда персонаж может выбрать любой навык в инструментах, вместо этого он может выбрать изученные знания, которые позволят добавлять ему к проверкам характеристик бонус proficiency.</p>
+<h2 id="lore">LORE<a class="headerlink" href="#lore" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th align="left">field of lore</th>
+<th align="left">Skill</th>
+<th align="left">description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cultural lore</td>
+<td align="left">History</td>
+<td align="left">customs, aphorisms, and legends of a particular culture</td>
+</tr>
+<tr>
+<td align="left">forbidden lore</td>
+<td align="left">Arcana or Religion</td>
+<td align="left">cults and their practices, lost languages, and the planes of existence and their inhabitants</td>
+</tr>
+<tr>
+<td align="left">hobbyist lore</td>
+<td align="left">?</td>
+<td align="left">in-depth knowledge of a niche interest, such as current and past standings for a knightly tournament, art of a particular style, a deep understanding of a particular philosophy, or all the plays penned by a particular playwright</td>
+</tr>
+<tr>
+<td align="left">magical lore</td>
+<td align="left">Arcana</td>
+<td align="left">spells, magic items, eldritch symbols, and magical traditions</td>
+</tr>
+<tr>
+<td align="left">military lore</td>
+<td align="left">History</td>
+<td align="left">battles, coats of arms, weaponry, fortifications, and tactics</td>
+</tr>
+<tr>
+<td align="left"><del>natural lore</del></td>
+<td align="left">Nature</td>
+<td align="left">terrain, plants and animals, the weather, and natural cycles</td>
+</tr>
+<tr>
+<td align="left">planar lore</td>
+<td align="left">Arcana</td>
+<td align="left">planes of existence, demiplanes, and planar mechanics</td>
+</tr>
+<tr>
+<td align="left">Political lore</td>
+<td align="left">History</td>
+<td align="left">kingdoms, rulers, courtly etiquette, and the lineages, mottoes, and emblems of noble houses</td>
+</tr>
+<tr>
+<td align="left">religious lore</td>
+<td align="left">Religion</td>
+<td align="left">deities, rites and prayers, ecclesiastical hierarchies, and holy symbols subterranean lore, including lore about caves as well as the flora, fauna, and peoples living underground</td>
+</tr>
+<tr>
+<td align="left">trade lore</td>
+<td align="left">History</td>
+<td align="left">materials, manufacture, a specific craft <span><span class="MathJax_Preview">such as smithing, brewing, or cooking</span><script type="math/tex">such as smithing, brewing, or cooking</script></span>, and commerce</td>
+</tr>
+</tbody>
+</table>
+<h1 id="battle-formations">BATTLE FORMATIONS<a class="headerlink" href="#battle-formations" title="Permanent link">&para;</a></h1>
+<p>Battle formations are specific combat maneuvers and positioning which grants some benefits or hindraces on the battlefield. From the simple circle formation to the complex testudo, all of them require coordination and some training to be performed. Every formation requires an Intelligence check to be performed, assigned by the DM, that can be done by the commanding officer or by the lowest intelligence member if the group is improvised. A failed check wastes the action and movement of the entire group. A long standing military unit has advantage to the formation, and a newly formed one or one composed by chaotic-aligned creatures has disadvantage to the roll. New Skill: Military training. A character with this skill can apply its proficiency bonus to Intelligence checks made to direct or teach a formation, train people in basic units, recall lore about fortifications, strategy and battle tactics or about ranks and offices in an army. This skill can be learned by Fighters, Paladins and Bards, or people with the Soldier, Noble or Knight backgrounds.</p>
+<h2 id="arrow-volley">Arrow Volley<a class="headerlink" href="#arrow-volley" title="Permanent link">&para;</a></h2>
+<p>Difficulty: Easy</p>
+<p>If at least ten archers are in the same line, they can release a high, arcing volley of arrows as an action. Rather than aiming at a specific target, they concentrate their arrows in an area, striking anything here. The creatures under an arrow volley must succeed on a DC 15 Dexterity Save or being struck by 1d6 arrows which deal their normal damage without Dexterity modifiers. A testudo formation or a high shield wall protect as normal. Because they fire in a high arc, they can ignore any form of horizontal cover, such as horizontal shield walls or trenches. </p>
+<h2 id="cavalry-charge">Cavalry Charge<a class="headerlink" href="#cavalry-charge" title="Permanent link">&para;</a></h2>
+<p>Difficulty: Average 
+Cavalry charges are shock tactics. A cavalry charge starts with a dash from the horses with a polearm such as a lance automatically wins initiative, and makes an attack when enters in its weapon’s reach. If it hits, the weapons doubles the damage dice <span><span class="MathJax_Preview">EG: a lance in a cavalry charge deals 2d12+str. modifier piercing damage</span><script type="math/tex">EG: a lance in a cavalry charge deals 2d12+str. modifier piercing damage</script></span> and the target must succeed on a Strength Saving Throw or being knocked prone and trampled by the mount. If more than half the cavalry units succeed on trampling their targets, it is considered a successful charge, and the enemy formations are broken. The targets must succeed a DC 15 to 20 (if the cavalry is at about the same number of the defenders) Wisdom saving throw or being Frightened and flee of the battlefield.</p>
+<p>The cavalry charge needs relatively flat, featureless terrain and cannot be performed on a difficult terrain, such as going up a hill or a forested plain. Also, infantry units can prepare for a cavalry charge if they have reach weapons and a disciplined formation such as a phalanx. If the phalanx readies an action to engage, they act first and the charging cavalry takes double damage and must succeed a Strength saving throw or being dismounted and knocked prone. </p>
+<h2 id="cavalry-dash">Cavalry Dash<a class="headerlink" href="#cavalry-dash" title="Permanent link">&para;</a></h2>
+<p>Difficulty: Average A cavalry dash can be done only by trained horsemen and mounts. A cavalry dash has the same effects as any dash action, and doubles the movement of the mount. Any action with an area of effect (such as an arrow volley or  fireball) requires an Intelligence check with a DC of 8 + 1 for every 10 feet covered dashed or fail. This way, a warhorse cavalry moving 120 feet has a DC of 20. Also, even when the check is successful, the cavalry gains Advantage in dexterity saving throws. </p>
+<h2 id="circlesquare-formation">Circle/Square Formation<a class="headerlink" href="#circlesquare-formation" title="Permanent link">&para;</a></h2>
+<p>Difficulty: Easy Creatures on a circle formation move at half speed but cannot be flanked. It is one of the easiest defensive formations. Line Difficulty-Very Easy The line is the base formation. Creatures in a line don’t hinder each other’s attacks and can focus fire and prepare to receive a charge. The main advantage of the line is its difficulty to be flanked, the protection of the rear ranks and the possibility to focus fire effectively. A line can move at their standard movement, Parthian Circle Difficulty: Average A Parthian Circle is a fast archer’s cavalry formation. The cavalry can use a reaction to move up to their horses’ speed when an enemy tries to approach to melee range or use a spell. Also, enemy projectiles have disadvantage to reach the formation. </p>
+<h2 id="phalanx">Phalanx<a class="headerlink" href="#phalanx" title="Permanent link">&para;</a></h2>
+<p>Difficulty: Hard</p>
+<p>As an action, a phalanx formation crams several creatures in a tight polearm formation at the cost of speed and attack capability. A phalanx reduces the movement speed by half, but allows cramming twice as much fighters in the same space. The phalanx must attack with polearms or spears, or do it at disadvantage. Any creature attacking frontally a phalanx does it at disadvantage, and automatically provokes opportunity attacks from anyone on reach if it doesn’t take the Disengage action. A phalanx can be combined with a shield wall or testudo for maximum defensive effectivity. </p>
+<h2 id="shield-wall">Shield Wall<a class="headerlink" href="#shield-wall" title="Permanent link">&para;</a></h2>
+<p>Difficulty: Easy Anyone on the front rank of a shield wall has all the benefits of half cover; anyone in the second rank has three-quarters cover, and anyone beyond that has total cover. This formation reduces the speed of the creatures forming it in 10 feet, and attacks from weapons without a long shaft <span><span class="MathJax_Preview">like spears or battleaxes</span><script type="math/tex">like spears or battleaxes</script></span> are made at disadvantage. If the creatures pass the Saving Throw, they receive no damage from effects that require a Dexterity saving throw. Use: This is an effective formation to minimize the effects of area of effect spells, such as fireballs, as the first ranks may fall, but the second and third don’t. </p>
+<h2 id="skirmish-formation">Skirmish Formation<a class="headerlink" href="#skirmish-formation" title="Permanent link">&para;</a></h2>
+<p>Difficulty: Easy </p>
+<p>If the soldiers in a formation are concerned about large area effects, they sometimes advance at their speed every round and then ready an action to disperse if they hear the warning. When a formation disperses, the soldiers as a reaction can move up to their speed away from the center of the formation, and everyone else moves to a space not adjacent to any other soldier. This dispersal can help to reduce the casualties from a catapult or ballistae projectile or a powerful area of effect spell, such as a fireball. Even if they are in the center of the effect, the creatures have advantage in Dexterity saving throws as they are prepared to receive the spell, as if they had taken the Dodge action, although none of the other benefits applies. The main disadvantage of this practice is that tight groups of soldiers, such as a line formation, have advantage against the dispersed formation. Creatures in a very close formation, such as a phalanx, have disadvantage in the formation check. </p>
+<h2 id="total-cover">Total Cover<a class="headerlink" href="#total-cover" title="Permanent link">&para;</a></h2>
+<p>Difficulty:Average 
+As an action, a group of creatures with shields spends all its movement and form an improved shield wall which grants total cover and advantage on Strength saves in one direction. A group in total cover cannot attack, automatically fails Dexterity saving throws and has disadvantage on Wisdom <span><span class="MathJax_Preview">Perception</span><script type="math/tex">Perception</script></span> checks that rely on sight. If the creatures already are in a shield wall formation, it only takes a reaction to form it. Use: The Total Cover is the poor man’s testudo formation, as it doesn’t need as much training to use. Creatures with proficiency on shields can use it at a command to protect themselves against projectiles. </p>
+<h2 id="testudo">Testudo<a class="headerlink" href="#testudo" title="Permanent link">&para;</a></h2>
+<p>Difficulty Very Difficult </p>
+<p>Trained creatures can spend an action to perform a testudo <span><span class="MathJax_Preview">a bonus action if they are already in a phalanx or shield wall formation</span><script type="math/tex">a bonus action if they are already in a phalanx or shield wall formation</script></span>. This formation consists on several creatures to form a close formation akin to the shield wall, but with a “roof” of shields too. Creatures under a testudo have total cover against any ranged attack or spell, and the same benefits of a shield wall against melee attacks or spells. Creatures inside a testudo halve their speed, and their attacks are made at disadvantage. Use: The testudo formation is the most effective defensive formation, but it has its weakness: it is very slow, and it is very easy to flank. Also, as the maneuver is highly coordinated, it is impossible to use it without proper training and coordination <span><span class="MathJax_Preview">such as a soldier background, military training or the fighter class</span><script type="math/tex">such as a soldier background, military training or the fighter class</script></span>: only professional soldiers such as hobgoblins can use it. Chaotic creatures are impossible to coordinate, and neutral creatures form a testudo in twice the normal time. Besides, creatures in a testudo formation have problems to attack enemy formations. Besides, a testudo can be easily broken by massive solid projectiles, such as a catapult’s fire, a ballista missile or a giant’s rock. Against such weapons, the soldiers forming the testudo automatically fail any dexterity saving throw. </p>
+<h2 id="wedge">Wedge<a class="headerlink" href="#wedge" title="Permanent link">&para;</a></h2>
+<p>Difficulty: Average </p>
+<p>A wedge formation is used primarily for attack other formations. A wedge formation consists on a reinforced center to break the enemy lines and two “wings” to prevent being outflanked. The wedge has advantage against static or line formations on the first attack. Also, the units moving inside an enemy formation don’t provoke opportunity attacks from them. Use: This formation is usually used by heavy cavalry but also by heavy infantry to engage against enemy lines. Its main weakness is the dependence on the central column of attack. If the formation is pinned down, it can be broken easily and the enemy may flank it.</p>
+<p>FORMATION   -   DC  -   TIME    -   EFFECT</p>
+<p>Arrow Volley    -   10  -   Action  -   Area of effect 1d6 arrows’ damage. </p>
+<p>Cavalry Charge  -   15  -    Action  -   Wins initiative, weapons deal double damage; it frighten enemies if it breaks formations. Receives double damage by polearms.</p>
+<p>Cavalry Dash  -   15  -   Action  -   AoE effects need a 8+1 per 10 feet covered DC skill check, and the cavalry has advantage in Dexterity checks</p>
+<p>Circle  -   10  -   Action  -   Half movement, cannot be flanked Line 5 Movement Normal movement, difficult to flank, don’t hinder attacks.</p>
+<p>Parthian Circle  -   15  -   Movement  -   Can dash as a reaction, attacks against it have disadvantage (light cavalry only).</p>
+<p>Phalanx 20  -   Action  -   Half movement, provides opportunity attacks against anyone entering a rank’s reach, doubles the amount of units in the same space, doubles damage against charging creatures. </p>
+<p>Shield Wall  -   10  -   Bonus Action  -   Provides half cover in 1<sup>st</sup> rank, % in 2<sup>nd</sup> rank, total cover in 3<sup>rd</sup>; a successful dexterity save prevents all damage from that source <span><span class="MathJax_Preview">soaked by the shield</span><script type="math/tex">soaked by the shield</script></span>.</p>
+<p>Skirmish  -   10  -   Reaction  -   Can move as a reaction against an AoE.</p>
+<p>Total Cover  -   15  -   Readied Ac. Movement becomes 0. Provides total cover in one direction.</p>
+<p>Testudo  -   25  -   Action  -   Half movement, provides total cover, attacks are at disadvantage.</p>
+<p>Wedge  -   15  -   Action  -   Breaks enemies’ formations, prevents opportunity attacks if breaks in.</p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2019 Palant и команда Киборгов и Чародеев
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/palikhov" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/AVPalikhov" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://linkedin.com/in/avpalikhov" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+          
+            
+              
+              
+                <script src="../../../assets/javascripts/lunr/lunr.ru.js"></script>
+              
+            
+          
+            
+              
+              
+            
+          
+          
+            <script src="../../../assets/javascripts/lunr/lunr.multi.js"></script>
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>

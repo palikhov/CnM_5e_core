@@ -1,0 +1,134 @@
+https://wiki.roll20.net/Game_Management
+
+
+https://app.roll20.net/forum/post/6919811/my-macros-dot-spell-book-attack-targeting-macros-and-more-%3E-i-will-update-when-i-make-more
+https://wiki.roll20.net/Dice_Rolling_GUI
+https://wiki.roll20.net/Token_Features
+https://wiki.roll20.net/Dice_Reference
+https://wiki.roll20.net/Custom_FX
+https://wiki.roll20.net/FX_Library
+
+https://wiki.roll20.net/Useful_links_for_mapping
+https://app.roll20.net/forum/post/5899495/stupid-roll20-tricks-and-some-clever-ones/?pageforid=6827714#post-6827714
+
+https://app.roll20.net/forum/post/6790397/release-fixes-and-improvements-userscript#post-6801338
+
+https://app.roll20.net/forum/post/5899495/stupid-roll20-tricks-and-some-clever-ones/?pageforid=6816730#post-6816730
+
+
+BTW, Just in case anyone else was following and is interested - I finally got round to looking at Luke's issue with config updating. As expected, it's a game size problem.
+
+I'd just like to re-iterate for people for the avoidance of doubt: Roll20 does not work with hundreds of character objects in the journal, particularly with the Shaped Sheet that uses lots of attributes. Luke had the entire Monster Manual and then some in his journal. Even with a single, one-line script that just printed "Ready" when the API sandbox was loaded, it took several minutes for the API sandbox to spin up.
+
+The bottom line here is that Roll20 was designed to scale with lots of users, but it was never designed to scale with game size. The platform appears to have some fairly fundamental limitations that prevent it from supporting big games in a performant way.  This is especially true of the API server, which is, AIUI,  a relatively modest piece of hardware that has to run lots of sandboxes in parallel.
+
+Up until now, this isn't something that Roll20 have shown much interest in changing. My guess is that  it would involve some major architectural changes that don't make business sense right now. If Roll20 start building bigger and bigger modules themselves for WotC this might change, but they may just find privileged ways of optimising their own content without changing things for user-generated stuff.
+
+TL;DR: huge library games of content don't work on Roll20 and are unlikely to do so any time soon. The official Roll20 approach is: use the Compendium; if you want to make your own monster library games, you're probably going to have to split them up to avoid performance problems.
+
+
+
+/w gm &{template:npcaction} {{description=**UTILITY MENU**
+**Companion**
+[Help](~DMUtils|5ehelp) | [Status](~DMUtils|5estatus) | [Ammotracking on](~DMUtils|5eammotracking) | [Longrest](~DMUtils|5elongrest) | [Spelltracking](~DMUtils|5espelltracking) 
+
+**Token Setup**
+[Setup Mookрџ‘ї](~DMUtils|Monster-Token-Setup) | [Setup Unique NPCрџ‘¤](~DMUtils|NPC-Token-Setup) |
+[Setup Allyрџє](~DMUtils|)
+[Set Default Token](~DMUtils|)
+**рџ’°Treasure**
+[вќ—пёЏSelected](~DMUtils|) | [рџ“¦Selected Hoard](~DMUtils|)
+[вќ—пёЏIndividual](~DMUtils|) | [рџ“¦Hoard](~DMUtils|)
+[Config](~DMUtils|)
+**Concentration**
+[Config](~DMUtils|)
+**LazyLoot**
+[Loot config](~DMUtils|) | [Loot](~DMUtils|)
+**LazyXP**
+[XP](~DMUtils|) [Config](~DMUtils|)
+**Statusinfo**
+[Config](~DMUtils|Statusinfo-config)
+**Deathtracker**
+[Config](~DMUtils|Deathtracker-config)
+**Combat Tracker**
+[Config](~DMUtils|CT-config) | 
+[Combat Tracker start](~DMUtils|CT-start) | [Combat Tracker stop](~DMUtils|CT-stop) | [CT next](~DMUtils|CT-next) | [CT previous](~DMUtils|CT-prev) | [CT stop round](~DMUtils|CT-stop-round) | [CT pause round](~DMUtils|CT-pause-round) | [CT condition](~DMUtils|CT-condition)
+------
+[Menu 2]() | [Menu 3]()
+}}
+
+PageFX set to 1,000 ms. 10' square
+
+Mist FX:
+{
+"angle": 0,
+"angleRandom": 180,
+"duration": -1,
+"emissionRate": 1,
+"endColour": [32, 0, 255, 0],
+"endColourRandom": [0, 0, 60, 0],
+"gravity": {"x":0.01, "y":0.1},
+"lifeSpan": 30,
+"lifeSpanRandom": 3,
+"maxParticles": 50,
+"size": 50,
+"sizeRandom": 25,
+"speed": 3,
+"speedRandom": 1.5,
+"startColour": [255, 255, 255, 0.1],
+"startColourRandom": [0, 0, 0, 0]
+}
+
+
+Roll20 Handout / Character Info Editor is a WYSIWYG HTML Editor
+TUTORIAL
+Did you know that the editors for the bio and info on Roll20’s handouts and character sheets is secretly a WYSIWYG editor? You can actually modify the HTML directly by viewing the page’s source in your browser’s DOM editor.
+
+Accessing the DOM inspector
+
+Example of the the what it looks like
+
+Editing the element
+
+You can edit the CSS of the element using the style editor, and (at least on Chrome) you can edit the text of an element by double-clicking it in the inspector.
+
+Beware! If you modify any element in the inspector, you have to also modify the same element in the Description & Notes editor! This is due to a really annoying bug in the editor itself, and I don’t know of any other workarounds =c
+
+Here are some of the basic ways you can make use of this:
+
+You can edit the style attribute of elements. This allows you to change stuff like fonts, colors, background images, and so on.
+
+You can use elements that you otherwise can’t access using the basic editor, such as <div> and <span>, description list elements like <dl> <dt> and <dd>, as well as the missing table footer <tfoot> element.
+
+You can manually create <img> tags, which have a secret feature where you can resize them from the editor.
+
+Here are a few disappointing observations about this editor:
+
+Any time you modify an existing element, you have to also have to make some kind of alteration to the text, otherwise it won’t get saved. Even then, it sometimes doesn’t work. It’s very finicky that way. This is very likely a bug, and it’s very frustrating.
+
+The editor doesn’t support custom classes. When you save the text, all classes get “userscript-” added to the beginning of the name. There are no existing CSS selectors in the stylesheets for “userscript-” classes that I know of. It’s disappointing since it means you can’t make use of any of the existing stylesheets, but I understand why they did this.
+
+The Roll20 website doesn’t make use of very many fonts, so you are mostly limited to arial and the other fonts that you can access with the text tool.
+
+The <samp>, <kbd>, and <var> aren’t whitelisted =c
+
+One cool way you can make use of this feature is that you can create a bunch of letter handouts using a single reusable background image. I’m using this for my Dragon Heist game, in which there are a bunch of factions that might send the players on missions.
+
+
+
+
+For anyone interested, here is the CSS I used to make the handout. Remember to replace %%URL%% with the URL of the background texture you use. This is the paper texture I used.
+
+width: 40rem; 
+padding: 2rem; 
+margin: auto; 
+background-color: papayawhip; 
+background-image: url("%%URL%%");
+line-height: 18px; 
+font-size: 1.44em; 
+font-family: "contrail";
+----------------
+
+Hiya! I haven’t formally introduced myself yet. My name is Emmy, I’m part of the mod team here on /r/Roll20. If I’m not playing Dungeons and Dragons, I’m most likely thinking about my characters or learning something in the world of computer science.
+
+I’ve been using Roll20 frequently since 2015, and I’ve learned more than is reasonable about the platform and its quirks. My goal as a member of the mod team is to help others learn about Roll20 and harness it’s potential. If you have any questions for me or you just want to talk, you can message me or talk to me in the comments.
