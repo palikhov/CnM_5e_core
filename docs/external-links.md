@@ -11,7 +11,7 @@
 ## Links
 
 [Table of Tables](https://www.reddit.com/r/BehindTheTables/wiki/index)
-[On war in DndD](https://www.reddit.com/r/DnDBehindTheScreen/comments/4tz8ho/on_war_in_dungeons_and_dragons/)
+[On war i](https://www.reddit.com/r/DnDBehindTheScreen/comments/4tz8ho/on_war_in_dungeons_and_dragons/)
 ## Отличные генераторы
 
 ### Kassoon

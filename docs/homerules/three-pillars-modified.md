@@ -46,12 +46,12 @@ For discovering both Items and Locations, each player gains 5% at their tier, 5%
 #### Items
 
 In this version, players are rewarded for discovering magic items that are of the highest nonconsumable rarity suggested for their tier as per Xanathar's Guide.
-
-| Tier 1 | A single art object or gem worth 100 gp or more, or a major uncommon item |
+| :---  |
 | :--- | :--- |
-| Tier 2 | A single art object or gem worth 1,000 gp or more, or a major rare item |
-| Tier 3 | A single art object or gem worth 5,000 gp or more, or a major very rare item |
-| Tier 4 | A single art object or gem worth 50,000 gp or more, or a major legendary item |
+| 1 | A single art object or gem worth 100 gp or more, or a major uncommon item |
+| 2 | A single art object or gem worth 1,000 gp or more, or a major rare item |
+| 3 | A single art object or gem worth 5,000 gp or more, or a major very rare item |
+| 4 | A single art object or gem worth 50,000 gp or more, or a major legendary item |
 
 #### Locations
 
