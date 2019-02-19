@@ -1061,8 +1061,108 @@ Weapon immunity: tiny swarms can be damaged only by aoe effects such as alchemis
 
 ## FAQ
 
+# Измерение времени - About time measurement
+
+Gary Gygax said “YOU CANNOT HAVE A MEANINGFUL CAMPAIGN IF STRICT TIME RECORDS ARE NOT KEPT.“
+ 
+I almost didn’t post this for fear of it being misused. Please don’t simply look up the parties travel pace below, determine what was found, mark off the time and move on. This is a role playing game after all. The following is intended as an aid in Dungeon Mastering a game, not as a substitute for it.
+ 
+Time in a dungeon is measured in minutes – switching to 6 second rounds when there is an encounter.
+ 
+The following is my interpretation of the official rules and a few of my house rules mixed in, presented here as advice to Dungeon Masters. Where I refer to “you”, I mean the DM. This is specifically for a dungeon crawls, but most of it applies to all similar situations. This is intended as a guide for tracking time passage in a dungeon and also for a guide in deciding when to use a character’s passive perception score or to roll a perception check.
+ 
+The Dungeon Master describes what the PCs can see, hear, etc. Most of the time you can expect that the PCs are being observant so if they could notice something, they will notice it. So don’t wait for a player to say his character is examining the floor, or looking for footprints to tell them that there’s an obvious set of footprints on the floor in front of him. Players can ask questions or tell you what their PCs are going to do (or attempt to do). Players should never have to refer to skill names to do this. You decide if they need to roll an ability or skill check and which one. To keep the game moving at a reasonable pace, I recommend that you keep the die rolling to a minimum. If a player’s character would most likely notice something or recognize something or understand something based on his abilities and background, no roll is required. Just tell him.
+ 
+The DM will roll all of the PCs search checks in secret and tell the players what, if anything, their characters found. That way, if they don’t find anything, they won’t know if there wasn’t anything there or if there was something and they didn’t find it. Another advantage of rolling behind your DM screen is that you can ignore the roll when necessary. If you want them to find something (or not find it), ignore the roll and tell them what they found (or that they didn’t find anything).
+ 
+Ask them for their marching order, but don’t ask if they are moving at a “fast pace”, “normal pace” or “slow pace”. That makes it sound too much like a computer game. Instead, simply ask them what they are doing. Use their answer to determine their pace and use that to help you determine how long it will take and what they do or do not notice.
+ 
+In addition to the fast pace, normal pace and slow pace listed in the Player’s Handbook, I have added a “very fast” pace and an ”extremely slow” pace.
+ 
+Overview:
+ 
+1) Moving at a very fast pace they automatically fail all perception checks. If they say “We are getting out of here as fast as we can” they are obviously not going to take the time to check for traps or secret doors so they are moving at a very fast pace (600 feet per minute).
+ 
+2) Moving at a fast pace uses their passive perception scores with a -5 penalty. If they say “We are going to move through here as quickly as we can and still be on the lookout for traps”, you can say to yourself that that sounds like a fast pace (400 feet per minute).
+ 
+3) Moving at a normal pace uses their passive perception scores. If they don’t give you any indication of how fast or cautiously they are moving through corridors, assume that they are moving at this pace. If they say “We are going to be watching for hidden monsters and checking for traps and secret doors as we proceed cautiously down the corridor”, you know that, even though this sounds like it might be a slow pace it is actually the normal way adventurers would explore a dungeon so it is a normal pace (300 feet per minute).
+ 
+4) Moving at a slow pace they can be stealthy or search for things. If they don’t give you any indication of how fast they are searching a room, assume that they are moving at this pace. They make a Dexterity (Stealth) check if they are hiding or being stealthy. Make a Wisdom (Perception) check for them if they are searching for secret doors or traps. If not actively searching, they use their passive perception scores. If they say “We are trying not to be noticed as we proceed cautiously down the corridor” they are being stealthy and can only move at a slow pace (200 feet per minute).
+ 
+5) Moving at an extremely slowly pace they will automatically find anything that can be found. If they say “We know there must be a secret door in this corridor, so we are going to search until we find it”, you know that they are going to keep looking until they find it if they can, so they are traveling at a extremely slow pace (30 feet per minute).
+ 
+The times listed below are the suggested minimum times required. Additional time may be required depending on circumstances and PC actions. Anything found (secret doors, traps, treasures, and especially monsters) will add to the listed times below as they take the time to deal with what they have found.
+ 
+•If they find a secret door they may then attempt to find a means to open it.
+ 
+•I might have the searcher make an Intelligence (Investigation) check and subtract the results form 20 minutes for low long it takes. I will never let them find a secret door and never find out how to open it!
+ 
+•If they find a trap they may then attempt to disarm or avoid it.
+ 
+•It takes 5 minutes to disarm traps or pick a lock if proficient with thieves tools; 10 minutes otherwise. This assumes fairly straightforward mechanisms, not complex puzzles
+ 
+•If they find a treasure they may then check it for traps.
+ 
+I typically check for wandering monsters every 10 minutes (dungeon time).
+ 
+ 
+Details:
+ 
+Traversing corridors, stairs, and other passageways:
+ 
+•When moving at a very fast pace (600 feet per minute), all attempts to notice any secret doors, hidden monsters or traps will fail. This speed is equivalent to the Dash action.
+ 
+•When moving at a fast pace (400 feet per minute), passive Wisdom (Perception) scores, with a -5 penalty, will be used to see if they notice any secret doors, hidden monsters or traps.
+ 
+•When moving at a normal pace (300 feet per minute), passive Wisdom (Perception) scores will be used to see if they notice any secret doors, hidden monsters or traps.
+ 
+•When moving at a slow pace (200 feet per minute), the characters can attempt to hide or be stealthy. If hiding, Dexterity (Stealth) checks will be used against the Wisdom (Perception) checks of any monsters that are actively searching for them, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching. Moving at this pace they can actively search for hidden doors or traps. Roll a Wisdom (Perception) check for the searchers and let them know if they found anything in this 200 foot length of corridor. Let the single roll be for detecting hidden doors and/or traps regardless of what they say they are searching for. Note that if they say they are being stealthy, but don’t express an interest in watching out for traps or finding secret doors, only roll Dexterity (Stealth) checks and use passive Wisdom (Perception) scores. Conversely, if they say that they are looking for traps, or secret doors but don’t seem interested in being stealthy, roll Wisdom (Perception) checks only.
+ 
+•If the party intends to take as much time as required to thoroughly search a section of corridor, the party will be moving at an extremely slowly pace (30 feet per minute). This represents that the character is being extremely cautious and diligent in his searching. At this pace that character will automatically succeed at finding any secret doors, hidden monsters or traps that can be found by that character. [The DMG says “In some cases, a character is free to [retry a failed ability check]; the only real cost is the time it takes[…] To speed things up, assume that a character spending ten times the normal amount of time needed to complete a task automatically succeeds at that task.” This is the 5e equivalent to the 3.5e “Taking 20” rule.]
+ 
+•One character can search the walls, floor and ceiling of a 5 foot wide passage, or one side of a wider passage out to 5 feet from the wall.
+ 
+•2 characters can cover a 10 foot wide passage.
+ 
+•Characters that are searching can perform no other activities.
+ 
+•Characters that are not searching can be on the lookout for monsters. For large parties they may need one lookout near the front and another one in the rear. If a monster approaches the group from a direction that is being watched, the Dexterity (Stealth) check of that character will be used against the Wisdom (Perception) checks of any monsters that are actively searching for them, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching.
+ 
+Searching a Room:
+ 
+If the party opens a door but doesn’t enter a room and only observes it from the doorway it doesn’t take any additional time to be able to map its location and general notes about it, but not its exact size or anything about the room that cannot be quickly seen. A detailed description will require that the party enters the room.
+ 
+After they enter the room, describe what they see and ask what each character is doing. Describe the results of their activities. If they say “I am searching the room”. Don’t ask “What are you searching for?” rather say something like “What does searching the room look like? Describe exactly what your character is doing.” If they say “I am looking for secret doors.” Don’t ask which 5 foot section of wall he is searching, rather assume he will search all of the walls and use the travel paces descried below to determine his success or failure. If it makes a difference, or if you simply want him to think it might, you could ask where he is starting his search and which direction he will be searching from there. A room can be memorable and fun if you can get them to describe how they are interacting with the objects in the room.
+ 
+The party may have a different travel pace for rooms than it does for corridors. Their pace may change in a room if they discover something interesting (or dangerous) but I wouldn’t normally mark off more than 10 minutes per room unless they slow to an extremely slow pace. Your players should be able to search as much as they want. Just warn them of the consequences (time passing, wandering monsters, etc.) ahead of time.
+ 
+How pace of travel effects checking out rooms:
+ 
+•Very fast pace (600 feet per minute – measured from entrance to exit by the shortest path). Treat these rooms like corridors. They are almost running through the rooms and won’t notice anything much more than their size and location. They automatically fail all perception checks. They will be surprised by any monsters waiting for them. They may surprise monsters that aren’t expecting them.
+ 
+•Fast pace (1 minute per room). They are mostly just passing through. They can note what is in the room, its size, number and location of its exits. The Passive Wisdom (Perception) scores of the searchers, with a -5 penalty, will be used to see if they notice any secret doors, hidden monsters or traps. They are moving through the room too fast to search for any hidden treasure but will notice things that are in plain sight.
+ 
+•Normal pace (5 minutes per room). Use this pace if they want to search the room but want to be quick about it. The passive Wisdom (Perception) scores of the searchers will be used to see if they notice any secret doors, hidden monsters or traps. At this pace they can make a quick search for hidden treasure at a disadvantage using their Wisdom (Perception) scores.
+ 
+•Slow pace (10 minutes per room). Use this pace if they don’t give you any other indication of how fast they are searching a room. Use this pace if they want to loot the room, or if they want to be stealthy. Roll the Wisdom (Perception) checks of the searchers to see if they notice any secret doors, hidden monsters, hidden treasure or traps. If they are being stealthy, their Dexterity (Stealth) checks will be used against the Wisdom (Perception) checks of any monsters that are in the room or that enter the room and that are watching for them, and against the passive Wisdom (Perception) scores of any monsters that aren’t.
+ 
+•Extremely slowly pace (1 hour per room). At this pace they can carefully examine every inch of the room. At this pace they will automatically succeed at finding any secret doors, hidden monsters, hidden treasure or traps that can be found by their characters. If there is something in the room that they wouldn’t be able to find even if they rolled a 20 on an ability check and added all of their bonuses, it is beyond their ability to find so it will remain hidden.
+ 
+•The times above represent at least 2 characters searching.
+ 
+•Two characters can search the walls, floor and ceiling and everything inside of a room up to 30’ x 30’. Larger rooms, or rooms with a large amount of “stuff” may take longer. Rooms smaller than 30’ x 30’ still take the indicated time to search.
+ 
+•A single character searching the same room will take twice as long.
+ 
+•More than two characters searching the room do not reduce the time any further unless it is a very large room.
+ 
+•Characters that are searching can perform no other activities.
+ 
+•Characters that are not searching can be on the lookout for monsters. One character can watch only one entrance without penalty. If a monster approaches the group through an entrance that is being watched, the Dexterity (Stealth) check of that character will be used against the Wisdom (Perception) checks of any monsters that are actively searching for you, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching.
+
 # LINKS
 
 [Palant Deadly Frontier Bestiary](https://critterdb.com/#/bestiary/view/5c61360457cc0d3872e1918b)
 
 [Palant Streets of Waterdeep Bestiary](https://critterdb.com/#/bestiary/view/5c6134bf57cc0d3872e19180)
+
