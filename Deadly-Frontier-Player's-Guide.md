@@ -411,3 +411,5 @@ Winged elf (avariel) = 7 lvls gandicap
 ## Fighting styles changes
 
 ## Feats changes
+
+# Additional downtime activities
