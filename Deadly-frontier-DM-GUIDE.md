@@ -290,3 +290,7 @@ Weapon immunity: tiny swarms can be damaged only by aoe effects such as alchemis
 
 ## FAQ
 
+# LINKS
+
+[Palant Deadly Frontier Bestiary](https://critterdb.com/#/bestiary/view/5c61360457cc0d3872e1918b)
+
