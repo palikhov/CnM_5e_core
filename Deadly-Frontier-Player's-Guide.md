@@ -413,3 +413,7 @@ Winged elf (avariel) = 7 lvls gandicap
 ## Feats changes
 
 # Additional downtime activities
+
+# Equipment
+
+[Look here](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/equipment.md)
