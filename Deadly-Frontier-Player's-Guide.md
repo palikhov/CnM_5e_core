@@ -656,25 +656,344 @@ Winged elf (avariel) = 7 lvls gandicap
 
 # Natural Hazards
 
-# Using skills
+# Tasks and Skills
 
-## Animal Handling
+## New tools proficiency
 
-## Invvestigation
+Mounts (land)
 
-## Perception
+Mounts (air)
 
-## Insight
+## Strength
 
-## Persuassion
+### Athletics.
 
-## Deception
+You might make a Strength (Athletics] check in difficult situations encountered while climbing, jumping, or swimming. Here are examples:
+•	You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
+•	You try to jump an unusually long distance or pull off a stunt midjump.
+•	You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
 
-## Intimidation
+## Dexterity
 
-## Knowledge skills - Arcana, Nature, Religion, History
+### Acrobatics
+
+Make a Dexterity (Acrobatics] check to balance when you try to keep your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck. The DM might also call for a Dexterity (Acrobatics] check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
+
+### Sleight of Hand
+
+Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand] check. You can also draw small weapons without alerting anyone that you have done so, such as when palming a knife or sliding darts out of your sleeve. And the DM might call for a Dexterity (Sleight of Hand] check to determine whether you can lift a coin purse off another person or slip something out of another person’s pocket.
+
+### Stealth
+
+Make a Dexterity (Stealth] check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+
+### Other
+
+The DM might call for a Dexterity check when you try to accomplish one of these tasks:
+•	Keep a trap from functioning
+•	Control a heavily laden cart on a steep descent
+•	Steer a chariot around a tight turn or obstacle
+•	Pick a lock
+•	Stay in the saddle of a rearing horse
+•	Securely tie up a prisoner
+•	Wriggle free of bonds
+
+## Constitution
+
+Constitution checks are uncommon, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a creature. A Constitution check can model a creature’s attempt to push beyond normal limits, however. No skills apply to Constitution checks.
+The DM might call for a Constitution check when a character tries to accomplish one of these tasks:
+•	Hold his or her breath
+•	March for hours without rest
+•	Go without sleep
+•	Survive without food or water
+•	Quaff an entire stein of ale in one go
+•	Roll down a steep slope without taking damage
+
+## Intelligence
+
+An Intelligence check comes into play when a creature needs to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Nature, Religion, and Search skills apply to some Intelligence checks.
+
+### Arcana
+
+A character might make an Intelligence (Arcana] check to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, or the inhabitants of those planes.
+
+### History
+
+A character might make an Intelligence (History] check to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, or lost civilizations.
+
+### Nature
+
+A character might make an Intelligence (Nature] check to recall lore about terrain, plants and animals, the weather, or natural cycles.
+
+### Religion
+
+A character might make an Intelligence (Religion] #check to recall lore about deities, rites and prayers, ecclesiastical hierarchies, holy symbols, or the practices of secret cults.
+
+### Invvestigation
+
+When you look around for clues that point to a hidden object, such as a trap or secret door, or hints of a creature’s passage through an area, you make an Intelligence (Search] check.
+
+### Other
+
+The DM might call for an Intelligence check when a character tries to accomplish one of these tasks:
+•	Communicate with a creature without words
+•	Deduce what kind of weapon caused an injury
+•	Estimate the value of a precious item
+•	Pull together a disguise to help an ally pass as a city guard
+•	Determine how to cause part of a tunnel to collapse
+•	Pass off a forged document as real
+
+## Wisdom
+
+### Animal Handling
+
+When there is any question whether you can calm down a domesticated animal, keep your mount from getting spooked, or intuit an animal’s intentions, make a Wisdom (Animal Handling] check.
+
+### Perception
+
+You might make a Wisdom (Perception] check to spot, hear, or otherwise detect the presence of something. For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear creatures moving stealthily toward you in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush ahead of you on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.
+
+### Insight
+
+When you attempt to determine the true intentions of another person, such as when searching out a lie or predicting someone’s next move, you can make a Wisdom (Insight] check. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms.
+
+### Survival
+
+A character might make a Wisdom (Survival] check to hunt wild game, guide a party safely through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
+
+### Medicine
+
+When you try to stabilize a dying companion or quickly diagnose what common illness is afflicting him or her, you make a Wisdom (Medicine] check.
+
+### Other Wisdom Checks
+
+The DM might call for a Wisdom check when a character tries to accomplish one of these tasks:
+•	Figure out the direction to a source of moving air while underground
+•	Discern whether a seemingly dead or living creature is undead
+•	Sense the true direction of an echoing sound
+
+## Charisma
+
+### Persuassion
+
+When you attempt to influence someone or a group of people with your tact, social graces, or good nature, make a Charisma (Persuasion] check. Typically, you attempt to persuade someone when you are acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let you see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.
+
+### Deception
+
+When you make a Charisma (Deception] check, you are attempting to deceive someone, either verbally or through your actions, which can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass off a disguise, dull someone’s suspicions with false assurances, or maintain a straight face while telling a blatant lie.
+
+### Intimidation
+
+When you attempt to influence someone through overt threats, hostile actions, and physical violence, make a Charisma (Intimidation] check. Examples of when you would intimidate another include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
+
+### Performance
+
+You make a Charisma (Performance] check to perform before an audience with music, dance, acting, legerdemain, storytelling, or some other form of entertainment.
+
+### Other Charisma Checks
+
+The DM might call for a Charisma check when a character tries to accomplish one of these tasks:
+•	Find the best person to talk to for news, rumors, and gossip
+•	Blend into a crowd to get the sense of key topics of conversation
 
 ## Disguise Kit
+
+## Stealth
+When a creature tries to hide, it relies on its Dexterity to remain unnoticed. A creature can attempt a Dexterity (Stealth] check to sneak around, moving quietly and using cover and heavily obscured areas to avoid detection.
+
+There are two ways you can hide. If a creature can’t possibly see you, you need only to avoid making noise to avoid detection. If a creature might see you, you need to keep behind cover or stay in heavily obscured areas to remain hidden.
+
+When you try to hide from one or more creatures, your Dexterity (Stealth] check is contested by the Wisdom (Perception] check of any creature who might notice you or the Intelligence (Search] check of a creature that is actively searching for signs of your presence.
+You make one Dexterity (Stealth] check for this contest. Use that check result for all such contests you engage in until you are discovered or you stop hiding.
+
+### Conditions for Stealth
+
+In order to avoid detection, you need some way to remain out of sight, either something to hide behind or an area of poor visibility to locate yourself in.
+
+Stay out of sight. You can’t just stand in the middle of an empty, lit room and hope to avoid notice. Something must conceal you, perhaps a large object, a piece of terrain, or an immobile creature of a sufficient size, such as a slumbering dragon. Regardless of what stands between you and a viewer, it must cover at least half your body for you to hide behind it.
+
+An environmental phenomenon that obscures you from view can also provide a means to hide.
+
+A heavily obscured area typically contains darkness, opaque fog, or dense foliage. A creature in a heavily obscured area is out of sight, just as it if were hiding behind an obstruction, and thus can try to hide. A lightly obscured area typically contains dim light, patchy fog, or moderate foliage. Some monsters and characters have special abilities that enable them to try to hide even in areas that are only lightly obscured.
+
+Stay quiet. It's assumed that you try to avoid making noise while hiding, and your Dexterity (Stealth] check also represents your ability to keep quiet. If you make a noise, such as yelling a warning to an ally or knocking over a vase, you give away your position and are thus no longer hidden.
+
+### Benefit of Being Hidden
+
+You have advantage on the attack roll when you attack a creature from which you are hidden. Making an attack reveals your position, however.
+
+## Perception 
+
+As you move through a dungeon, walk along a forest trail, or search a sage's sanctum, you rely on your abilities to spot hidden clues, notice lurking monsters, find traps or secret doors, and avoid unpleasant surprises. The DM describes the scene to you, but sometimes you want your character to search for something that the DM might be omitting from the description. The perception rules help determine whether your character notices or can find a hidden object or creature.
+
+Noticing and Finding
+
+Your Wisdom (Perception] check serves as a measure of your general awareness of your surroundings, whether you notice creatures lurking in ambush, hear the stealthy tread of an approaching assassin, or catch the telltale whiff of troglodyte in the air.
+
+Your Intelligence (Investigation] check measures your ability to find something you're looking for, whether it’s the faint outline of a secret door in a wall, the hollow sound that reveals a hidden compartment in the bottom of a chest, clues to a murder, or the footsteps of an invisible creature in the dust.
+
+Sherlock Holmes, renowned for his Intelligence, is the undisputed master of finding clues and determining their significance (using the Investigation skill]. Tarzan, on the other hand, who unfailingly hears the rustle of leaves or the snap of a twig, or sees a stalking tiger or lurking snake, relies on his Wisdom (Perception).
+
+The line between using Wisdom or Intelligence can seem indistinct at times. Making an effort to notice something might seem similar to finding something you’re looking for, but it still relies on Wisdom (Perception], because it’s more about general awareness than it is about attention to detail. Likewise, if you spend a moment to scan the surrounding trees, or press your ear to a door to hear what might lurk beyond, you’re relying on Wisdom (Perception] rather than Intelligence (Investigation]. 
+
+**As a rule, if you’re not positive that Intelligence is the right choice, then Wisdom is the ability to use.**
+
+### Finding a Hidden Object
+
+When your character searches for a hidden object, such as a secret door or a trap, the DM typically asks you to make an Intelligence (Search] check. Such a check can be used to find hidden details or other information and clues that you might otherwise overlook. The DM sets the DC, as usual.
+
+In most cases, you need to tell the DM where you are looking in order for him or her to determine your chance of success. For example, a key is hidden beneath a set of folded clothes in the top drawer of a bureau. If you tell the DM that you pace around the room, looking at the walls and furniture for clues, you have no chance of finding the key, regardless of your Intelligence (Search] check result. You would have to specify that you were opening the drawers or searching the bureau in order to have any chance of success.
+Since traps and other dangers might protect hidden objects, this attention to detail is important for the game to remain fair. Just as the DM should never dictate your character’s actions, so too should you make your intentions clear to the DM when you search for concealed clues and hidden treasures.
+
+### Noticing or Finding a Hidden Creature
+
+When a creature is hiding from your character, you contest that creature’s Dexterity (Stealth] check with either a Wisdom (Perception] check
+
+or an Intelligence (Investigation] check. The DM usually asks you for a Wisdom (Perception] check if you have no idea that a creature is present and thus no reason to be actively searching, or if you're taking a moment to scan your surroundings or listen for movement. In this case, your search is a mix of looking and listening, so you don't normally need to be too specific in your description of where you're searching. A lurking foe might give itself away with a muffled cough, a trail of disturbed dust, or some other sign.
+
+The DM generally asks for an Intelligence (Investigation] check if you’re specifically searching for clues to a hidden creature’s location. Here the guidelines for finding a hidden object apply; you need to tell the DM if you’re looking at the curtains for a telltale bulge, checking the floor for footprints, or taking some other action to find the creature.
+
+### Listening at a Door
+
+As your character explores a dungeon or a similar environment, one way to be prepared for dangers ahead is to press your ear to a door in an effort to hear signs of activity beyond. If humanoid creatures are occupying the area, you might hear the casual conversation of bored sentries or a fierce argument between two rival chieftains. If a dragon is sleeping on its treasure pile, you might hear the rhythmic whisper of its breathing, perhaps punctuated by fiery snorts or the crackle of electricity around its nostrils.
+
+When you listen at a door or otherwise try to hear noise in an area, the DM asks you to make a Wisdom (Perception] check, setting the DC based on the volume of whatever you might hear.
+
+## Знания
+
+Использование знаний является опциональным правилом и позволяют более точно описать знания персонажа. В любой момент когда персонаж может выбрать любой навык в инструментах, вместо этого он может выбрать изученные знания, которые позволят добавлять ему к проверкам характеристик бонус proficiency.
+
+### LORE
+
+| field of lore | Skill | description |
+| :--- | :--- | :--- |
+| cultural lore | History | customs, aphorisms, and legends of a particular culture |
+| forbidden lore | Arcana or Religion | cults and their practices, lost languages, and the planes of existence and their inhabitants |
+| hobbyist lore | ? | in-depth knowledge of a niche interest, such as current and past standings for a knightly tournament, art of a particular style, a deep understanding of a particular philosophy, or all the plays penned by a particular playwright |
+| magical lore | Arcana | spells, magic items, eldritch symbols, and magical traditions |
+| military lore | History | battles, coats of arms, weaponry, fortifications, and tactics |
+| ~~natural lore~~ | Nature | terrain, plants and animals, the weather, and natural cycles |
+| planar lore | Arcana | planes of existence, demiplanes, and planar mechanics |
+| Political lore | History | kingdoms, rulers, courtly etiquette, and the lineages, mottoes, and emblems of noble houses |
+| religious lore | Religion | deities, rites and prayers, ecclesiastical hierarchies, and holy symbols subterranean lore, including lore about caves as well as the flora, fauna, and peoples living underground |
+| trade lore | History | materials, manufacture, a specific craft \(such as smithing, brewing, or cooking\), and commerce |
+
+# Social Interactions
+
+Exploring dungeons, overcoming obstacles, and slaying monsters are key parts of most D&D adventures, but no less important are the interactions that adventurers have with other people, monsters, and even things in the world. Nonplayer characters might serve as patrons who send the adventurers on quests and reward them for their efforts, as allies who offer them material aid to help them accomplish their goals, as companions who accompany them on their adventures, as obstacles to achieving what they desire, and as adversaries in a social or political arena. Some monsters are open to negotiation when adventurers stumble into their lairs, perhaps granting the heroes their lives in exchange for great piles of treasure or the promise of better food elsewhere. Even dungeon features such as talking statues or magic mirrors can play an important role.
+
+There are several schools of thought when it comes to handling interactions in a roleplaying game. Some players and DMs prefer to speak in character and adopt the mannerisms of their characters in the same way that an actor plays a role on stage. Others prefer to describe a character’s dialogue, giving a basic outline of what the character has to say. Neither approach is necessarily “correct,” and the approach you take has no impact on the rules for resolving interaction situations.
+
+An interaction should always be driven by the back-and-forth between an NPC and the adventurers. No rules are necessary when the adventurers ask an innkeeper for directions or purchase a new coil of rope, and the DM might not even require the characters to play out these routine interactions. Roleplaying is important in important situations, and dice should come into play only when there is uncertainty about a conversation’s outcome. When the adventurers interrogate a captive orc, it might reveal the location of its lair or it might stay silent, even in the face of death. The characters’ words and actions, and their die rolls, help determine the orc’s response.
+
+## Attitudes and Reactions
+
+The starting point for an interaction encounter is the attitude of the NPCs or monsters involved. A creature’s attitude toward the adventurers determines how it acts and how it reacts when they make some request or demand of it.
+
+During the course of an interaction, the adventurers may make requests or demands, and the Dungeon Master may ask for a Charisma check to influence that character. The results of the check are limited by the character’s attitude.
+
+Note that simply rolling badly on a Charisma check does not change the character’s attitude; a low roll (below 10] simply means the adventurer does not convince the character to do something other than its default reaction.
+
+### Friendly
+
+Friendly characters want to help and wish for the adventurers to succeed. These characters are allies, and they trust the characters. A friendly character owes them loyalty, gratitude, or service as a result of their history together. Few characters begin an encounter friendly.
+
+The only reason to make a check when dealing with a friendly character is to see if the character will take personal risks or make sacrifices on behalf of the adventurers. Otherwise, for tasks or actions that require no particular risk, effort, or cost, friendly characters usually help without question.
+
+FRIENDLY NPC REACTIONS DC Result
+
+Default The NPC will do as you wish for requests that don't involve risks or sacrifice 
+
+10 The NPC accepts a minor risk or sacrifice to do as you wish
+
+20 The NPC accepts a significant risk or sacrifice to do as you wish
+
+### Indifferent
+
+Indifferent characters have no special ties to the adventurers. They might help or hinder the adventurers, depending on what benefits them the most. The vast majority of NPCs in normal situations begin an encounter indifferent.
+
+Note that a character’s indifference does not mean the person is standoffish or uninterested. Indifferent characters might be polite, genial, surly, irritable, or anywhere in between. Being indifferent simply means the NPC does not actively work against the adventurers, nor have they yet earned the NPC’s support as an ally.
+
+A check is usually necessary when the adventurers try to persuade an indifferent character to do something.
+
+INDIFFERENT NPC REACTIONS DC Result
+
+Default The NPC offers no help or harm 
+
+10 The NPC will do as you wish without taking risks or making sacrifices
+
+20 The NPC accepts a minor risk or sacrifice to do as you wish
+
+### Hostile
+
+Hostile characters oppose the adventurers and their goals. They are enemies, and they actively work to see the adventurers fail. They often take actions to harm or stymie the adventurers.
+
+However, a character’s hostility doesn’t mean that the character will attack on sight. For example, a condescending noble might wish to see a group of upstart adventurers fail in order to keep them from rivaling him for the king’s attention; in this case, the noble might be hostile toward the adventurers, but would choose slander and scheming over direct, physical violence as a means of thwarting their efforts.
+
+Adventurers almost always need to make a fairly challenging Charisma check to convince a hostile creature to do anything on their behalf.
+
+HOSTILE NPC REACTIONS DC	Result
+
+Default The NPC opposes your actions and may take risks to do so
+
+10	The NPC offers no help or harm
+
+20 The NPC will help you as long as there are no risks or sacrifices involved
+
+## Changing Attitudes	
+
+Character attitudes are not set in stone, and the attitude of a character interacting with the party might change over the course of a conversation. Attitudes are fluid, and sometimes shift (either temporarily, or permanently] based on ongoing interactions.
+
+Permanently changing a character’s attitude requires a significant effort. It’s impossible to completely change an attitude over the course of a brief conversation, but it can change over time. A character’s attitude changes in response to actions, not words. If a character offers help to the adventurers, who then abuse that offer, the character might become hostile. Likewise, a hostile character who profits from the party’s actions can become indifferent or even friendly. After any interaction, the Dungeon Master can change the character’s attitude for the purposes of his or her next interaction with the party if the long-term results of the interaction harmed or benefited the character.
+
+Temporarily changing a character’s attitude, however, is somewhat easier and can have a significant effect on the outcome of an interaction. If the adventurers say or do the right things during an interaction, they can make a hostile character temporarily indifferent, or an indifferent character temporarily friendly. Likewise, a gaffe, insult or harmful deed might make a friendly character temporarily indifferent, or an indifferent character hostile.
+
+Typically, you cannot shift a character’s attitude (either temporarily, or permanently] more than one step during a single interaction.
+
+## Ideals, Flaws, and Bonds
+
+All characters have character traits known as ideals, flaws, and bonds, which can be used during an interaction to temporarily change a character’s attitude. Touching positively on a character’s ideals, flaws, or bonds during an interaction can shift the character’s attitude in a positive direction, and vice versa.
+
+Ideals motivate the character to act in a certain way. This encompasses everything from the character’s life goal to a core belief system.
+
+Ideals might answer any of these questions: What are the principles that this character will never betray? What would prompt this character to make sacrifices? What drives this character to act and guides its goals and ambitions? What is the single most important thing this character strives for?
+
+Flaws represent the vices, compulsions, fears, and weaknesses of a character.
+
+Flaws might answer any of these questions: What enrages the character? What is the one thing that he or she cannot bear to witness without becoming angry? What is the character afraid of? What’s the one person, concept, or event that he or she is terrified of? What are the character’s vices?
+
+Bonds represent the character’s connection to people, places, and events in the world.
+
+Bonds might answer any of these questions: Whom does the character care most about? To where does the character feel a special connection? What is the character’s most treasured possession?
+
+Whenever a request or statement in an interaction touches on a character’s ideals, flaws, or bonds, it might have a positive or negative impact on the character’s reaction, making it easier or harder to persuade the character to act. Here are some examples:
+
+*	A druid’s ideals include protecting the forest. Asking the druid to help burn down the forest betrays this ideal and would shift the druid’s reaction toward hostility.
+*	The head of the Thieves’ Guild holds ideals involving profit and larceny. Asking the guildmaster for help in pulling off a heist plays into this ideal and might get a more positive response.
+*	A barbarian chieftain’s flaw might be a fear of being perceived as weak. Trying to persuade him to back down from a fight would play right into that fear, shifting his attitude toward hostility.
+*	A farmer’s flaw might be an overwhelming fear of orcs raiding his farm. Persuading him to flee his home is much easier if the characters can play off that fear.
+*	A noble’s bonds might include his love for his dearest daughter. Asking him to put her at risk for any reason threatens that bond and shifts his attitude toward hostility.
+*	A paladin’s bonds might include his fondness for his home village. Asking him to help defend the village from attack is a relatively easy task.
+
+## Learning a Character's Traits
+
+If the adventurers can learn another character’s ideals, flaws, or bonds before or during an interaction, they can gain a significant advantage compared to stumbling blindly through the interaction. Knowing a character’s traits allows them to avoid the pitfalls associated with negatively provoking the character and might allow them to present their requests in the most favorable way.
+
+After interacting with another character for at least 10 minutes, feeling out the subject's personality and traits through conversation, a character can attempt a Wisdom (Insight] check to uncover one of the character’s ideals, flaws, or bonds. The player declares what type of trait (ideal, flaw, or bond] he or she wants to uncover, and the DC is based on the subject’s Wisdom score.
+
+Characters with a higher Wisdom are more in control of themselves and better able to mask their inner concerns.
+
+Increase the DC by up to 10 if the character consciously tries to hide a trait. If the adventurer’s check fails by 10 or more, the player character might misidentify a trait. The DM might provide a false trait or invert one of the character’s existing traits. For example, if an old sage’s flaw is that he is prejudiced against the uneducated, the inverse would indicate that the sage enjoys personally seeing to the education of the downtrodden.
+
+## Resolving the Interaction
+
+After making sure that every character has had the opportunity to engage in the interaction to the extent he or she desires, and that the players have had time to discover all that they want to know about a character’s ideals, flaws, and bonds, the DM can call for a Charisma check. (Depending on the approach the characters take, the Deception, Intimidation, or Persuasion skills might apply.] This Charisma check signals the climactic moment of the interaction, which sets the subject’s course of action with its outcome.
+Other characters participating in an interaction can influence it, for better or worse.
+
+If a helping character says or does something that would influence the interaction in a positive way, the character making the Charisma check can do so with advantage. On the other hand, if a “helping” character says something stupid or offensive, the character making the Charisma check has disadvantage on that check.
+
+Once the check has been made, further attempts are usually fruitless, at least for the time being. If the players try to press the issue once the check has been made and resolved, they run the risk of upsetting or angering the subject, potentially shifting his or her attitude toward hostility.
+
 
 # Martial combat fixes and tweaks
 
@@ -801,24 +1120,34 @@ For example a medium or smaller sized creature, wielding a melee weapon without 
 
 ## Шаблон варбиста
 
-# Знания
+# Combat
 
-Использование знаний является опциональным правилом и позволяют более точно описать знания персонажа. В любой момент когда персонаж может выбрать любой навык в инструментах, вместо этого он может выбрать изученные знания, которые позволят добавлять ему к проверкам характеристик бонус proficiency.
+## New actions
 
-## LORE
+### Charge
 
-| field of lore | Skill | description |
-| :--- | :--- | :--- |
-| cultural lore | History | customs, aphorisms, and legends of a particular culture |
-| forbidden lore | Arcana or Religion | cults and their practices, lost languages, and the planes of existence and their inhabitants |
-| hobbyist lore | ? | in-depth knowledge of a niche interest, such as current and past standings for a knightly tournament, art of a particular style, a deep understanding of a particular philosophy, or all the plays penned by a particular playwright |
-| magical lore | Arcana | spells, magic items, eldritch symbols, and magical traditions |
-| military lore | History | battles, coats of arms, weaponry, fortifications, and tactics |
-| ~~natural lore~~ | Nature | terrain, plants and animals, the weather, and natural cycles |
-| planar lore | Arcana | planes of existence, demiplanes, and planar mechanics |
-| Political lore | History | kingdoms, rulers, courtly etiquette, and the lineages, mottoes, and emblems of noble houses |
-| religious lore | Religion | deities, rites and prayers, ecclesiastical hierarchies, and holy symbols subterranean lore, including lore about caves as well as the flora, fauna, and peoples living underground |
-| trade lore | History | materials, manufacture, a specific craft \(such as smithing, brewing, or cooking\), and commerce |
+To charge, you choose a target that is at least 10 feet away from you. You move up to half your speed to a position where that target is within your reach, and then you make a melee attack against it. After the attack, your turn ends.
+
+### Hinder
+
+You distract or otherwise hinder another creature within 5 feet of you. When you hinder a creature, describe the manner in which you do so. The creature has disadvantage on the next relevant ability check or attack roll it makes before your next turn.
+
+## Attacking an Unseen Target
+
+Combatants often try to escape their foes’ notice by hiding, casting the invisibility spell, or lurking in darkness.
+
+When you attack a target that you can’t see, you have disadvantage on the attack roll, whether or not you know where the target is located. Your attack might miss because you rolled too low or because the target is nowhere near where you struck!
+
+
+## Describing the Effects of Damage
+
+Dungeon Masters describe hit point loss in different ways. When your current hit point total is half or more of your hit point maximum, you typically show no signs of injury. When you drop below half your hit point maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 hit points strikes you directly, leaving a bleeding injury or other trauma, or it simply knocks you unconscious.
+
+## Monsters and Death
+
+Most DMs have a monster die the instant it drops to 0 hit points, rather than having it fall unconscious and make death rolls.
+Mighty villains and special nonplayer characters are common exceptions; the DM might have them fall unconscious and follow the same rules as player characters.
+
 
 # BATTLE FORMATIONS
 
@@ -905,3 +1234,70 @@ Wedge  -   15  -   Action  -   Breaks enemies’ formations, prevents opportunit
 # Equipment
 
 [Look here](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/equipment.md)
+
+## Light armor
+
+Dragon leather	500 gp	12 + Dex modifier	—	—	15 lb.
+Mithral shirt	5,000 gp	13 + Dex modifier	—	—	10 lb.
+
+## Medium armor
+
+Scale mail	50 gp	14 + Dex modifier (max 2)	—	Disadvantage	45 lb.
+Studded dragon	leather 500 gp	14 + Dex modifier (max 2)	—	—	20 lb.
+Dragon scale	500 gp	15 + Dex modifier (max 2)	—	Disadvantage	50 lb.
+Mithral scale	5,000 gp	15 + Dex modifier (max 2)	—	—	25 lb.
+
+## Heavy Armor
+Banded	750 gp	17	—	Disadvantage	55 lb.
+Mithral plate	6,000 gp	18	—	Disadvantage	40 lb.
+
+
+Banded. This armor is made of overlapping strips of metal sewn to a backing of leather and chain mail. The strips cover vulnerable areas; the chain mail and leather protect the joints while providing freedom of movement. Straps and buckles distribute the weight evenly, making it easier to move around in this armor. This suit includes a helmet and gauntlets.
+Dragon Leather. This leather armor is made from the hide of a dragon. It is extremely supple yet far more durable than standard leather armor.
+ 
+Dragon Scale. This suit of scale mail is made from a dragon’s scales rather than metal, granting it superior protective capabilities and flexibility.
+
+Mithral Plate. This suit of plate is crafted from mithral. It is easy to move in compared to other sorts of metal armor. The dwarves sometimes gift this armor to their most trusted allies.
+Mithral Shirt. This extremely light chain mail shirt is made of very fine mithral links. The armor is light enough to wear under normal clothing. It is most commonly crafted by elves.
+
+
+## Special Weapons
+
+Weapons with special rules are described here.
+Bolas. A Large or smaller creature hit by a bolas must succeed on a DC 10 Dexterity saving throw or be restrained by it. A creature can break free of the bolas by using its action to make a DC 10 Strength check or by dealing 5 slashing damage to the bolas. Formless creatures are immune to this effect.
+Net. When you attack with a net, you target a point in space. Each Large or smaller creature within 5 feet of that point must succeed on a DC 10 Dexterity saving throw or be restrained by the net. A creature can break free of the net by using its action to make a DC 10 Strength check or by dealing 5 slashing damage to the net. 
+
+## Adventuring gear
+
+Acid. A glass vial of acid holds 4 ounces. As an action, you can splash the contents of the vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature or object. On a hit, the target takes 1d4 acid damage. If poured on metal, the metal takes 1d4 acid damage at the start of each of your turns for 1d4 rounds.
+Adventurer's Kit. This pack has the basics that an adventurer needs to get along in the wilderness. The kit includes a backpack loaded with a healer's kit, a mess kit, a tinderbox, ten torches, ten days of rations, and a waterskin. In addition, 50 feet of hempen rope are strapped to the pack.
+Alchemist's Fire. This sticky, adhesive fluid ignites when exposed to air. A clay flask of alchemist's fire contains 1 pint. As an action, you can throw the flask up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 11 Dexterity check to extinguish the flames.
+Holy Water. A clay flask of holy water contains 1 pint. As an action, you can splash the contents of the flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature. On a hit against a fiend or evil undead creature, the target takes 1d4 radiant damage.
+Horse. A typical riding horse can carry one rider and most of the typical adventurer’s supplies at a speed of 60 feet. If you have proficiency with land mounts, you can add your proficiency bonus to ability checks you make to control a horse under difficult circumstances.
+Thieves' Tools. This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow- bladed scissors, and a pair of pliers.
+Proficiency with thieves’ tools allows you to use them to attempt the following tasks.
+Disable a Trap: You can use your action to make a Dexterity check to attempt to disable a trap, applying your proficiency bonus to the check. You must have physical access to the trap’s mechanisms. If you succeed, you disable the trap and can bypass it safely. If you fail your Dexterity check by 5 or more, you trigger the trap.
+Open a Lock: You can use your action to make a Dexterity check to attempt to open a lock, applying your proficiency bonus to the check. If you succeed, you open the lock.
+Tinderbox. This small container holds flint, firesteel, and tinder (usually dry cloth soaked in light oil] used to kindle a fire. Lighting a torch with the flint and steel takes an action, and lighting any other fire takes at least that long.
+
+
+# Multiclassing 
+
+## Extra Attack
+
+You gain the Extra Attack class feature when you meet one of the following conditions:
+•	You have five levels in the fighter class
+•	You have eight combined levels in any classes that have the Extra Attack feature
+Once you have Extra Attack, you don’t gain an additional Extra Attack unless you have eleven levels in the fighter class.
+
+# How to Play
+Contests
+A contest pits two or more characters or creatures against each other, with the outcome determined by each contender’s luck and talent. Contests are a form of ability check, except that instead of matching your roll against a DC, both you and the creature you are opposing make a roll. You then compare the two results to see who succeeds.
+When to Have a Contest. Contests arise when two creatures attempt to do the same thing and only one can succeed, such as if both you and a bandit attempt to snatch up a magic ring that has fallen on the floor. In other cases, you might attempt something that another creature
+actively opposes. If you attempt to push open a door that an orc holds shut from the other side, you make an ability check to open the door, and the orc makes a check to keep it shut.
+Resolving a Contest. A contest uses the same rules as an ability check, except that more than one creature makes a check. Any bonuses and penalties you apply when making an ability check that is not a contest also apply to contests involving that ability.
+The creature with the higher check result wins the contest. The creature either succeeds at its action or prevents its opponent from succeeding.
+If the contest ends in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If you and a bandit tie in a contest to snatch a ring, neither one of you grabs it. If you tie in a contest to push open a door held shut by an orc, the door remains shut.
+Likewise, if you tie in a contest to hide from another creature, your situation with respect to that creature does not change. If the creature was already aware of you before the contest, you fail to hide. If it was not aware of you before the contest, you remain hidden.
+
+
