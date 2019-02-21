@@ -44,6 +44,24 @@
 
 Таблица зацепок для приключения в регионе
 
+# DM Guidelines
+
+## Resolving Tasks
+
+In the DUNGEONS & DRAGONS® game, a Dungeon Master must take a number of roles, all at the same time. A DM serves as a referee, interpreting the rules and resolving any conflicts that arise because of them. The DM builds the world, creates adventures, and places monsters and treasure. The DM is the characters’ eyes and ears, describing what the characters can see and hear to the players.
+The first rule of being a good DM is to remember that the rules are a tool that you and the players use to have a good time. The rules aren’t in charge. You, the DM, are the one in charge of the game. Guide the play experience and the use of the rules so that as many of your players have a good time as possible. There will be setbacks, such as a character being slain by an unlucky die roll, but look for ways to turn setbacks into interesting complications in the game’s story.
+
+The second rule is to remember that the DM’s power comes with responsibility. Be fair and impartial with the players. Don’t force your story upon them or give them a game where their choices don’t matter. By the same token, challenge their characters with deadly monsters, fiendish traps, and vexing puzzles. A good DM is no pushover, but a good DM is also never simply out to slaughter the characters.
+
+## When to Use Dice
+
+Characters in the D&D game frequently attempt a tremendous variety of tasks, from running across a swinging rope bridge to talking their way out of a sticky spot with an orc chieftain. All these tasks are resolved in an interaction between you (the DM] and the player whose character is attempting the task.
+When a player wants to take an action, it’s often appropriate to just let the action succeed. A character doesn’t normally need to make a Dexterity check to walk across an empty room, or a Charisma check to order a mug of ale in a tavern. Only call for a roll if you think it’s worth taking the time for the rules to come into the flow of the game. Ask yourself two questions to aid your decision.
+Is the action being taken so easy, so free of stress or conflict, or so appropriate to the situation that there should be no chance of failure? “So easy” should take into account the ability score associated with the intended action. It’s easy for someone with a Strength score of 18 to flip over a table, though not easy for someone with a Strength score of 9.
+Is the action being taken so inappropriate or impossible that it would never work? Hitting the moon with an arrow is, for instance, impossible in almost any circumstance.
+If the answer to both of these questions is no, some kind of roll is appropriate.
+
+
 ## Шаблон истории (приключения)
 
 ВАЖНО! Для описания использовать наметки Александриана и Hack&Slash
@@ -68,9 +86,95 @@
 1) Мотивация персонажей. Почему персонажи захотят участвовать в этом приключении?
 2) Мотивация игроков. Почему игроки захотят участвовать в этом приключении?
 
-Кульминация
+# Exploration
+
+## Hazards
+Is there a chance that failing a task might lead to a disastrous outcome for the character? You decide whether a hazard applies to a particular ability check and when the hazard applies.
+
+A hazard might affect a character who fails an ability check. For example, a character who attempts and fails a Strength (Athletics] check to jump across a pit that he or she couldn’t normally clear probably falls into the pit. Sometimes, though, a hazard kicks in only if the character misses the ability check’s DC (or loses a contest] by a significant margin, such as 5 or 10. Examples of hazards can be found in the “Tasks and Skills” section.
+
+### Requirements
+
+A task might require a specific tool or circumstance for a character to have any chance of success. For example, you might need a magnifying glass to accurately appraise a gem.
+
+A character who cannot meet the requirements for a task automatically fails. One who meets them can attempt an ability check as normal for the task.
+
+You can decide to waive this requirement, but the task should be hard to complete without it. You might give the character disadvantage on the ability check, or set the DC higher than you would for a character who met the requirement.
+
+Otherwise, requirements should come up only rarely. Use them to encourage the players to come up with clever solutions, not to punish them for trying to do interesting things.
+
+## Engaging the Players
+
+As a DM, you could memorize these guidelines, apply them flawlessly, and still miss out on the point of D&D. Unlike some other games, D&D is a flexible set of guidelines, not a rigid set of laws.
+
+When you ask a player to make an ability check, an attack, or a saving throw, you first should focus on engaging the players’ imaginations. Describe the scene to them, and pull in details such as sights, sounds, and even smells to make the action vivid.
+More important, you want the players to become fully engaged in the game. Reward inventive players who look beyond game options to describe their characters’ actions. Roleplaying games stand out from other types of games because they allow for this type of creativity. Encourage it whenever you can.
+
+The easiest way to do so is to make imaginative solutions the easiest path to success for the adventurers. Consider the following options.
+
+Ability Checks. When a player makes an ability check, invite him or her to describe the character’s action. If the player makes clever use of the situation in the description, consider either granting an automatic success or advantage on the ability check.
+Contests. In a contest, an ingenious description that points to a key advantage that a character might gain could lead you to grant the character advantage on the check.
+
+Attacks and Saving Throws. A colorful description is nice for attacks and saving throws, but should rarely be the avenue to gaining a concrete game benefit, since it is too easy to abuse such an approach. You might have players endlessly describing how they resist a mind flayer’s mind blast or trying to narrate every detail of a sword blow. In most cases, spells and special abilities serve to grant characters advantage on their attacks and saving throws.
+
+That said, if the situation warrants it, use advantage to grant a character an edge.
+
+Disadvantage. Not every idea is a good one. A character might try to win the prince’s favor by bragging about all the bandits he or she slew, not realizing that the prince is an avowed pacifist. If an idea backfires on a player, apply disadvantage to the ability check or attack.
+
+## Кульминация
 
 Это самая драматичная сцена приключения. Часто именно от нее зависит исход приключения и развязка.
+
+## Multiple Ability Checks
+
+Sometimes a character fails an ability check and wants to try again. You have a couple of options in this case.
+
+In most cases, the character can simply try again. The only real cost is the time it takes. The character keeps trying and, after enough time passes, eventually succeeds. To speed things up, you can assume that a character can automatically succeed at a task if he or she spends twenty times the normal amount of time needed to complete it. This exception does not allow a character to turn an impossible task into a successful one.
+
+In other cases, the first failure renders subsequent ability checks impossible. For instance, a rogue tries to trick a town guard into thinking that the group members are undercover agents of the king. The rogue loses the contest of Charisma (Deception] against Wisdom. The same lie told again clearly won’t work.
+
+# ###
+
+# 
+
+Dungeon Adventuring
+It should come as no surprise that dungeons, subterranean complexes of maze-like passages and chambers, play a key role in DUNGEONS & DRAGONS. Most adventures feature at least one dungeon, and it's possible to set a campaign entirely within an enormous, sprawling dungeon that can take characters from 1st to 20th level.
+This section provides a turn-based system for exploring a dungeon. The rules address how to move through and investigate a dungeon, the tasks that characters can undertake while they explore, and how those tasks are performed.
+Your Dungeon Map
+Before the characters can explore your dungeon, you need to have a map that outlines its key geographic features and terrain.
+A dungeon can range in size from a few chambers beneath a ruined temple to a huge complex of rooms and passages that extends hundreds of feet below the earth. It's best to use graph paper to map your dungeon, with each square on the paper representing an area of 10 feet by 10 feet.
+You track the characters' movement on your map to determine what sort of obstacles and monsters they encounter. Your adventure notes should indicate the contents of key chambers and passages in the dungeon.
+Light. Darkness might be the default condition inside an underground complex, but your dungeon can still have plenty of light sources. Most inhabited areas might be illuminated to some extent; even creatures that can see in the dark still use fire for warmth, cooking, and defense.
+ 
+At the other end of the spectrum, many subterranean creatures, including undead, have no need for light, either because they have darkvision or because they don't rely on sight. In regions where these creatures operate, the characters must bring their own light sources.
+Dungeon Features
+At its most basic, a dungeon is composed of spaces that are enclosed by walls and separated from one another by doors and other barriers. It has other features, such as traps and portcullises, that further set it apart from aboveground adventuring environments.
+Walls. The walls in a dungeon can be thick, natural stone formations or manufactured structures (usually wooden] built to subdivide large chambers.
+Walls have hit points and can be destroyed. A creature can break through a 5-foot-square section of wall by succeeding on a Strength check with a DC equal to the wall's current hit points. The hit points and break DC for a section of wall are determined by its material and thickness.
+Hit Points/Inch of Thickness
+60
+5
+30
+30
+10
+Doors. Intelligent dungeon inhabitants will barricade or lock doors when possible, especially if they expect attackers. The DC to break down a door depends on the materials used to create it. In addition, characters can attack doors in an attempt to batter them down. The Strength DC to break down a door equals its current hit points.
+Door Material Hit Points
+Adamantine	120
+Glass	5
+Iron	60
+Stone	60
+Wood	10
+Portcullis. A portcullis is a set of vertical bars reinforced with one or two horizontal bands of iron. A portcullis is dropped to block a passage, 
+with a winch and chain used to raise it back up. The big benefit provided by a portcullis is that it blocks a passage while still allowing guards to watch the area beyond and fire arrows or cast spells into it.
+A portcullis can be lifted as an action that requires a DC 20 Strength check, or no check if a character can use that action to turn its winch. A creature that makes a DC 25 Strength check can bend the portcullis’s bars apart to allow creatures to pass through it.
+Secret Doors. Some doors in a dungeon are crafted to blend into the walls that surround them. An Intelligence (Search] check is required to find clues pointing to the presence of a secret door. The DC is 10, 20, or 30, with higher DCs denoting better craftsmanship. A secret door that has been detected is treated like a normal door of the appropriate material (usually stone].
+Traps. Intelligent dungeon dwellers set traps in areas where they expect enemies to approach, while long-forgotten tombs might have traps set hundreds of years ago.
+The Dungeon Turn
+This is the sequence of play for a minute of travel and exploration in a dungeon.
+1.	Travel Pace and Exploration Tasks. The players decide what direction their characters will move in and their travel pace. They also decide on their exploration tasks, chosen from the list under “Exploration Tasks.” The players should also determine their formation (often called “marching order”]: who is in the front, the middle, and the back of the group.
+2.	Progress on the Map. Follow the characters’ path on your dungeon map, describing what they see and allowing them to make decisions as they move. The characters might encounter creatures that you have placed in certain locations. If they do so, an interaction or combat encounter ensues.
+3.	Random Encounters. Check for random encounters once every 10 minutes. If monsters are encountered, resolve any interaction or combat that occurs between the creatures and the characters.
+After performing these steps, go back to the first step and repeat the sequence for another turn.
 
 Развязка
 
@@ -1438,6 +1542,300 @@ How pace of travel effects checking out rooms:
 •Characters that are searching can perform no other activities.
  
 •Characters that are not searching can be on the lookout for monsters. One character can watch only one entrance without penalty. If a monster approaches the group through an entrance that is being watched, the Dexterity (Stealth) check of that character will be used against the Wisdom (Perception) checks of any monsters that are actively searching for you, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching.
+
+Wilderness Adventuring
+Sometimes in a D&D adventure, travel through the wilderness is purely a matter of description. Players describe where their characters are headed, and you narrate what happens on the way. At other times, the journey is as important to the adventure as its destination, and wilderness exploration rules will come into play.
+This section provides a turn-based system for traveling outdoors. The rules address how to move through and investigate a wilderness area, and they discuss environmental considerations such as weather and high altitude.
+An optional section has rules that cover tasks characters can undertake while exploring in the outdoors, and how those tasks are performed, plus a system for determining what happens if the characters get lost in the wilderness.
+Your Outdoor Map
+Before the characters can explore a wilderness or other outdoor area, you need to have a map that outlines its key geographic features and terrain.
+The outdoor environment you’re mapping might be an expanse of wilderness on the surface of the world or a vast subterranean location, such as the great caverns and passages of the Underdark. Either way, it’s better to use a hex grid than a square grid for mapping, because a hex grid enables more precise calculation of the distance between two points.
+The scale of your outdoor map depends on how much detail you want. For the most detailed areas, each hex or square represents 1 mile. To cover larger areas, each hex or square represents 6 miles. Your largest scale maps, those covering massive areas, should cover 36 miles per hex or square.
+Just as you would do in a dungeon, track the characters’ movement on your outdoor map to determine what sort of terrain they encounter, monster lairs, settlements, or other noteworthy features they might stumble across. To keep things simple, assume that the characters find a noteworthy location when they enter its hex or square, unless the site is specifically hidden. The characters might not walk directly up to the front door of a ruined castle in the 1-mile-wide hex they just entered, but they can find old paths, outlying ruins, and such signs of its presence in the area with ease.
+Visibility. When traveling outdoors, characters can see about 2 miles in any direction on a clear day, assuming that trees, hills, and other obstructions don’t block their view. Rain cuts visibility down to 1 mile, and fog cuts it down to a few hundred feet.
+Multiply the distance the characters can see by 20 if they are atop a mountain or a tall hill, or are otherwise able to look down upon the area around them from a lofty height.
+Terrain
+Outdoor terrain is represented by a few general categories that describe how difficult it is to travel through an area of that terrain and (in the optional rules] find food and water.
+For the purpose of travel, terrain is either normal or difficult, with difficult terrain cutting the characters’ speed in half while they travel through it. 
+If the characters travel by a road or path, they move at their normal speed regardless of the terrain around them.
+TERRAIN SUMMARY Type	Travel
+Desert	Normal
+Forest	Difficult
+Hills	Normal
+Jungle	Difficult
+Mountains	Difficult
+Plains	Normal
+Road/Path	Normal
+Swamp	Difficult
+Tundra	Normal
+The Wilderness Turn
+This is the sequence of play for an hour of travel and exploration in a wilderness environment.
+1.	Direction and Pace. The players decide what direction their characters will move in and their travel pace. The players should also determine their formation: who is in the front, the middle, and the back of the group. (If you’re using the optional rules, they also decide on their exploration tasks at this time.]
+2.	Progress on the Map. Determine the distance and the direction the characters traveled, taking into account their travel pace and chosen path.
+3.	Random Encounters. Check for a random encounter and, if one is indicated, resolve any interaction or combat that occurs between the creatures and the characters.
+4.	Environmental Effects. Apply effects of the environment, weather, or terrain, such as extreme cold. Some of these effects might require saving throws from the characters. In addition, if the characters attempt a forced march, resolve saving throws for that activity at this point.
+If exploration continues, go back to the first step and repeat the sequence for another turn.
+Travel Pace
+The travel pace that the characters choose—fast, moderate, or slow—determines the chance that monsters and other threats surprise them, how 
+much distance they can cover during an hour of movement, and (in the optional rules] what tasks they can perform as they travel.
+Explain to the players what their choices are. Do they want to get through the next area quickly, without much care for possible dangers, or are they determined to move slowly and keep a close watch for anything along their path? When the group decides on a travel pace, use the line on the Travel Pace table that corresponds to their intent. If the party splits up, each smaller group chooses its own pace.
+The travel pace of an exploring group determines its readiness. This quality is expressed as a DC that you can use for several circumstances, such as when a character makes a Wisdom saving throw at the start of a battle to avoid being surprised or (in the optional rules] when the characters are in danger of becoming lost.
+Travel pace also determines the greatest distance a group can cover during an hour, as shown on the table. Difficult terrain, including forests, mountains, jungles, and swamps reduces travel speed by half. For example, a group moving at a moderate pace through a forest can expect to traverse no more than 1 mile every hour.
+
+## Random Encounters
+
+You check at the end of each hour to see whether someone or something inadvertently crosses the adventurers’ path, or vice versa.
+The population density of the region determines the likelihood of coming across monsters (see the table]. To check for wandering monsters, roll a d20. If an encounter occurs, roll on the appropriate wandering monster table to determine what the heroes meet. (This table might be one of your devising, or it might be provided inside the adventure you’re running.]
+
+Note that the nature of random encounters depends on the region the characters are exploring. On a civilized road, they are more likely to encounter a wandering tinker or a caravan than a band of monsters.
+ 
+Region | Encounter Chance (d20)
+
+Sparsely inhabited | 20
+
+Densely inhabited | 18-20
+
+Typical region  | 18-20
+
+
+
+Encountering Creatures
+
+If an exploring group encounters creatures (which might be wandering monsters or might be specific participants in the adventure], the characters can try to attack them, avoid them, or interact with them in some other way.
+
+
+Alertness	| Readiness DC
+
+Low	| 20
+
+Normal	| 10
+
+High	| 5
+
+## Encounter Distance
+
+Typically, the terrain or layout of an area determines how far the characters are from creatures when the groups become aware of each other. If this distance isn’t predetermined, roll a d20 + 20. Multiply that result by 10 if the area is in normal terrain (such as a grassy field, barren tundra, or a frozen lake] or by 5 if the terrain is difficult (such as rolling hills, or a forest]. The resulting number is the distance in feet between the two groups at the start of their encounter.
+
+### Stealth
+
+Before asking the players what they want to do, determine if either group notices the other. One group or the other can avoid detection completely only if all its members are sneaking. Otherwise, contests occur as necessary to determine if anyone sneaking on either side is detected.
+
+### Surprise
+
+If one group is hidden from the other, that group has surprise, as described in the combat rules. Otherwise, each creature and character makes a Wisdom saving throw against a DC that corresponds to its readiness. The readiness DC for characters is determined by their travel pace. For monsters, it depends on their degree of alertness, as shown below.
+
+TRAVEL PACE | Pace	Readiness DC
+
+Fast	| 15
+
+Moderate | 10 
+
+Slow	| 5
+
+## Finding Locations and Objects
+
+When the characters come across a location or an object of special note during the performance of their tasks, describe the discovery to them and allow them to take actions as appropriate.
+
+
+## Encountering Creatures
+
+If an exploring group encounters creatures (which might be wandering monsters or might be specific participants in the adventure], the characters can try to attack them, avoid them, or interact with them in some other way.
+
+# Weather
+
+In addition to the risk of encountering creatures or stumbling across a strange location, the characters also face mundane weather threats such as heavy rain, freezing cold, or searing heat.
+
+You can pick weather to fit your campaign or roll on the following tables to determine the weather for a given day. Use the table that corresponds to the current season of the year (assuming the region has a temperate climate]. The tables include one for each of the four seasons found in temperate regions, plus two more for exceptionally hot and cold environments such as desert and tundra. You can also use these tables to account for the geography or altitude of a region or area. For instance, the upper heights of a mountain range will be cold and snowy even in a warm climate.
+
+## Temperate Spring/Fall
+
+No special weather Storm (light rain) Storm (heavy rain)
+
+Temperate Winter	Weather (d20)
+
+Cold	1-14
+
+Cold, storm (snow)	18-20
+
+Cold, storm (heavy snow) 16-20
+
+Temperate Summer
+
+No special weather Hot
+
+Storm (heavy rain)
+
+Desert
+
+Hot
+
+Hot, storm (dust)
+
+
+Storm (heavy rain)
+
+Tundra
+
+Cold
+
+Cold, storm (snow)
+
+Cold, storm (heavy snow)
+
+Cold Weather
+
+While the temperature is below 0 degrees Fahrenheit, characters exposed to the cold must make DC 10 Constitution saves at the end of each hour. Characters without cold weather gear, such as thick coats, gloves, and so on, automatically fail this save.
+
+On a failed saving throw, a character gains a level of exhaustion.
+
+Storm
+
+Bad weather, such as snow, rain, powerful winds, dust storms, and other hazards, reduces travel speeds by half, quartering speed in total when combined with difficult terrain.
+
+In addition, specific types of storms have the following additional effects.
+
+Dust Storm. Visibility is reduced to 50 feet, and creatures suffer disadvantage on saves to avoid becoming surprised.
+Heavy Rain. Visibility is reduced to 50 feet, and creatures suffer disadvantage on saves to avoid becoming surprised.
+Heavy Snow. Visibility is reduced to 50 feet, and creatures suffer disadvantage on saves to avoid becoming surprised. Heavy snow continues to reduce speed as described above for 1d6 days after the storm.
+
+Hot Weather
+
+In exceptionally hot weather (at or above 100 degrees Fahrenheit], characters exposed to the heat must make DC 10 Constitution saves at the end of each hour. Characters wearing medium or heavy armor or otherwise clad in heavy clothing suffer disadvantage on this save.
+On a failed saving throw, a character gains a level of exhaustion.
+
+High Altitude
+
+Traveling at altitudes above 10,000 feet is particularly taxing due to the lack of oxygen in the air. Each hour spent traveling counts as two hours for purposes of determining how long characters can travel.
+
+Exhausted characters cannot rest to reduce their exhaustion while above 10,000 feet.
+
+Characters and creature can become acclimated to high altitude. Doing so requires spending many months at this elevation. Creatures cannot become acclimated to elevations above 20,000 feet. 
+
+Creatures that do not need to breathe, such as undead creatures or constructs, suffer no ill effects from high altitude.
+
+## Food and Water
+
+In the wilderness, carrying enough food and water to survive is critical to survival. Characters who run short of either suffer the effects of exhaustion.
+
+### Water
+
+A character consumes one gallon of water per day, or two gallons each day if the weather is hot. A character who has only half that much water available must make a DC 10 Constitution save or suffer a level of exhaustion at the end of the day. A character with access to even less water suffers one automatic level of exhaustion that day.
+
+If the character already has one or more levels of exhaustion, the character takes two levels in either case.
+
+### Food
+
+A one day supply of food is about equivalent to one pound of supplies. A character can go 3 + Constitution modifier days without food. If a character eats half a pound of food, that counts as going half a day without food. A normal day of eating resets the count of days without food to zero.
+
+After that time period, a character automatically suffers a level of exhaustion for each day without food, or must make a DC Constitution save or take a level of exhaustion for each day of eating half a pound of food.
+
+## Food and Creature Size
+
+The rules for food and water assume that the characters are size Medium. Creatures of different sizes, including non-humanoids such as horses, need different amounts of sustenance.
+
+Small creatures consume half as much food and water.
+
+Large creatures consumer four times as much.
+
+Huge creatures require sixteen times as much.
+
+Gargantuan needs 32 times the supplies.
+
+Colossal require 64 times as much food and water.
+
+## Optional Wilderness Exploration Rules
+
+The basic exploration rules cover all the basic movements of managing a journey from one place to the next. The following, optional rules add more detail and realism to the process by introducing specific tasks that the characters can take while traveling. They are especially useful for when the characters travel into the deep wilderness, far from any civilized lands.
+
+### Exploration Tasks
+
+An exploration task is a duty a character assumes for the duration of an exploration turn, a duty that usually contributes to the group's overall disposition and preparedness. Characters choose their tasks during the first step of an exploration turn.
+
+After the group has agreed on its pace, explain to the players what their choices are for exploration tasks and ask what task each character will undertake. When a party is traveling at a fast pace, there's no time for characters to perform any of these tasks.
+When each character has chosen a task, have the players roll ability checks to determine the outcome of their characters' tasks, then resolve any situations that arise from the success or failure of those checks.
+
+A character can perform up to two tasks during an exploration turn, but dividing one's attention and energy is risky. If a character takes two actions, any ability checks associated with those actions have disadvantage.
+
+Activities that require an action during a combat round, such as casting a spell, don’t count as exploration tasks. There’s no hard limit on the number of such activities a character can perform.
+
+### Foraging
+
+The characters can gather food and water as they travel, especially if they are running low on supplies. When a character chooses this task, the character makes a single Wisdom (Survival] check with a DC determined by the abundance of food and water in the region. If the check succeeds, that character finds a quantity of pounds of food and gallons of water equal to the 1d6 + the character's Wisdom modifier.
+
+If multiple characters choose this task, they each make separate ability checks. More characters foraging can find food to feed more people.
+
+FORAGING DCS
+
+Terrain	| DC
+
+Abundant	| 10
+
+Average	| 15
+
+Desolate	| 20
+
+
+### Keeping Watch
+
+It helps to keep an eye and an ear open for danger. When a character chooses keeping watch as an exploration task, the character makes a single Wisdom (Perception] check to detect hidden creatures and an Intelligence (Search] check to detect hidden objects as the group travels during the current exploration turn. A character’s check result is used to contest the checks of any creatures that are attempting to hide from the explorers. If someone keeping watch detects a creature, it cannot surprise the group.
+
+### Mapmaking
+Making an accurate map is vital to ensuring that explorers have the best sense of their surroundings. It can also help keep them from becoming lost.
+
+When a character chooses mapmaking as an exploration task, the character must have a writing instrument and some surface (such as paper or parchment] on which to record the map.
+
+The map a character creates might be similar to your actual map of the area, but not as complete. When you give out information to a player whose character is mapping, restrict that information to only what the character would perceive while “actually” performing the task.
+
+If more than one character chooses this task, those who do so simply create multiple maps of the area. (This strategy can prove useful if one character’s map is lost or destroyed later in the adventure.]
+
+### Navigating
+
+Traveling in the wilderness or a large, unfamiliar city carries the risk of becoming lost. A character can reduce this risk by navigating for the group, keeping a careful eye out for landmarks and the position of the sun, the moon, and stars.
+When a character chooses navigating as an exploration task, the character makes a single Wisdom (Survival] check to prevent the group from losing its way during the current exploration turn. If more than one member of the group chooses this task, each navigator makes a check, and you use the best result to determine if the group becomes lost.
+
+### Sneaking
+
+Keeping a low profile is often the best option in a dangerous area. When a character chooses sneaking as an exploration task, the character makes a single Dexterity (Stealth] check to hide as the group travels. Anyone who chooses this task has advantage on this check if the group’s travel pace is slow. To notice a sneaking character, a creature must contest the character’s check, using Wisdom (Perception] or Intelligence (iNVESTIGATION], and win.
+
+### Improvised Tasks
+
+A character might think of some way to contribute to an exploring group that isn't covered by the tasks described here. If so, you can allow the use of an improvised exploration task, but only if its performance requires no more than one-third of the time encompassed by an exploration turn. Also, as with other tasks, a character can't perform an improvised task if the group's travel pace is fast.
+
+## Getting Lost
+
+The characters might become lost. Explorers who are following a road or some other form of path or trail can’t become lost in normal circumstances.
+
+If the characters might become lost, make note of the Wisdom (Survival] check result of any character who chose navigating during the current exploration turn (or the highest result, if more than one character performed this task]. If no one did so, treat the check result as 0. The DC for this check corresponds to the readiness of the group, as determined by its travel pace, plus a modifier based on the terrain (see the table].
+
+If any character performed mapmaking as a task during the current exploration turn, the DC is reduced by 5.
+
+Terrain	| DC Modifier
+
+Forest, swamp, jungle, mountains	| +5
+
+Light forest jungle, hills, desert, tundra	| 0
+
+Plains, prairie	| -5
+
+Success. If the navigator’s Wisdom (Survival] check succeeds, the characters successfully travel the distance and in the direction they want.
+
+Failure. If the check fails, the characters inadvertently travel in the wrong direction. Halfway through their travel in the current turn, you roll a d4 to determine how the group has deviated from its intended course.
+
+d4	| Deviation
+
+1	| 90 degrees left
+2	| 45 degrees left
+3	| 45 degrees right
+4	| 90 degrees right
+
+
+For example, for a group intending to move north, a roll of 1 indicates that the characters are now actually heading west; a roll of 3 means that their course has (unknown to them] shifted to the northeast.
+
+This change of direction applies only to the characters’ travel during the last half of the current turn. On the next turn, if the chance of getting lost still exists, the characters make another check. If that check fails, they continue to be unaware of their change in heading. On a successful check, the characters realize they have moved off course and in what direction.
+
+The characters might not realize they are lost unless they encounter an obstacle that indicates they are heading in the wrong direction. If the characters realize they have lost their way, you stop rolling for deviation in their course until they fail another check to avoid becoming lost.
+
+----------------------------------------------------------------------------------
 
 # LINKS
 
