@@ -1822,6 +1822,86 @@ Keeping a low profile is often the best option in a dangerous area. When a chara
 
 A character might think of some way to contribute to an exploring group that isn't covered by the tasks described here. If so, you can allow the use of an improvised exploration task, but only if its performance requires no more than one-third of the time encompassed by an exploration turn. Also, as with other tasks, a character can't perform an improvised task if the group's travel pace is fast.
 
+### CAMPING
+
+Characters can carry a tent to protect themselves against wind and rain, but sometimes they don't have access to that kind of gear, and in those situations they can try to find a natural shelter or build one using materials they can gather. 
+
+**Natural shelters** are divided in two types: basic and advanced Basic Shelter. Almost every natural shelter found in the wild is considered as a basic shelter. This shelter has enough space for 4 medium-sized creatures, and in general they're constructed from many small pieces of vegetation. Due to its simple design, a basic shelter protects against wind or precipitation (determined by the DM)
+
+**Advanced Shelter.** An advanced shelter have space for 6 medium-sized creatures or more and protects everyone inside against the wind rain, snow and other environmental features. Additionally, an advanced shelter helps to maintain the personal temperature and in some cases it also provides some defenses against wild creatures.
+
+### NATURAL SHELTERS
+
+Terrain and time are the mayor factors that determines the chance for adventurers to be able to locate a natural shelter or construct something out of materials they find the zone.
+
+Arctic zones has no useful vegetation that adventurers can use for shelter, but they can find crevasses and make improvised snow walls that can provide some protection.
+
+Desert zones has no vegetation that adventurers can use, but they can run across irregularities in the surface, such as large rocks and some dunes that can provide shelter on at least one side.
+
+Forest zones are one of the easiest terrains to find natural shelter. Trees and large plants can give adventurers some protection from wind and rain. In a forest, boughs or branches can be cut from trees and laid across a grid of poles to give characters a roof over their heads and protection from wind mils are full of irregular terrain that can serve as a simple windbreak. Additionally, thick vegetation is fairly abundant during most of the year, allowing adventurers to fashion a windbreak out of it.
+
+Mountains, for this purpose, are considered to be rough, rocky areas with little or no vegetation. However, adventurers can come across some natural features, such as caves and alcoves that are large enough for the group.
+
+Plains are generally flat, but not necessarily featureless. A small gully might help adventurers to get out of the wind Additionally, if a plain has some vegetation, characters may be able to gather enough branches and greenery for a windbreak.
+
+Swamps commonly have vegetation that can be scavenged and used as shelter, and characters can come across a fallen tree or similar feature that can help as a shelter.
+
+### FINDING NATURAL SHELTER
+
+Characters can make a Wisdom (Survival) check to try to find a natural shelter in the area. Depending on the terrain, the difficulty and time to find an appropriate shelter varies, as shown in the following table.
+
+Terrain	DC	Time Needed
+Arctic	25	30 minutes
+Desert	25	30 minutes
+Forest	TO	10 minutes
+Hills	TO	10 minutes
+Mountains	20	20 minutes
+Plains	20	20 minutes
+Swamps	15	1 5 minutes
+
+#### ADDITIONAL CONDITIONS
+
+You can increase the DC and time depending on some special conditions, such as looking for a shelter in the night or while it's raining.
+
+*	Rain, fog and low visibility areas. Increase the DC by 3 and add half the base time.
+
+*	Storm, snowfall and no visibility areas. Increase the DC by 5 and it takes twice the base time.
+
+UPGRADING A SHELTER
+While characters can look for natural shelter, they can also gather materials and upgrade a basic shelter into an advanced shelter or add extra features, such as a palisade wall or other defensive measures.
+COLLECTING MATERIALS
+A character can gather materials by making an Wisdom (Survival) check or a Strength (Athletics) check. Use the table under the Finding Natural Shelter part to determine the DC and time used for collecting materials. During this activity, the character gather branches and vegetation that is lying in the area, cut down a tree to collect wood or mine a big rock to collect stones. 
+On a success, it collects a number of units equal to 2d6 + its Constitution modifier. A character can make a number of checks per day equal to twice its Constitution modifier (minimum 1)
+UPGRADING
+For upgrading a shelter, the character must use a number of units of materials depending on which feature they want, as shown in the table below. Multiple characters can combine their efforts toward the upgrading of the shelter, reducing the time by ten times its Constitution modifier for each character working on the upgrade to a minimum of 10 minutes. For example, a character with a Constitution modifier of +2 will reduce the time it takes to finish a shelter feature by 20 minutes.
+Feature	Units Required	Time
+Advanced shelter upgrade	15	4 hours
+Basic wall	6	1 hour
+Platform	10	2 hours
+Spike barrier	5	30 minutes
+Stone wall	10	4 hours
+UPGRADING A SHELTER
+UPGRADING A SHELTER
+While characters can look for natural shelter, they can also gather materials and upgrade a basic shelter into an advanced shelter or add extra features, such as a palisade wall or other defensive measures.
+COLLECTING MATERIALS
+A character can gather materials by making an Wisdom (Survival) check or a Strength (Athletics) check. Use the table under the Finding Natural Shelter part to determine the DC and time used for collecting materials. During this activity, the character gather branches and vegetation that is lying in the area, cut down a tree to collect wood or mine a big rock to collect stones. 
+On a success, it collects a number of units equal to 2d6 + its Constitution modifier. A character can make a number of checks per day equal to twice its Constitution modifier (minimum 1)
+UPGRADING
+For upgrading a shelter, the character must use a number of units of materials depending on which feature they want, as shown in the table below. Multiple characters can combine their efforts toward the upgrading of the shelter, reducing the time by ten times its Constitution modifier for each character working on the upgrade to a minimum of 10 minutes. For example, a character with a Constitution modifier of +2 will reduce the time it takes to finish a shelter feature by 20 minutes.
+FeatureUnits RequiredTimeAdvanced shelter upgrade154 hoursBasic wall61 hourPlatform102 hoursSpike barrier530 minutesStone wall104 hoursUPGRADING A SHELTER
+
+Advanced Shelter Upgrade. Upgrading a basic shelter into an advanced shelter includes a door, simple roofing and walls made from various pieces of thatch, wood, stone or similar. Upgrading a shelter allows up to 6 medium-sized creatures to enter and protect themselves.
+
+Basic Wall This 15-feet long, 6 feet tall fence or wall is made from wooden stakes, tree trunks, adobe or even bones, and it’s used as a defensive structure or enclosure. Each 5 feet of wall has an AC 15,15 hit points and a damage threshold of
+Platform. This 10-foot square wooden platform is attached on a large tree, or raised on piles over the soil enabling to build on it. The platform can be built up to 10 feet high and includes a simple wooden staircase to access the platform.
+Spike barrier. A 10-feet long barrier with many wooden or bone spikes. The area covered by the barrier is considered difficult terrain. Any creature that moves through the spike wall must make a Dexterity saving throw (DC 10) or take ld4 piercing damage. The barrier has an AC 15,15 hit points and a damage threshold of 5.
+Stone Wall A stone wall is a 15-feet long, 6 feet tall wall made from brick-and-mortar, used as a defensive structure or enclosure. Each 5 feet of wall has an AC 17, 30 hit points and a damage threshold of 10.
+Some of this upgrades might not available to build in certain terrains due the type of materials needed For example, a spike barrier might be hard to craft in a desert since it requires wood or large bones.
+
+ADDITIONAL FEATURES
+While the upgrading features covers the most basic and generic ones, you can also create new ones, such as a clay oven, wooden furniture and such for creating a survival-themed campaign.
+
+
 ## Getting Lost
 
 The characters might become lost. Explorers who are following a road or some other form of path or trail can’t become lost in normal circumstances.
@@ -1856,69 +1936,401 @@ This change of direction applies only to the characters’ travel during the las
 
 The characters might not realize they are lost unless they encounter an obstacle that indicates they are heading in the wrong direction. If the characters realize they have lost their way, you stop rolling for deviation in their course until they fail another check to avoid becoming lost.
 
+
+ENVIRONMENTAL HAZARDS
+
+In this section you can find new environmental hazards, which follows similar rules as traps or lair actions. To determine the DC and damage, use the following tables
+
 ----------------------------------------------------------------------------------
 # MAGIC ITEMS
 
+Setback		10-11	
+Dangerous		12-1 5	
+Deadly		16-20	
+DAMAGE SEVERITY BY LEVEL
+Character Level Setback	Dangerous	Deadly
+I st-4th	IdlO	2dl 0	4dl 0
+5th-1Oth	2d10	4dl 0	lOdlO
+I "Ith-I 6th	4d10	lOdlO	18dl 0
+I 7th-20th	10d10	1 8dl 0	24dl 0
+HAZARD EXAMPLES		
 
-# LINKS
+AVALANCHES, ROCKFALLS AND MUDSLIDES
+Any Level of Hazard
+Any character in the area where the hazard occurs must make a Dexterity saving throw. On a failed save, a creature takes bludgeoning damage and is buried by the hazard, or half as much damage on a successful one. The area is filled with snow, rubble or mud and becomes difficult terrain.
+Any buried creature is considered suffocated, and it can dig through to free itself. To do so, the creature must succeed a number of Strength (Athletics) checks, as shown in the following table.
+Hazard Level	Number of Checks
+Setback	2
+Dangerous	3
+Deadly	4
 
-[Palant Deadly Frontier Bestiary](https://critterdb.com/#/bestiary/view/5c61360457cc0d3872e1918b)
+HAILSTORM
 
-[Palant Streets of Waterdeep Bestiary](https://critterdb.com/#/bestiary/view/5c6134bf57cc0d3872e19180)
+Dangerous Hazard
 
-# DM RESOURCES
+Similar to a blizzard, the terrain affected by the hailstorm is considered difficult terrain. When a creature without proper shelter is in the area affected by the hailstorm for one hour, it must make a Constitution saving throw, taking cold damage on a failed save or half as much damage on a successful one.
 
-* [Critter Compendium](https://www.dmsguild.com/product/210151/Critter-Compendium)
 
-* [Gem Dragons of Faerun](https://www.dmsguild.com/product/180402/Gem-Dragons-of-Faerun?term=Gem+Drago&test_epoch=0)
+A cloud of swarming insects fills a 20-foot-radius sphere. The swarm moves at 20 feet on each round When a creature enters the cloud it must make a Constitution saving throw. On a failed save, it takes piercing damage, or half as much damage on a successful one. A creature that ends its turn in the cloud must roll another saving throw. A creature cannot be damaged by the insect swarm if it’s wielding a torch or if it is at least 5 feet from a fire.
 
-* [Ultimate Bestiary Revenge of the Horde]()
+BLIZZARD
+Setback Hazard
+The area affected by a blizzard is considered difficult terrain. When a creature without proper shelter is in the area affected by the blizzard for one hour, it must make a Constitution saving throw, taking cold damage on a failed save or half as much damage on a successful one. If a creature is wearing warm clothing, it has advantage on the saving throw.
+EARTHQUAKES
+Any Level of Hazard
+A tremor shakes the area; each creature on the ground in that area must make a Dexterity saving throw or be knocked prone.
+The hazard level is determined by the proximity to the epicenter or the intensity of the earth tremor:
+•	Setback. Far from the epicenter or light earthquake.
+•	Dangerous. Near the epicenter or moderate earthquake.
+•	Deadly. Very close to the epicenter or severe earthquake.
+ELEMENTAL CLOUD
+Any Level of Hazard
+This cloud is made with elemental essence. When a creature enters the cloud, it must make an appropriate saving throw, taking damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the cloud must roll another saving throw.
+Cloud Color	Damage Type	Saving Throw
+Black	Necrotic	Constitution
+Cyan	Cold	Constitution
+Gray and Yellow	Lightning	Dexterity
+Light Green	Acid	Constitution
+Purple	Psychic	Wisdom
+Red	Fire	Constitution
+White	Force	Intelligence
+LAVA
+Deadly Hazard
+The lava is considered difficult terrain. Any creature that enters the lava takes fire damage. A creature that ends its turn in the lava takes fire damage. 
+LIGHTNING STORMS
+Dangerous or Deadly Hazard 
 
-* [Titles as Rewards]()
+ 
 
-* [Visions of the Vault]()
+The DM rolls a dlOO to determine if any creature is hit by a lightning.
+This check can be made at the beginning of each turn during a combat or in any time while the party is not in combat.
+dlOO	Number of Creatures
+1-50	0
+51-70	ld4
+71-20	1 d 6
+81-90	1 d8
+91-100	1 d 10
 
-* [Creating Magic Items - WGE]()
 
-* [Monsters of the Guild](https://www.dmsguild.com/product/234150/Monsters-of-the-Guild)
+The creatures hit by a lightning are determined by the DM, and any creature in the area under total cover from above cannot take damage.
+MAGMA ERUPTIONS
+Dangerous Hazard
+Magma erupts from a point on the ground, creating a 20-foot- high, 5-foot-radius geyser. Each creature in the geyser's area must make a Dexterity saving throw, taking fire damage on a failed save, or half as much on a successful one.
 
-* [Sane Magic Item Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?usp=sharing)
+ROGUE WAVE
+Dangerous Hazard
+POISON CLOUDS AND SPORES
+Setback Hazard
+When a creature enters the cloud, it must make a Constitution saving throw, taking poison damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the cloud must make another saving throw.
 
-* [Everyday Rituals for Travelling Wizards](https://www.dmsguild.com/product/184141/Everyday-Rituals-for-Travelling-Wizards) - F2P
+DANGEROUS TERRAINS
+In the following section you can find survival considerations and hazards for various terrains. You can combine different terrains to create a more dynamic (and probably more deadly) environment.
+ARCTIC
+Cold and Extreme Cold The temperatures in this environment are lower than other places, and you need proper gear for resisting this temperatures. Whenever the temperature is at or below 0 degrees Fahrenheit, you must follow the rules of extreme cold
+A	k
+EXTREME COLD (DMC, P.110)
+Whenever the temperature is at or below 0 degrees Fahrenheit, a creature exposed to the cold must succeed on a DC 1 0 Constitution saving throw at the end of each hour or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
+^	r
+Food Scarcity. It's hard to find food like plants and creatures due the low temperatures. All the checks for foraging and hunting have a DC equal to 20.
+Shelter. In general, the arctic areas are vast frozen plains with big glaciers and rocks, making it difficult to find a natural shelter.
+ENVIRONMENTAL HAZARDS
+Hazard	Source Notes
+Avalanches	CAW, P.5 5 Only near mountains
+Blizzard	CAW, P.5 5
+Elemental Cloud	CAW. 5 5 Cyan clouds only
+Frigid Water	DMG, P.110
+Hailstorm	CAW, P.5 5
+Chasms and Ice Cracks	DMG, P.l 22 Use the pits trap
+Slippery Ice	DMG, P.110
+Thin Ice	DMG, P.lll
+CAVES
 
-* [Rule of Law]()
 
-* [Adaptable NPCs](https://www.dmsguild.com/product/262588/Adaptable-NPCs?affiliate_id=18983)
+Darkness and Light. Most of the natural caves don't have light sources, so anyone who enters must bring their sources of light and fire for warmth, cooking and in some cases, defense. A caves might have some light sources, such as groups of fluorescent fungus or other dangerous light sources, like lava.
+Orientation and tracking. Inside a cave it's almost impossible to determine where's North: lots of caves are just tunnels connected, making it more difficult to create an accurate map of it.
+Flooding. Some parts of the caves might be close to a water source or any other liquid that can quickly fill a room.
+ENVIRONMENTAL HAZARDS
+Hazard	Source	Notes
+Earthquakes	CAW, P.5 5	Might cause rockfalls
+Elemental Cloud	CAW, P.5 5	
+Lava	CAW, P.5 5	
+Pits	DMG, P.122	
+Rockfalls	CAW, P.5 5	
+Unsteady Ground	CAW, P.56	
+DESERT		
 
-* [Versatile NPCs II](https://www.dmsguild.com/product/250621/Versatile-NPCs-II)
 
-## For further inspiration
+Heat and Extreme Heat. The opposite of the arctic terrain, temperatures in this environment are higher than other places, and you need enough water supplies for resisting the heat. Whenever the temperature is at or above 100 degrees Fahrenheit, you must follow the rules of extreme heat.
+A	k
+EXTREME HEAT (DMC, P.UO)
+When the temperature is at or above 1 00 degrees Fahrenheit, a creature exposed to the heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain one level of exhaustion. The DC is 5 for the first hour and increases by 1 for each additional hour. Creatures wearing medium or heavy armor, or who are clad in heavy clothing, have disadvantage on the saving throw. Creatures with resistance or immunity to fire damage automatically succeed on the saving throw, as do creatures naturally adapted to hot climates.
+^	r
+Shelter. In general, the desert areas are just sand and rocks (in some areas they might be some scattered shrubs) making it difficult to find a safe campsite.
+Strong Wind A strong wind imposes disadvantage on ranged weapon attack rolls and Wisdom (Perception) checks that rely on hearing. A strong wind also extinguishes open flames, disperses fog, and makes flying by nonmagical means nearly impossible. A flying creature in a strong wind must land at the end of its turn or fall
+A strong wind in a desert can create a sandstorm that imposes disadvantage on Wisdom (Perception) checks that rely on sight.
+Water Scarcity. Finding water in a desert is extremely difficult, unless you're near an Oasis. All checks made for getting water have a DC equal to 20.
+ENVIRONMENTAL HAZARDS	
+Hazard	Source	Notes
+Earthquakes	CAW, P.5 5	
+Elemental Cloud	CAW, P.5 5	Mostly red clouds
+Lightning Storms	CAW, P.56	
+Sandstorms	CAW, P.56	
 
-* [Armor and Shields Reworked](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/Armour_and_Shields_Reworked.pdf)
+FORESTS AND JUNGLES
+Density. Sometimes is hard to walk through a forest due the great number of plants, trees and vegetation. In most of the cases, you can't walk in a straight line through the forest. Orientation and tracking. Inside a forest, the trees covers the sky, making it hard to determine where's North, and depending the density of the forest it might be harder to keep a track.
+Sight and hearing. It might be more difficult to see or hear your surroundings because the density of the forest, the tree shadows, obstacles (such a fallen tree) and the sound of the trees and vegetation moving with the wind
+ENVIRONMENTAL HAZARDS
+Hazard	Source	Notes
+Earthquakes	CAW, P.5 5	Might cause trees to fall
+Elemental Cloud	CAW, P.5 5	
+Insect Swarms	CAW, P.5 5	
+Lightning Storms	CAW, P.56	Might cause a forest fire
+Poison Clouds and Spores	CAW, P.56	
+Razorvine	DMG, P.110	
+LAKES, RIVERS AND OCEAN
 
-* [The Monster Harvester Handbook]()
 
-* [Monster Talents](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/DM%20Options%20-%20Monster%20Talents.pdf)
+Orientation and tracking. In the middle of the ocean or under a storm, it's difficult to determine the cardinal points without the proper tools.
+Shipwrecks. In the ocean, lakes and even in rivers there're rocks, icebergs, and more that can damage or destroy a ship or boat.
+Water streams. The river streams can change drastically depending on the terrain around the rivers, like the terrain elevation, inclination and waterfalls.
+ENVIRONMENTAL HAZARDS
+Hazard	Source	Notes
+Elemental Cloud	CAW, P.5 5	
+Hailstorm	CAW, P.5 5	Only near arctic zones
+Frigid Water	DMG, P.110	Ocean only
+Lightning Storms	CAW, P.56	
+Rapids	CAW, P.56	Rivers only
+Rogue Wave	CAW, P.56	Ocean only
+MOUNTAINS		
 
-* [Airships_and_Mayhem](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/Airships_and_Mayhem.pdf)
 
-* [City and Wild](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/City%20and%20Wild%20v1.2.1.pdf)
+Altitude. When you're traveling at altitudes of 10,000 feet or higher above sea level, you must follow the high altitude rules. Strong wind A strong wind imposes disadvantage on ranged weapon attack rolls and Wisdom (Perception) checks that rely on hearing. A strong wind also extinguishes open flames, disperses fog, and makes flying by nonmagical means nearly impossible. A flying creature in a strong wind must land at the end of its turn or fall
+A strong wind in a desert can create a sandstorm that imposes disadvantage on Wisdom (Perception) checks that rely on sight.
+A	K.
+HIGH ALTITUDE (DMC, P.110)
+Traveling at altitudes of 1 0,000 feet or higher above sea level is taxing for a creature that needs to breathe, because of the reduced amount of oxygen in the air. Each hour such a creature spends traveling at high altitude counts as 2 hours for the purpose of determining how long that creature can travel.
+Breathing creatures can become acclimated to a high altitude by spending 30 days or more at this elevation. Breathing creatures can't become acclimated to elevations above 20,000 feet unless they are native to such environments.
+^	r
+ENVIRONMENTAL HAZARDS
+Hazard	Source Notes
+Avalanches, rockfalls and mudslides	CAW, P.5 5
+Blizzard	CAW, P.5 5
+Hailstorm	CAW, P.5 5
+Lava	CAW, P.5 5 Near volcanoes
+Lightning Storms	CAW, P.5 6
+Magma Eruptions	CAW, P.56 Near Volcanoes
+Unsteady Ground	CAW, P.5 6
+SWAMPS
 
-* [A Town of Our Own](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/D%26D5e%20-%20A%20Town%20of%20Our%20Own.pdf)
 
-* [David Dias - The Guildhall - A Guide to Build your Base](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/David%20Dias%20-%20The%20Guildhall%20-%20A%20Guide%20to%20Build%20your%20Base.pdf)
+Clean water. Swamps are characterized by having slow- moving and stagnant waters, being harder to find drinkable water. Drinking stagnant water might cause diseases. Warmth. The swamps are wet and soggy, so finding dry resources for making a fire it's almost impossible.
+Low visibility. Mist, fog and lowlands are common in this terrain, and they reduces the visibility of any creature.
+ENVIRONMENTAL HAZARDS
+Hazard	Source Notes
+Elemental Cloud	CAW, P.5 5
+Insect Swarms	CAW, P.5 5
+Mudslides	CAW, P.5 5
+Poison Clouds and Spores	CAW, P.56
+Quicksand	DMG, P.110
+Razorvine	DMG, P.110
+Unsteady Ground	CAW, P.56
 
-* [Formations](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/Formations.pdf)
 
-* [Airships_and_Mayhem](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/Airships_and_Mayhem.pdf)
+SPECIAL TERRAINS
+In the wilderness, there're places that have been touched by ancient magic or energies for centuries, creating a persistent effect on those lands. Here're some ideas for creating special terrains you can add to flesh a particular zone in the wild
+BLOOD ROCK
+This area was part of old and forgotten ceremonial sacrifices, a massive battle between armies that fought for centuries or the place where a powerful otherwordly creature was slain. The area is covered by stones with a red tone, bones covered by dirt and mud and dry blood Any creature standing in this area can score a critical hit on a 19 or 20.
+Long-Term Effect: A creature must succeed on a DC 10 Wisdom saving throw at the end of each hour. On a failed save, the creature must use its action each round to attack the nearest creature it sees. At the end of each of its turns, the creature can make a new Wisdom saving throw. On a success, the effect ends until another hour passes.
+DEATH CIRCLE RUINS
+This area surrounded by dark stone pillars is infused with necrotic energy. Any healing effect, such as a cure wounds spell only heals half the total amount in this area.
+Long-Term Effect: A living creature must succeed on a DC 10 Constitution saving throw at the end of each hour. On a failed save, its hit point maximum is reduced by ld6. To recover the reduced hit points, the creature must spend 1 hour outside the area covered by the death circle ruins.
+DEFILED GROUND
+The dark energy fills this area, attracting undead creatures to this area. Any undead creature gains a +1 bonus on attack rolls while standing in the defiled ground Additionally, when an undead is reduced to 0 hit points, roll a d20. On a 10 or higher, the undead creature rises with 1 hit point on its next turn. If an undead is reduced to 0 hit points by radiant damage, it cannot roll for rising again.
+Long-Term Effect: A creature must succeed on a DC 10 Constitution saving throw at the end of each hour. On a failed save, it takes 5 necrotic damage.
+GRAB GRASS
+This thick, tough grass grows in areas constantly touched by Feywild magic that clings to characters and creatures that falls prone. An area covered by grab grass is considered difficult terrain, and any creature that falls prone in this area must make a Strength (Athletics) check to stand up (DC 10)
+LIFE CIRCLE RUINS
+This area surrounded by white stone pillars is infused with pure life energy. Every 1 minute, any living creature that begins its turn in the area regains 2 hit points.
+Long-Term Effect: Any living creature that stays in this area for 1 hour can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed or poisoned
+PLANETOUCHED
+Due to planar energy, a powerful artifact or some other factor, this terrain boosts certain types of energy related to one plane. Pick one damage type from the following list: Acid Cold Fire, Force, Lightning, Necrotic, Psychic or Radiant. Any attack that deals the chosen damage type deals an extra ld6 damage of that type.
+SACRED SHRINE
+A sacred shrine is dedicated to a particular deity, infusing with divine energy the area nearby. A creature that shares the deity's alignment gains a +1 bonus on attack rolls while standing in the area covered by the shrine.
+Long-Term Effect: A creature that has a different alignment to the deity's alignment must succeed on a DC 10 Wisdom saving throw at the end of each hour. On a failed save, it has disadvantage on attack rolls against creatures that shares the deity's alignment. At the end of each of its turns, the creature can make a new Wisdom saving throw. On a success, the effect ends until another hour passes.
 
-* [Martial Arms v2.3 Bookmarked](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/1363763-Martial_Arms_v2.3_-_Bookmarked.pdf)
 
-[David Dias - The Guildhall - A Guide to Build your Base]()
 
-* [Autarchs](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/Autarch%20-%20Domains%20at%20War%20Campaigns.pdf)
+KNOWLEDGE CHECKS
+During the course of an adventure, players may encounter things that their characters may know about, but which they do not. Doing this makes heavy use of Intelligence- based skills (Arcana, History, Nature, and Religion especially).
+Usually these checks are made without much trouble. When a player wants to know about a creature during combat, however, combat can be slowed down. To make a check to recall information about a creature, an object, or anything else, a character must use their action or reaction to do so.
+A check to identify a creature and its general strengths has a DC of 10 + half the creature’s CR. This increases by 5 if the creature is not from the Material Plane. Succeeding by 5 or more also recalls some or all of the creature’s specific abilities and weaknesses.
 
-* [Balasars Guide to Exploration]()
+CHARISMA CHECKS
+Charisma checks and their corresponding skills can be a point of contention. Firstly, they are not a replacement for roleplaying—trying to get one’s point across and interacting with an NPC should be a precursor to any Charisma check in situations that are not simply handwaved during shopping, downtime, or other bookkeeping tasks.
+Charisma checks are often better treated as a way to see how a situation pans out, in a more meta sense. A 
+high Charisma (Persuasion) check, even with poor reasoning beforehand, can simply show that an NPC is willing to give the character the benefit of the doubt. A poor Charisma (Intimidation) roll, even if the odds are stacked against the NPC, may reveal that the NPC has a sudden boost of morale from a secret plan he or she has. And a poor Charisma (Deception) check, even if what the PC said is totally believable, may show that the NPC is simply a suspicious type who has a nose for danger.
+In this way, Charisma can be seen not just as force of will in a direct sense, but a type of social luck—the ability for things to go well for a player character. After all, luck is an important skill to have as an adventurer.
+Charisma checks with NPCs are usually contested by Wisdom (Insight) checks. To avoid undue rolling and putting the need for luck on the players’ shoulders, it is usually best to use the NPC’s passive Insight score. Depending on the situation and the actions of the character, this score can be modified. Use the Insight Modifiers table as a guideline. Try to limit the modifiers to 2 or less: one for the NPC’s attitude toward the character, and another for the situation.
+
+ACROBATICS
+Acrobatics is not a replacement for the Athletics skill. Instead, it has very specific implementations that are usually done passively or as part of some other action: keeping one’s balance, slipping out of tight spaces, and of course performing acrobatic stunts.
+ACROBATICS DCS
+Check DC	Situation
+5	Walk in a straight line with your arms out to either side.
+10	Keep one's footing on an icy surface in combat.
+15	Perform a standing backflip, or walk across a tightrope.
+20	Perform a quadruple somersault during a jump.
+25	Cartwheel across a tightrope.
+30	Walk across a frictionless surface.
+ANIMAL HANDLING
+Animal Handling sees perhaps the least use in most campaigns. If someone takes it, try to give them a few chances to use it, even if it’s only once or twice every few sessions.
+ 
+ANIMAL HANDLING DCS
+Check DC	Situation
+5	Command a healthy, trained animal to do a trick it knows.
+10	Command a healthy, trained animal to do a trick it doesn't know, or to put itself in harm's way.
+15	Get an untrained animal to do what you want, for its benefit.
+20	Get an untrained animal to attack an enemy or otherwise put itself in harm's way.
+25	Get an injured and untrained animal to put itself in harm's way.
+30	Command a cat to bark.
+
+
+If the check is made under external threats, such as during combat or while avoiding an ongoing lava flow, increase the DC by 5. Having something the animal wants (especially food) can give a character advantage on the check.
+ARCANA
+The Arcana skill is not just for recalling information about magic, identifying spells and such. It can be used to figure out how a magical device functions, or to disable magical traps. Given the nature of Dungeons & Dragons’ settings, the Arcana skill should have plenty of instances to shine.
+Arcana is also the most versatile knowledge skill when it comes to monsters. It can be used to recall information about the abilities of most aberrations, celestials, most constructs, elementals, fey, fiends, monstrosities created by magic, some oozes, and most undead, as Arcana covers knowledge about spells, magic, and the planes all in one.
+ARCANA DCS
+Check DC	Situation
+Varies	Identify a spell, either as it's being cast or by its effects (DC 10 + the spell's level).
+5	Recognize that an effect is magical.
+10	Determine whether a creature or object is magical in origin, and recall information about it if it's common.
+15	Recognize the type of magic of an effect (whether it's of arcane, divine, psionic, or some other type of origin). Recall the common inhabitants of another plane of existence, or recognize the influence of another plane on an area.
+20	Recall information related to a legendary item or artifact's origin and powers, or about the state and effects of another plane of existence.
+
+ATHLETICS DCS 
+
+Check DC	Climbing Examples	Jumping Examples	Swimming Examples
+5	Climbing a steep hill or slope.	Making your normal jump distance with a running start.	Swimming through calm waters.
+10	Climbing a tree or a steep, rough incline.	Jumping 5 feet further or 2 feet higher than normal with a running start, or avoiding a low ceiling or waist-high obstacle during a long jump.	Swimming through rough waters.
+15	Climbing a tall pole or totem, or dungeon- or ruin-style stone walls.	Jumping your long jump distance without a running start, or jumping 10 feet further or 4 feet higher than normal with a running start.	Swimming through stormy waters.
+20	Climbing a brick wall or rock cliff.	Jumping 15 feet further or 6 feet higher than normal with a running start.	Swimming up a fast- moving river.
+25	Climbing a tall, sheer cliff, or a wall made of shaped stone.	Jumping twice your normal jump distance with a running start.	Swim through a giant whirlpool.
+30	Climbing a wall of force.	Jumping twice your normal jump distance without a running start, or three times as much with a running start.	Swimming up a waterfall.
+The DC for a given climbing example increases by 5 if the surface is slick with liquid but decreases by 5 if you have decent handholds or a properly-secured rope.
+
+Climbing, jumping, and swimming should remain purely in the playhouse of Strength. Dexterity and the Acrobatics skill should not be applied to these given activities, to keep Strength a relevant, obvious solution to problems these can solve.
+Example DCs can be found in the Athletics DCs table.
+Climbing. Scaling an incline is an easy task that should not require an ability check, even a steep one given generous handholds. Failure should not mean a deadly fall. A Dexterity saving throw of a lesser DC can sometimes be allowed to stay in place. In most cases, failing simply causes one to slide back down unless under immediate duress and threat of injury.
+Calling for a check at all is only really required if the situation is appropriately dangerous. An entire party could scale a steep cliff without much effort, so long as there is nothing nipping at their heels or waiting at the top for them.
+Jumping. The Athletics skill states that it can be used to jump unusually long distances. Only call for such a check if a character could not make it with their default jumping distance, detailed in the rules for movement.
+ 
+DECEPTION
+Due to its situational nature, Deception is usually used in contests alone, opposed by an NPC’s Wisdom (Insight) check. Generally, it’s best to use passive Insight scores to set a DC for the check, with adjustments based on the attitude of the NPC. Insight in this case is used in its closest rules-as-written form, allowing an NPC to detect whether a PC is pulling their leg.
+The Insight Modifiers table in the previous section contains guidelines for modifying an NPC’s Insight score to set a DC for a character’s Charisma (Deception) checks.
+HISTORY
+Unlike Arcana, History is dedicated almost entirely to recalling information. Its use is quite specific as well. In a pinch, the skill can be used past its normal intentions to recall information about the local region, such as local nobles, recent battles, and local feuds or problems.
+It can also be used to recall information about particularly impactful monsters. Information about dragons, giants, and humanoids tends to fit best in the History skill. Depending on the setting, it may help recall information about other monsters, such as the role of aberrations in Eberron.
+INSIGHT
+Insight is yet another skill used in contests more often than flat checks. Unlike NPCs, PCs do not get situational bonuses to their Wisdom (Insight) checks, instead relying on the player’s own wit. However, in a pinch with no leads, a character can make a DC 15 Wisdom (Insight) check to get a hunch that something is amiss or not. If the DM so 
+decides, he or she may provide the player with some sort of hint to go along with the hunch, such as “People’s eyes keep glancing at the beautiful tapestry on the far wall” to denote that people might be hiding something.
+On a failed check to notice an NPC’s bluff, the DM should be careful not to show their hand. Too often, even a failed check can tell the player that their suspicions are at least partially correct, instead of revealing little or no information. When describing a failure to detect a bluff, try to say that a character has trouble getting a good read on the NPC, rather than saying that the character finds the NPC trustworthy.
+HISTORY DCS
+Check DC	Situation
+5	Recall common information about the recent past.
+10	Recall uncommon information about events in the last 5 years.
+15	Recall hidden information about the last century.
+20	Recall hidden information about the last millennium, or information about something purposely destroyed or wiped from most historical records.
+25	Recall hidden information about the distant past, so long as it was recorded in some way.
+30	Recall, in perfect detail, any event from the distant past.
+INTIMIDATION
+Like Deception, Intimidation is often contested by a Wisdom (Insight) check or, more smoothly, an NPC’s passive Insight score. The Insight Modifiers table in the previous section contains guidelines for modifying an NPC’s Insight score to set a DC for a character’s Charisma (Intimidation) checks.
+Many players attempt to use this skill in combat. While tempting, the DM should not use the frightened condition in this case, as it steps on the toes of many class features and spells. Instead, use Intimidation checks as a way to affect morale. A high Intimidation check accompanied by the slaying an opponent may cause weaker enemies to retreat. A low Intimidation check may make stronger enemies more aggressive. In either case, the Insight skill is used to represent not just a creature’s ability to read a situation but also to show their self-awareness, whether they can avoid being overcome by fear in the heat of battle or not.
+INVESTIGATION
+This skill is the “black sheep” of the fifth edition skill system. Often confused with Perception in its use, the difference between the two is often vague, both in rules and in various official adventures.
+The best way to illustrate this is with a common Dungeons & Dragon element: traps. Perception can be used to spot a trap. You can see the shine of torchlight on a trip 
+wire, or the slight separation between stones indicating a pressure plate. Investigation allows you to figure out how a trap works. It lets you notice that the trip wire is likely attached something that comes down from the slots in the ceiling, or that the pressure plate likely has to do with the holes in the walls.
+It may also be better to think about them in terms of scale. Perception is for things that are obvious, out in the open. You could notice them at a glance, given a high enough awareness. Investigation is for seeing smaller-scale things, such as that a single book in a bookcase is out of place, with a different subject than the others.
+Like Insight, Investigation can be used by DMs to move a campaign along. If players have found clues but aren’t connecting them, an Intelligence (Investigation) or Wisdom (Investigation) check may help them put 2 and 2 together.
+INVESTIGATION DCS
+Check DC	Situation
+5	Notice that one person in a lineup is of a different race than the others.
+10	Determine the weakest pillar holding up an aging ruin's ceiling, or notice that one person in a crowd has a limp.
+15	Determine that a letter contains a secret message, or pour over a text and find a specific passage quickly.
+20	Find the single brick in a wall that, when pushed, opens a secret door.
+25	Spot a secret message hidden in the specific wording of an ancient text.
+30	Find a needle in a haystack.
+
+
+MEDICINE
+Yet another underused skill, Medicine can have more uses than just stabilizing a dying ally in combat. Medicine can be used in place of other Intelligence-based checks to recall information and determine the nature of poisons and diseases, especially when they are affecting a creature. In many cases, Intelligence (Medicine) checks are even more apt than Wisdom (Medicine) checks, though medicine in D&D is often based on gut-feelings rather than the modern method of rote learning.
+MEDICINE DCS
+Check DC	Situation
+5	Determine that someone has a cold. Recall how to treat common ailments.
+10	Identify fresh wounds and determine how they were made in most cases.
+15	Determine the exact cause of death of the recently deceased. Determine how to treat a rare poison or disease.
+20	Identify a specific poison or disease by only cursory descriptions or symptoms.
+
+
+Check DC	Situation
+25	Find the cure or treatment for a magical disease.
+30	Raise a creature that has recently died not through magic but your skill alone.
+NATURE	
+
+
+Nature is one of the wider Intelligence skills, usable in a host of situations, especially to recall information about beasts, the wilder dragons, many fey, primal humanoids, common monstrosities, and of course plants.
+In some cases, Wisdom (Nature) checks may be appropriate. Consider allowing these for rangers and druids, who are close to nature but whose Intelligence scores are generally not all that high.
+NATURE DCS Check DC Situation
+5	Identify common plants and animals.
+10	Recall that a neighboring desert is infamous for its ice storms, or that the local forest is guarded by vengeful fey.
+15	Determine that a storm is artificial, that a cliff face is actually an unnatural façade, or that a specific animal usually isn't found in the area.
+20	Identify that a creature is one-of-a- kind or possibly a new species.
+25	Pinpoint the depth and epicenter of an earthquake from eyewitness reports.
+30	Determine that a nearby mountain is going to erupt within the next few days.
+
+PERCEPTION
+Being one of the most-used skills, Perception needs little encouragement in its use. Perception is also the one skill focused on for passive scores. For NPCs, passive Perception use is a must to speed up play, but for characters, encouraging regular active use of the Perception skill can keep play active. While some say to use passive Perception as a hard minimum for Wisdom (Perception) checks, it can be useful to completely ignore it for active checks where failure could be more interesting, exciting, or dangerous.
+PERCEPTION DCS
+Check DC	Situation
+5	Hear people talking in the next room, or see someone walking in the trees.
+10	Hear people whispering in the next room.
+15	Read the lips of someone across the room.
+
+Check DC	Situation
+20	Hear and understand whispers from a
+	room over, or see the telltale signs of a
+	secret door.
+25	Hear an owl gliding in for a kill.
+30	See the outline of an invisible creature.
+
+PERSUASION
+The last of the three major Charisma skills, Persuasion is also the most-used. Influencing an NPC to do what you want is an important skill to have! As such, it is often opposed by an NPC’s passive Insight score, with adjustments based on the attitude of the NPC as given in the Insight Modifiers table in the previous section.
+In this case, using the Insight score might not make sense, at first. Just like Intimidation, consider the Insight score as a way to represent not only the ability to detect lies but a sort of luck created by situational awareness. A creature with a large bonus to Wisdom (Insight) checks is more likely to foresee negative outcomes to doing what the party wants or even associating with them.
+The DM should try to only call for Charisma (Persuasion) checks when the NPC in question wouldn’t perform or refuse to perform the action in question. A close ally may already give their life for the party, but a villain will surely reject any requests the party makes that don’t fit their fell fancy.
+Finally, the Persuasion skill can be used to handwave the gathering of rumors. Searching for information or rumors on a specific subject in a town might take a few hours and a DC 10 or 15 Charisma (Persuasion) check, allowing characters to move the story forward while others shop or rest.
+RELIGION
+Religion is the narrowest of the Intelligence skills. DMs coming from older editions often use it beyond its stated scope, though this has little impact on the game itself. In truth, Intelligence (Religion) checks may rarely come up in a game not involved with cults or religious organizations.
+That’s not to say it’s completely useless. It can be used to recall information on many celestials, fiends, and some undead, as they relate to cults and deities.
+RELIGION DCS
+
+
+Check DC	Situation
+5	Recognize holy symbols of common deities.
+10	Recall the rites and major traditions of common religions, enough to fit in at a church.
+15	Determine which deity or cult an ancient ruin was dedicated to, or recall information on local mythology.
+20	Recognize the secret symbols and actions of cultists hiding their dealings in plain sight.
+25	Recognize the symbols and myths of a god dead and buried for 10,000 years.
+30	Improvise the proper rites of a long- dead religion to contact its sleeping god.
+
+SLEIGHT OF HAND
+This skill could, in many ways, simply be combined with the Stealth skill. However, it still does have its uses and can come up in play, if not all that often. This will mostly occur through the Steal action, but Dexterity (Sleight of Hand) checks can be used for pulling magic tricks or carefully manipulating small objects.
+Like the Stealth skill, Sleight of Hand is almost always opposed by a creature’s Wisdom (Perception) check or passive Perception score, with almost no exceptions. A soft DC 10 can be used to perform some simple acts of manual trickery, such as using a fishhook and line to grab a set of keys from a jail cell.
+STEALTH
+Stealth is perhaps the most well-defined skill in Dungeons & Dragons. It is used for anything involving stealth, and it is always contested by a creature’s Wisdom (Perception) check or passive Perception score.
+To smooth play, do not call for repeated Dexterity (Stealth) checks when a character is simply moving through an area. Instead, only ask for another check if the character is spotted or performs a specific action that could break their stealth. A Dexterity (Stealth) check of 17 could get a creature past most guards and sentries, even passing across doorways or moving within a few feet of an unaware guard. However, once a character attempts to take out a guard or after a character activates a trap, a second check may be worthwhile, as the situation can change dramatically.
+SURVIVAL
+Survival is yet another well-defined skill. The guidelines in the Dungeon Master’s Guide on foraging, navigation, and tracking all give solid DCs on the skill’s use.
+When cook’s utensils aren’t available (or a character isn’t proficient in with them), Wisdom (Survival) checks can be used to determine if a proper meal is prepared by an unskilled chef. A DC of 10 is usually more than enough to produce something edible from wild game and plants, with a 15 or 20 giving a much-needed morale boost in the wilderness in the form of a delicious, if gamey, meal. This morale boost can be presented by temporary hit points, usually 1d4.
+
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -2144,1291 +2556,147 @@ Casting Time: 1 action Range: 100 feet Duration: 10 minutes
 The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves through the area, it takes 2d4 piercing damage for every 5 feet it travels.
 The transformation of the ground is camouflaged to look natural. Any creature that cannot see the area of the spell at the time the spell is cast must make a Wisdom (Perception] check against the spell’s saving throw DC to recognize the terrain as hazardous.
 
+Barkskin now no longer requires concentration and reads as follows: “You touch a willing creature. The target’s skin takes on a rough, bark-like appearance for the spell’s duration, during which its AC becomes 16, if its AC is not already higher from wearing armor. The creature can benefit from wearing a shield as normal.”
+Blade Ward now has a range of touch, granting the resistance to the creature you touch.
+Chromatic Orb deals 4d8 damage, instead of 3d8.
+Circle of Death now states that a creature reduced to 0 hit points by the spell’s damage is immediately killed.
+A creature affected by Color Spray is both blinded and incapacitated.
+Conjure Animals states that you can try to summon specific creatures, but the DM ultimately decides which creatures appear when you cast the spell. 
+Conjure Barrage deals 6d8 damage, instead of 3d8.
+Conjure Fey, Conjure Minor Elementals, and Conjure Woodland Beings state that you can try to
+summon specific creatures, but the DM ultimately decides which creatures appear when you cast the spell.
+Contagion specifies that the effects of the disease occur immediately, instead of after three failed saving throws.
+Cordon of Arrows deals 2d6 damage, instead of 1d6.
+Crown of Madness does not require you to use your action on subsequent turns to maintain control over the target.
+Dancing Lights does not require concentration, but it ends early if you cast it again.
+Elemental Weapon can affect magical weapons as well as nonmagical weapons. A magic weapon only gains the bonus to attack rolls if it does not already have a similar bonus to attack rolls. You can touch a creature’s natural weapons (such as its claws or teeth) to grant this benefit to that natural weapon, or you can touch a humanoid’s arms or legs to grant this benefit to the creature’s unarmed strikes. Finally, the spell’s damage dice are d8s, instead of d4s.
+Instead of advantage, Enhance Ability grants a bonus on the given checks equal to the caster’s spellcasting ability modifier (minimum +2).
+The damage bonus and penalty of Enlarge/Reduce is 1d6, instead of 1d4.
+Ensnaring Strike deals 2d6 damage, instead of 1d6.
+Enthrall does not allow a saving throw to resist its effects, but creatures immune to being charmed are immune to its effects.
+Eyebite does not require concentration, instead lasting 1 minute.
+When you cast Faerie Fire using a spell slot of 2nd level or higher, the dimensions of the cube increase by 10 feet for each slot level above 1st.
+Find Traps now has a duration of up to 10 minutes, requiring concentration. You automatically know if there are any traps within 30 feet of you for the duration, and you can use an action to have specific, visible traps (both triggering and action mechanisms) glow in your vision. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+A creature reduced to 0 hit points by the damage of Finger of Death immediately dies.
+Flame Blade’s description is replaced with the following:
+You evoke a fiery blade in your free hand. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 3d6 fire damage on a hit and has the finesse and light 
+properties. You can use your spellcasting ability instead of your Strength or Dexterity for the weapon’s attack and damage rolls.
+If you drop the weapon, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.
+At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd, to a maximum of 6d6.
+Flame Strike deals 6d6 fire damage and 6d6 radiant damage, instead of 4d6 of each. When you cast the spell using a spell slot of 6th level or higher, both the fire damage and radiant damage increase by 1d6.
+Friends now has a duration of up to 10 minutes.
+When a creature takes psychic damage from Geas, its hit point maximum is reduced by the amount of psychic damage taken, to a minimum of 1. This reduction lasts until the spell ends.
+When you cast Grease using a spell slot of 2nd level or higher, the dimensions of the square increase by 5 feet for each slot level above 1st.
+Hail of Thorns deals 2d10 damage, instead of 1d10.
+Whenever a creature affected by Heroism rolls an attack roll or saving throw, it can roll a d4 add it to the result.
+Inflict Wounds deals 4d10 damage, instead of 3d10.
+If Lightning Bolt hits a solid surface made of wood, stone, or metal, it reflects off it at an angle equal and opposite the angle at which it hit, continuing to do so until its total length is 100 feet or until it has reflected 3 times. Each creature along any of its lengths becomes a target of the spell, though a creature cannot be targeted by the same lightning bolt more than once.
+Magic Weapon can affect magical weapons as well as nonmagical weapons. A magical weapon only gains the bonus to attack and damage rolls if it does not already have such a bonus. You can touch a creature’s natural weapons (such as its claws or teeth) to grant this benefit to that natural weapon, or you can touch a humanoid’s arms or legs to grant this benefit to the creature’s unarmed strikes.
+On a hit, Melfs Acid Arrow deals 6d4 damage, instead of 4d4.
+Mordenkainen’s Sword deals 6d10 damage, instead of 3d10.
+Pass Without Trace now specifies that a creature must be within 30 feet of you to benefit from its effects.
+Phantasmal Force now specifies that the illusion created does not offer any physical resistance, even if the target thinks it’s real. It also deals 2d6 damage, instead of 1d6.
+A creature reduced to 0 hit points by the damage of Phantasmal Killer immediately dies.
+The third paragraph of Polymorph instead reads as follows: “The target gains a number of temporary hit points equal to the hit points of its new form. These temporary hit points can’t be replaced by temporary hit points from another source. A target reverts to its normal form when it has no more temporary hit points or it dies. If the spell ends before then, the creature loses all its temporary hit points and reverts to its normal form.”
+When you cast Protection from Energy using a spell slot of 4th level or higher, you can target 1 additional creature for each slot level above 3rd.
+Ray of Sickness deals 3d8 damage, instead of 2d8. Resistance has a range of 30 feet. Its first sentence now reads, “Choose one creature within range.”
+Stoneskin no longer requires concentration.
+Sunbeam deals 8d8 damage, instead of 6d8.
+The fourth paragraph of True Polymorph now reads the same as the third paragraph of polymorph, as written above.
+True Strike now grants advantage to the first attack roll against the target before the end of your next turn, even if it is not made by you.
+The damage dice of Vampiric Touch are d8s, instead of d6s.
+When you cast Web using a spell slot of 3rd level or higher, the dimensions of the cube increase by 10 feet for each slot level above 2nd.
+Witch Bolt requires a bonus action, not an action, to deal damage to the target after it is initially cast. Its range is 60 feet.
+
+
+EQUIPMENT
+The following section provides new armor, weapon, and equipment types. Prices, weights, and other information are also listed on the Additional Shields, Additional Weapons, and Additional Adventuring Gear tables.
+ARMOR AND SHIELDS
+These new armor additions and shield types allow defensive characters a few more options.
+ADDITIONAL ARMOR AND SHIELDS
+Name	Cost	Weight	Properties
+Armor
+spikes	+150 gp	—	Special
+Shields
+Buckler	8 gp	2 lb.	AC +1, special
+Spiked
+shield	15 gp	5 lb.	AC +1, special
+Targe	12 gp	3 lb.	AC +1, special
+Tower shield	50 gp	45 lb.	AC +3, special
+
+
+Armor spikes. Armor spikes can be added to a set of medium or heavy armor for 150 gp, representing the price of the spikes and the expertise needed to add them to a set of armor.
+While wearing armor with spikes, wrestling with you is a dangerous proposition. If you use the Attack action to grapple a creature within 5 feet of you and successfully do so, the creature takes 1d4 piercing damage. If the creature ends its turn being grappled by you in this way and is within 5 feet of you, it takes another 1d4 piercing damage. If the suit of armor is magical, the damage dealt by the spikes is also considered magical.
+Buckler. While wielding a buckler, your Armor Class increases by 1. When you are wearing a buckler and are targeted by a melee weapon attack by a creature you can see, you can use your reaction to parry the blow, further increasing your AC by 2 against that attack. You can don or doff a buckler as though interacting with an object
+
+Name	Cost	Damage	Weight	Properties
+Simple melee weapons
+Cestus	2 gp	1d4 bludgeoning	1 lb.	Light
+Simple ranged weapons
+Composite
+shortbow	45 gp	1d4 piercing	3 lb.	Ammunition (range 80/320), special, two¬handed
+Repeating crossbow, light	35 gp	1d8 piercing	6 lb.	Ammunition (range 40/160), special, two¬handed
+Martial melee weapons
+Dire flail	25 gp	1d8 bludgeoning	10 lb.	Double (1d6), two-handed
+Double axe	30 gp	1d8 slashing	10 lb.	Double (1d6), two-handed
+Garrote	5 gp	—	1 lb.	Finesse, special, two-handed
+Katana	35 gp	1d10 slashing	3 lb.	Finesse, two-handed
+Kusarigama	20 gp	1d4 bludgeoning or slashing	8 lb.	Double (1d4), finesse, special, two-handed
+Parrying dagger	5 gp '	1d4 piercing	1 lb.	Finesse, light, special
+Scythe	12 gp	1d10 slashing	10 lb.	Heavy, reach, two-handed
+Spiked chain	15 gp	1d8 piercing	10 lb.	Finesse, reach, two-handed
+Two-bladed sword	30 gp	1d8 slashing	10 lb.	Double (1d6), two-handed
+Urgrosh	25 gp	1d10 piercing or slashing	12 lb.	Double (1d4), two-handed
+Martial ranged weapons
+Bola	2 gp	—	1 lb.	Special, thrown (range 30/90)
+Boomerang	5 sp	1d4 bludgeoning	1 lb.	Finesse, light, special, thrown (range 20/60)
+Composite
+longbow	70 gp	1d6 piercing	3 lb.	Ammunition (range 150/600), heavy, special, two-handed
+Repeating crossbow, heavy	75 gp	1d10 piercing	20 lb.	Ammunition (50/200), heavy, special, two¬handed
+
+instead of as an action. Creatures that are proficient with light armor are proficient with bucklers.
+Spiked shield. While wielding a spiked shield, your Armor Class increases by 1. A spiked shield serves as a martial melee weapon that deals 1d4 piercing damage. When you take the Attack action and wielding a spiked shield, you can attack with it as a bonus action. Creatures that are proficient with regular shields are proficient with spiked shields, both as a shield and a weapon.
+Targe. This shield is wielded in a way that leaves one’s hand open. While wearing a targe, your Armor Class increases by 1. You can use the hand you wield the targe in to manipulate objects, shove, grapple, or perform somatic spell components.
+Creatures that are proficient with regular shields are proficient with targes.
+Tower shield. While wielding a tower shield, your Armor Class increases by 3, but your speed decreases by 5 feet and you have disadvantage on Dexterity checks and saving throws. You provide three-quarters cover, instead of half cover, to other creatures. You can use your action to set the shield like a wall, giving yourself total cover against ranged attacks until the start of your next turn. Creatures that are proficient with heavy armor are proficient with tower shields.
+
+WEAPON PROPERTIES
+The following weapon property can be found among several entries in the Additional Weapons table.
+Double. A double weapon has two ends with which you can attack. When you take the Attack action and attack with the weapon, you can engage in two-weapon fighting with it, treating one end as the required light weapon with the specified damage die.
+SPECIAL WEAPONS
+New weapons with special properties are described here.
+Bola. When you hit a Large or smaller creature with a bola, it must make a DC 10 Dexterity saving throw or be restrained by it. A creature can end this condition by breaking free of the bola, either by making a DC 10 Strength check as an action or by dealing 5 slashing damage to the bola. In either case, the bola is destroyed. A bola has an AC of 11. Formless creatures are immune to the effect of a bolas.
+Boomerang. When you throw this weapon and miss, it returns to your hand. Creatures that are proficient with javelins are also proficient with boomerangs.
+Composite bow. These bows use a complex design with a high draw weight. You add your Strength modifier alongside your Dexterity modifier to damage rolls for composite bows.
+Garrote. When you attack with this weapon and hit, you immediately grapple the target if it is Large or smaller and is not formless. This grapple ends early if you let go of either end of the garrote. While grappled in this way, the creature is gagged, cannot breathe, and melee attacks against it are made with advantage. Rogues are proficient with garrotes.
+Kusarigama. This double weapon has very different ends, attached by a chain: a sickle, dealing slashing damage; and a weight, dealing bludgeoning damage with the reach property. You can choose which end with which to attack. Monks are proficient with the kusarigama and can treat it as a monk weapon.
+Parrying dagger. When you wield this weapon and are targeted by a melee weapon attack, you can use your reaction to increase your AC by 2 against that attack. Rogues are proficient with parrying daggers.
+Repeating crossbows. These crossbows are fitted with cartridges that can hold up to six crossbow bolts. A repeating crossbow automatically reloads after firing until it runs out of ammunition. You can reload the cartridge as an action.
+ADVENTURING GEAR
+This section describes the special properties of this document’s new adventuring gear.
+ADDITIONAL ADVENTURING GEAR
+Name	Cost	Weight
+Adventuring Gear
+Smoke Pellet	15 gp	—
+Smokestick	25 gp	1/2 lb.
+Tanglefoot bag	50 gp	4 lb.
+Thunderstone	30 gp	1 lb.
+Tindertwig	15 gp	—
+Ammunition
+Arrow, Barbed	i gp	—
+Arrow, Smoldering	2 gp	—
+Arrow, Smoking	3 gp	—
+Arrow, Splintering	2 gp	—
+
+Arrow, Barbed. This piece of ammunition causes bleeding wounds. A creature hit with a barbed arrow or bolt takes 1 point of piercing damage at the beginning of
+its turn until it uses its action to pull the arrow free. Once pulled free of the wound, the ammunition is destroyed.
+Arrow, Smoldering. This piece of ammunition has a hollow point containing alchemist’s fire and a simple ignition mechanism. A creature you hit with a smoldering arrow or bolt takes 1d4 fire damage at the beginning of its next turn. Once ignited, the ammunition is destroyed.
+Arrow, Smoking. This piece of ammunition lets out a blast of smoke on contact. A 5-foot radius sphere centered on the creature or point you hit is heavily obscured until the end of your next turn. Once ignited, the ammunition is destroyed.
+Arrow, Splintering. When you hit a creature with a splintering arrow or bolt, it explodes into wooden or bone shards. Each creature within 5 feet of the target must make a DC 12 Dexterity saving throw or take 1d4 piercing damage. Once it explodes, the ammunition is destroyed.
+Smoke pellet. As an action or bonus action, you can throw a smoke pellet at a point within 10 feet of you. The smoke pellet then detonates and is destroyed, creating a 10-foot cube filled with smoke. This area is heavily obscured until the end of your next turn.
+Smokestick. As an action, you can ignite a smokestick using a torch, tinderbox, or other source of fire or intense heat. Once ignited, the smokestick continually fills the area within 5 f eet of it with thick, black smoke. An area filled with the smoke is heavily obscured. This smoke disperses at the end of your next turn, but the smokestick continues to burn for 1 minute, allowing it to be thrown or moved around with to form large areas of smoke.
+Tanglefoot bag. As an action, you can throw this bag of alchemic goo at a creature within 30 feet of you. Make a ranged attack against a creature, treating the bag as an improvised weapon. On a hit, the creature is restrained for 1 minute if it is Large or smaller. Hit or miss, the tanglefoot bag is then destroyed. A creature restrained by the goo can free itself by using its action to make a DC 13 Strength check or by dealing 10 points of slashing damage to the goo. The goo has an AC of 13. In either case, the effect ends early.
+Thunderstone. As an action, you can throw a thunderstone up to 30 feet. When it strikes a hard surface or is struck hard, it creates a deafening bang and is destroyed. Creatures within 10 feet of the stone must make a DC 11 Constitution saving throw or be deafened for 1 hour. If a creature deafened in this way casts a spell with verbal components, it must make a DC 11 Charisma saving throw or fail to cast the spell.
+Tindertwig. You can strike the end of this small, wooden stick on a flammable object, requiring no action. The object immediately ignites and the tindertwig is destroyed.
 
-# Another set of links
 
-## Links
-
-[Table of Tables](https://www.reddit.com/r/BehindTheTables/wiki/index)
-[On war i](https://www.reddit.com/r/DnDBehindTheScreen/comments/4tz8ho/on_war_in_dungeons_and_dragons/)
-## Отличные генераторы
-
-### Kassoon
-
-[Random Plot Hook Generator - Kassoon](https://www.kassoon.com/dnd/random-plot-hooks-generator)
-
-[Random Town Generator - Kassoon](https://www.kassoon.com/dnd/town-generator/)
-
-[Magic Item Genetor - Kassoon](https://www.kassoon.com/dnd/magic-item-generator)
-
-### donjon
-
-[5e Random Generator - donjon](https://donjon.bin.sh/5e/random)
-
-[5e Random Dungeon Generator](https://donjon.bin.sh/5e/dungeon/)
-
-[e Random Magic Shop Generator](https://donjon.bin.sh/5e/magic/shop.html) 
-
-[5e Random Generator - Treasure](https://donjon.bin.sh/5e/random/#type=treasure)
-
-### OTHER
-
-[Red Dragon Inn Town Generator](http://www.rdinn.com/town_generator.php)
-
-[PF Settlement Creat](http://nairb.net/pathfindertools/settlement_creator.php)
-
-[Fantasy Town Map Generator](https://watabou.itch.io/medieval-fantasy-city-generator)
-
-[NPC Character Generator by Profession](http://miniworlds.online/generators/generateNPC.html)
-
-[5E D&D Character Sheet (Tintagel)](v2.4https://docs.google.com/spreadsheets/d/1ojyz199p_sk1QC9pPctld9g2E1KO5mJPmGFKHQTycHQ/edit#gid=1538485300)
-
-5eToolsRoll20ImageList
-
-DnD 5e Layout and Format Template
-https://docs.google.com/document/d/1huB-66vOkFWU3bjw_oE8CRLB4EDVajGB22VFGwTC-4s/ed
-
-## Campaign Log Template
-
-
-
-[some link](https://docs.google.com/document/d/1D5I1R0AvNgovM0pz5JFi-RLgg8ePE6TB2uIOaH_xH_I/edit)
-
-[some link](https://docs.google.com/spreadsheets/d/14NJeO5HJhUwVkBVzN3Mg7-W7adJ9FE9C9f_oT93n4M8/edit#gid=0)
-
-[5th ed. Player Resources](https://docs.google.com/document/d/1SxFrqX5KU7yFLzxE7KApgg5XLCo0ytHPWNJODyUgutM/edit)
-
-[Копия Travelling Merchants](https://docs.google.com/spreadsheets/d/1LJGKY2X1-yHztZPO4exSfEfHDg9JYZaGLZlqVX5SS3o/edit#gid=1882409195)
-
-[Dungeon Master’s Resource List 29102018](https://docs.google.com/document/d/1d10BJDOE8U_z4MKr0wdpGBobQRXzqITi_2jREplLuqU/edit#)
-
-[Flexible Magic Tables 25092018](https://docs.google.com/spreadsheets/d/1oEXRoKH84gppCkHEENTSAJ_ReifLXR3Mz9-zraelk80/edit#gid=1358860148)
-
-[some link](https://docs.google.com/spreadsheets/d/1yTdMvnZggEjbZCiv6Rxrn90bDiKxavipQsdmgJJjni8/edit#gid=0)
-
-[some link](https://docs.google.com/spreadsheets/d/1etrBJ0qCDXACovYHUM4XvjE0erndThwRLcUQzX6ts8w/edit#gid=1750226729)
-
-[Cost, Item cost](https://docs.google.com/spreadsheets/d/1JQVJ8sjKRgP80I5Ja0_oHcxMlYEuS6j70tNfSoXi2L8/edit#gid=0)on Collvil's folder
-
-[Travelling Merchants](https://docs.google.com/spreadsheets/d/11Akap3yrVAQlPqviyVAAQQET4cbES3SayrSw5Z-DQow/edit#gid=1882409195)
-
-[Google Character Sheet](https://docs.google.com/spreadsheets/d/1rw7T6tNkogcNxx7PQtLdEPtuA0RRQeRR687G9m_L_LY/edit?usp=drive_web&ouid=113731665467982106598)
-
-[some link](https://dicecloud.com/)
-
-[some link](https://drive.google.com/file/d/1m0iAHPJKPZo0Ugim_c2iqznL8s7vwAX_/view)
-
-[some link](https://docs.google.com/spreadsheets/d/1UfZ9e9Z9XFiZ7uapyDxrh9UskZSmPGa-nWr7mCqzevw/edit#gid=0)
-
-[Creature Loot: Intro and index](http://medievalmelodies.blogspot.com/2017/06/creature-loot-intro.html)
-
-[Posted Potions Crafting Recipes](https://docs.google.com/document/d/1kkSLFquoS_Zr5bIyvJDXdf4mSjffVMVTiGUtse0xs10/edit)
-
-[Sensible Pricing and Quality for Diamonds](https://www.reddit.com/r/DnDBehindTheScreen/comments/a3dd56/sensible_pricing_and_quality_for_diamonds/)
-
-[Compendium of Forgotten Secrets](https://www.dropbox.com/sh/rpkfb32qfq89qxr/AACyDUa0RFhYnx2GxpX1hXH2a?dl=0)
-
-
-Hey all! Some people have asked what resources I'm using for the sandbox game The West Marches, so here's a list of all the blog posts, random generators, and supplements I've found most useful so far!
-
-Blog Posts:
-Where it all came from: [http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/](http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/)
-
-·         Why you should make your hexes 6 miles: [http://steamtunnel.blogspot.ca/2009/12/in-praise-of-6-mile-hex.html](http://steamtunnel.blogspot.ca/2009/12/in-praise-of-6-mile-hex.html)
-
-·         A great multi-part sandbox design/theory discussion: [http://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl](http://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl)
-
-·         From the same, a theory discussion on the Hexcrawl as a game type: [http://thealexandrian.net/wordpress/15156/roleplaying-games/game-structures-part-6-hexcrawls](http://thealexandrian.net/wordpress/15156/roleplaying-games/game-structures-part-6-hexcrawls)
-
-·         A very useful hex/sandbox tutorial: [http://www.welshpiper.com/hex-based-campaign-design-part-1/](http://www.welshpiper.com/hex-based-campaign-design-part-1/)
-
-·         From the same, how to build interesting encounter tables: [http://www.welshpiper.com/encounter-populations/](http://www.welshpiper.com/encounter-populations/)
-
-·         How you should notate your encounters and adventures: [http://hackslashmaster.blogspot.ca/search/label/series%20%28adventure%20design%29](http://hackslashmaster.blogspot.ca/search/label/series%20%28adventure%20design%29)
-
-·         A way-too-in-depth tutorial that was nevertheless useful: [http://batintheattic.blogspot.ca/2009/08/how-to-make-fantasy-sandbox.html](http://batintheattic.blogspot.ca/2009/08/how-to-make-fantasy-sandbox.html)
-
-·         Some detail about creating hex maps: [http://batintheattic.blogspot.ca/2008/10/mapping-with-hexes.html](http://batintheattic.blogspot.ca/2008/10/mapping-with-hexes.html)
-
-·         A great brainfood blog filled with random tables: [http://roll1d12.blogspot.ca/](http://roll1d12.blogspot.ca/)
-
-·         My brother's blog, not getting regular updates but he has some awesomely creative stuff: [http://swampofmonsters.blogspot.ca/2014/01/fly-traps-eels-lotus.html](http://swampofmonsters.blogspot.ca/2014/01/fly-traps-eels-lotus.html)
-
-·         Zak S's blog- he's second to none for content creation, but he hasn't found system to matter at his table, where my experience differs greatly: [http://dndwithpornstars.blogspot.ca/](http://dndwithpornstars.blogspot.ca/)
-
-·         Courtney Campbell's blog \(linked above!\), more creative ideas: [http://hackslashmaster.blogspot.ca/](http://hackslashmaster.blogspot.ca/)
-
-·         Oglaf \(NSFW webcomic\)- for awesome weird fantasy \(often mixed with sex\): [http://oglaf.com/](http://oglaf.com/) \(NSFW\)
-
-Random Tables:
-
-·         You want names for things? We've got names for things: [http://donjon.bin.sh/](http://donjon.bin.sh/)
-
-·         Tons of random generators all in one place: [http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/](http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/)
-
-·         Crazy magic fuck-up results: [http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/](http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/)
-
-·         Additional results to crazy magic fuck-ups: [http://gloomtrain.blogspot.ca/2013/07/black-magic-remix.html](http://gloomtrain.blogspot.ca/2013/07/black-magic-remix.html)
-
-·         Populate hexes randomly \(if a bit generic\): [http://www.wizardawn.com/rpg/tool\_hexcrawl.php](http://www.wizardawn.com/rpg/tool_hexcrawl.php)
-
-·         Brainfood for wandering monster activity: [http://1d8.blogspot.ca/2011/04/what-are-those-wandering-monsters-up-to.html](http://1d8.blogspot.ca/2011/04/what-are-those-wandering-monsters-up-to.html)
-
-PDFs:
-
-·         A Quick Primer for Old School Gaming: [http://www.lulu.com/items/volume\_63/3019000/3019374/1/print/3019374.pdf](http://www.lulu.com/items/volume_63/3019000/3019374/1/print/3019374.pdf)
-
-·         A larger encounter generation PDF than you'll ever need: [http://kellri.truculent.org/CDD%234%20-%20ENCOUNTERS%20Reference.pdf](http://kellri.truculent.org/CDD%234%20-%20ENCOUNTERS%20Reference.pdf) [https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf](https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf)
-
-·         Courtney Campbell on Treasure: [http://angband.oook.cz/steamband/Treasure.pdf](http://angband.oook.cz/steamband/Treasure.pdf)
-
-·         Courtney Campbell \(HackSlashMaster\) on Tricks and Traps: [http://angband.oook.cz/steamband/Tricks.pdf](http://angband.oook.cz/steamband/Tricks.pdf)
-
-·         Go buy Vornheim \(random npcs, encounters, items, all sorts of useful stuff in here\): [http://rpg.drivethrustuff.com/product/91110/Vornheim-The-Complete-City-Kit](http://rpg.drivethrustuff.com/product/91110/Vornheim-The-Complete-City-Kit)
-
-General Tools:
-
-·         5e Sortable Spell List: [http://salty-ridge-7989.herokuapp.com/](http://salty-ridge-7989.herokuapp.com/)
-
-·         5e Monster List / Encounter Builder: [http://asmor.com/5e/monsters/\#/encounter-builder](http://asmor.com/5e/monsters/#/encounter-builder)
-
-·         Calculate probabilities on any dice: [http://anydice.com/](http://anydice.com/)
-
-Recommendations:
-
-·         Fill your head with the kind of fantasy you love. The kind that makes you go "YEAH THAT'S THE STUFF."
-
-·         Find sources of that from everywhere, and pick only the individual bits that you really enjoy- even single responses from a d100 table.
-
-·         Mix and match, and you're good to go.
-
-And if you had to only read 5 things from the above to build a sandbox game of your own, here they are:
-
-·         A great multi-part sandbox design/theory discussion: [http://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl](http://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl)
-
-·         A very useful hex/sandbox tutorial: [http://www.welshpiper.com/hex-based-campaign-design-part-1/](http://www.welshpiper.com/hex-based-campaign-design-part-1/)
-
-·         You want names for things? We've got names for things: [http://donjon.bin.sh/](http://donjon.bin.sh/)
-
-·         Go buy Vornheim \(random npcs, encounters, items, all sorts of useful stuff in here\): [http://rpg.drivethrustuff.com/product/91110/Vornheim-The-Complete-City-Kit](http://rpg.drivethrustuff.com/product/91110/Vornheim-The-Complete-City-Kit)
-
-·         Crazy magic fuck-up results: [http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/](http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/)
-
-Джерело: &lt;[https://www.reddit.com/r/itmejp/comments/2idf33/west\_marches\_resources/?st=jlnspqgn&sh=3b968878](https://www.reddit.com/r/itmejp/comments/2idf33/west_marches_resources/?st=jlnspqgn&sh=3b968878)&gt;
-
-# Mega Resources:
-
-[Home Brew](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fhomebrewery.naturalcrit.com%252f)
-
-[DM's Guild](hs://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.dmsguild.com%252f)
-
-[Donjon](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fdonjon.bin.sh%252f)
-
-[5E SRD](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.5esrd.com%252f)
-
-# Web:
-
-## Character building
-
-[Form Fillable Character Builder](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.dmsguild.com%252fproduct%252f186823%252fCharacter-Sheet--MPMBs-fullyautomated-Printer-Friendly-character-generator)
-
-[Every Possible Stat Array](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.reddit.com%252fr%252fDnD%252fcomments%252f2epkdi%252f5e_here_is_a_complete_list_of_valid_ability_score%252f)
-
-[Class Comparison List](https://drive.google.com/file/d/0BzeXlENyiQx3MHhYZTR2c1cwVlU/view)
-
-[Conjuration List](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fimgur.com%252fa%252fnZqbW)
-
-[Easy character creation](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.pathguy.com%252fddnext.htm)
-
-## Online Campaign Tracker
-
-[Dungeonomics](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fdungeonomics.com%252f)
-
-[Obsidianportal](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.obsidianportal.com%252f)
-
-## Treasure
-
-[Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
-
-[Treasure Generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fredkatart.com%252fdnd5tools%252f)
-
-[Prices Guide](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
-
-[Weak Magic Items](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.lordbyng.net%252finspiration%252fresults.php)
-
-7.     [Mithril And Mages Treasure](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.mithrilandmages.com%252fRPG.php%2523dd5e)
-
-8.     [Quick Store](https://drive.google.com/file/d/0B8mF8uNMRN_mX3otSG9vMUpSREE/view)
-
-## NPC:
-
-10.    [http://rpgtinker.com/](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252frpgtinker.com%252f)
-
-11.    [http://npcgenerator.azurewebsites.net](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fnpcgenerator.azurewebsites.net%252f)
-
-12.    [http://character.totalpartykill.ca/5e](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fcharacter.totalpartykill.ca%252f5e)
-
-13.    [Drive: NPC Generator](https://docs.google.com/spreadsheets/d/1uyre7jYpD1fQG4U9rqJdwUkga6sjCUmJovFzo6gxLUQ/edit#gid=553603978)
-
-##  Encounter
-
-15.    [Encounter and Initiative](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.improved-initiative.com%252fe%252fr6p75n00)
-
-16.    [http://kobold.club/fight/\#/encounter-builder](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fkobold.club%252ffight%252f%2523%252fencounter-builder)
-
-17.    [http://rpgtinker.com/bestiary.php](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252frpgtinker.com%252fbestiary.php)
-
-18.    [5E GM Egaanon](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252f5egmegaanon.github.io%252f5etools%252fbestiary.html%2523Apprentice%2bWizard)
-
-19.    [Poison generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252forteil.dashnet.org%252frandomgen%252f%253fgen%253dvMMEtKRA)
-
-20.    [Monsters by Challenge Rating 1.0](http://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
-
-21.    [Monsters by Type 1.0](http://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
-
-##  Names
-
-[Fantasy Name Generators](http://fantasynamegenerators.com/)
-
-[Mithril And Mages Name Gen](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.mithrilandmages.com%252f)
-
-##   Generator
-
-[Taverns](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252finkwellideas.com%252ffree-tools%252frandom-inn-generator-floorplan%252f)
-
-[Dungeon & Town Quick](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fdmtools.tumblr.com%252f)
-
-[Stores \(with inventories\)](https://docs.google.com/spreadsheets/d/1FCNPBMZm6tWfeOEtdOvcOrWDRZVqbe1ipzK9eQmNp2o/edit)
-
-[Pymapper](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fpymapper.com%252f)
-
-[Ye olde map maker](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.yeoldemapmaker.com%252feditor%252f)
-
-[https://web3dvtt.appspot.com/game/](https://web3dvtt.appspot.com/game/)
-
-##    Updated Rules
-
-[Sage Advice Compendium](http://media.wizards.com/2016/downloads/DND/SA-Compendium.pdf)
-
-[Monster Manual Errata 1.2](http://media.wizards.com/2016/downloads/DND/MM-Errata.pdf)
-
-[Dungeon Master’s Guide Errata 1.1](http://media.wizards.com/2016/downloads/DND/DMG-Errata.pdf)
-
-[Unearthed Arcana Quick Reference](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.learningdnd.com%252funearthed-arcana%252f)
-
-# Applications:
-
-[Fantasy Grounds](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fstore.steampowered.com%252fapp%252f252690%252f)
-
-[RP Tools](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.rptools.net%252f)
-
-[Dungeonographer](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.dungeonographer.com%252ffree-version%252f)
-
-[Hobbyte](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fhobbyte.net%252f)
-
-## Mobile Applications:
-
-### Character Manager
-
-Android [Squire - Character Manager Pro](https://play.google.com/store/apps/details?id=com.herd.squire)
-
-Apple [Fight Club 5th Edition](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fitunes.apple.com%252fus%252fapp%252ffight-club-5th-edition%252fid901057473%253fmt%253d8)
-
-### Spells
-
-5.     \[Android\] [5th Edition Spell Book](https://play.google.com/store/apps/details?id=com.spellsdd5)
-
-6.     \[Apple\] [Spellbook \(D&D 5e\)](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fitunes.apple.com%252fus%252fapp%252fspell-book-d-d-5e%252fid1148329565%253fmt%253d8)
-
-Encounter Builder/Manager
-
-Android [eRPG Tools Plus](https://play.google.com/store/apps/details?id=com.mentiromano.erpgtoolsplus)
-
-Официальный контент: https://www.dndbeyond.com/
-
-Флибустьеры не сдаются: https://5e.tools/
-
-Содержание
-
-ДОПОЛНЕНИЯНАРУССКОМЯЗЫКЕ        1
-
-Другиеполезныеонлайнссылкиноуженаанглийскомязыке        1
-
-Offline software        3
-
-SYSTEM REFERENCE DOCUMENTATION        3
-
-A COLLECTION OF GUIDES AND TIPS FROM THE MASTERS        3
-
-Free Tools        4
-
-Paid Tools        5
-
-Compilations of Multiple Generators        5
-
-Map Collections        8
-
-Random Generators        8
-
-Map-Making Tools        9
-
-Map Assets        9
-
-Extra Content        10
-
-SHEETS FOR PRINTING        10
-
-DIGITAL SHEETS        11
-
-DM Screens        11
-
-TRAPS        12
-
-ENCOUNTER DESIGN        13
-
-COMMUNITIES        14
-
-HOMEBREW TOOLS        14
-
-HOMEBREW CONTENT EXAMPLES        15
-
-PLAYLISTS        16
-
-VIRTUAL TABLETOPS        17
-
-
-## ДОПОЛНЕНИЯ НА РУССКОМ ЯЗЫКЕ
-
-
-[Ролевые игры на Штормовой башне](http://stormtower.ru/)  http://stormtower.ru/generator/
-
-[D&amp;D Helpmate](https://www.patreon.com/mastademic)
-
-https://lutique666.github.io/PHB/Chapter11gen.html
-
-[Генераторы, в т.ч. и под пятую редакцию на русском языке от Доктора Тентакуля](https://tentaculus.ru/)
-
-https://drive.google.com/file/d/0B51xMbPCkbp9Nmp5MGJjZVoxRkE/view
-
-#
-[ANNOTATION:
-
-BY &#39;Anton Palikhov&#39;
-ON &#39;2018-12-25T03:08:00&#39;ПА
-NOTE: &#39;Некоммерческий проект справочных материалов для новичков и опытных игроков.&#39;
-NOTE: &#39;Не секрет, что в Книге Игрока, какой бы красивой она ни была, достаточно трудно ориентироваться. А если принять во внимание ещё и разнообразные дополнения в виде дополнительных книг, выпусков Unearthed Arcana и прочих материалов, то ориентирование усложняется в разы. Поэтому, если вам это надоело, я постараюсь собрать на этом небольшом веб-сайте всё, что может понадобиться в ваших игровых сессиях. Пока сайт позволяет только посмотреть заклинания, но и это уже хорошо.&#39;
-NOTE:
-D&amp;DHelpers - D&amp;DNext в веб-флаконе - [https](https://dnd.inkyquill.net/calculator)[://](https://dnd.inkyquill.net/calculator)[dnd](https://dnd.inkyquill.net/calculator)[.](https://dnd.inkyquill.net/calculator)[inkyquill](https://dnd.inkyquill.net/calculator)[.](https://dnd.inkyquill.net/calculator)[net](https://dnd.inkyquill.net/calculator)[/](https://dnd.inkyquill.net/calculator)[calculator](https://dnd.inkyquill.net/calculator) - Заклинания, Расчёт боевых сцен, Магические предметы
-
-[Руководство Паланта по](https://palant.gitbook.io/palant-roll20-guide/)[Roll](https://palant.gitbook.io/palant-roll20-guide/)[20](https://palant.gitbook.io/palant-roll20-guide/)
-
-Заготовка русскоязычной (пока большая часть на английском языке) сеттингопедии по Забытым Королевствам  - https://www.worldanvil.com/w/forgotten-realms-palant
-
-Каталог ссылок на русскоязычные ролевые ресурсы - http://rpglinks.wintersky.me/
-
-## Другиеполезныеонлайнссылкиноуженаанглийскомязыке
-
-# D&amp;D 5e Random Character Generator
-
- [https://tetra-cube.github.io/dnd/dnd-char-gen.html](https://tetra-cube.github.io/dnd/dnd-char-gen.html)
-
-https://rpgtinker.com/index.php?template=Scoundrel&amp;race=Wood+Elf&amp;radioattribute=Random+Array+%284d6+method%29&amp;numberofhitdice=10&amp;hitdice=d8&amp;hidefeatures=nothing
-
-D&amp;D 5E Tools by Leugren
-
-DM Tools:
-
-Encounter Difficulty Calculator
-
-Treasure Generator
-
-NPC Generator
-
-Settlement Generator
-
-Building Generator
-
-Tavern Generator
-
-Location-Based Adventure Generator
-
-Villain Generator
-
-Dungeon Idea Generator
-
-Wilderness - Monument Generator
-
-Wilderness - Weird Locale Generator
-
-Wilderness - Weather Generator
-
-World-Shaking Event Generator
-
-Advanced Weather Generator
-
-Quick Monster CR Calculator
-
-Monster Stat Generator
-
-NPC Name Generator
-
-Player Tools:
-
-PC Personality Generator
-
-PC Point-Buy Calculator
-
-Trinket Generator
-
-Redkat&#39;s 5E D&amp;D Tools - http://redkatart.com/dnd5tools/
-
-- [**Random Treasure Generator**](http://redkatart.com/dnd5tools/#treasureBox)
-- [**Quick Random Magic Item**](http://redkatart.com/dnd5tools/#itemBox)
-- [**Better Random Quests!**](http://redkatart.com/dnd5tools/#questBox2)
-- [**Random Dungeon Room Dressing**](http://redkatart.com/dnd5tools/#roomBox)
-- [**Character Ability Score Roller**](http://redkatart.com/dnd5tools/#charBox)
-- [**Random Spellbook Generator**](http://redkatart.com/dnd5tools/#spellbox)
-
-https://dungeonchannel.com/
-
-[https://orcpub2.com/](https://orcpub2.com/)
-
-[Waterdeep interactive map –](https://www.aidedd.org/atlas/index.php?map=W&amp;l=1)
-
-College of Lore - dungeons &amp; dragons 5th edition resource library  also has http://www.collegeoflore.com/map-location/ulbrinter-villa/
-
-[Forgotten Realms interactive map](https://www.aidedd.org/atlas/index.php?map=R&amp;l=1)
-
-[Forgotten Realms interactive map # 2](http://loremaps.azurewebsites.net/Maps/Faerun)
-
-Много карт - [https](https://imgur.com/a/EE0Wz)[://](https://imgur.com/a/EE0Wz)[imgur](https://imgur.com/a/EE0Wz)[.](https://imgur.com/a/EE0Wz)[com](https://imgur.com/a/EE0Wz)[/](https://imgur.com/a/EE0Wz)[a](https://imgur.com/a/EE0Wz)[/](https://imgur.com/a/EE0Wz)[EE](https://imgur.com/a/EE0Wz)[0](https://imgur.com/a/EE0Wz)[Wz](https://imgur.com/a/EE0Wz)
-
-Очень много карт - [https://www.deviantart.com/mrvalor2017/gallery/](https://www.deviantart.com/mrvalor2017/gallery/)
-
-## Offline software
-
-http://thegeniusinc.com/dd-monster-maker-download/
-
-[System for taming Wild Animals in 5E](https://www.reddit.com/r/DnD/comments/3mr1un/system_for_taming_wild_animals_in_5e/)
-
-https://drive.google.com/file/d/0BzlzB4FzIyPQenZJaE00aV93VlU/view
-
-## SYSTEM REFERENCE DOCUMENTATION
-
-All content on these sites is from the official [Wizards SRD](http://www.google.com/url?q=http%3A%2F%2Fmedia.wizards.com%2F2016%2Fdownloads%2FDND%2FSRD-OGL_V5.1.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFgxVF3Cb_O1xJ1hSZDUXfXVLsumQ) content.
-
-[5thSRD](https://www.google.com/url?q=https%3A%2F%2Fwww.5thsrd.org%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHpdUvX8awIXFY9mEDghJfW_11hww)
-
-[Open5e](https://www.google.com/url?q=https%3A%2F%2Fopen5e.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHA0l67v3BjVyWJkXa967LDh_buyg)
-
-[(GM Binder conversion) 5eSRD](https://www.google.com/url?q=https%3A%2F%2Fwww.gmbinder.com%2Fshare%2F-LPbmA3d9neevjfA1Dlb&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGsZA88k25QM4W97t8jrSkWw4Cwyg)
-
-[D&amp;D Next Index](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fddnextindex%2Fhome&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG_urx7fmjJ4O4lbTxbs8TZIDUcQQ)
-
-[Roll20 D&amp;D 5e Rules Compendium](https://www.google.com/url?q=https%3A%2F%2Froll20.net%2Fcompendium%2Fdnd5e%2FBookIndex&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGLH8DKnbQaDPkEUpHoYmrjUj7_gA)
-
-[Online DM Screen](http://www.google.com/url?q=http%3A%2F%2Fwww.5edmscreen.com%2F%23News&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGNzpd4P-1wGfWmxOSmzvt_X0JtJA)
-
-[OblivionKeg](https://www.google.com/url?q=https%3A%2F%2Ftools.oblivionkeg.net%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF5XX2_W7B_qpOgK9_x1BespYtS3w)
-
-## A COLLECTION OF GUIDES AND TIPS FROM THE MASTERS
-
-**Text Guides**
-
-[Session Zero Checklist for Starting a New Campaign](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdndnext%2Fcomments%2F601awb%2Fsession0_topic_checklist_and_guide%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHumxCXd_Adf29TKHvHK_A16IGCOg)
-
-[Session Zero Handout](https://drive.google.com/file/d/0Bw4_sxykbTWcRFFyR3l3cFE0MHM/view?usp=sharing)
-
-[[Reddit] The Complete Hippo](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnDBehindTheScreen%2Fcomments%2F4alsr0%2Fthe_complete_hippo%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGj5jCctEroMiYwscCpjyomaoDXhw) (/u/FamousHippopotamus&#39;s posting history)
-
-[System-neutral GM tips](http://www.google.com/url?q=http%3A%2F%2Fthealexandrian.net%2Fgamemastery-101&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFqJb21_xi1Zjd0XMIPharDqm2rBg)
-
-[Sly Flourish Tips for New Dungeon Masters](http://www.google.com/url?q=http%3A%2F%2Fslyflourish.com%2Ffive_tips_for_new_dungeon_masters.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE7mBzNgPTzPJnh61COgHD4kifMLw)
-
-[Sly Flourish Article Archive](http://www.google.com/url?q=http%3A%2F%2Fslyflourish.com%2Farchive.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEAXEaWgieTimPSQ3zMr9xxM5xqlw) (Use ctrl-f to find stuff)
-
-[The Ten Commandments of GMing](http://www.google.com/url?q=http%3A%2F%2Fthemagictreerpg.blogspot.com%2F2008%2F10%2Fgms-ten-commandments.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG6usLgk7Llih5jr4FB0-fpKU1wyg)
-
-[The Angry GM](https://www.google.com/url?q=https%3A%2F%2Ftheangrygm.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFi3ku9dwiK9XwI29WT_3HLW-Knlg) RPG advice
-
-[Matt Colville&#39;s written advice to new GMs](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnD%2Fcomments%2F2aynff%2Fadvice_to_new_gms%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEUwKRIYIKcmdpb9-ltL2HGN4oI6g)
-
-[So You Want to DM: Advice for New Players](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnD%2Fcomments%2F2n6394%2Fso_you_want_to_dm_advice_for_new_players%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGi-AF1nNRYVJ_whF2yC6lXZ41UnA)
-
-[Geek and Sundry&#39;s Basic Tips for a Novice DM](http://www.google.com/url?q=http%3A%2F%2Fgeekandsundry.com%2Fbasic-tips-for-a-novice-dm%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGzAJtdadnFb-kDNw8LRsEYQ9q4_A)
-
-[[GoblinsComic] Dungeon Master Tips](http://www.google.com/url?q=http%3A%2F%2Fwww.goblinscomic.org%2Fdungeon-master-tips%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEK9Be96axwEvZL9UJLskiUmsoQzw)
-
-[[NewbieDM] 87 GM Tips](https://www.google.com/url?q=https%3A%2F%2Fnewbiedm.com%2F2013%2F07%2F31%2F87-dm-tips%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHEoGZurBGkq3k0Eiih7XIzjvYkzg)
-
-[[Kassoon] DM Lessons](http://www.google.com/url?q=http%3A%2F%2Fkassoon.com%2Fdnd%2Fdm-lessons%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNETodA3LGxuEZHik82nTEw0QHmlmg)
-
-[How to Make a Campaign TL;DR](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnD%2Fcomments%2F81a4wa%2Ftips_for_writing_a_5e_campaign%2Fdv1nc88%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGdpO5KcRVnKfYcVg0P3yPhsBUCdw)
-
-[On Being a Dungeon Master for Kids](http://www.google.com/url?q=http%3A%2F%2Fdnd.wizards.com%2Farticles%2Ffeatures%2Fbeing-dungeon-master-kids&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHMUEp-R4MXs4W5rdS7q6yRL88_dw)
-
-**Video Guides**
-
-[Matt Colville&#39;s Running the Game](https://www.youtube.com/watch?v=e-YZvLUXcR8&amp;list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_)
-
-[Matthew Mercer&#39;s GM Tips](https://www.youtube.com/watch?v=6XikjjQok5Y&amp;list=PL7atuZxmT9570U87GhK_20NcbxM43vkom)
-
-[Sly Flourish - Helping New DMs](https://www.youtube.com/watch?v=ULaopY2EMwk)
-
-[How to be a Good DM](https://www.youtube.com/watch?v=uKGHS3ToBMQ)
-
-[How to be a Great Game Master](https://www.youtube.com/user/Bon3zmann/videos)
-
-## Free Tools
-
-[Adventurer&#39;s Codex](https://www.google.com/url?q=https%3A%2F%2Fadventurerscodex.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGPadVP9saVX_ptEAQrIlsscSaPlw)
-
-[BlueDragon](https://www.google.com/url?q=https%3A%2F%2Fbluedragon.io%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEMT1CNCDiB9ljK--ffUzjSVwHYyw)
-
-[Trello](https://www.google.com/url?q=https%3A%2F%2Ftrello.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFowBvY1bflSJaRGrvzYn9fEgzeUg)
-
-[Airtable Example Setup](https://www.google.com/url?q=https%3A%2F%2Fairtable.com%2Funiverse%2Fexp1ymA7Kj9ewyM7Y%2Fgame-master%3Fexplore%3Dtrue&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGZnDYZvFCFFwa8VDtk1IVm_MG03A)
-
-[EverNote](https://www.google.com/url?q=https%3A%2F%2Fevernote.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG95HZSJ9Y8tBxw19n7MiT1-E2A4A)
-
-[World Anvil](https://www.google.com/url?q=https%3A%2F%2Fwww.worldanvil.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGCMXo1JANGT44Da-C4DFaCdDjM_Q)
-
-[Campaign Logger](https://www.google.com/url?q=https%3A%2F%2Fwww.roleplayingtips.com%2Fcampaign-logger%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEd6capsRRzk8g4e1l0Nj-F-RKjOA)
-
-[DM Binder](https://www.google.com/url?q=https%3A%2F%2Fdmbinder.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE2stO_4h_hJmIuBeHI4IQWQnUG3w)
-
-[Scabard](https://www.google.com/url?q=https%3A%2F%2Fwww.scabard.com%2Fpbs%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG-YfhFVHWFA2B0TnlAokyZLdJ6Ww)
-
-[Using OneNote for DMing](http://www.google.com/url?q=http%3A%2F%2Fwww.cryrid.com%2Fdigitaldnd%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEe7keqEo5CWizbhVG2f860pVPz_g)
-
-[Kanka](http://www.google.com/url?q=http%3A%2F%2Fwww.kanka.io%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGMWMInwmWxliuZbh9xggadEKQ81A)
-
-[Tavern Keeper](https://www.google.com/url?q=https%3A%2F%2Fwww.tavern-keeper.com%2Fhome&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFRCOQ9JaIh23-jV0zCpy3LYIv08w)
-
-[City of Brass](https://www.google.com/url?q=https%3A%2F%2Fcityofbrass.io%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFmcMG6QYbQx3LKmnDDIsfpXikNSQ) - Free or $5/month
-
-## Paid Tools
-
-[RealmWorks](http://www.google.com/url?q=http%3A%2F%2Fwww.wolflair.com%2Frealmworks%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGHX7e8TE18Ol6zOXVPNsntQ2FUSg) - $49.99
-
-[Scrivener](https://www.google.com/url?q=https%3A%2F%2Fwww.writersstore.com%2Fscrivener&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF-_CYBN8Yl5pU6dXPa8zK8TIejTQ) - $40 Windows / $45 Mac (v2.0)
-
-## **Compilations of Multiple Generators**
-
-[donjon.bin.sh](https://www.google.com/url?q=https%3A%2F%2Fdonjon.bin.sh%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHRxAc22rdM58q3EErH8IRoAt9ozg)
-
-[AutoRoll Tables - Github](http://www.google.com/url?q=http%3A%2F%2Fautorolltables.github.io%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGPCDgLGaTKYSTYOVWXwRLuv-HlMA)
-
-[BehindTheTables Giant Generator collection](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnD%2Fcomments%2F452r6r%2Fa_massive_and_growing_resource_of_random_tables%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGDANS3ND_6EhuSv2tUqJVMFNhTDQ)
-
-[Red Kat Art DnD5Tools](http://www.google.com/url?q=http%3A%2F%2Fredkatart.com%2Fdnd5tools%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGXVqYZ3oc1o8yum5Gecu1kaNR9gQ)
-
-[RP Tools](http://www.google.com/url?q=http%3A%2F%2Fwww.rptools.net%2Ftoolbox%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEx-UqDw15F5rkrHCMNv4wyXLIzcw)
-
-[Chaotic Shiny](http://www.google.com/url?q=http%3A%2F%2Fchaoticshiny.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFtJU-UrPM2Gfngsvk1w3cXIierjg)
-
-[Abulafia Generators](http://www.google.com/url?q=http%3A%2F%2Fwww.random-generator.com%2Findex.php%3Ftitle%3DMain_Page&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGlU0S9J8siMbz7974Xa36mzNflww)
-
-[D12dev](https://www.google.com/url?q=https%3A%2F%2Fwww.d12dev.com%2Fen%2Fwelcome%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF6id6UUv-tiuJcGTFE7ieUYHw12A)
-
-[Kassoon D&amp;D tools and Generators](https://www.google.com/url?q=https%3A%2F%2Fwww.kassoon.com%2Fdnd%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHGe7b-r-uXs5oQDco5yulq_kXx8w)
-
-[DND Speak](http://www.google.com/url?q=http%3A%2F%2Fdndspeak.com%2Fall%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGYuW_glYcOsaMm5HBXqM9ckIku3Q): D100 tables for many situations
-
-**Items**
-
-[Weak Magic Item generator](http://www.google.com/url?q=http%3A%2F%2Fwww.lordbyng.net%2Finspiration%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFO9zlnlYmU3aQDSyl0q8CnwdyHCg) provides flavor for items weaker than +1 but so much more interesting
-
-[Sane Magic Item Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
-
-[Effects for Magic Weapons](http://www.google.com/url?q=http%3A%2F%2Fwww.d20srd.org%2Fsrd%2FmagicItems%2FmagicWeapons.htm&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEKfil2wah17qd8xA1Uu5Vi-5GqZQ)
-
-[Inspiration for Magic Item Sets](https://drive.google.com/file/d/0By3AkfMY8wwpZUxJOUlVUDBDX00/view)
-
-[Some Homebrew Magic Items](https://docs.google.com/document/d/1BONVbAJzybPvQomDr3uNuabyqVCEylNLk3GEAo7lJYk/edit)
-
-**Loot**
-
-[One Loot Table to Rule Them All](https://docs.google.com/spreadsheets/d/1lIKwMVNbJLTE8b5iHbhEMFef8o7WuVsy1s0-I0k3ohA/edit#gid=0)
-
-[d100 for random loot on random NPC&#39;s](http://www.google.com/url?q=http%3A%2F%2Fminiworld.com%2Fcgi-bin%2Fscavanged.pl&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEtIdpH-prCq8d9hZHVlwwosVCAGA)
-
-**Dungeons**
-
-[Quick Dungeon Map Generator](https://www.google.com/url?q=https%3A%2F%2Fdavesmapper.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEYRmwvh43yeasiOQFh7Sjo--iJ3w)
-
-[Megadungeon generator](http://therustybattleaxe.blogspot.com.br/p/megadungeon-links-ii-maps-tables.html)
-
-[PolyDungeon](http://www.google.com/url?q=http%3A%2F%2Fpolyrogue.com%2Fdungeon%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE3l1xrTHA6y79eB5vbxa-MGLzSEQ)
-
-[Cave generator](https://www.google.com/url?q=https%3A%2F%2Fmatthewtarbutton.itch.io%2Fmap-generator&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHB41oureC9aCFXOlDKW0a9ho8L6A)
-
-[Wizards&#39; Dungeon generator](https://www.google.com/url?q=https%3A%2F%2Fwww.wizards.com%2Fdnd%2Fmapper%2Flauncher.htm&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHk556xhu8br5wjl91LIAoAyy325w)
-
-**Demographics and Markets**
-
-[Town generator](http://www.google.com/url?q=http%3A%2F%2Fwww.rdinn.com%2Ftown_generator.php&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE0JI3YwhzXjexFFwqe3lRHkBuTBw)
-
-[Demographics Generator](http://www.google.com/url?q=http%3A%2F%2Fwww.mathemagician.net%2Ftown.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHBJ-_-JdgygYB1EuKROBXUjvN5Jg)
-
-[List of Medieval Occupations](http://www.google.com/url?q=http%3A%2F%2Fwww.ancientfortresses.org%2Fmedieval-occupations.htm&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFVSSYNqtcCkl7W2CbGt_yzodmJ3w)
-
-[List of Medieval Occupations #2](https://www.google.com/url?q=https%3A%2F%2Fwww.cartographersguild.com%2Fshowthread.php%3Ft%3D22151&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHypP95g-WQkf5E5K7NlISBP-paew)
-
-[Medieval Demographics](http://www.google.com/url?q=http%3A%2F%2Fwww222.pair.com%2Fsjohn%2Fblueroom%2Fdemog.htm&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEY12hQWTrW_Bw2l4ZI-g8AXNzZsA)
-
-[Town Notice Board](http://www.google.com/url?q=http%3A%2F%2Fhomebrewery.naturalcrit.com%2Fshare%2FBkwZYf2V&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF2AShQrMts9l0EtvbmKzszqdteRw)(d100)
-
-[Town Market Inventory Generator](https://www.google.com/url?q=https%3A%2F%2Frpgmarketgenerator.com%2FTown%2FCreate&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEvKE8m7iG4CQBmeSR5nCLe511RHw)
-
-[Tavern Generator](https://www.google.com/url?q=https%3A%2F%2Fthecoppersanctum.github.io%2Fthecoppersanctum%2Ftaverns.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEEjLmKhvCKDELPY5Cg4WcS9fP7rw) - Includes a menu!
-
-**Shops and Equipment**
-
-[Shop Catalog version 1](https://drive.google.com/file/d/0B2o-JJoXmBahN1pLdjZZVUtPVXM/view)
-
-[Shop Catalog version 2](https://drive.google.com/file/d/0B8mF8uNMRN_mX3otSG9vMUpSREE/view)
-
-[More Market Details](https://drive.google.com/file/d/0ByyICrgYGzL2MEc3Y2dDWjA5aEU/view)
-
-[Mundane Goods and Martial Equipment](https://drive.google.com/file/d/0B3J5qdNzFt-LRmdrdlVMVGRQR1U/view)
-
-[Punny Shop Names](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnD%2Fcomments%2F3u0e3c%2Flets_make_a_big_list_of_shop_names%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHRVmtrJUsMzQT_zoCR-H8K-gCnYQ)
-
-[Not Punny Shop Names](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnDBehindTheScreen%2Fcomments%2F2zonrg%2Fcity_places_a_short_list%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE-xcdKlXZCeViOBTReiSIXOMCedw)
-
-**Calculators**
-
-[Point-Buy calculator](http://1-dot-encounter-planner.appspot.com/point-buy-calculator.html)
-
-[Dice Roller](http://www.google.com/url?q=http%3A%2F%2Fwww.wizards.com%2Fdnd%2Fdice%2Fdice.htm&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFWi0jwWabRplpKmNPCNmV8o2YBXQ)
-
-[Encounter Calculator](http://www.google.com/url?q=http%3A%2F%2Fdhmholley.co.uk%2Fencounter-calculator-5th%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEDhDZbyIrly7T15DoQyuZB_Di-QA)
-
-[CR Calculator Online](https://www.google.com/url?q=https%3A%2F%2Fiadndmn.neocities.org%2FCRcalc.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFCYhX7yr9WFPH8RwaJnm0PqYXG-w)
-
-[Character Money Splitter](https://www.google.com/url?q=https%3A%2F%2Ftofuecho.github.io%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGZWPEXZjX3LJA5fv81u_YX_dAOXg)
-
-**NPCs**
-
-[DM Heroes](http://www.google.com/url?q=http%3A%2F%2Fdmheroes.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHjHQQiX70JXQjtswPnXT_TwikoZg) (includes a portrait)
-
-[Detailed NPC StatBlock Generator](http://www.google.com/url?q=http%3A%2F%2Frpgtinker.com%2Findex.php%3Ftemplate%3DSpy%26race%3DWood%2BElf%26radioattribute%3DGood%2BArray%2B%252816%252C14%252C12%252C11%252C10%252C10%2529%26numberofhitdice%3D7%26hitdice%3Dd8&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGQ9LAyJIcKvdRfffPmJOao1CbBXA)
-
-[NPC Generator (more RP focus)](http://www.google.com/url?q=http%3A%2F%2Fnpcgenerator.azurewebsites.net%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFrqbJMTN1cM8h2vFcM2TJSx8tfiA)
-
-[Name Generator](http://www.google.com/url?q=http%3A%2F%2Fwww.behindthename.com%2Frandom%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFehvCb3XLau-KMiewwVo1GB3TC0Q)
-
-[NPC background generator](http://www.google.com/url?q=http%3A%2F%2Fwww.drlverse.com%2Fgmrt%28characters%29.htm&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHCyOBHVsOSgEbu3I6gnBBSmEgurw)
-
-[Memorable Mooks and Minions](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnDBehindTheScreen%2Fcomments%2F3hreqt%2Fmemorable_mooks_and_minions%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGE-fd9KhpmKGiB49AFTvulPdx2Kg)
-
-[Random NPC generator, not for 5th ed](http://www.google.com/url?q=http%3A%2F%2Fwww.lastgaspgrimoire.com%2Fgenerators%2Fnpc-birthing-sacs%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG9ngBaxwegJJQZyBhiNcPT1I7TiQ)
-
-[D&amp;D 5e NPC Generator](https://www.google.com/url?q=https%3A%2F%2Ftetra-cube.github.io%2Fdnd%2Fdnd-npc-gen.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNET4h55nYQpdP3F10SpCa4y4Nqo9w)
-
-**Substances**
-
-[Drugs for D&amp;D](http://www.google.com/url?q=http%3A%2F%2Fhomebrewery.naturalcrit.com%2Fshare%2FrJ10BMsH&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHcAg5bmo5LqnaBm820dKJeiwqSWA)
-
-[Poison Generator](http://www.google.com/url?q=http%3A%2F%2Forteil.dashnet.org%2Frandomgen%2F%3Fgen%3DvMMEtKRA&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEKCkr2bDdOkAoQgxVu_eA3PECqeg)
-
-**Other Tools**
-
-[Initiative Tracker](http://www.google.com/url?q=http%3A%2F%2Fimproved-initiative.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGPMvDbFpQyhRF8zybYpgPV0Lba9Q)
-
-[Fantasy Calendar Generator](https://www.google.com/url?q=https%3A%2F%2Fwww.fantasy-calendar.com%2Fcalendar%3Faction%3Dgenerate&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE8kjvPRm-mD4_Jg1RS2f6PWUCaUQ)
-
-[10,000 Wild Magic Surge Effects Vol 1](http://www.google.com/url?q=http%3A%2F%2Fwww.traykon.com%2Fpdf%2FThe_Net_Libram_of_Random_Magical_Effects.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHjvIYXie9Wa3HELwVKciK_IAA2tQ)
-
-[10,000 Wild Magic Surge Effects Vol 2](https://www.google.com/url?q=https%3A%2F%2Fcentralia.aquest.com%2Fdownloads%2FNLRMEv2.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH2pvz8n8iGoI9yAf79hYuQIYt09Q)
-
-## Map Collections
-
-[Google Drive] [Map Collection](https://drive.google.com/drive/folders/0B18FWVUF44sqX054d1ZlYm5GZW8)
-
-[Google Drive] [Another RPG Map Collection](https://drive.google.com/drive/folders/1W_ePcEgZr4zsPfQLNiYeafartYPpf7jS)
-
-[Dyson&#39;s Dodecahedron free map archive](https://www.google.com/url?q=https%3A%2F%2Frpgcharacters.wordpress.com%2Fmaps%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHaHZoxzpIzzuLjKaC_8uiC3_kq0g)
-
-[David Rumsey Map Collection](http://www.google.com/url?q=http%3A%2F%2Fwww.davidrumsey.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFiJ8lxEzzoThx0nGrk0b-CYfJElw)
-
-[Real City Maps throughout history](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2Fhistory%2Fcomments%2F61fdp6%2Fheres_a_collection_of_over_360_historical_city%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHHwH7-dJgNLY-sTDQAv3P50Yetkw)
-
-[Coastal Battlemaps](https://www.google.com/url?q=https%3A%2F%2Fimgur.com%2Fgallery%2F2NZ5V&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE8lZRhEgkjJWX1e0E11MD40el1fA)
-
-[/r/BattleMaps](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbattlemaps%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF8rKEqAcTlGGeeQgl5c3s9MpgRyg)
-
-[[2minutetabletop] BattleMaps](http://www.google.com/url?q=http%3A%2F%2F2minutetabletop.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGO5oLypp-v-Jw2VTsWDVcsouw_JQ)
-
-[Cartography Guild Tactical Maps](https://www.google.com/url?q=https%3A%2F%2Fcartography-guild.deviantart.com%2Fgallery%2F24517984%2FTactical&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGvUOMe6Ifz4s2xtBEoQKMW2PrqFg)
-
-[More maps, unsorted](https://www.google.com/url?q=https%3A%2F%2Fimgur.com%2Fgallery%2FBtwYo&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFTuAFJUrUtCI5uSFw6pk4r404bug)
-
-[Google Image Search] [Small Area Maps](https://www.google.com/search?q=D%26D+encounter+map&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwip_aSNo4bRAhUBV2MKHaXjCK8Q_AUICCgB&amp;biw=1920&amp;bih=1061)
-
-[Google Image Search] [Large Area Maps](https://www.google.com/search?q=D%26D+encounter+map&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwip_aSNo4bRAhUBV2MKHaXjCK8Q_AUICCgB&amp;biw=1920&amp;bih=1061#tbm=isch&amp;q=fiction+world+map)
-
-## Random Generators
-
-[City Map Generator](https://www.google.com/url?q=https%3A%2F%2Fwatabou.itch.io%2Fmedieval-fantasy-city-generator&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGnkyud4fA_G9JpGx7NV4U6OXcfCg) More rounded/organic
-
-[City Map Generator](http://www.google.com/url?q=http%3A%2F%2Finkwellideas.com%2Ffree-tools%2Frandom-city-map-generator%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHuvbsnyGqqs4Rxks4npbmt2RGVcg) More Square
-
-[City Map Generator](http://www.google.com/url?q=http%3A%2F%2Finkwellideas.com%2Fworldbuilding%2Froleplaying-city-map-generator%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGewhFJV94_h_yYU7Yz1HhNf0L27w) More organic
-
-[City Map Generator](http://www.google.com/url?q=http%3A%2F%2Foskarstalberg.com%2Fgame%2FCityGenerator%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH5tlKudC0ewnY25UOOl3VIOmOpIw) Procedural on-the-fly generation.
-
-[Inn Floorplan Generator](http://www.google.com/url?q=http%3A%2F%2Finkwellideas.com%2Ffree-tools%2Frandom-inn-generator-floorplan%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFHNzoo5_ZVzw5dqo5wAJ1cujeX1w)
-
-[Planet Generator](http://www.google.com/url?q=http%3A%2F%2Fwww.diku.dk%2Fhjemmesider%2Fansatte%2Ftorbenm%2FPlanet%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGo6FXdiUYcXaP6ZDZEB5YFzFWSAw)
-
-[Continents generator](https://www.google.com/url?q=https%3A%2F%2Fazgaar.github.io%2FFantasy-Map-Generator%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHO6qKS6MIwhCfIDQ31mgcDwrtuvw)
-
-[Random Terrain generator (advanced coastal algorithm)](https://www.google.com/url?q=https%3A%2F%2Fmewo2.com%2Fnotes%2Fterrain%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFFe3MfAi4n4uUqpwOUUuEnfVcYeQ)
-
-[(Stanford CS project) Polygon World Map generator](http://www.google.com/url?q=http%3A%2F%2Fwww-cs-students.stanford.edu%2F~amitp%2Fgame-programming%2Fpolygon-map-generation%2Fdemo.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEXnG4zuX5oJDEN510eFM_KFzLyUw)
-
-## Map-Making Tools
-
-[Inkarnate](http://www.google.com/url?q=http%3A%2F%2Finkarnate.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGEyQW8hAhvGrvMOkoqX7eX4P4aFw) - Comprehensive in-browser map-making software
-
-[Wonderdraft](https://www.google.com/url?q=https%3A%2F%2Fwww.wonderdraft.net%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEplGjFbq-vGCND_Th_iBjjAsp__Q) - Incredibly customizable maps - $19.99
-
-[http://pymapper.com/](http://www.google.com/url?q=http%3A%2F%2Fpymapper.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHQAGl4T_0frbykjYSiSPGrF0_0GA)
-
-[Mipui&#39;s Map Maker](https://www.google.com/url?q=https%3A%2F%2Fwww.mipui.net%2Fapp%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHwrXKGK_eRHMTIxzcutQ1uaIIDzg) - In-browser map tool
-
-[Hobbyte](https://www.google.com/url?q=https%3A%2F%2Fhobbyte.net%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFf84H-zVtezjn3rKPLxsR5hz_YJw) - Isometric map-making software
-
-[Dungeon Painter Studio](http://www.google.com/url?q=http%3A%2F%2Fstore.steampowered.com%2Fapp%2F592260%2FDungeon_Painter_Studio%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEsdrcdQC8u_6J2fdmWZ68lh4RJMA) on Steam ($14.99 USD)
-
-[Pro Fantasy Software](https://www.google.com/url?q=https%3A%2F%2Fsecure.profantasy.com%2Fdefault.asp&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHVL93fe2hnq4LqA8qMLbljGJI-Dg) (expensive)
-
-[http://fantasticmapper.com/](http://www.google.com/url?q=http%3A%2F%2Ffantasticmapper.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE2M3kSxZf4rWXcJW4zdHUgW0FGpA) - Hex Mapping
-
-[Illwinter&#39;s Floorplan Generator](http://www.google.com/url?q=http%3A%2F%2Fstore.steampowered.com%2Fapp%2F630900%2FIllwinters_Floorplan_Generator%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHJMY9l1SkNCes2ogGgnAv324wMqg) - Terrain generator on Steam ($5 USD)
-
-[Dungeonographer](http://www.google.com/url?q=http%3A%2F%2Fwww.dungeonographer.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGSiHqnSCvL-DFeT8GHaCp4TPa6YA)
-
-[Hexographer](http://www.google.com/url?q=http%3A%2F%2Fwww.hexographer.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG54O3GikPan0tiwPLzLOEgFYeCuQ)
-
-[Worldographer](http://www.google.com/url?q=http%3A%2F%2Fworldographer.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHz4qvxMozQt9Cfcew-8PIzuJ0KeQ) (AKA Hexographer II)
-
-[ArkenForge](https://www.google.com/url?q=https%3A%2F%2Farkenforge.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHqNrbkoZnFNkUzhUANeERhG6dpag) - Make maps for Virtual Tabletops, or run it on a TV for use as a dynamic grid map with fog of war
-
-## Map Assets
-
-[Giant Collection of Map Assets](https://drive.google.com/drive/folders/1c_8hDZKuZuu_NF76oq2fjcm4XaE1stkJ) (for Roll20 and similar)
-
-[10x10 modular map tiles](http://www.google.com/url?q=http%3A%2F%2Fmadcowchef.deviantart.com%2Fgallery%2F48647465%2FFree-Map-Tiles&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHfqMsEyfTm8v9SIkn3qLgVNCkEMg)
-
-[Icons for VTT](http://www.google.com/url?q=http%3A%2F%2Fgame-icons.net%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFrNw9pXVS4Vj4ncKLJZ2sAQMOkTQ)
-
-## Extra Content
-
-[How to Draw a Map Using Photoshop/Gimp](http://www.google.com/url?q=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHOb0JLdft41jAYfqXHvmEbCW_clQ)
-
-[400+ Photoshop Brushes For Creating Fantasy Maps](https://www.google.com/url?q=https://www.reddit.com/r/mapmaking/comments/6c4jm8/ive_created_400_photoshop_brushes_for_creating/&amp;sa=D&amp;ust=1536686517842000)
-
-[Map Maker Forum](https://www.google.com/url?q=https%3A%2F%2Fwww.cartographersguild.com%2Fcontent.php%3Fs%3Da1be452ae15187f2d2a7b2ebfda7b5e6&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEqPoP2ChhPt-zqVg05O3FVtDYe_w)
-
-[Hexcrawl campaign guide](http://www.google.com/url?q=http%3A%2F%2Fwww.welshpiper.com%2Fhex-based-campaign-design-part-1%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH3SxU-8-WMtGF_SlPXfq1MV7FROw)
-
-[The DM&#39;s Map Drawing Guide](https://www.youtube.com/playlist?list=PLJ0NOHUuRGk3ydsZHYnkOiNaq9G1zFoO3)
-
-## SHEETS FOR PRINTING
-
-**Generic Sheets**
-
-[[Zip File] Default 5e character sheets](https://drive.google.com/open?id=1yz561ekr9CVtNT6azNzDf5Fn1Ijkq3Pl)
-
-[Another Layout for Default Character Sheet](https://www.google.com/url?q=https%3A%2F%2Fimgur.com%2Fa%2F9ehgt&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF1vL48DRkjAxuftBTgAPr_IzcwEw)
-
-**Class-Specific Sheets**
-
-[Class-Specific 5e character sheets](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fsh%2Fdls227qhq2mk48v%2FAACW8sPWR0eJPvO6VXyIy-Kaa%3Fdl%3D0&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGr6Ox_-XnaAERbD8-OPHKKJP5ZNQ) (IMO the best character sheets for 5e I&#39;ve come across)
-
-[More Class-Specific Sheets](https://www.google.com/url?q=https%3A%2F%2Fwww.dmsguild.com%2Fproduct%2F232835%2FClass-Character-Sheets--The-Bundle&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEKKkHhA3cG386Wd0Im2VmakwXzCw)
-
-[Another Layout for Class-Specific Sheets](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnD%2Fcomments%2F6evfll%2F5e_class_specific_character_sheets_in_pdf_format%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH3plppIgl66jcNLhABRwYvEVi98A)
-
-**Pre-Generated Sheets and Sheet Generators**
-
-[fastcharacter.com Make your own Pre-Gen Characters](http://www.google.com/url?q=http%3A%2F%2Ffastcharacter.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE2gt0T9mK8opevcje_lVuApVQOlQ)
-
-[Pre-built Character Sheets](http://www.google.com/url?q=http%3A%2F%2Fwww.digitaldungeonmaster.com%2Fpre-made-dd-5e-character-sheets.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFOC2RbDS4X_mBIAZ_sZcmqBvi_qA) (Any class, any level)
-
-[Pre-Generated Characters](http://www.google.com/url?q=http%3A%2F%2Fwww.squaremans.com%2FPreGens.zip&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGhVjgFaGGv9ybZoXMEdr65PWZvTw)
-
-**More Sheets**
-
-[Character Sheet for Children](https://drive.google.com/file/d/0BxbzZxj_2fh3VXVfWXlzbTZVTG8/view)
-
-[Hand-Written Sheets ($2.99)](http://www.google.com/url?q=http%3A%2F%2Fwww.r-n-w.net%2F%3Fcategory%3DUNIVERSAL%2BCHARACTER%2BSHEET&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHN_ZuTFXWLGJadhZXOilRhlujUcg)
-
-[Futuristic Themed character sheet](https://www.google.com/url?q=https%3A%2F%2Fi1.wp.com%2Fwww.legendarypants.net%2Fwp-content%2Fuploads%2F2017%2F11%2Fdnd-5e-hex-char.png&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFe6GhC-VYlt-8AfNjQQ7ASG5nh0w) and a D&amp;D 5e-based futuristic setting guide to go with: [Project 2050](http://www.google.com/url?q=http%3A%2F%2Fwww.legendarypants.net%2Fproject-2050-srd%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGP20vOdraoxfRDGWqJbl9o_kHt8A)
-
-Google search for &quot;Themed D&amp;D character sheet&quot; and find one you like!
-
-## DIGITAL SHEETS
-
-[[DiceCloud] Simple Character Manager webapp](https://www.google.com/url?q=https%3A%2F%2Fdicecloud.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGr4zSkV--q_TFt3XScdSqjJ11tsw)
-
-[[Google Sheets] Automated character sheet](https://drive.google.com/drive/folders/0B0PVoaEKsbulMklseDNabWRmU1U) - Right-click, Make a copy, it&#39;ll go to &quot;My Drive&quot; where you can edit it.
-
-[Form-Fillable PDF Character Sheet (also automates calculations)](https://www.google.com/url?q=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F211221926570360832%2F285347978494083072%2FPrinter-Friendly-Redesign_v12-82_MPMBs_Character_Record_Sheet.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGYOFb1FlknqQ3aLjD_2wuRU5wB7g)
-
-[Another Form-Fillable PDF Sheet](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnDIY%2Fcomments%2F6xhw7g%2Foc_fillable_pdf_of_my_dm_friendly_character_sheet%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFmQ4uVBPsK3ZJro1LydIzqgc67cg)
-
-[ForgedAnvil D&amp;D 5e Character Generator](http://www.google.com/url?q=http%3A%2F%2Fwww.enworld.org%2Fforum%2Frpgdownloads.php%3Fdo%3Ddownload%26downloadid%3D1234&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEq2fwv-yErHc4-pYsZS77peF7-iw)
-
-[MorePurpleMoreBetter&#39;s Sheets](http://www.google.com/url?q=http%3A%2F%2Fwww.enworld.org%2Fforum%2Frpgdownloads.php%3Fdo%3Ddownload%26downloadid%3D1180&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEjGs3mXREI8NFFBxRf3TfHJH1ZoA)
-
-## DM Screens
-
-[Online DM Screen](http://www.google.com/url?q=http%3A%2F%2Fwww.5edmscreen.com%2F%23News&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGNzpd4P-1wGfWmxOSmzvt_X0JtJA)
-
-[Alt DM Screen Version 1](http://www.google.com/url?q=http%3A%2F%2Fimgur.com%2Fa%2FIXjjg&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEzfJnKijQXQo4aVt8-w1Q6lp5JCg)
-
-[Alt DM Screen Version 2](http://www.google.com/url?q=http%3A%2F%2Fmojobob.com%2Froleplay%2Fdnd5e%2FFitz%2527s%25205e%2520DM%2520Screen.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFaHB5zIOYSeGopYQkiP5lPzQbv1Q)
-
-[Alt DM Screen Version 3](https://drive.google.com/drive/folders/0B2EITM0tspCEc05veURKU0Q0a0U)
-
-[Alt DM Screen Version 4](https://www.google.com/url?q=https%3A%2F%2Folddungeonmaster.files.wordpress.com%2F2015%2F08%2Frrh_dm_screen_rev1.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGfViD5grT6TqOKYbCwx27BtcEaTw)
-
-[Alt DM Screen Version 5 (landscape)](https://drive.google.com/file/d/0Byr-i7lu1I5IaW1kSWNENWdyNHc/view)
-
-[Alt DM Screen Version 5 (Portrait)](https://drive.google.com/file/d/0Byr-i7lu1I5ISzU4SHNuTHhHNXc/view)
-
-## TRAPS
-
-[Trap Collection](http://www.google.com/url?q=http%3A%2F%2Fwww.farlandworld.com%2Ffiles%2Ftrapcol1.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGEycPHuEjIOpst7nn-VghCJ20cYg)
-
-[Some Traps](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/6rmbsh/lets_exercise_those_dm_muscles/&amp;sa=D&amp;ust=1536645850965000)
-
-[Amazing Goblin Trap](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/6lbl81/the_ultimate_goblin_trap_for_adventurers/&amp;sa=D&amp;ust=1536645850966000)
-
-[A Handful of Traps](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/5uk8rv/from_my_dungeon_to_yours_a_handful_of_traps/&amp;sa=D&amp;ust=1536645850967000)
-
-[Natural Traps](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/8mjb55/natural_traps/&amp;sa=D&amp;ust=1536645850968000)
-
-[Obvious Traps](https://www.google.com/url?q=https://www.reddit.com/r/DMAcademy/comments/8na3lv/making_traps_fun_by_making_them_obvious&amp;sa=D&amp;ust=1536645850968000)
-
-**TRAP DESIGN**
-
-[Trapmaking 101](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnDBehindTheScreen%2Fcomments%2F5r3pzg%2Ftraps_101%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH5v19ukGtLgsugbd_9fM4PxiSpKg)
-
-[Traps Revisited (Unearthed Arcana)](http://www.google.com/url?q=http%3A%2F%2Fmedia.wizards.com%2F2017%2Fdnd%2Fdownloads%2F0227_UATraps.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGPBHEHKH8sbJlLmIBKGvt2BZF_0Q)
-
-[On Traps and Tricks](http://www.google.com/url?q=http%3A%2F%2Fwww.thievesguild.cc%2Ftraps-and-tricks&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGlSbWcuRcQvgLkvA0xXlKpCwP9Ew)
-
-[On Tricks, Empty Rooms, and Basic Trap Design](https://www.google.com/url?q=https%3A%2F%2Fhackslashmaster.blogspot.com%2F2011%2F02%2Fon-tricks-empty-rooms-and-basic-trap.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH6-gsNncy5Wrqg6zUHN9pO09MTpQ)
-
-[Making Traps Fun](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/6xf25g/making_traps_fun_again/&amp;sa=D&amp;ust=1536645850967000)
-
-**PUZZLES**
-
-[60 Dungeon Puzzles to confound your players](https://docs.google.com/document/d/1hfompGbslrV_YvQ4ktPnY7vg-_blkIZ72hPcXLEWZdQ/edit)
-
-[More Dungeon Puzzles](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnD%2Fcomments%2F65wp3c%2F100_dungeon_puzzles_mysteries_community_made%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEVIcaopu7FT_8b1eD8Q4cZEKlXug)
-
-[Puzzle Doors](https://www.google.com/url?q=https://www.reddit.com/r/rpg/comments/1a1i5k/i_need_40_puzzle_doors_think_planescape_portals/&amp;sa=D&amp;ust=1536645850965000)
-
-[Puzzle Ideas](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/7oroel/whats_the_coolest_puzzle_youve_encountered_in/&amp;sa=D&amp;ust=1536645850968000)
-
-**RIDDLES**
-
-[Riddle Collection 1](http://www.google.com/url?q=http%3A%2F%2Fwww.farlandworld.com%2Ffiles%2Friddles1.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEvVAWy7dfIzAt42_7SSihmwkEz5g)
-
-[Riddle Collection 2](http://www.google.com/url?q=http%3A%2F%2Fwww.farlandworld.com%2Ffiles%2Frid1.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFxST2wQRsMguPpWiy-e1ScvLO9NQ)
-
-[D100 Riddle Table](https://docs.google.com/spreadsheets/d/1pfa6ATwSThuScW2wM_k8zJ0uKYyY3ZracoO3By3k_Es/edit?usp=sharing)
-
-[100 more riddles](http://www.google.com/url?q=http%3A%2F%2Fdndspeak.com%2F2018%2F11%2F100-riddles-and-their-answers%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEFvkL1XRWGU08dCs-d-eMDN988Nw)
-
-[Lever Riddle](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/8mo9se/oc_feel_free_to_use_my_clever_lever_riddle/&amp;sa=D&amp;ust=1536645850969000)
-
-## ENCOUNTER DESIGN
-
-[How to Build F$&amp;%ing Awesome Encounters!](http://www.google.com/url?q=http%3A%2F%2Ftheangrygm.com%2Fhow-to-build-awesome-encounters%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH4HRhk52RKjy6-DBDod5hcHoFmng)
-
-[Monster Tactics](http://www.google.com/url?q=http%3A%2F%2Fthemonstersknow.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEXm04hf-J97AsdOKR5Vd-YPvfvUg)
-
-**ENCOUNTER TOOLS**
-
-[[Goblinist] Encounter Builder](http://www.google.com/url?q=http%3A%2F%2Ftools.goblinist.com%2F5enc&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG3MAQ3EiG99D2QPwlJ8UWAtV5X_Q)
-
-[Improved Initiative Tracker](http://www.google.com/url?q=http%3A%2F%2Fimproved-initiative.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGPMvDbFpQyhRF8zybYpgPV0Lba9Q)
-
-[Kobold Fight Club Encounter Builder](https://www.google.com/url?q=https%3A%2F%2Fkobold.club%2Ffight%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGB-eYcQ7p-IO_hQKrlfIMStHc-Rg)
-
-**ENCOUNTERS**
-
-[City/Town Encounters 1](http://www.google.com/url?q=http%3A%2F%2Froleplayingtips.com%2Freadissue.php%3Fnumber%3D500%23tips&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG8zmdbJh-fQODaw1stLX6uBhSCoQ)
-
-[City/Town Encounters 2](http://www.google.com/url?q=http%3A%2F%2Froleplayingtips.com%2Freadissue.php%3Fnumber%3D501%23tips&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEI42kctq1cohz8-AJJaaFTyHs_yA)
-
-[City/Town Odd Encounters](https://www.google.com/url?q=https%3A%2F%2Fretrorpg.wordpress.com%2F2011%2F03%2F14%2F30-odd-random-city-encounters%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGMKkg0edX6AgHp7nr_AvZcMeAweg)
-
-[Some random road encounters](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnD%2Fcomments%2F2sl94j%2Frandom_road_encounters%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHaZZlKZl9WRPgg_ZIzFvoWiZS8DQ)
-
-[More Random Road Encounters](https://drive.google.com/file/d/1MBJ72TrRDMJ4SrJTVgSXSEoJeECiSNZl/view)
-
-[Travel Sights](https://docs.google.com/document/d/1WRZuYr8mpEj1buOON72rEdkt1eAdMqrmpMd9pymtqxU/edit)
-
-[Naval combat rules](https://www.google.com/url?q=https%3A%2F%2Fwww.tribality.com%2F2014%2F12%2F26%2Fnaval-combat-rules-dd-5th-edition-part-1%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH39ddXCReyC2bE1nL_Kouv88S5RA)
-
-[Role-Playing an Evil Dragon](https://www.google.com/url?q=https%3A%2F%2Fwww.dndbeyond.com%2Fposts%2F164-how-to-play-a-red-dragon-like-an-evil-genius&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEgKrVq6W0DyYjsyZx807JtNSO2sg)
-
-[Free one-shot adventures](https://www.google.com/url?q=https%3A%2F%2Fwww.2cgaming.com%2F2cgazette.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHypSa_3lPXswYpdebj6hPMSV2X6A)
-
-[Dark, Cloaked Figure](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/4m4tp3/theres_a_dark_cloaked_figure_hunched_over_at_the/&amp;sa=D&amp;ust=1536645850958000)
-
-[Atlas of Planes (incomplete)](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1BQiErBCopnSECFGh5pXbIv57cDkSocODIL6Z10rpvhI/edit%23gid%3D1341070491&amp;sa=D&amp;ust=1536645850958000)
-
-[Airship Encounters](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/6vkbl7/airship_encounter_ideas/&amp;sa=D&amp;ust=1536645850959000)
-
-[Finding An Odd Dagger](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/7ck6cp/dm_i_prepared_a_really_cool_thing_for_my_players/&amp;sa=D&amp;ust=1536645850959000)
-
-[Undead Encounter](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/7do6t5/steal_my_idea_undead_encounter/&amp;sa=D&amp;ust=1536645850960000)
-
-[Mountain Encounters](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/7gqgtb/steal_my_encounters/&amp;sa=D&amp;ust=1536645850960000)
-
-[Monster Manual Encounters](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/7jwapx/monster_manual_encounters_index_post/&amp;sa=D&amp;ust=1536645850961000)
-
-[The Hammered Gobbo](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/7t1kva/adding_amazement_to_amazing_places_part_1_the/&amp;sa=D&amp;ust=1536645850961000)
-
-[100 Forest Encounters](https://www.google.com/url?q=http://dndspeak.com/2018/02/100-forest-encounters/&amp;sa=D&amp;ust=1536645850962000)
-
-[The Forgetful Wizard And The Doomsday Clock](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/87f3zo/the_forgetful_wizard_and_the_doomsday_clock_a/&amp;sa=D&amp;ust=1536645850962000)
-
-[One Page Adventures For Various Environments](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/8hjlqd/one_page_adventures_22_adventures_for_most/&amp;sa=D&amp;ust=1536645850962000)
-
-[Escape From Mechanus](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/8ii7y9/escape_from_mechanus_a_homebrew_module/&amp;sa=D&amp;ust=1536645850963000)
-
-[Trolls &amp; Stirges](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/8qmb1y/steal_this_troll_and_stirge_encounter/&amp;sa=D&amp;ust=1536645850963000)
-
-[Desert Encounter Seeds](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/8ukqym/45_encounter_seeds_for_traveling_across_a_wei&amp;sa=D&amp;ust=1536645850964000)
-
-[The Infinite Library](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/8zen2b/the_infinite_library_an_adventure_location/&amp;sa=D&amp;ust=1536645850964000)
-
-[100 Swamp Encounters](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/8zfhuj/100_swamp_encounters/&amp;sa=D&amp;ust=1536645850964000)
-
-## COMMUNITIES
-
-[/r/UnearthedArcana](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FUnearthedArcana%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGsQ8ohvXVdW4A2QwsdhbpaV44Heg)
-
-[/r/boh5e](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2Fboh5e%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHFkb59pplkG_Uw1nK7GQ8DAuak8w) (Best of 5e Homebrew)
-
-[/r/monsteraday](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2Fmonsteraday%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGiUpCJ4X82AUGNcD0cD1IRkpFMyA)
-
-## HOMEBREW TOOLS
-
-[The Homebrewery - Make your own Homebrew!](http://www.google.com/url?q=http%3A%2F%2Fhomebrewery.naturalcrit.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEbBoTmJ4wViT7E_bfjudfjVyWrcQ)
-
-[DM&#39;s Workshop Homebrew Content](http://www.google.com/url?q=http%3A%2F%2Fdmsworkshop.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFrOLQ9TxhW9CQuJEOM4F1Lpdfe1w)
-
-[Detect Balance: A 5e Homebrew Race Guide](https://docs.google.com/spreadsheets/d/1vq1kz6PRAbw5LHy6amH-bNb4OuB8DBXL1RsZROt03Sc/edit?usp=sharing)
-
-[D&amp;D Beyond Homebrew Creation](https://www.google.com/url?q=https%3A%2F%2Fwww.dndbeyond.com%2Fhomebrew%2Fcreations&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFtyYhNYlNkKB9KzSvWaFmx0lEybw)
-
-## HOMEBREW CONTENT EXAMPLES
-
-**Rules**
-
-[Temporary &amp; Permanent Injuries](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/6l0dgb/oc_temporary_permanent_injuries/&amp;sa=D&amp;ust=1536645851039000)
-
-[Resurrection Effects](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/6loq83/1d20_marks_of_the_grave/&amp;sa=D&amp;ust=1536645851040000)
-
-[Homebrew Collection](https://www.google.com/url?q=https://dnd-5e-homebrew.tumblr.com/&amp;sa=D&amp;ust=1536645851040000)
-
-[House Rules](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/741lrj/best_house_rules/dnuzz96/&amp;sa=D&amp;ust=1536645851040000)
-
-[Making Wands From Magical Wood](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/7hirs4/art_i_drew_a_guide_to_magical_woods_for_wand/&amp;sa=D&amp;ust=1536645851041000)
-
-[Creatures As Playable Races](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/7nxy88/dmsguild_i_converted_every_creature_in_the/&amp;sa=D&amp;ust=1536645851041000)
-
-[Alternate Indefinite Madness](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/7v84oh/alternate_indefinite_madness/&amp;sa=D&amp;ust=1536645851041000)
-
-[Seafaring Rules](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/82tel3/5e_seafaring_rules/&amp;sa=D&amp;ust=1536645851042000)
-
-[The Alchemy Almanac](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/8kk4g5/the_alchemy_almanac/&amp;sa=D&amp;ust=1536645851042000)
-
-[Cooking With Benefits](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/8pafq4/a_writers_guide_to_improving_setting_description/&amp;sa=D&amp;ust=1536645851043000)
-
-[Falling Should Hurt](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/8suziy/bringing_the_pain_falling_should_hurt/&amp;sa=D&amp;ust=1536645851043000)
-
-**Lore and Worldbuilding**
-
-[Broderick&#39;s Compendium: Plants &amp; Fungi](https://www.google.com/url?q=https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/&amp;sa=D&amp;ust=1536645851043000)
-
-[Tree Lore](https://www.google.com/url?q=https://www.reddit.com/r/DnDBehindTheScreen/comments/8zf6v0/some_tree_lore/&amp;sa=D&amp;ust=1536645851044000)
-
-[The Bloodborne Armory](http://www.google.com/url?q=http%3A%2F%2Fhomebrewery.naturalcrit.com%2Fshare%2FryxzmHAmx%23p23&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE8ByDODClw5CBav_P3cX4eZQuwOg) - Bloodborne Weapons for 5e D&amp;D
-
-[Gunslinger Homebrew option 1](https://drive.google.com/file/d/0B4fgrcv8-6IKaHZtbXRiOW8zQmc/view) with an [Expansion](http://www.google.com/url?q=http%3A%2F%2Fhomebrewery.naturalcrit.com%2Fshare%2FryXReB-ONe&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEE2-qWFTSv7rY7wotzgX4X8OQyWg)
-
-[Gunslinger Homebrew option 2](https://www.google.com/url?q=https%3A%2F%2Fdungeonmusings.wordpress.com%2F2015%2F03%2F05%2Fpistoleers-and-powderhorns-gunslingers-and-firearms-for-5th-edition-dungeons-dragons%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGsYGS_R5xSlSGC-hbIilGhlMUL3w)
-
-**Monsters**
-
-[D&amp;D Beyond Homebrew Monsters](https://www.google.com/url?q=https%3A%2F%2Fwww.dndbeyond.com%2Fhomebrew%2Fmonsters&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGwKslUahh541lTh5v281p5eafJ3g)
-
-[Ixor&#39;s Manual of Monstrous Findings](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FUnearthedArcana%2Fcomments%2F7vxi84%2Fixors_manual_of_monstrous_findings_104_new%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGQ-gskpN8URoNUf_uGxNP7JTZO2Q)
-
-[Dark Souls D&amp;D homebrew monsters](https://drive.google.com/file/d/0ByT7YwM10S5PZDlyc2wwX3hpYnc/view)
-
-[Monster Module](https://drive.google.com/file/d/0B-g9vLTX0eHKWDZHZ05QWkVNZVU/view)
-
-## PLAYLISTS
-
-**Spotify**
-
-[Comprehensive List of Spotify Playlists](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnD%2Fcomments%2F788wbn%2Fupdate_my_curated_spotify_playlists_i_use_for_dd%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH5D51E7z-aVgzMB6c46wNZi0KVSQ)
-
-[Action, Atmosphere, and Future](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnD%2Fcomments%2F6w0pce%2F17_dd_spotify_playlists%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE73Goj0UfOnR2uNh_vQ2pMbT_JaA)
-
-[Battles, Ambience, Themes, Nautical](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnDBehindTheScreen%2Fcomments%2F3k9iyz%2Fmusic_spotify_playlists_for_dungeons_travel%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEIENdcAzyeZPyPJjXW1zjeiOTwrQ)
-
-More Spotify playlists [https://open.spotify.com/user/scrptrx](https://www.google.com/url?q=https%3A%2F%2Fopen.spotify.com%2Fuser%2Fscrptrx&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFtI3ZIl1adMJfM7WZcYqm0cf2HkA)
-
-**Other Music**
-
-[D&amp;D Ambiences Playlist](https://www.youtube.com/playlist?list=PLbHUA-o_5dgJbOXwtdVx--gTnmWfiyyys&amp;fbclid=IwAR05yb-B8CgtYCK7YHTcK1YTwa9TCyrl5tj7OYZM-d7EHUdsSGNPpkTTzik)
-
-[YouTube Playlist](https://www.youtube.com/watch?v=eoXrRZjTd-4&amp;index=1&amp;list=PLJxVXT_Rn0UJR3B_M0srFUlG1LxIIpQqh)
-
-[Sword Coast Soundtracks](https://www.youtube.com/channel/UCUGy8GD5oY4EX9awX4FSqBw/videos)
-
-[Free RPG Music](http://www.google.com/url?q=http%3A%2F%2Fgaming-music.obsidianportal.com%2Fwikis%2Ffree-music&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHak2tQHMwfaeV3zdLB50uE0FLRVg)
-
-[[Music, Images on DropBox] Matt Mercer&#39;s playlists during Critical Role](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fsh%2F2xoluskqpqc1l0t%2FAAA2ygcXLmH5lCD67fr3MIvha%3Fdl%3D0&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFt5CHBNzFVfM3nbmLhnuICNmqftg)
-
-**SOUND BOARDS**
-
-[TabletopAudio] [Ambient Noise Soundboard (advanced)](http://www.google.com/url?q=http%3A%2F%2Ftabletopaudio.com%2Fcustom_sp.html%3FUniversal%2520Ambience%264%2C0.10%2C1%2C%265%2C0.20%2C1%2C%261%2C0.35%2C1%2C%2638%2C0.40%2C1%2C%2640%2C0.40%2C0%2C%2641%2C0.40%2C0%2C%2642%2C0.20%2C1%2C%2644%2C0.40%2C1%2C%26103%2C0.50%2C1%2C%26104%2C0.20%2C1%2C%26109%2C0.40%2C1%2C%26114%2C0.20%2C1%2C%26110%2C0.10%2C1%2C%26169%2C0.20%2C1%2C%26168%2C0.50%2C1%2C%26200%2C0.40%2C1%2C%26194%2C0.40%2C1%2C%26195%2C0.30%2C1%2C%26257%2C0.40%2C1&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGVI15vEzh7WjVy_DeUcsKg6kLpiA): click on &quot;Universal Ambience&quot; on the top right.
-
-[Ambient Noises (simple)](http://www.google.com/url?q=http%3A%2F%2Fasoftmurmur.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHEG04jdpX2EONF4fG9n7ZC2F-LeA)
-
-[Phanary](http://www.google.com/url?q=http%3A%2F%2Fphanary.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHAybSJacAcXfHXaz_sctkwqfClmQ) - search for any sound, it pulls from terabytes of sound data released every GDC
-
-[Environments Music/Audio - Ambience](http://www.google.com/url?q=http%3A%2F%2Frpg.ambient-mixer.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGGj3Y36sHks2JhciG7JQudm-hVag)
-
-[MyNoise.net](https://www.google.com/url?q=https%3A%2F%2Fmynoise.net%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEEFz6t0L6H_l06nQ_ieI8fWRJTgw)
-
-[SyrinScape](https://www.google.com/url?q=https%3A%2F%2Fsyrinscape.com%2Fdownload%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEgduZuqyzqgu6yGmFlNvQZHrm3eQ)
-
-[Windows Powershell Soundboard](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FDnDBehindTheScreen%2Fcomments%2F6w01v4%2Fcustom_soundboard_using_powershell_gui_crosspost%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEID_k-NLUzirxUZ1vrowKMFunkcg)
-
-## VIRTUAL TABLETOPS
-
-[Roll20](https://www.google.com/url?q=https%3A%2F%2Froll20.net%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGlf9pFJYvk1xvnxPv1tOI02CHl4w)
-
-[Fantasy Grounds](http://www.google.com/url?q=http%3A%2F%2Fstore.steampowered.com%2Fapp%2F252690%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNE0SOxJr8jLbbEo_lMXTQu-sc_HKw)
-
-[Tabletop Simulator](http://www.google.com/url?q=http%3A%2F%2Fstore.steampowered.com%2Fapp%2F286160%2F%3Fsnr%3D1_7_15__13&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHhgkm4dG2FOMS8LIbTHVH1psrBXQ)
-
-[Foundry VTT](http://www.google.com/url?q=http%3A%2F%2Ffoundryvtt.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFLfDcU-97n5D5QiTPuQJJlfWj3Lw)
-
-**VTT RESOURCES**
-
-[Map Collections](https://www.dnd-compendium.com/dm-resources/maps-map-tools)
-
-[ArkenForge](https://www.google.com/url?q=https%3A%2F%2Farkenforge.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHqNrbkoZnFNkUzhUANeERhG6dpag) - Make maps for Virtual Tabletops, or run it on a TV for use as a dynamic grid map with fog of war
-
-**Token Collections**
-
-[Character Tokens A](https://drive.google.com/drive/folders/0B-CqyfKp5kZkeTgyVFg2eUU2cW8)
-
-[Character Tokens B](https://www.google.com/url?q=https%3A%2F%2Fmega.nz%2F%23F!44JyDYCb!ABcBU4cHGkQMEaMOznQcvw!lwoSABja&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH2MmBWC66BpDZgAP1kZ7ZhJ-OXEQ)
-
-[Character Tokens C](https://drive.google.com/open?id=0B-dx-F9vFRL7MG9BYWlSQndWcHM)
-
-**Communities**
-
-[/r/FantasyGrounds/](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FFantasyGrounds%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEe4U17mwZseV7e9y6RlRF9OD88Mg)
-
-[Fantasy Grounds Discord Server](https://www.google.com/url?q=https%3A%2F%2Fdiscord.gg%2FVKbhkSt&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEL1cncQBorSqKXm66U-4hEBfscRQ)
-
-[/r/Roll20/](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FRoll20%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH7UFquYBhMagF6XvicalyjDYF6zw)
-
-[/r/VTT/](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2FVTT%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEgEygem_rI2dsVe0LPok5lc2NPvA)
-
-[/r/TabletopSimulator](https://www.google.com/url?q=https%3A%2F%2Fwww.reddit.com%2Fr%2Ftabletopsimulator%2Fcomments%2F7xg8yt%2Fbest_guide_for_running_dd_and_other_rpgs%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGgzI1sfW3NOmsZHxsKTR4VnwDj4A) Guides for running D&amp;D and other RPGs
-
-[TTS D&amp;D Guild Discord Server](https://www.google.com/url?q=https%3A%2F%2Fdiscord.gg%2F67axUDc&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFd69che6jZVMwId4fqFZ4IJcWjkw)
-
-# dnd5e links
-
-[Dungeons & Dragons 5th Edition Dungeon Master’s Resource List](http://bit.ly/DnD5resources)
-
-https://docs.google.com/document/u/1/d/e/2PACX-1vQEpl6dvZJjMvSypR0jEdH8UQNGhH8l_WIfpyvVpdB8fSLqZLVNc8_I-ScULcb0M4bJ37_8Ls8AVudt/pub
-
-https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources/?st=jl4qix5a&sh=afecb11f
-
-
-## Классификаторы
-
-[Seredhras Magic Item Tiers](https://docs.google.com/spreadsheets/d/1AKSoBpW_akx5XsCveUOWDR8aZ7sORkFdHRV-ODH-fQM/edit#gid=145049871)
-
-https://docs.google.com/document/d/1q-dQg6mPioy_XKTqr-0cFaQ1hmLn0yS03QkprttXXJ8/edit
-##
-
-https://docs.google.com/document/d/13Ov9ItJiZ_gUPP08wt-gR3EFPOCTnKBMTXRpaW8nqHQ/edit#heading=h.35wztzvsxkmz
-
-http://homebrewery.naturalcrit.com/print/SyZd2fjns-?dialog=true
-
-##
-
-https://www.reddit.com/r/Imaginaria/comments/7pfs5b/список_ссылок/
-
-https://docs.google.com/spreadsheets/d/1p3lxOQ02uC9vC1Cq2RN-U1mRjG25dRzSxx3C2LgWosM/copy
-
-https://www.mirf.ru/games/boards/karta-syuzheta
-
-https://docs.google.com/document/d/1Y_sr3UOABGHP7TO1XOwGJaDxwVzu1wTPH6ObVkXcjcE/edit
-
-http://stormtower.ru/sovetyi-vedushhemu-i-igroku-nri/konstruktor-blagorodnyih-semeystv-i-vliyatelnyih-domov-dlya-vashego-korolevstva.html
-
-
-##
-
-http://blogofholding.com/spellbook.php
-
-https://dnd.inkyquill.net/calculator
-
-##
-
-https://cormyr.nethouse.ru/
-
-http://dungeon.su/
-
-https://tentaculus.ru/tavern/index.html
-
-##
-
-https://drive.google.com/drive/folders/0BwIF2cSb1tRebENpRFVQVmlvelE
-
-https://drive.google.com/drive/folders/1jNlzDa0JsXPJ8ZXdWgh2DGMfycJa3ez3
-
-##
-
-https://pastebin.com/GB5tHKHZ
-
-##
-
-https://github.com/Syndaryl/DFRPGRandomDungeonGenerator
-
-https://drive.google.com/file/d/1Yrw0KYYndfheQkRzyYRbuRhMsY7ABOrW/view
-
-## 
-
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-##
-
-http://slyflourish.com/fronts_in_dnd.html
-
-## 
-
-https://www.archdaily.com/888649/this-medieval-walled-town-with-a-storied-history-shows-how-traditional-urbanism-can-support-high-density/5a7c7db5f197cc441a000041-this-medieval-walled-town-with-a-storied-history-shows-how-traditional-urbanism-can-support-high-density-image
-
-https://pxhere.com/en/photo/998683
-
-https://pxhere.com/en/photo/1039303
-
-
-##
-
-https://www.tavern-keeper.com/home
-
-https://dmbinder.com/
-
-https://www.scabard.com/pbs/
-
-https://www.worldanvil.com/
-
-##
-
-https://adventurersleague.wordpress.com/2018/07/20/many-useful-links-01/
-
-##
-
-https://mega.nz/#F!sMYDyDTa!ZMMJJ2nV0oPZ8zFmcfZLrw!tdhkCLYK
-
-
-##
-
-https://www.fodey.com/generators/newspaper/snippet.asp
-
-##
-https://tetra-cube.github.io/dnd/dnd-char-gen.html
-
-
-https://www.reddit.com/r/DnD/comments/4y0wsq/dm_using_onenote_for_your_campaign/
-
-https://www.reddit.com/r/DnD/comments/4y0wsq/dm_using_onenote_for_your_campaign/
-
-https://thegeniusinc.com/dd-monster-maker-download/
-
-https://drive.google.com/file/d/1V_udNPxlTk_ufSyLsZ4caIO5LqFmE5LO/view
-
-https://docs.google.com/spreadsheets/d/1IpDxUoj10wvVvoNF1eiTFw_tzvVQLyz_68iEv-TQqCU/edit#gid=1116151046
-
-https://www.reddit.com/r/DnDBehindTheScreen/comments/8y4r14/big_update_on_dm_and_player_tools/
-
-https://www.reddit.com/r/DnDBehindTheScreen/comments/912b0g/the_druidic_language_a_comprehensive_guide_to/
-
-https://www.reddit.com/r/DnDBehindTheScreen/comments/91v490/your_homestead_in_stats_discover_your_homestead/
-
-http://www.gozzys.com/
-
-https://freenpcpatreon.wixsite.com/freenpc
-
-https://docs.google.com/spreadsheets/d/1ZhJaBdM2ikwLuC9kjWtpg2hCLKGMc2Odj5NWGs_0YZY/edit#gid=0
-
-https://www.mathemagician.net/Town.html
-
-http://donjon.bin.sh/
-
-https://thecoppersanctum.github.io/thecoppersanctum/taverns.html
-
-https://www.reddit.com/r/DnD/comments/5vjah6/my_excel_sheet_for_randomly_generating_almost/
-
-
-https://old.reddit.com/r/wonderdraft/
-
- https://www.mirf.ru/boards/karta-syuzheta
-http://v3p.org/ptolus/
-https://d20.pub/resources/daggerford/
-https://d20.pub/resources/the-way-inn/
-https://d20.pub/resources/random-wilderness-dungeon-and-cave-map-generator/
-http://www.giantitp.com/forums/showthread.php?540370-Red-Hand-of-Doom-5e-Conversion-Guide-Spoilers-WIP-PEACH
-http://www.giantitp.com/forums/showthread.php?525127-Converting-Red-Hand-of-Doom-to-5e
-http://www.giantitp.com/forums/showthread.php?171284-The-3-5-Red-Hand-Of-Doom-Handbook-for-DMs-Major-spoilers!-WIP-PEACH!
-http://imaginaria.ru/p/srazhenie-kak-sport-vs-srazhenie-kak-voyna-chastichnyy-perevod.html
-https://docs.google.com/document/d/1q-dQg6mPioy_XKTqr-0cFaQ1hmLn0yS03QkprttXXJ8/edit
-http://www.rpginspiration.com/tables/NPContheStreet.ipt
-
-http://www.nbos.com/products/inspiration-pad-pro
-http://www.theroguecollective.net/scrolls-o-info/forged-anvil-sheets/
-https://www.reddit.com/r/DnD/comments/5vjah6/my_excel_sheet_for_randomly_generating_almost/
-http://theworstdm.com/spelljammer-5e/
-https://docs.google.com/spreadsheets/d/1qw3DMBK4OgF0jai8GDRtKKXZ8oZmzwwO8phXRD5nC1k/edit#gid=1538485300
-http://www.theroguecollective.net/scrolls-o-info/forged-anvil-sheets/
-http://dmheroes.com/
-https://docs.google.com/spreadsheets/d/1p3lxOQ02uC9vC1Cq2RN-U1mRjG25dRzSxx3C2LgWosM/copy
-http://blogofholding.com/spellbook.php
-http://theworstdm.com/spelljammer-5e/
-http://theworstdm.com/spelljamming-spelljammer-5e-conversion/
-https://cormyr.nethouse.ru/
-https://drive.google.com/open?id=0BwIF2cSb1tRebENpRFVQVmlvelE
-https://drive.google.com/open?id=1jNlzDa0JsXPJ8ZXdWgh2DGMfycJa3ez3
-https://docs.google.com/document/d/13Ov9ItJiZ_gUPP08wt-gR3EFPOCTnKBMTXRpaW8nqHQ/edit#heading=h.35wztzvsxkmz
-https://www.reddit.com/r/DnDBehindTheScreen/comments/8k8g8k/oh_yes_thieves_can_cant/
-http://bit.ly/DnD5resources
-https://docs.google.com/document/d/1q-dQg6mPioy_XKTqr-0cFaQ1hmLn0yS03QkprttXXJ8/edit
-https://dnd.inkyquill.net/calculator
-
-https://drive.google.com/file/d/0B33fZPHSH2gXZlhnc0hMWGlUWWM/view?ths=true
