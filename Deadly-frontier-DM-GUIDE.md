@@ -56,9 +56,12 @@ The second rule is to remember that the DM’s power comes with responsibility. 
 ## When to Use Dice
 
 Characters in the D&D game frequently attempt a tremendous variety of tasks, from running across a swinging rope bridge to talking their way out of a sticky spot with an orc chieftain. All these tasks are resolved in an interaction between you (the DM] and the player whose character is attempting the task.
+
 When a player wants to take an action, it’s often appropriate to just let the action succeed. A character doesn’t normally need to make a Dexterity check to walk across an empty room, or a Charisma check to order a mug of ale in a tavern. Only call for a roll if you think it’s worth taking the time for the rules to come into the flow of the game. Ask yourself two questions to aid your decision.
 Is the action being taken so easy, so free of stress or conflict, or so appropriate to the situation that there should be no chance of failure? “So easy” should take into account the ability score associated with the intended action. It’s easy for someone with a Strength score of 18 to flip over a table, though not easy for someone with a Strength score of 9.
+
 Is the action being taken so inappropriate or impossible that it would never work? Hitting the moon with an arrow is, for instance, impossible in almost any circumstance.
+
 If the answer to both of these questions is no, some kind of roll is appropriate.
 
 
@@ -1458,35 +1461,33 @@ The Dungeon Master describes what the PCs can see, hear, etc. Most of the time y
  
 The DM will roll all of the PCs search checks in secret and tell the players what, if anything, their characters found. That way, if they don’t find anything, they won’t know if there wasn’t anything there or if there was something and they didn’t find it. Another advantage of rolling behind your DM screen is that you can ignore the roll when necessary. If you want them to find something (or not find it), ignore the roll and tell them what they found (or that they didn’t find anything).
  
-Ask them for their marching order, but don’t ask if they are moving at a “fast pace”, “normal pace” or “slow pace”. That makes it sound too much like a computer game. Instead, simply ask them what they are doing. Use their answer to determine their pace and use that to help you determine how long it will take and what they do or do not notice.
+***Ask them for their marching order, but don’t ask if they are moving at a “fast pace”, “normal pace” or “slow pace”. That makes it sound too much like a computer game. Instead, simply ask them what they are doing. Use their answer to determine their pace and use that to help you determine how long it will take and what they do or do not notice.***
  
 In addition to the fast pace, normal pace and slow pace listed in the Player’s Handbook, I have added a “very fast” pace and an ”extremely slow” pace.
  
 Overview:
  
-1) Moving at a very fast pace they automatically fail all perception checks. If they say “We are getting out of here as fast as we can” they are obviously not going to take the time to check for traps or secret doors so they are moving at a very fast pace (600 feet per minute).
+1. Moving at a very fast pace they automatically fail all perception checks. If they say “We are getting out of here as fast as we can” they are obviously not going to take the time to check for traps or secret doors so they are moving at a very fast pace (600 feet per minute).
  
-2) Moving at a fast pace uses their passive perception scores with a -5 penalty. If they say “We are going to move through here as quickly as we can and still be on the lookout for traps”, you can say to yourself that that sounds like a fast pace (400 feet per minute).
+2. Moving at a fast pace uses their passive perception scores with a -5 penalty. If they say “We are going to move through here as quickly as we can and still be on the lookout for traps”, you can say to yourself that that sounds like a fast pace (400 feet per minute).
  
-3) Moving at a normal pace uses their passive perception scores. If they don’t give you any indication of how fast or cautiously they are moving through corridors, assume that they are moving at this pace. If they say “We are going to be watching for hidden monsters and checking for traps and secret doors as we proceed cautiously down the corridor”, you know that, even though this sounds like it might be a slow pace it is actually the normal way adventurers would explore a dungeon so it is a normal pace (300 feet per minute).
+3. Moving at a normal pace uses their passive perception scores. If they don’t give you any indication of how fast or cautiously they are moving through corridors, assume that they are moving at this pace. If they say “We are going to be watching for hidden monsters and checking for traps and secret doors as we proceed cautiously down the corridor”, you know that, even though this sounds like it might be a slow pace it is actually the normal way adventurers would explore a dungeon so it is a normal pace (300 feet per minute).
  
-4) Moving at a slow pace they can be stealthy or search for things. If they don’t give you any indication of how fast they are searching a room, assume that they are moving at this pace. They make a Dexterity (Stealth) check if they are hiding or being stealthy. Make a Wisdom (Perception) check for them if they are searching for secret doors or traps. If not actively searching, they use their passive perception scores. If they say “We are trying not to be noticed as we proceed cautiously down the corridor” they are being stealthy and can only move at a slow pace (200 feet per minute).
+4. Moving at a slow pace they can be stealthy or search for things. If they don’t give you any indication of how fast they are searching a room, assume that they are moving at this pace. They make a Dexterity (Stealth) check if they are hiding or being stealthy. Make a Wisdom (Perception) check for them if they are searching for secret doors or traps. If not actively searching, they use their passive perception scores. If they say “We are trying not to be noticed as we proceed cautiously down the corridor” they are being stealthy and can only move at a slow pace (200 feet per minute).
  
-5) Moving at an extremely slowly pace they will automatically find anything that can be found. If they say “We know there must be a secret door in this corridor, so we are going to search until we find it”, you know that they are going to keep looking until they find it if they can, so they are traveling at a extremely slow pace (30 feet per minute).
+5. Moving at an extremely slowly pace they will automatically find anything that can be found. If they say “We know there must be a secret door in this corridor, so we are going to search until we find it”, you know that they are going to keep looking until they find it if they can, so they are traveling at a extremely slow pace (30 feet per minute).
  
 The times listed below are the suggested minimum times required. Additional time may be required depending on circumstances and PC actions. Anything found (secret doors, traps, treasures, and especially monsters) will add to the listed times below as they take the time to deal with what they have found.
  
-•If they find a secret door they may then attempt to find a means to open it.
+* If they find a secret door they may then attempt to find a means to open it.
  
-•I might have the searcher make an Intelligence (Investigation) check and subtract the results form 20 minutes for low long it takes. I will never let them find a secret door and never find out how to open it!
+* I might have the searcher make an Intelligence (Investigation) check and subtract the results form 20 minutes for low long it takes. I will never let them find a secret door and never find out how to open it!
  
-•If they find a trap they may then attempt to disarm or avoid it.
+* If they find a trap they may then attempt to disarm or avoid it.
  
-•It takes 5 minutes to disarm traps or pick a lock if proficient with thieves tools; 10 minutes otherwise. This assumes fairly straightforward mechanisms, not complex puzzles
+* It takes 5 minutes to disarm traps or pick a lock if proficient with thieves tools; 10 minutes otherwise. This assumes fairly straightforward mechanisms, not complex puzzles
  
-•If they find a treasure they may then check it for traps.
- 
-I typically check for wandering monsters every 10 minutes (dungeon time).
+* If they find a treasure they may then check it for traps.
  
  
 Details:
@@ -1503,15 +1504,15 @@ Traversing corridors, stairs, and other passageways:
  
 •If the party intends to take as much time as required to thoroughly search a section of corridor, the party will be moving at an extremely slowly pace (30 feet per minute). This represents that the character is being extremely cautious and diligent in his searching. At this pace that character will automatically succeed at finding any secret doors, hidden monsters or traps that can be found by that character. [The DMG says “In some cases, a character is free to [retry a failed ability check]; the only real cost is the time it takes[…] To speed things up, assume that a character spending ten times the normal amount of time needed to complete a task automatically succeeds at that task.” This is the 5e equivalent to the 3.5e “Taking 20” rule.]
  
-•One character can search the walls, floor and ceiling of a 5 foot wide passage, or one side of a wider passage out to 5 feet from the wall.
+* One character can search the walls, floor and ceiling of a 5 foot wide passage, or one side of a wider passage out to 5 feet from the wall.
  
-•2 characters can cover a 10 foot wide passage.
+* 2 characters can cover a 10 foot wide passage.
  
-•Characters that are searching can perform no other activities.
+* Characters that are searching can perform no other activities.
  
-•Characters that are not searching can be on the lookout for monsters. For large parties they may need one lookout near the front and another one in the rear. If a monster approaches the group from a direction that is being watched, the Dexterity (Stealth) check of that character will be used against the Wisdom (Perception) checks of any monsters that are actively searching for them, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching.
+* Characters that are not searching can be on the lookout for monsters. For large parties they may need one lookout near the front and another one in the rear. If a monster approaches the group from a direction that is being watched, the Dexterity (Stealth) check of that character will be used against the Wisdom (Perception) checks of any monsters that are actively searching for them, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching.
  
-Searching a Room:
+### Searching a Room:
  
 If the party opens a door but doesn’t enter a room and only observes it from the doorway it doesn’t take any additional time to be able to map its location and general notes about it, but not its exact size or anything about the room that cannot be quickly seen. A detailed description will require that the party enters the room.
  
@@ -1543,43 +1544,69 @@ How pace of travel effects checking out rooms:
  
 •Characters that are not searching can be on the lookout for monsters. One character can watch only one entrance without penalty. If a monster approaches the group through an entrance that is being watched, the Dexterity (Stealth) check of that character will be used against the Wisdom (Perception) checks of any monsters that are actively searching for you, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching.
 
-Wilderness Adventuring
+# Wilderness Adventuring
+
 Sometimes in a D&D adventure, travel through the wilderness is purely a matter of description. Players describe where their characters are headed, and you narrate what happens on the way. At other times, the journey is as important to the adventure as its destination, and wilderness exploration rules will come into play.
+
 This section provides a turn-based system for traveling outdoors. The rules address how to move through and investigate a wilderness area, and they discuss environmental considerations such as weather and high altitude.
+
 An optional section has rules that cover tasks characters can undertake while exploring in the outdoors, and how those tasks are performed, plus a system for determining what happens if the characters get lost in the wilderness.
+
 Your Outdoor Map
+
 Before the characters can explore a wilderness or other outdoor area, you need to have a map that outlines its key geographic features and terrain.
+
 The outdoor environment you’re mapping might be an expanse of wilderness on the surface of the world or a vast subterranean location, such as the great caverns and passages of the Underdark. Either way, it’s better to use a hex grid than a square grid for mapping, because a hex grid enables more precise calculation of the distance between two points.
+
 The scale of your outdoor map depends on how much detail you want. For the most detailed areas, each hex or square represents 1 mile. To cover larger areas, each hex or square represents 6 miles. Your largest scale maps, those covering massive areas, should cover 36 miles per hex or square.
+
 Just as you would do in a dungeon, track the characters’ movement on your outdoor map to determine what sort of terrain they encounter, monster lairs, settlements, or other noteworthy features they might stumble across. To keep things simple, assume that the characters find a noteworthy location when they enter its hex or square, unless the site is specifically hidden. The characters might not walk directly up to the front door of a ruined castle in the 1-mile-wide hex they just entered, but they can find old paths, outlying ruins, and such signs of its presence in the area with ease.
+
 Visibility. When traveling outdoors, characters can see about 2 miles in any direction on a clear day, assuming that trees, hills, and other obstructions don’t block their view. Rain cuts visibility down to 1 mile, and fog cuts it down to a few hundred feet.
 Multiply the distance the characters can see by 20 if they are atop a mountain or a tall hill, or are otherwise able to look down upon the area around them from a lofty height.
+
 Terrain
+
 Outdoor terrain is represented by a few general categories that describe how difficult it is to travel through an area of that terrain and (in the optional rules] find food and water.
-For the purpose of travel, terrain is either normal or difficult, with difficult terrain cutting the characters’ speed in half while they travel through it. 
+
+For the purpose of travel, terrain is either normal or difficult, with difficult terrain cutting the characters’ speed in half while they travel through it
+
 If the characters travel by a road or path, they move at their normal speed regardless of the terrain around them.
-TERRAIN SUMMARY Type	Travel
-Desert	Normal
-Forest	Difficult
-Hills	Normal
-Jungle	Difficult
-Mountains	Difficult
-Plains	Normal
-Road/Path	Normal
-Swamp	Difficult
-Tundra	Normal
-The Wilderness Turn
+
+TERRAIN SUMMARY | Type	Travel
+
+Desert	| Normal
+Forest	| Difficult
+Hills	| Normal
+Jungle	| Difficult
+Mountains	| Difficult
+Plains	| Normal
+Road/Path	| Normal
+Swamp	| Difficult
+Tundra	| Normal
+
+## The Wilderness Turn
+
 This is the sequence of play for an hour of travel and exploration in a wilderness environment.
+
 1.	Direction and Pace. The players decide what direction their characters will move in and their travel pace. The players should also determine their formation: who is in the front, the middle, and the back of the group. (If you’re using the optional rules, they also decide on their exploration tasks at this time.]
+
 2.	Progress on the Map. Determine the distance and the direction the characters traveled, taking into account their travel pace and chosen path.
+
 3.	Random Encounters. Check for a random encounter and, if one is indicated, resolve any interaction or combat that occurs between the creatures and the characters.
+
 4.	Environmental Effects. Apply effects of the environment, weather, or terrain, such as extreme cold. Some of these effects might require saving throws from the characters. In addition, if the characters attempt a forced march, resolve saving throws for that activity at this point.
+
 If exploration continues, go back to the first step and repeat the sequence for another turn.
-Travel Pace
-The travel pace that the characters choose—fast, moderate, or slow—determines the chance that monsters and other threats surprise them, how 
-much distance they can cover during an hour of movement, and (in the optional rules] what tasks they can perform as they travel.
+
+## Travel Pace
+
+The travel pace that the characters choose—fast, moderate, or slow—determines the chance that monsters and other threats surprise them, how much distance they can cover during an hour of movement, and (in the optional rules] what tasks they can perform as they travel.
+
 Explain to the players what their choices are. Do they want to get through the next area quickly, without much care for possible dangers, or are they determined to move slowly and keep a close watch for anything along their path? When the group decides on a travel pace, use the line on the Travel Pace table that corresponds to their intent. If the party splits up, each smaller group chooses its own pace.
+
 The travel pace of an exploring group determines its readiness. This quality is expressed as a DC that you can use for several circumstances, such as when a character makes a Wisdom saving throw at the start of a battle to avoid being surprised or (in the optional rules] when the characters are in danger of becoming lost.
+
 Travel pace also determines the greatest distance a group can cover during an hour, as shown on the table. Difficult terrain, including forests, mountains, jungles, and swamps reduces travel speed by half. For example, a group moving at a moderate pace through a forest can expect to traverse no more than 1 mile every hour.
 
 ## Random Encounters
@@ -1597,12 +1624,9 @@ Densely inhabited | 18-20
 
 Typical region  | 18-20
 
-
-
-Encountering Creatures
+## Encountering Creatures
 
 If an exploring group encounters creatures (which might be wandering monsters or might be specific participants in the adventure], the characters can try to attack them, avoid them, or interact with them in some other way.
-
 
 Alertness	| Readiness DC
 
@@ -1636,30 +1660,25 @@ Slow	| 5
 
 When the characters come across a location or an object of special note during the performance of their tasks, describe the discovery to them and allow them to take actions as appropriate.
 
-
-## Encountering Creatures
-
-If an exploring group encounters creatures (which might be wandering monsters or might be specific participants in the adventure], the characters can try to attack them, avoid them, or interact with them in some other way.
-
 # Weather
 
 In addition to the risk of encountering creatures or stumbling across a strange location, the characters also face mundane weather threats such as heavy rain, freezing cold, or searing heat.
 
 You can pick weather to fit your campaign or roll on the following tables to determine the weather for a given day. Use the table that corresponds to the current season of the year (assuming the region has a temperate climate]. The tables include one for each of the four seasons found in temperate regions, plus two more for exceptionally hot and cold environments such as desert and tundra. You can also use these tables to account for the geography or altitude of a region or area. For instance, the upper heights of a mountain range will be cold and snowy even in a warm climate.
 
-## Temperate Spring/Fall
+**Temperate Spring/Fall**
 
-No special weather Storm (light rain) Storm (heavy rain)
+No special weather | Storm (light rain) | Storm (heavy rain)
 
-Temperate Winter	Weather (d20)
+Temperate | Winter	Weather (d20)
 
-Cold	1-14
+Cold	| 1-14
 
-Cold, storm (snow)	18-20
+Cold, storm (snow)	| 18-20
 
-Cold, storm (heavy snow) 16-20
+Cold, storm (heavy snow) | 16-20
 
-Temperate Summer
+**Temperate Summer**
 
 No special weather Hot
 
@@ -1671,7 +1690,6 @@ Hot
 
 Hot, storm (dust)
 
-
 Storm (heavy rain)
 
 Tundra
@@ -1682,28 +1700,30 @@ Cold, storm (snow)
 
 Cold, storm (heavy snow)
 
-Cold Weather
+## Cold Weather
 
 While the temperature is below 0 degrees Fahrenheit, characters exposed to the cold must make DC 10 Constitution saves at the end of each hour. Characters without cold weather gear, such as thick coats, gloves, and so on, automatically fail this save.
 
 On a failed saving throw, a character gains a level of exhaustion.
 
-Storm
+## Storm
 
 Bad weather, such as snow, rain, powerful winds, dust storms, and other hazards, reduces travel speeds by half, quartering speed in total when combined with difficult terrain.
 
 In addition, specific types of storms have the following additional effects.
 
-Dust Storm. Visibility is reduced to 50 feet, and creatures suffer disadvantage on saves to avoid becoming surprised.
-Heavy Rain. Visibility is reduced to 50 feet, and creatures suffer disadvantage on saves to avoid becoming surprised.
-Heavy Snow. Visibility is reduced to 50 feet, and creatures suffer disadvantage on saves to avoid becoming surprised. Heavy snow continues to reduce speed as described above for 1d6 days after the storm.
+**Dust Storm**. Visibility is reduced to 50 feet, and creatures suffer disadvantage on saves to avoid becoming surprised.
 
-Hot Weather
+**Heavy Rain**. Visibility is reduced to 50 feet, and creatures suffer disadvantage on saves to avoid becoming surprised.
+
+**Heavy Snow**. Visibility is reduced to 50 feet, and creatures suffer disadvantage on saves to avoid becoming surprised. Heavy snow continues to reduce speed as described above for 1d6 days after the storm.
+
+## Hot Weather
 
 In exceptionally hot weather (at or above 100 degrees Fahrenheit], characters exposed to the heat must make DC 10 Constitution saves at the end of each hour. Characters wearing medium or heavy armor or otherwise clad in heavy clothing suffer disadvantage on this save.
 On a failed saving throw, a character gains a level of exhaustion.
 
-High Altitude
+## High Altitude
 
 Traveling at altitudes above 10,000 feet is particularly taxing due to the lack of oxygen in the air. Each hour spent traveling counts as two hours for purposes of determining how long characters can travel.
 
@@ -1780,6 +1800,7 @@ Desolate	| 20
 It helps to keep an eye and an ear open for danger. When a character chooses keeping watch as an exploration task, the character makes a single Wisdom (Perception] check to detect hidden creatures and an Intelligence (Search] check to detect hidden objects as the group travels during the current exploration turn. A character’s check result is used to contest the checks of any creatures that are attempting to hide from the explorers. If someone keeping watch detects a creature, it cannot surprise the group.
 
 ### Mapmaking
+
 Making an accurate map is vital to ensuring that explorers have the best sense of their surroundings. It can also help keep them from becoming lost.
 
 When a character chooses mapmaking as an exploration task, the character must have a writing instrument and some surface (such as paper or parchment] on which to record the map.
@@ -1836,6 +1857,8 @@ This change of direction applies only to the characters’ travel during the las
 The characters might not realize they are lost unless they encounter an obstacle that indicates they are heading in the wrong direction. If the characters realize they have lost their way, you stop rolling for deviation in their course until they fail another check to avoid becoming lost.
 
 ----------------------------------------------------------------------------------
+# MAGIC ITEMS
+
 
 # LINKS
 
@@ -1896,6 +1919,151 @@ The characters might not realize they are lost unless they encounter an obstacle
 * [Autarchs](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/files/Autarch%20-%20Domains%20at%20War%20Campaigns.pdf)
 
 * [Balasars Guide to Exploration]()
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+# MAGIC ITEMS
+
+## Wearing Magic Items
+
+In most cases, a magic item that’s meant to be worn will adjust its size to suit a creature regardless of the wearer’s gender or race. If you have a good reason for why a magic item shouldn’t fit, though, run with it. Armor made specifically by the self-absorbed drow might fit elves only. Dwarves might make items usable only by dwarf¬sized and dwarf-shaped characters to keep such items from being used against them. Such items should be exceptions, however, not the rule.
+
+Use common sense to determine whether more than one of a given kind of magic item can be worn. Can a character wear two necklaces? Of course ! People in the real world wear multiple necklaces, amulets, medallions, and holy symbols at the same time, and there’s no prohibition against a character employing a necklace of fireballs while wearing an amulet of protection. Two belts? Sure, that’s easy to picture, perhaps with a weapon hanging from each one. But can a character wear two pairs of boots? No, that’s silly.
+
+The simple rule is that a character can’t wear more than one pair of footwear (boots, sandals, slippers, and so on], more than one pair of gloves or gauntlets, more than one suit of armor, more than one cloak, or more than one item of headwear (a helmet, hat, circlet, crown, or similar item]. Feel free to impose other limits or grant exceptions where appropriate. For instance, a hat of disguise might allow the wearing of a mask or a circlet, but a character is unlikely to be able to wear two sets of bracers.
+
+Items that are meant to function in pairs, including boots, bracers, gauntlets, and gloves, do not impart their benefits unless the entire pair is worn. A character can’t wear a boot of striding and springing on one foot and a boot of elvenkind on the other foot to use the properties of either or both magic items.
+
+## Magic Item Attunement
+
+Some magic items require a character to attune to them before the magical properties of those items can be enjoyed.
+
+Attuning to a Magic Item: Attuning to a magic item requires that you first discover whether you can attune yourself to it. The identify spell is the most common way of discovering this fact. Unusual items magically reveal that fact to certain types of creatures or in certain circumstances.
+
+The attunement process requires you to grasp or wear the item and spend 10 minutes concentrating on it. Depending on the nature of the item, this concentration can take the form of prayers, weapon practice, or meditation. In any case, the concentration period must be uninterrupted.
+
+When you are attuned to an item, you can use any magical properties that require attunement. You also learn how to activate those abilities and any necessary command words or phrases to do so. See “Using a Magic Item” for different methods of magic item activation.
+An item can be attuned to only one creature at a time. A magic item might require you to meet one or more prerequisites before you can become attuned to it.
+
+## Using a Magic Item
+
+Each magic item has one or more magical properties that it imparts to its user when properly held, wielded, or donned. How a user activates the item’s properties varies from item to item.
+
+**Worn:** Many items must be worn to gain their benefits. A suit of armor must be donned, a shield strapped to the arm, a cloak fastened about the shoulders, a ring placed on a finger, and so on. Simply carrying around an item that’s meant to be worn is not sufficient to gain its benefits.
+
+**Wielded:** Most magic weapon properties apply when the weapon is used in combat. A weapon might have properties that are useful when the item is drawn or held.
+
+**Action Activated:** A magic item that falls into this category requires an action to activate. Potions, scrolls, and many wondrous items fall into this category.
+
+Some item properties not only take an action to activate, but also require the item’s user to speak a command word or phrase. The command word or phrase must be spoken in an area where hearing is possible.
+
+**Consumable:** Some magic items are used up when activated. Many consumable items are also action-activated items. Once activated, a consumable item loses its magic and no longer functions.
+
+**Special Activations:** Sometimes a user must do something special to activate a magic item, as indicated in the magic item’s descriptive text.
+
+
+### Magic armor +1
+
+**Rare**
+
+01-35	| Dragon leather
+36-55	| Studded dragon leather
+56-75	| Dragon scale
+
+**Very rare**
+
+01-40	| Mithral shirt
+41-75	| Mithral scale
+91-00	| Mithral plate
+
+### Elven Chain
+
+**Very rare magic armor (mithral shirt)**
+
+Elven chain is exceptionally fine and light mithral chain mail, elaborately decorated with woven lines that twist like vines, and incorporating other precious metals, such as silver, gold, and platinum.
+
+Donning the armor feels like slipping into a silk tunic, and the chain mail does not constrain the wearer’s movement. The magic woven into the elven chain enables the wearer to cast spells freely as well.
+
+Mithral armor is usually made by dwarves, who mine the metal deep in the earth. Where dwarves and elves come together for trade or another common purpose, elven smiths craft fine shirts of the metal.
+
+The elves guard elven chain jealously. In ancient times, they sometimes bestowed such armor on a dwarf who had earned their friendship, but generally it is meant for elves' use. A gift of such armor is a sign of deep respect.
+
+**Property:** You can wear this armor as if you were proficient with it.
+
+### Dagger of Venom
+
+**Rare magic weapon (dagger)**
+
+The black, obsidian blade of this weapon is serrated on one edge. Its pommel is carved to resemble two fanged serpents that twine together, their outstretched heads forming the blade’s quillon. Anyone wielding the blade notes a bitter, acrid scent from it.
+
+A dagger of venom is most often crafted for the use of a yuan-ti or a powerful assassin. Each of these weapons has a distinct pattern to its blade or pommel that indicates its original owner. Assassins’ guilds and yuan-ti cults prize these blades as relics. If news of such a dagger reaches them, they send agents to collect the weapon by trickery or force.
+
+**Property:** You gain a +1 bonus to the attack rolls and the damage rolls you make with this dagger. The saving throw DC of any poison you apply to the dagger increases by 2.
+
+Once per day, you can use an action to cause thick, black poison to cover the dagger’s blade.
+
+The poison remains for 1 minute or until you hit with an attack using this weapon. When you hit a living creature with this weapon while it’s coated in this poison, the creature must make a DC 15 Constitution saving throw. On a failed save, it becomes paralyzed for 1 minute.
+
+### Frost Brand
+
+**Very rare magic weapon (long sword)**
+
+The blade of this long sword is constantly rimed with frost and ice, and its hilt is wrapped in white leather. When it is drawn from its scabbard, nearby fires gutter, and a plume of condensing air steams from the weapon’s surface.
+
+**Property:** You gain a +1 bonus to the attack rolls and the damage rolls you make with this weapon. On a hit with this weapon, you deal 1d6 extra cold damage.
+
+While you have this sword drawn and in hand, you have fire resistance.
+
+While drawn and in hand in freezing temperatures, the sword also sheds bright light in a 10-foot radius and dim light for 10 feet beyond that.
+
+Finally, once per hour, when you draw this weapon, you can choose to douse all nonmagical flames within 30 feet of you.
+
+Wand of Binding
+
+Rare magic wand
+
+This wand is actually a length of chain held rigid by the magic that infuses it. The chain is crafted from adamantine, and runes of binding and imprisonment adorn each link.
+
+Property [Attuned]: You must be a cleric, a druid, or a mage to become attuned to this item.
+
+The wand has 7 charges. As an action, you can expend the specified number of charges to cast one of the following spells from the wand.
+
+*	***hold person*** (2 charges]
+
+*	***hold monster*** (6 charges]
+
+If you expend the wand's last charge, roll a d20. On a 1, the wand blackens and crumbles to dust, forever destroyed. The wand regains 1d6 + 1 expended charges each day at dawn. In addition, while you hold the wand, you can expend a charge as a reaction whenever you make a saving throw to resist the hold person or the hold monster spell to gain advantage on your saving throw.
+
+### Potion of Heroism
+
+***Rare potion**
+
+This colorless potion steams as if boiling.
+
+Sampling or drinking it causes the imbiber to feel immensely healthy and robust.
+
+**Property [Consumable]:** As an action, you drink the potion. You gain 10 temporary hit points. These hit points can cause you to exceed your hit point maximum, and they cannot be regained. If you take any damage, these hit points are lost first. In addition, you gain a +2 bonus to ability checks, attack rolls, and saving throws. Finally, the saving throw DC of any spell you cast or magic item you use, or that results from something else you do by increases by 2.
+
+The effects wear off after 1 hour.
+
+### Ring of Wizardry
+**Very rare ring**
+
+Silver sigils of stars, comets, and suns are engraved on this bone ring.
+
+Crafting a ring of wizardry involves several astounding feats of magic now lost to academic spellcasters. A mage must grow a clone, invest the clone with the knowledge of magic, and harvest a finger from it. From this finger’s bones a ring of wizardry is carved. A story exists about the “Nine-Fingered Mage,” a clone who escaped the complete ring-making process, but not soon enough to save every digit.
+
+**Property (attuned):** If you are a wizard, add one to the number of spell slots you have for each level of spell you can cast up to 4th level.
+
+### Cloak of Elvenkind
+**Uncommon wondrous item**
+
+This long cloak is fashioned from gray cloth, expertly crafted, and is half the weight of a normal cloak.
+
+**An elf who sees a non-elf wearing a cloak of this sort might assume the cloak is stolen.** In some cases, however, cloaks of elvenkind are presented as gifts to the elves’ most trusted and valued allies.
+
+Property: While you wear a cloak of elvenkind with the hood up, you can attempt to hide in any natural environment, as long as no creatures are within 20 feet of you. You do not have to be obscured to make the attempt, but you must stay quiet.
 
 
 # Another set of links
