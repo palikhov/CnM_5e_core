@@ -2065,6 +2065,85 @@ This long cloak is fashioned from gray cloth, expertly crafted, and is half the 
 
 Property: While you wear a cloak of elvenkind with the hood up, you can attempt to hide in any natural environment, as long as no creatures are within 20 feet of you. You do not have to be obscured to make the attempt, but you must stay quiet.
 
+# Spells
+
+Barkskin
+2nd-level transmutation
+Casting Time: 1 action Range: Touch
+Duration: Concentration, up to 1 hour
+Touch a willing creature. The creature’s skin takes on a rough, bark-like appearance and becomes as tough as word, giving the creature a +2 bonus to AC for the duration.
+
+Elemental Mantle
+3rd-level transmutation
+Casting Time: 1 action Range: Self Duration: 10 minutes
+Wrapping yourself in power from the Elemental Planes, you assume an elemental mantle for the duration. The effects of the mantle are determined by the element you choose.
+Air: You are unaffected by difficult terrain on the ground. The range of all your weapon attacks is doubled, and ranged weapon attacks have disadvantage against you or targets within 5 feet of you.
+Earth: You are unaffected by difficult terrain that results from rock or rubble, and the ground within 20 feet of you is difficult terrain to others. Additionally, when you take bludgeoning, piercing, or slashing damage, you can use your reaction to halve that damage.
+Fire: You are immune to fire damage. When a creature within 5 feet of you hits or misses you with a melee attack, or otherwise makes physical contact with you, that creature takes 1d6 fire damage. In addition, your melee attacks deal 1d6 extra fire damage.
+Water: You have a swim speed equal to your land speed, and you can breathe underwater.
+You also have fire resistance. Finally, whenever you take fire or lightning damage, choose a point within 20 feet of you. Steam fills a 20-foot radius centered on that point, heavily obscuring the area until the end of your next turn.
+
+
+Color Spray
+1st-level illusion
+Casting Time: 1 action Range: Self Duration: 1 round
+A dazzling array of flashing, colored light springs from your hand. Each creature in a 15-foot cone must make a Wisdom saving throw, provided the creature can see. For every creature that fails its saving throw, roll a d6 to determine the spell’s effect on that creature.
+1-2 Until the end of the creature's next turn, the
+creature's speed is halved, and it has disadvantage on attack rolls and ability checks.
+3-4 The only action the creature can take on its next turn is an attack against a randomly determined target within range.
+5-6 Until the end of the creature's next turn, the
+creature is frightened by you and must move as far away from you as possible before taking any action.
+Material Components: A pinch each of powder or sand that is colored red, yellow, and blue.
+
+Divine Power
+4th-level transmutation
+Casting Time: Swift Range: Self
+Duration: Concentration, up to 10 minutes
+Intoning a prayer fills you with unearthly might. For the duration, you gain a +4 bonus to Strength checks and Strength-based attack rolls and damage rolls.
+
+
+Cure Wounds
+1st-level evocation
+Casting Time: 1 action Range: Touch Duration: Instantaneous
+You touch a creature, channeling positive energy into it. The creature regains 2d8 + 2 hit points. This spell has no effect upon undead or constructs.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 2d8 for each level above 1st.
+
+Holy Vigor
+3rd-level abjuration Casting Time: 1 action
+Range: Touch Duration: 8 hours
+Your touch imbues a willing creature with blessed vigor. It gains 3d8 + 6 temporary hit points for the duration. These hit points can exceed the creature’s hit point maximum, and they cannot be regained. If the creature takes any damage, these hit points are lost first.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the temporary hit points increase by 2d8 for each level above 3rd.
+
+Hunter's Veil
+2nd-level transmutation
+Casting Time: 1 action Range: 25 feet Duration: 1 hour
+A veil of shadows and silence radiates from you, masking you and your companions within 25 feet of you from detection. For the duration, each friendly creature in the area, including you, has a +10 bonus to Dexterity (Stealth] checks and cannot be tracked except by magical means.
+
+Melf's Acid Arrow
+2nd-level evocation
+Casting Time: 1 action Range: 100 feet Duration: Instantaneous
+A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged attack roll against the target, with a bonus equal to your magic ability modifier + your spellcasting bonus, if any. On a hit, the target takes 3d6 acid damage immediately and 3d6 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much damage.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the initial damage increases by 1d6 for each level above 2nd.
+Material Components: Powdered rhubarb leaf and an adder’s stomach.
+
+Pass without Trace
+2nd-level abjuration
+Casting Time: 1 action Range: 10 feet Duration: 1 hour
+Choose up to five willing creatures within range. For the duration, the creatures can move through any type of mundane terrain—mud, snow, dust, grassland, forest, or the like—and leave no physical evidence of their passage, including footprints and scent. Tracking the creatures is impossible except by magical means.
+
+
+Prayer
+3rd-level conjuration
+Casting Time: Swift Range: 25 feet
+Duration: Concentration, up to 1 minute
+Choose any number of creatures within range. Until the spell ends, each target gains the blessing of the gods, manifested in a +1 bonus to AC, attack rolls, weapon damage rolls, ability checks, and saving throws.
+
+Spike Growth
+2nd-level transmutation
+Casting Time: 1 action Range: 100 feet Duration: 10 minutes
+The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves through the area, it takes 2d4 piercing damage for every 5 feet it travels.
+The transformation of the ground is camouflaged to look natural. Any creature that cannot see the area of the spell at the time the spell is cast must make a Wisdom (Perception] check against the spell’s saving throw DC to recognize the terrain as hazardous.
+
 
 # Another set of links
 
