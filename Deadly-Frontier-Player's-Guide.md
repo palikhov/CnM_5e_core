@@ -890,6 +890,8 @@ When you listen at a door or otherwise try to hear noise in an area, the DM asks
 | religious lore | Religion | deities, rites and prayers, ecclesiastical hierarchies, and holy symbols subterranean lore, including lore about caves as well as the flora, fauna, and peoples living underground |
 | trade lore | History | materials, manufacture, a specific craft \(such as smithing, brewing, or cooking\), and commerce |
 
+
+
 # Social Interactions
 
 Exploring dungeons, overcoming obstacles, and slaying monsters are key parts of most D&D adventures, but no less important are the interactions that adventurers have with other people, monsters, and even things in the world. Nonplayer characters might serve as patrons who send the adventurers on quests and reward them for their efforts, as allies who offer them material aid to help them accomplish their goals, as companions who accompany them on their adventures, as obstacles to achieving what they desire, and as adversaries in a social or political arena. Some monsters are open to negotiation when adventurers stumble into their lairs, perhaps granting the heroes their lives in exchange for great piles of treasure or the promise of better food elsewhere. Even dungeon features such as talking statues or magic mirrors can play an important role.
