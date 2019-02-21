@@ -95,6 +95,18 @@ Tier | Tier Name | Levels | Description | Requirement
 
 Длинный отдых - 8 часов в безопасных условиях (тайной стоянке или поселении).
 
+A long rest is a period of extended downtime, at least 8 hours long, during which you sleep or perform light activity: reading, talking, eating, or standing watch for no more than 2 hours of the rest period. If the rest is interrupted by a strenuous activity—such as attacking, taking damage, or casting a spell—you must start the rest over to gain any benefit from it, unless the interruption takes less than an hour.
+
+You must have at least 1 hit point to take a long rest. At the end of the rest, you regain all your hit points and half of your maximum number of Hit Dice (round up].
+
+You cannot benefit from more than one long rest in a 24-hour period.
+
+## Short Rest
+
+A short rest is a period of downtime, at least 1 hour long, during which you catch your breath, eat, drink, and clean and bind wounds.
+You can spend one or more of your Hit Dice during a short rest, up to your maximum number of Hit Dice. For each Hit Die you spend in this way, roll the die and add your Constitution modifier to it. You regain hit points equal to the total. You can decide to spend an additional Hit Die after each roll. Once you have spent all your Hit Dice, you must complete a long rest to regain them.
+
+
 ## Восстановление хит-поинтов
 
 ### Медленное природное лечение - Slow Natural Healing
@@ -1291,13 +1303,18 @@ You gain the Extra Attack class feature when you meet one of the following condi
 Once you have Extra Attack, you don’t gain an additional Extra Attack unless you have eleven levels in the fighter class.
 
 # How to Play
-Contests
+
+## Contests
+
 A contest pits two or more characters or creatures against each other, with the outcome determined by each contender’s luck and talent. Contests are a form of ability check, except that instead of matching your roll against a DC, both you and the creature you are opposing make a roll. You then compare the two results to see who succeeds.
-When to Have a Contest. Contests arise when two creatures attempt to do the same thing and only one can succeed, such as if both you and a bandit attempt to snatch up a magic ring that has fallen on the floor. In other cases, you might attempt something that another creature
-actively opposes. If you attempt to push open a door that an orc holds shut from the other side, you make an ability check to open the door, and the orc makes a check to keep it shut.
+
+When to Have a Contest. Contests arise when two creatures attempt to do the same thing and only one can succeed, such as if both you and a bandit attempt to snatch up a magic ring that has fallen on the floor. In other cases, you might attempt something that another creature actively opposes. If you attempt to push open a door that an orc holds shut from the other side, you make an ability check to open the door, and the orc makes a check to keep it shut.
+
 Resolving a Contest. A contest uses the same rules as an ability check, except that more than one creature makes a check. Any bonuses and penalties you apply when making an ability check that is not a contest also apply to contests involving that ability.
 The creature with the higher check result wins the contest. The creature either succeeds at its action or prevents its opponent from succeeding.
+
 If the contest ends in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If you and a bandit tie in a contest to snatch a ring, neither one of you grabs it. If you tie in a contest to push open a door held shut by an orc, the door remains shut.
+
 Likewise, if you tie in a contest to hide from another creature, your situation with respect to that creature does not change. If the creature was already aware of you before the contest, you fail to hide. If it was not aware of you before the contest, you remain hidden.
 
 
