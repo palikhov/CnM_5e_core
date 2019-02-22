@@ -1,3 +1,5 @@
+<!-- TOC -->autoauto- [СМЕРТЕЛЬНЫЕ РУБЕЖИ](#смертельные-рубежи)auto- [Code of Conduct](#code-of-conduct)auto- [Character Generation](#character-generation)auto    - [Allowed Races](#allowed-races)auto    - [Starting Gear](#starting-gear)auto    - [It's my life](#its-my-life)auto    - [Exotic races backgrounds](#exotic-races-backgrounds)auto        - [Member of Chill (goblin, bugbear, hobgoblin)](#member-of-chill-goblin-bugbear-hobgoblin)auto        - [Debt of Honor (hobgoblin)](#debt-of-honor-hobgoblin)auto        - [Чужой среди своих, вдвойне чужой среди чужих (орк)](#чужой-среди-своих-вдвойне-чужой-среди-чужих-орк)auto        - [I have an axe and ready to travel (firbolg)](#i-have-an-axe-and-ready-to-travel-firbolg)auto    - [Abilities generation](#abilities-generation)auto- [Roll20 Player's Guide](#roll20-players-guide)auto    - [Default macros](#default-macros)auto    - [How-to](#how-to)auto- [Flow of Time](#flow-of-time)auto- [Tiers of Play](#tiers-of-play)auto- [Отдых и восстановление](#отдых-и-восстановление)auto    - [Длинный отдых](#длинный-отдых)auto    - [Short Rest](#short-rest)auto    - [Восстановление хит-поинтов](#восстановление-хит-поинтов)auto        - [Медленное природное лечение - Slow Natural Healing](#медленное-природное-лечение---slow-natural-healing)auto        - [Healer's Kit Dependency](#healers-kit-dependency)auto- [Травмы и ранения](#травмы-и-ранения)auto    - [Триггеры](#триггеры)auto    - [Таблицы ранений](#таблицы-ранений)auto- [Crafting](#crafting)auto    - [Herbalism](#herbalism)auto    - [Poisons](#poisons)auto    - [Monster Harvesting](#monster-harvesting)auto- [Outfits - simple system](#outfits---simple-system)auto    - [Design Goals](#design-goals)auto    - [What is an outfit?](#what-is-an-outfit)auto    - [Mandatory Properties](#mandatory-properties)auto        - [Size](#size)auto        - [Lifestyle](#lifestyle)auto        - [Culture](#culture)auto    - [Optional properties](#optional-properties)auto    - [Creating optional properties](#creating-optional-properties)auto    - [Gameplay effects of properties](#gameplay-effects-of-properties)auto    - [Wearing armor and outfits.](#wearing-armor-and-outfits)auto    - [Selling outfits](#selling-outfits)auto    - [Outfit formatting](#outfit-formatting)auto    - [Sample outfits](#sample-outfits)auto- [Litercay and languages](#litercay-and-languages)auto- [Modified Three Pillar](#modified-three-pillar)auto    - [Gaining Levels](#gaining-levels)auto    - [Dividing XP](#dividing-xp)auto    - [Experience for Exploring Interactions](#experience-for-exploring-interactions)auto        - [Pillar 1: Exploration](#pillar-1-exploration)auto            - [Items](#items)auto            - [Locations](#locations)auto    - [Experience for Social Interactions](#experience-for-social-interactions)auto        - [Pillar 2: Social Interaction](#pillar-2-social-interaction)auto            - [NPCs](#npcs)auto            - [Role Play](#role-play)auto    - [Experience for Combat Interactions](#experience-for-combat-interactions)auto        - [Pillar 3: Combat](#pillar-3-combat)auto- [Pregenerated characters](#pregenerated-characters)auto- [Rumors and bonds - class and background specific](#rumors-and-bonds---class-and-background-specific)auto- [Factions](#factions)auto    - [Faction](#faction)auto    - [Renown & Ranks](#renown--ranks)auto    - [Fame](#fame)auto    - [Infamy](#infamy)auto    - [Faction's benefits](#factions-benefits)auto    - [Faction magic items](#faction-magic-items)auto        - [Uncommon](#uncommon)auto        - [Rare](#rare)auto        - [Very Rare](#very-rare)auto        - [Signature Item](#signature-item)auto        - [Available](#available)auto        - [Rewards](#rewards)auto    - [Spellcasting services available for faction members](#spellcasting-services-available-for-faction-members)auto        - [Base](#base)auto        - [Advanced](#advanced)auto        - [High-level](#high-level)auto    - [Faction safe house](#faction-safe-house)auto    - [Faction contacts](#faction-contacts)auto    - [Faction downtime activity](#faction-downtime-activity)auto    - [Faction support](#faction-support)auto        - [Zhentarim](#zhentarim)auto    - [Tools & Language training](#tools--language-training)auto        - [Tools](#tools)auto        - [Language](#language)auto        - [Other training](#other-training)auto- [Character retirement  - Отставка персонажа и "выход на пенсию"](#character-retirement----отставка-персонажа-и-выход-на-пенсию)auto- [Tasks and Skills](#tasks-and-skills)auto    - [New tools proficiency](#new-tools-proficiency)auto    - [Strength](#strength)auto        - [Athletics.](#athletics)auto    - [Dexterity](#dexterity)auto        - [Acrobatics](#acrobatics)auto        - [Sleight of Hand](#sleight-of-hand)auto        - [Stealth](#stealth)auto        - [Other](#other)auto    - [Constitution](#constitution)auto    - [Intelligence](#intelligence)auto        - [Arcana](#arcana)auto        - [History](#history)auto        - [Nature](#nature)auto        - [Religion](#religion)auto        - [Invvestigation](#invvestigation)auto        - [Other](#other-1)auto    - [Wisdom](#wisdom)auto        - [Animal Handling](#animal-handling)auto        - [Perception](#perception)auto        - [Insight](#insight)auto        - [Survival](#survival)auto        - [Medicine](#medicine)auto        - [Other Wisdom Checks](#other-wisdom-checks)auto    - [Charisma](#charisma)auto        - [Persuassion](#persuassion)auto        - [Deception](#deception)auto        - [Intimidation](#intimidation)auto        - [Performance](#performance)auto        - [Other Charisma Checks](#other-charisma-checks)auto    - [Disguise Kit](#disguise-kit)auto    - [Расширенное описание Stealth](#расширенное-описание-stealth)auto        - [Conditions for Stealth](#conditions-for-stealth)auto        - [Benefit of Being Hidden](#benefit-of-being-hidden)auto    - [Расширенное описание Perception. Отличие от Investigation](#расширенное-описание-perception-отличие-от-investigation)auto        - [Noticing and Finding](#noticing-and-finding)auto        - [Finding a Hidden Object](#finding-a-hidden-object)auto        - [Noticing or Finding a Hidden Creature](#noticing-or-finding-a-hidden-creature)auto        - [Listening at a Door](#listening-at-a-door)auto    - [Знания](#знания)auto        - [LORE](#lore)auto- [Правила по социальным взаимодействиям - Social Interactions](#правила-по-социальным-взаимодействиям---social-interactions)auto    - [Attitudes and Reactions](#attitudes-and-reactions)auto        - [Friendly](#friendly)auto        - [Indifferent](#indifferent)auto        - [Hostile](#hostile)auto    - [Changing Attitudes](#changing-attitudes)auto    - [Ideals, Flaws, and Bonds](#ideals-flaws-and-bonds)auto    - [Learning a Character's Traits](#learning-a-characters-traits)auto    - [Resolving the Interaction](#resolving-the-interaction)auto- [Martial combat fixes and tweaks](#martial-combat-fixes-and-tweaks)auto    - [Fighting styles changes](#fighting-styles-changes)auto    - [Feats changes](#feats-changes)auto- [Additional downtime activities](#additional-downtime-activities)auto- [Измененные правила верхового боя (боя верхом)](#измененные-правила-верхового-боя-боя-верхом)auto    - [Intelligent Creatures](#intelligent-creatures)auto    - [Death of a Mount or Companion](#death-of-a-mount-or-companion)auto    - [Companion Needs](#companion-needs)auto    - [Official Ruling from the D&D Player's Handbook 5e](#official-ruling-from-the-dd-players-handbook-5e)auto    - [Riding a mount with no saddle](#riding-a-mount-with-no-saddle)auto    - [Combat Mechanics](#combat-mechanics)auto        - [Mount Actions in Combat](#mount-actions-in-combat)auto            - [Dash](#dash)auto            - [Disengage](#disengage)auto            - [Dodge](#dodge)auto        - [Area of Effect on Mounted Creatures](#area-of-effect-on-mounted-creatures)auto        - [Ranged Attacks while Mounted](#ranged-attacks-while-mounted)auto        - [Animal Handling](#animal-handling-1)auto        - [Keeping Control of the Mount](#keeping-control-of-the-mount)auto    - [Melee Reach](#melee-reach)auto- [Управление животными](#управление-животными)auto    - [Тренировка животных](#тренировка-животных)auto    - [Поведение животных в бою](#поведение-животных-в-бою)auto    - [Шаблон варбиста](#шаблон-варбиста)auto- [Equipment](#equipment)auto    - [Armor](#armor)auto        - [Light armor](#light-armor)auto        - [Medium armor](#medium-armor)auto        - [Heavy Armor](#heavy-armor)auto        - [Shields](#shields)auto    - [Armor Description](#armor-description)auto    - [Weapons](#weapons)auto        - [Simple Melee Weapons](#simple-melee-weapons)auto        - [Simple Ranged Weapons](#simple-ranged-weapons)auto        - [Martial Melee Weapons](#martial-melee-weapons)auto        - [Martial Ranged Weapons](#martial-ranged-weapons)auto        - [Special Weapons](#special-weapons)auto    - [Adventuring gear](#adventuring-gear)auto        - [New Weapon Properties](#new-weapon-properties)auto        - [New and changed weapons](#new-and-changed-weapons)auto        - [About Worn Weapons](#about-worn-weapons)auto    - [New Equipment Packs](#new-equipment-packs)auto        - [Optional Rule: Large Weapons and Armor](#optional-rule-large-weapons-and-armor)auto- [Beyond Damage Dice](#beyond-damage-dice)auto    - [SWORDS](#swords)auto        - [GREATSWORD](#greatsword)auto        - [LONGSWORD](#longsword)auto        - [RAPIER](#rapier)auto        - [SCIMITAR](#scimitar)auto        - [SHORTSWORD](#shortsword)auto    - [POLEARMS AND AXES](#polearms-and-axes)auto        - [BATTLEAXE](#battleaxe)auto        - [GLAIVE](#glaive)auto        - [HALBERD](#halberd)auto        - [LANCE](#lance)auto        - [PIKE](#pike)auto        - [QUARTERSTAFF](#quarterstaff)auto        - [TRIDENT](#trident)auto        - [OTHER POLEARMS](#other-polearms)auto    - [HAMMERS AND BLUDGEONS](#hammers-and-bludgeons)auto        - [CLUB](#club)auto        - [FLAIL](#flail)auto        - [GREATCLUB](#greatclub)auto        - [MACE AND MORNINGSTAR](#mace-and-morningstar)auto        - [MAUL](#maul)auto        - [WAR PICK](#war-pick)auto        - [WARHAMMER](#warhammer)auto        - [WHIP](#whip)auto    - [THROWN WEAPONS](#thrown-weapons)auto        - [DAGGER](#dagger)auto        - [HANDAXE](#handaxe)auto        - [JAVELIN](#javelin)auto        - [LIGHT HAMMER](#light-hammer)auto        - [NET](#net)auto    - [RANGED WEAPONS](#ranged-weapons)auto        - [BLOWGUN](#blowgun)auto        - [COMPOSITE BOW](#composite-bow)auto        - [HEAVY CROSSBOW AND LIGHT CROSSBOW](#heavy-crossbow-and-light-crossbow)auto        - [HAND CROSSBOW](#hand-crossbow)auto        - [LONGBOW AND SHORTBOW](#longbow-and-shortbow)auto        - [SLING](#sling)auto        - [NORDMANSCH GREATAXE](#nordmansch-greataxe)auto        - [NORTHLANDS ESTOC](#northlands-estoc)auto        - [ROTHENIAN PONIARD](#rothenian-poniard)auto    - [SOUTHLANDS WEAPONS](#southlands-weapons)auto        - [DIKAMA \(FANG BLADE\)](#dikama-\fang-blade\)auto- [Alchemical equipment](#alchemical-equipment)auto    - [Alchemical Items](#alchemical-items)auto        - [**Blood Paste**](#blood-paste)auto        - [**Combustible Sphere**](#combustible-sphere)auto        - [**Flash Sphere**](#flash-sphere)auto        - [**Frost Sphere**](#frost-sphere)auto        - [Glow Dust](#glow-dust)auto        - [Gum Bag](#gum-bag)auto        - [Moon Ink](#moon-ink)auto        - [Refreshing Brew](#refreshing-brew)auto        - [Smelling Salts](#smelling-salts)auto        - [Sweet Water](#sweet-water)auto    - [Elixirs, oils, salves](#elixirs-oils-salves)auto        - [Draught of the Saddle Born](#draught-of-the-saddle-born)auto        - [Elixir of Longevity](#elixir-of-longevity)auto    - [Elixir of Red Fury](#elixir-of-red-fury)auto    - [Elixir of Skins](#elixir-of-skins)auto    - [Elixir of the Oracle](#elixir-of-the-oracle)auto    - [Elixir of the Valinor’s Heart](#elixir-of-the-valinors-heart)auto- [Mastercraft Items](#mastercraft-items)auto    - [Mastercraft Items](#mastercraft-items-1)auto        - [Mastercraft weapons](#mastercraft-weapons)auto        - [Mastercraft Armor](#mastercraft-armor)auto        - [Mastercraft Tools](#mastercraft-tools)auto- [Rare materials](#rare-materials)auto- [Расходуемое снаряжение](#расходуемое-снаряжение)auto- [Spellbook Costs](#spellbook-costs)auto    - [Covers](#covers)auto    - [Adornments](#adornments)auto    - [Enchantments](#enchantments)auto        - [Spells](#spells)auto- [Potions & Spell Scrolls](#potions--spell-scrolls)auto    - [Potions](#potions)auto    - [Spell Scrolls](#spell-scrolls)auto- [Снаряжение для Паладина](#снаряжение-для-паладина)auto    - [Стандартное Снаряжение](#стандартное-снаряжение)auto        - [Доспехи](#доспехи)auto        - [Щиты](#щиты)auto        - [Оружие](#оружие)auto        - [Одежда и Специальные Предметы](#одежда-и-специальные-предметы)auto        - [Формальная Одежда Для Паладинов Женщин](#формальная-одежда-для-паладинов-женщин)auto    - [Эмблемы, Штандарты и Навершия](#эмблемы-штандарты-и-навершия)auto    - [Дополнительное Снаряжение](#дополнительное-снаряжение)auto    - [Новое Магическое Снаряжение](#новое-магическое-снаряжение)auto- [Multiclassing](#multiclassing)auto    - [Extra Attack](#extra-attack)auto- [How to Play](#how-to-play)auto    - [Contests](#contests)auto- [DM GUIDE](#dm-guide)auto    - [Шаблон поселений](#шаблон-поселений)auto    - [Шаблон персонажей](#шаблон-персонажей)auto    - [Шаблон регионов](#шаблон-регионов)auto- [DM Guidelines](#dm-guidelines)auto    - [Resolving Tasks](#resolving-tasks)auto    - [When to Use Dice](#when-to-use-dice)auto    - [Шаблон истории (приключения)](#шаблон-истории-приключения)auto- [Exploration](#exploration)auto    - [Hazards](#hazards)auto        - [Requirements](#requirements)auto    - [Engaging the Players](#engaging-the-players)auto    - [Кульминация](#кульминация)auto    - [Multiple Ability Checks](#multiple-ability-checks)auto- [Dungeon Adventuring](#dungeon-adventuring)auto    - [Шаблон фракции](#шаблон-фракции)auto    - [Шаблон описания сил](#шаблон-описания-сил)auto    - [Шаблон описания организации (3.5 based)](#шаблон-описания-организации-35-based)autoauto<!-- /TOC -->
+
 # СМЕРТЕЛЬНЫЕ РУБЕЖИ
 
 праймер по кампании Смертельные Рубежи
@@ -83,11 +85,11 @@ DM is rolling
 
 Tier | Tier Name | Levels | Description | Requirement
 ---------|----------|---------|---------|---------
- 1 | Adventurer | 1-4 | Самое начало | None
- 2 | Seasoned Adventurer | 5-8 | Уже что-то из себя представляет | None
- 3 | Hero | 9-12 | Переход на качественно новый уровень | Quest
- 4 | Paragon | 13-16 | | Quest
- 5 | Epic | 17-20 | | Epic Quest
+ 1 | Adventurer | 1-4 | Вы не боитесь риска, крови и опасностей. Возможно, вами движет страсть к туго набитому золотыми монетами кошельку или жажда справедливости. В любом случае, сидеть на месте и заниматься рутиной явно не для вас. Вы хотите действия. | None
+ 2 | Seasoned Adventurer or Veteran | 5-8 | Каждую ночь ноют шрамы, полученные вами в жестоких схватках с чудовищами и  опасностями окружаюшего вас мира, но через ваши руки прошло ценностей уже больше, чем многие крестьяне видели за всю свою жизнь. Вас узнают на улицах, и пускай пока не Глубоководья, но это только начало. Хотя иногда вечерами вы грустите за своими товарищами, которых уже нет с вами. | None
+ 3 | Hero | 9-12 | Герой| Quest
+ 4 | Paragon | 13-16 | В вашу честь называют детей| Quest
+ 5 | Epic Hero| 17-20 | ~~Убить принцессу. Трахнуть тарраску. Легко.~~ | Epic Quest
 
 # Отдых и восстановление
 
@@ -296,12 +298,6 @@ There are four ways to gain literacy; race, background ,giving up a known langua
 
 Both dwarves and elorii have strong traditions of education and gain literacy through their racial heritage. Some backgrounds grant literacy and if you choose a background which oes not grant literacy you may become literate by giving up one of your known languages.
 
-# Social interactions
-
-# Exploring & Survival interactions
-
-# Modified Three Pillars System
-
 # Modified Three Pillar
 
 This version of three pillar experience rewards players for exploration and social interaction, while maintaining the traditional character advancement scale and allowing the GM to reward XP for encounters.
@@ -343,6 +339,8 @@ For Exploration and Social Interaction, the XP award for an adventure is the sam
 
      However, this does not mean the XP is awarded for individual merit. XP is awarded when the party as a whole accomplishes something, without splitting hairs about who contributed to what the most.   
 
+## Experience for Exploring Interactions
+
 ### Pillar 1: Exploration
 
 For discovering both Items and Locations, each player gains 5% at their tier, 5% additional for every tier above, none for below their tier.   
@@ -351,21 +349,25 @@ For discovering both Items and Locations, each player gains 5% at their tier, 5%
 
 In this version, players are rewarded for discovering magic items that are of the highest nonconsumable rarity suggested for their tier as per Xanathar's Guide.
 
-| Tier 1 | A single art object or gem worth 100 gp or more, or a major uncommon item |
+| Tier | Requirements to rarity or cost |
 | :--- | :--- |
-| Tier 2 | A single art object or gem worth 1,000 gp or more, or a major rare item |
-| Tier 3 | A single art object or gem worth 5,000 gp or more, or a major very rare item |
-| Tier 4 | A single art object or gem worth 50,000 gp or more, or a major legendary item |
+| 1 | A single art object or gem worth 100 gp or more, or a major uncommon item |
+| 2 | A single art object or gem worth 1,000 gp or more, or a major rare item |
+| 3 | A single art object or gem worth 5,000 gp or more, or a major very rare item |
+| 4 | A single art object or gem worth 50,000 gp or more, or a major legendary item |
 
 #### Locations
 
 A location's tier depends on the importance to your campaign, measured by the scope of its discovery or liberation's impact:
-
-| Tier 1 | A location important to a small town or village |
+| Tier | Location importance |
 | :--- | :--- |
-| Tier 2 | A location vital to a kingdom |
-| Tier 3 | A location important across the world |
-| Tier 4 | A location of cosmic importance |
+| 1| A location important to a small town or village |
+| 2 | A location vital to a kingdom |
+| 3 | A location important across the region |
+| 4 | A location of continent importance |
+| 5 | A location of planet importance |
+
+## Experience for Social Interactions
 
 ### Pillar 2: Social Interaction
 
@@ -375,11 +377,13 @@ Players gain XP for turning important NPCs into allies, aligning them with their
 
       Each player gains 5% at their tier, 5% additional for every tier above, 2% for below their tier.
 
-| Tier 1 | An NPC with influence over a small town or village, or the equivalent |
+| Tier | NPC influence |
 | :--- | :--- |
-| Tier 2 | An NPC with influence over a city or the equivalent |
-| Tier 3 | An NPC with influence over a kingdom, continent, or the equivalent |
-| Tier 4 | An NPC \(including a deity\) with cosmic significance or influence across multiple worlds. |
+| 1 | An NPC with influence over a small town or village, or the equivalent |
+| 2 | An NPC with influence over a city or the equivalent |
+| 3 | An NPC with influence over a kingdom, continent, or the equivalent |
+| 4 | An NPC \(including a deity\) with cosmic significance or influence across multiple worlds. |
+| 5 | An NPC \(including a deity\) with cosmic significance or influence across multiple worlds. |
 
 #### Role Play
 
@@ -405,169 +409,11 @@ More than half the party gains inspiration or role plays their TBIFs.
 
 The party agrees to take a quest from an NPC in need.   
 
+## Experience for Combat Interactions
+
 ### Pillar 3: Combat
 
 Players gain 85% of the encounter XP, rounding decimals down, divided between them and any NPCs that contributed. This is used for combats, traps, and puzzles which award XP.
-
-#### **Reddit Formatting**
-
-I liked the idea of three pillar experience, but it had many flaws, so I made some heavy modifications. Here's why it's better:
-
-* It uses the regular Character Advancement table from the Player's Handbook
-* It allows to DM to award encounter XP
-* It rewards players for inter-party role play as well as role play with NPC's
-* It rewards players for discovering the rarest items appropriate to their tier according to Xanathar's Guide \(the original required players to discover items above their tier.\)
-
-## The Three Pillars of Play
-
-For an explaination of the three pillars of play, see the original UA. In short, players get XP for each of the three pillars: exploration, social interaction, and combat.
-
-## Gaining Levels
-
-Players gain levels according to the normal PHB Character Advancement table.
-
-\|  XP     \| Level \| XP to Next Level \|
-
-\| ------- \| ----- \| ---------------- \|
-
-\| 0       \| 1     \| 300              \|
-
-\| 300     \| 2     \| 600              \|
-
-\| 900     \| 3     \| 1,800            \|
-
-\| 2,700   \| 4     \| 3,800            \|
-
-\| 6,500   \| 5     \| 7,500            \|
-
-\| 14,000  \| 6     \| 9,000            \|
-
-\| 23,000  \| 7     \| 11,000           \|
-
-\| 34,000  \| 8     \| 14,000           \|
-
-\| 48,000  \| 9     \| 16,000           \|
-
-\| 64,000  \| 10    \| 21,000           \|
-
-\| 85,000  \| 11    \| 15,000           \|
-
-\| 100,000 \| 12    \| 20,000           \|
-
-\| 120,000 \| 13    \| 20,000           \|
-
-\| 140,000 \| 14    \| 25,000           \|
-
-\| 165,000 \| 15    \| 30,000           \|
-
-\| 195,000 \| 16    \| 30,000           \|
-
-\| 225,000 \| 17    \| 40,000           \|
-
-\| 265,000 \| 18    \| 40,000           \|
-
-\| 302,000 \| 19    \| 50,000           \|
-
-\| 355,000 \| 20    \| See Epic Boons   \|
-
-## Dividing XP
-
-For Exploration and Social Interaction, the XP award for an adventure is the same for each member of the party, instead of being divided among them.
-
-However, this does not mean the XP is awarded for individual merit. XP is awarded when the party as a whole accomplishes something, without splitting hairs about who contributed to what the most.   
-
-## Awarding XP
-
-Instead of rewarding a fixed amount of XP, for Exploration and Social Interaction players receive a percentage of the XP required for them to get from their current level to the next \(calculated from the base XP of their level to the next, not including XP they've earned in between.\)
-
-They may receive a higher or lower percentage depending on their tier of play compared to the magnitude of their accomplishment. 
-
-## Exploration
-
-For discovering both Items and Locations, each player gains 5% for a goal at their tier, 5% additional for every goal from a tier above, none for a goal below their tier.
-
-### Items
-
-In this version, players are rewarded for discovering magic items that are of the highest nonconsumable rarity suggested for their tier as per Xanathar's Guide.
-
-\| Tier   \| Goal                                                                          \|
-
-\| ------ \| ----------------------------------------------------------------------------- \|
-
-\| 1 \| A single art object or gem worth 100 gp or more, or a major uncommon item     \|
-
-\| 2 \| A single art object or gem worth 1,000 gp or more, or a major rare item       \|
-
-\| 3 \| A single art object or gem worth 5,000 gp or more, or a major very rare item  \|
-
-\| 4 \| A single art object or gem worth 50,000 gp or more, or a major legendary item \|
-
-### Locations
-
-A location's tier depends on the importance to your campaign, measured by the scope of its discovery or liberation's impact:
-
-\|  Tier \| Goal                                            \|
-
-\| ----- \| ----------------------------------------------- \|
-
-\| 1     \| A location important to a small town or village \|
-
-\| 2     \| A location vital to a kingdom                   \|
-
-\| 3     \| A location important across the world           \|
-
-\| 4     \| A location of cosmic importance                 \|
-
-## Social Interaction
-
-### NPCs
-
-Players gain XP for turning important NPCs into allies, aligning them with their cause or denying them as assets to their enemies. The XP they gain is based on the NPC's power and influence.
-
-Each player gains 5% for a goal at their tier, 5% additional for every tier above, 2% for a goal below their tier.
-
-\|  Tier \| Goal                                                                                     \|
-
-\| ----- \| ---------------------------------------------------------------------------------------- \|
-
-\| 1     \| An NPC with influence over a small town or village, or the equivalent                    \|
-
-\| 2     \| An NPC with influence over a city or the equivalent                                      \|
-
-\| 3     \| An NPC with influence over a kingdom, continent, or the equivalent                       \|
-
-\| 4     \| An NPC \(including a deity\) with cosmic significance or influence across multiple worlds. \|
-
-### Role Play
-
-This modified Three Pillar method also rewards players for inter-party role play. The difficulty of inter-party role play should remain fairly constant throughout all tiers of play, so unlike the other categories in this method it is not awarded based on tier. Instead, it is awarded for specific group activities.
-
-When the party interacts in character during a session, each member gains 5%. If the interaction is only partially in character, they gain 2%. If they create a story-changing or divergent moment, they gain an extra 5%.
-
-Here are some examples of these interactions \(obviously party interaction situations are not limited to these\):
-
-* The party argues in character.
-* The party comes to a decision in character.
-* The party solves a mystery or puzzle in character.
-* Some party members conspire to play a trick on another party member
-* Some party members confront other party members about a problem or secret.
-* The party convinces an NPC to give them information that the NPC previously did not want to give, a significantly lower price on an item, or another form of important help.
-* More than half the party gains inspiration or role plays their traits, ideals, bonds, or flaws.
-* The party agrees to take a quest from an NPC in need.  
-
-## Combat
-
-Players gain 85% of the encounter XP, rounding decimals down, divided between them and any NPCs that contributed. This is used for combats, traps, and puzzles which award XP.
-
-Full encounter XP is not given to balance for the fact that the recommended XP awards for monsters do not take into account that players will be awarded XP for anything else.  Additionally, this means that players must engage with the other tiers to advance at a normal rate.
-
-
-
-## Experience for Social Interactions
-
-## Experience for Exploring Interactions
-
-## Experience for Combat Interactions
 
 # Pregenerated characters
 
@@ -658,29 +504,26 @@ Mercenaries, info, illegal goods
 
 Персонаж арфист в ОоотА, СКТ, Принцах Апокалипсиса - не регуляр.
 
-# Character retirement
+# Character retirement  - Отставка персонажа и "выход на пенсию"
 
-New Character level = Old Character Level / 2
+Взамен персонажа, который отправился на пенсию, игрок может создать персонажа с уровнем равным половине уровня персонажа - отставника с капиталом в размере 50 зм на уровень
 
-Winged tiefling = 5 lvls gandicap
-
-Winged elf (avariel) = 7 lvls gandicap
-
-# Natural Hazards
+Winged tiefling or Winged elf (avariel) = 5 lvls gandicap
 
 # Tasks and Skills
 
 ## New tools proficiency
 
-Mounts (land)
+Mounts (land) - умение ездить верхом и управлять верховыми животными.
 
-Mounts (air)
+Mounts (air) - умение управлять летающими верховыми животными.
 
 ## Strength
 
 ### Athletics.
 
 You might make a Strength (Athletics] check in difficult situations encountered while climbing, jumping, or swimming. Here are examples:
+
 •	You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
 •	You try to jump an unusually long distance or pull off a stunt midjump.
 •	You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
@@ -810,7 +653,8 @@ The DM might call for a Charisma check when a character tries to accomplish one 
 
 ## Disguise Kit
 
-## Stealth
+## Расширенное описание Stealth
+
 When a creature tries to hide, it relies on its Dexterity to remain unnoticed. A creature can attempt a Dexterity (Stealth] check to sneak around, moving quietly and using cover and heavily obscured areas to avoid detection.
 
 There are two ways you can hide. If a creature can’t possibly see you, you need only to avoid making noise to avoid detection. If a creature might see you, you need to keep behind cover or stay in heavily obscured areas to remain hidden.
@@ -834,11 +678,11 @@ Stay quiet. It's assumed that you try to avoid making noise while hiding, and yo
 
 You have advantage on the attack roll when you attack a creature from which you are hidden. Making an attack reveals your position, however.
 
-## Perception 
+## Расширенное описание Perception. Отличие от Investigation
 
 As you move through a dungeon, walk along a forest trail, or search a sage's sanctum, you rely on your abilities to spot hidden clues, notice lurking monsters, find traps or secret doors, and avoid unpleasant surprises. The DM describes the scene to you, but sometimes you want your character to search for something that the DM might be omitting from the description. The perception rules help determine whether your character notices or can find a hidden object or creature.
 
-Noticing and Finding
+### Noticing and Finding
 
 Your Wisdom (Perception] check serves as a measure of your general awareness of your surroundings, whether you notice creatures lurking in ambush, hear the stealthy tread of an approaching assassin, or catch the telltale whiff of troglodyte in the air.
 
@@ -890,9 +734,7 @@ When you listen at a door or otherwise try to hear noise in an area, the DM asks
 | religious lore | Religion | deities, rites and prayers, ecclesiastical hierarchies, and holy symbols subterranean lore, including lore about caves as well as the flora, fauna, and peoples living underground |
 | trade lore | History | materials, manufacture, a specific craft \(such as smithing, brewing, or cooking\), and commerce |
 
-
-
-# Social Interactions
+# Правила по социальным взаимодействиям - Social Interactions
 
 Exploring dungeons, overcoming obstacles, and slaying monsters are key parts of most D&D adventures, but no less important are the interactions that adventurers have with other people, monsters, and even things in the world. Nonplayer characters might serve as patrons who send the adventurers on quests and reward them for their efforts, as allies who offer them material aid to help them accomplish their goals, as companions who accompany them on their adventures, as obstacles to achieving what they desire, and as adversaries in a social or political arena. Some monsters are open to negotiation when adventurers stumble into their lairs, perhaps granting the heroes their lives in exchange for great piles of treasure or the promise of better food elsewhere. Even dungeon features such as talking statues or magic mirrors can play an important role.
 
@@ -914,14 +756,14 @@ Friendly characters want to help and wish for the adventurers to succeed. These 
 
 The only reason to make a check when dealing with a friendly character is to see if the character will take personal risks or make sacrifices on behalf of the adventurers. Otherwise, for tasks or actions that require no particular risk, effort, or cost, friendly characters usually help without question.
 
-FRIENDLY NPC REACTIONS DC Result
+FRIENDLY NPC REACTIONS
 
-Default The NPC will do as you wish for requests that don't involve risks or sacrifice 
-
-10 The NPC accepts a minor risk or sacrifice to do as you wish
-
-20 The NPC accepts a significant risk or sacrifice to do as you wish
-
+ DC  | Result
+----------|---------
+ Default | The NPC will do as you wish for requests that don't involve risks or sacrifice 
+ 15 | The NPC accepts a minor risk or sacrifice to do as you wish
+ 25 | The NPC accepts a significant risk or sacrifice to do as you wish
+ 
 ### Indifferent
 
 Indifferent characters have no special ties to the adventurers. They might help or hinder the adventurers, depending on what benefits them the most. The vast majority of NPCs in normal situations begin an encounter indifferent.
@@ -930,13 +772,13 @@ Note that a character’s indifference does not mean the person is standoffish o
 
 A check is usually necessary when the adventurers try to persuade an indifferent character to do something.
 
-INDIFFERENT NPC REACTIONS DC Result
+INDIFFERENT NPC REACTIONS
 
-Default The NPC offers no help or harm 
-
-10 The NPC will do as you wish without taking risks or making sacrifices
-
-20 The NPC accepts a minor risk or sacrifice to do as you wish
+ DC  | Result
+----------|---------
+ Default | The NPC offers no help or harm  
+ 15 | The NPC will do as you wish without taking risks or making sacrifices
+ 25 | The NPC accepts a minor risk or sacrifice to do as you wish
 
 ### Hostile
 
@@ -946,13 +788,13 @@ However, a character’s hostility doesn’t mean that the character will attack
 
 Adventurers almost always need to make a fairly challenging Charisma check to convince a hostile creature to do anything on their behalf.
 
-HOSTILE NPC REACTIONS DC	Result
+HOSTILE NPC REACTIONS
 
-Default The NPC opposes your actions and may take risks to do so
-
-10	The NPC offers no help or harm
-
-20 The NPC will help you as long as there are no risks or sacrifices involved
+ DC  | Result
+----------|---------
+ Default | The NPC opposes your actions and may take risks to do so  
+ 15 | The NPC offers no help or harm
+ 25 | The NPC will help you as long as there are no risks or sacrifices involved
 
 ## Changing Attitudes	
 
@@ -1134,165 +976,1263 @@ For example a medium or smaller sized creature, wielding a melee weapon without 
 
 ## Шаблон варбиста
 
-# Combat
-
-## New actions
-
-### Charge
-
-To charge, you choose a target that is at least 10 feet away from you. You move up to half your speed to a position where that target is within your reach, and then you make a melee attack against it. After the attack, your turn ends.
-
-### Hinder
-
-You distract or otherwise hinder another creature within 5 feet of you. When you hinder a creature, describe the manner in which you do so. The creature has disadvantage on the next relevant ability check or attack roll it makes before your next turn.
-
-## Attacking an Unseen Target
-
-Combatants often try to escape their foes’ notice by hiding, casting the invisibility spell, or lurking in darkness.
-
-When you attack a target that you can’t see, you have disadvantage on the attack roll, whether or not you know where the target is located. Your attack might miss because you rolled too low or because the target is nowhere near where you struck!
-
-
-## Describing the Effects of Damage
-
-Dungeon Masters describe hit point loss in different ways. When your current hit point total is half or more of your hit point maximum, you typically show no signs of injury. When you drop below half your hit point maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 hit points strikes you directly, leaving a bleeding injury or other trauma, or it simply knocks you unconscious.
-
-## Monsters and Death
-
-Most DMs have a monster die the instant it drops to 0 hit points, rather than having it fall unconscious and make death rolls.
-Mighty villains and special nonplayer characters are common exceptions; the DM might have them fall unconscious and follow the same rules as player characters.
-
-
-# BATTLE FORMATIONS
-
-Battle formations are specific combat maneuvers and positioning which grants some benefits or hindraces on the battlefield. From the simple circle formation to the complex testudo, all of them require coordination and some training to be performed. Every formation requires an Intelligence check to be performed, assigned by the DM, that can be done by the commanding officer or by the lowest intelligence member if the group is improvised. A failed check wastes the action and movement of the entire group. A long standing military unit has advantage to the formation, and a newly formed one or one composed by chaotic-aligned creatures has disadvantage to the roll. New Skill: Military training. A character with this skill can apply its proficiency bonus to Intelligence checks made to direct or teach a formation, train people in basic units, recall lore about fortifications, strategy and battle tactics or about ranks and offices in an army. This skill can be learned by Fighters, Paladins and Bards, or people with the Soldier, Noble or Knight backgrounds.
-
-## Arrow Volley 
-
-Difficulty: Easy
-
-If at least ten archers are in the same line, they can release a high, arcing volley of arrows as an action. Rather than aiming at a specific target, they concentrate their arrows in an area, striking anything here. The creatures under an arrow volley must succeed on a DC 15 Dexterity Save or being struck by 1d6 arrows which deal their normal damage without Dexterity modifiers. A testudo formation or a high shield wall protect as normal. Because they fire in a high arc, they can ignore any form of horizontal cover, such as horizontal shield walls or trenches. 
-
-## Cavalry Charge 
-
-Difficulty: Average 
-Cavalry charges are shock tactics. A cavalry charge starts with a dash from the horses with a polearm such as a lance automatically wins initiative, and makes an attack when enters in its weapon’s reach. If it hits, the weapons doubles the damage dice \(EG: a lance in a cavalry charge deals 2d12+str. modifier piercing damage\) and the target must succeed on a Strength Saving Throw or being knocked prone and trampled by the mount. If more than half the cavalry units succeed on trampling their targets, it is considered a successful charge, and the enemy formations are broken. The targets must succeed a DC 15 to 20 \(if the cavalry is at about the same number of the defenders) Wisdom saving throw or being Frightened and flee of the battlefield.
-
-The cavalry charge needs relatively flat, featureless terrain and cannot be performed on a difficult terrain, such as going up a hill or a forested plain. Also, infantry units can prepare for a cavalry charge if they have reach weapons and a disciplined formation such as a phalanx. If the phalanx readies an action to engage, they act first and the charging cavalry takes double damage and must succeed a Strength saving throw or being dismounted and knocked prone. 
-
-## Cavalry Dash
-
-Difficulty: Average A cavalry dash can be done only by trained horsemen and mounts. A cavalry dash has the same effects as any dash action, and doubles the movement of the mount. Any action with an area of effect (such as an arrow volley or  fireball) requires an Intelligence check with a DC of 8 + 1 for every 10 feet covered dashed or fail. This way, a warhorse cavalry moving 120 feet has a DC of 20. Also, even when the check is successful, the cavalry gains Advantage in dexterity saving throws. 
-
-## Circle/Square Formation
-
-Difficulty: Easy Creatures on a circle formation move at half speed but cannot be flanked. It is one of the easiest defensive formations. Line Difficulty-Very Easy The line is the base formation. Creatures in a line don’t hinder each other’s attacks and can focus fire and prepare to receive a charge. The main advantage of the line is its difficulty to be flanked, the protection of the rear ranks and the possibility to focus fire effectively. A line can move at their standard movement, Parthian Circle Difficulty: Average A Parthian Circle is a fast archer’s cavalry formation. The cavalry can use a reaction to move up to their horses’ speed when an enemy tries to approach to melee range or use a spell. Also, enemy projectiles have disadvantage to reach the formation. 
-
-## Phalanx
-
-Difficulty: Hard
-
-As an action, a phalanx formation crams several creatures in a tight polearm formation at the cost of speed and attack capability. A phalanx reduces the movement speed by half, but allows cramming twice as much fighters in the same space. The phalanx must attack with polearms or spears, or do it at disadvantage. Any creature attacking frontally a phalanx does it at disadvantage, and automatically provokes opportunity attacks from anyone on reach if it doesn’t take the Disengage action. A phalanx can be combined with a shield wall or testudo for maximum defensive effectivity. 
-
-## Shield Wall
-
-Difficulty: Easy Anyone on the front rank of a shield wall has all the benefits of half cover; anyone in the second rank has three-quarters cover, and anyone beyond that has total cover. This formation reduces the speed of the creatures forming it in 10 feet, and attacks from weapons without a long shaft \(like spears or battleaxes\) are made at disadvantage. If the creatures pass the Saving Throw, they receive no damage from effects that require a Dexterity saving throw. Use: This is an effective formation to minimize the effects of area of effect spells, such as fireballs, as the first ranks may fall, but the second and third don’t. 
-
-## Skirmish Formation 
-
-Difficulty: Easy 
-
-If the soldiers in a formation are concerned about large area effects, they sometimes advance at their speed every round and then ready an action to disperse if they hear the warning. When a formation disperses, the soldiers as a reaction can move up to their speed away from the center of the formation, and everyone else moves to a space not adjacent to any other soldier. This dispersal can help to reduce the casualties from a catapult or ballistae projectile or a powerful area of effect spell, such as a fireball. Even if they are in the center of the effect, the creatures have advantage in Dexterity saving throws as they are prepared to receive the spell, as if they had taken the Dodge action, although none of the other benefits applies. The main disadvantage of this practice is that tight groups of soldiers, such as a line formation, have advantage against the dispersed formation. Creatures in a very close formation, such as a phalanx, have disadvantage in the formation check. 
-
-## Total Cover 
-
-Difficulty:Average 
-As an action, a group of creatures with shields spends all its movement and form an improved shield wall which grants total cover and advantage on Strength saves in one direction. A group in total cover cannot attack, automatically fails Dexterity saving throws and has disadvantage on Wisdom \(Perception\) checks that rely on sight. If the creatures already are in a shield wall formation, it only takes a reaction to form it. Use: The Total Cover is the poor man’s testudo formation, as it doesn’t need as much training to use. Creatures with proficiency on shields can use it at a command to protect themselves against projectiles. 
-
-## Testudo 
-
-Difficulty Very Difficult 
-
-Trained creatures can spend an action to perform a testudo \(a bonus action if they are already in a phalanx or shield wall formation\). This formation consists on several creatures to form a close formation akin to the shield wall, but with a “roof” of shields too. Creatures under a testudo have total cover against any ranged attack or spell, and the same benefits of a shield wall against melee attacks or spells. Creatures inside a testudo halve their speed, and their attacks are made at disadvantage. Use: The testudo formation is the most effective defensive formation, but it has its weakness: it is very slow, and it is very easy to flank. Also, as the maneuver is highly coordinated, it is impossible to use it without proper training and coordination \(such as a soldier background, military training or the fighter class\): only professional soldiers such as hobgoblins can use it. Chaotic creatures are impossible to coordinate, and neutral creatures form a testudo in twice the normal time. Besides, creatures in a testudo formation have problems to attack enemy formations. Besides, a testudo can be easily broken by massive solid projectiles, such as a catapult’s fire, a ballista missile or a giant’s rock. Against such weapons, the soldiers forming the testudo automatically fail any dexterity saving throw. 
-
-## Wedge
-
-Difficulty: Average 
-
-A wedge formation is used primarily for attack other formations. A wedge formation consists on a reinforced center to break the enemy lines and two “wings” to prevent being outflanked. The wedge has advantage against static or line formations on the first attack. Also, the units moving inside an enemy formation don’t provoke opportunity attacks from them. Use: This formation is usually used by heavy cavalry but also by heavy infantry to engage against enemy lines. Its main weakness is the dependence on the central column of attack. If the formation is pinned down, it can be broken easily and the enemy may flank it.
-
-FORMATION   -   DC  -   TIME    -   EFFECT
-
-Arrow Volley    -   10  -   Action  -   Area of effect 1d6 arrows’ damage. 
-
-Cavalry Charge  -   15  -    Action  -   Wins initiative, weapons deal double damage; it frighten enemies if it breaks formations. Receives double damage by polearms.
-
-Cavalry Dash  -   15  -   Action  -   AoE effects need a 8+1 per 10 feet covered DC skill check, and the cavalry has advantage in Dexterity checks
-
-Circle  -   10  -   Action  -   Half movement, cannot be flanked Line 5 Movement Normal movement, difficult to flank, don’t hinder attacks.
-
-Parthian Circle  -   15  -   Movement  -   Can dash as a reaction, attacks against it have disadvantage (light cavalry only).
-
-Phalanx 20  -   Action  -   Half movement, provides opportunity attacks against anyone entering a rank’s reach, doubles the amount of units in the same space, doubles damage against charging creatures. 
-
-Shield Wall  -   10  -   Bonus Action  -   Provides half cover in 1st rank, % in 2nd rank, total cover in 3rd; a successful dexterity save prevents all damage from that source \(soaked by the shield\).
-
-Skirmish  -   10  -   Reaction  -   Can move as a reaction against an AoE.
-
-Total Cover  -   15  -   Readied Ac. Movement becomes 0. Provides total cover in one direction.
-
-Testudo  -   25  -   Action  -   Half movement, provides total cover, attacks are at disadvantage.
-
-Wedge  -   15  -   Action  -   Breaks enemies’ formations, prevents opportunity attacks if breaks in.
-
 # Equipment
 
-[Look here](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/equipment.md)
 
-## Light armor
+## Armor
 
-Dragon leather	500 gp	12 + Dex modifier	—	—	15 lb.
-Mithral shirt	5,000 gp	13 + Dex modifier	—	—	10 lb.
+### Light armor
 
-## Medium armor
+Armor | Cost | AC | Strength Requirement | Stealth | Weight
+---------|----------|---------|---------|---------|---------
+Armored Coat | 65 gp | 12 + Dex modifier | - | - | 5 lb.
+Dragon leather	| 500 gp |	12 + Dex modifier	| —	| — | 15 lb.
+Mithral shirt	| 5000 gp | 13 + Dex modifier | — | — | 10 lb.
 
-Scale mail	50 gp	14 + Dex modifier (max 2)	—	Disadvantage	45 lb.
-Studded dragon	leather 500 gp	14 + Dex modifier (max 2)	—	—	20 lb.
-Dragon scale	500 gp	15 + Dex modifier (max 2)	—	Disadvantage	50 lb.
-Mithral scale	5,000 gp	15 + Dex modifier (max 2)	—	—	25 lb.
+### Medium armor
 
-## Heavy Armor
-Banded	750 gp	17	—	Disadvantage	55 lb.
-Mithral plate	6,000 gp	18	—	Disadvantage	40 lb.
+Armor | Cost | AC | Strength Requirement | Stealth | Weight
+---------|----------|---------|---------|---------|---------
+Scale mail | 50 gp | 14 + Dex modifier (max 2) | —	| Disadvantage 	| 45 lb.
+Studded dragon	leather | 500 gp | 14 + Dex modifier (max 2) |	— |	— |	20 lb.
+Dragon scale | 500 gp |	15 + Dex modifier (max 2)	| — | Disadvantage | 50 lb.
+Mithral scale | 5,000 gp | 15 + Dex modifier (max 2) | — | — | 25 lb.
+Spiked armor | 75 gp | 14 + Dex modifier (max 2) | - | Disadvantage | 45 lb.
+
+### Heavy Armor
+
+Armor | Cost | AC | Strength Requirement | Stealth | Weight
+---------|----------|---------|---------|---------|---------
+Ring mail	| 30 gp |	14 | — | Disadvantage |	40 lb.
+Chain mail	| 75 gp |	16 | 13 | Disadvantage | 55 lb.
+Splint mail	| 500 gp |	17 | 15 | Disadvantage | 60 lb.
+Banded mail | 750 gp |	17 | 14 | Disadvantage | 55 lb.
+Plate mail | 1500 gp | 18 | 15 | Disadvantage | 65 lb.
+Mithral plate |	7500 gp | 18 | 13 | Disadvantage | 40 lb.
+
+### Shields
+
+Armor | Cost | AC | Strength Requirement | Stealth | Weight
+---------|----------|---------|---------|---------|---------
+Buckler	| 30 gp | +1 | — | — | 3 lb.
+Shield	| 10 gp | +2 | — | — | 6 lb.
+Spiked shield * | 15 gp | +1 | — | 15 | — | 7 lb. 
+Tower | 30 gp |	+3 | 13 | Disadvantage | 15 lb.
 
 
-Banded. This armor is made of overlapping strips of metal sewn to a backing of leather and chain mail. The strips cover vulnerable areas; the chain mail and leather protect the joints while providing freedom of movement. Straps and buckles distribute the weight evenly, making it easier to move around in this armor. This suit includes a helmet and gauntlets.
-Dragon Leather. This leather armor is made from the hide of a dragon. It is extremely supple yet far more durable than standard leather armor.
+## Armor Description
+
+**Banded**. This armor is made of overlapping strips of metal sewn to a backing of leather and chain mail. The strips cover vulnerable areas; the chain mail and leather protect the joints while providing freedom of movement. Straps and buckles distribute the weight evenly, making it easier to move around in this armor. This suit includes a helmet and gauntlets.
+
+**Dragon Leather.** This leather armor is made from the hide of a dragon. It is extremely supple yet far more durable than standard leather armor.
  
-Dragon Scale. This suit of scale mail is made from a dragon’s scales rather than metal, granting it superior protective capabilities and flexibility.
+**Dragon Scale.** This suit of scale mail is made from a dragon’s scales rather than metal, granting it superior protective capabilities and flexibility.
 
-Mithral Plate. This suit of plate is crafted from mithral. It is easy to move in compared to other sorts of metal armor. The dwarves sometimes gift this armor to their most trusted allies.
-Mithral Shirt. This extremely light chain mail shirt is made of very fine mithral links. The armor is light enough to wear under normal clothing. It is most commonly crafted by elves.
+**Mithral Plate.** This suit of plate is crafted from mithral. It is easy to move in compared to other sorts of metal armor. The dwarves sometimes gift this armor to their most trusted allies.
+
+**Mithral Shirt.** This extremely light chain mail shirt is made of very fine mithral links. The armor is light enough to wear under normal clothing. It is most commonly crafted by elves.
+
+**Armored Coat** Consisting of a short leather jacket reinforced with hidden metal plates, the protective natur of these jackets can be overlooked. Traditionally, they are fitted with hidden pockets and wrist scabbards that can hold a dagger or other small weapon.
+
+This armor can be easily mistaken for normal clothing; any observer must succeed in a DC 15 Intelligence (Investigation) check to recognize the true nature of the armor
+
+**Buckler**: This small shield is fitted around the arm and made of metal, wood, or boiled leather. It takes the same time to don and doff as a normal shield \(1 action\) and a character cannot benefit from a buckler and any other type of shield at the same time. Unlike a shield, a character can still use the hand in which the buckler is equipped. If during a character's turn they use an item with this hand, attack with a weapon in this hand, or attack with a two-handed weapon, then the character does not gain the buckler's bonus to AC until the start of their next turn. Attacking with a one-handed weapon or thrown weapon using the buckler hand causes disadvantage on the attack roll. The hand wielding the buckler does not count as a free hand for the purposes of spellcasting, grappling, or unarmed attacks. A character proficient with shields is also considered proficient with bucklers. A buckler does not benefit from the rules or abilities that specifically refer to shields, such as the Protection Fighting Style or the Shield Master feat.
+
+**Tower Shield:** A huge metal-reinforced shield nearly as tall as its wielder. Donning and doffing the tower shield takes 1 action. A character cannot benefit from a tower shield and any other type of shield at the same time. While a tower shield is equipped, its bearer takes disadvantage on all attack rolls due to the off-balancing encumbrance of the shield, unless the weapon has the Light property. A character proficient with both shields and heavy armor is assumed to be proficient with tower shields. All other rules that affect shields still apply to tower shields.
+
+**Spiked shield:** While wielding a spiked shield, your Armor Class increases by 1. A spiked shield serves as a **martial melee weapon** that deals 1d4 piercing damage. You can use spiked shield as off-hand weapon using standard[2] rules for two-weapon fighting. Characters that are proficient with regular shields are proficient with spiked shields,both as a shield and a weapon.
 
 
-## Special Weapons
+## Weapons
+
+### Simple Melee Weapons
+**Simple Melee Weapons**
+
+Weapon | Damage | Damage Type | Cost | Weight | Properties
+---------|----------|---------|---------|---------|---------
+ Gauntlet | 1d4 | bludgeoning | - | - | worn
+ Cestus | 1d4 | bludgeoning | 5 gp | 2 lb | Special, worn
+ Man catcher  | 1d4 | piercing | 40 gp| 3 lb | Heavy, two-handed, special
+ Club | 1d4 | bludgeoning | 1 cp | 3 lb. | light
+ Dagger | 1d4 | piercing | 2 gp | 1 lb. | Finesse,	light,	thrown	(range	20/60)
+ Great club | 1d10 |  bludgeoning | 2 sp| 10 lb. | 
+ Handaxe | 1d6 | slashing | 5 gp | 2 lb. | Light, thrown (range 20/60) 
+ Light hammer | 1d4 | bludgeoning | 2 gp | 2 lb. | Light, thrown (range 20/60)
+ Mace | 1d6 | bludgeoning | 5 gp | 4 lb | - 
+ Quarterstaff | 1d6 | bludgeoning | 2 sp | Versatile (1d8)
+ Sickle | 1d4 | slashing | 1 gp | 2 lb | Light
+ Spear | 1d6 | piercing | 1 gp | 3 lb | Thrown (range 20/60), versatile (1d8)
+ Javelin | 1d6 | piercing | 5 sp | 2 lb | Thrown (range 30/120)
+ Yklwa | 1d8 | piercing | 1 gp | 3 lb | Thrown (10/30)
+
+### Simple Ranged Weapons
+**Simple Ranged Weapon**
+
+Weapon | Damage | Damage Type | Cost | Weight | Properties
+---------|----------|---------|---------|---------|---------
+Crossbow, light | 1d8 | piercing | 25 gp | 5 lb | Ammunition (range 80/320), loading, two-handed
+Dart | 1d4 | piercing | 5 cp | 1/4 lb | Finesse, thrown (range 20/60)
+Shortbow | 1d6 | piercing | 25 gp | 2 lb | Ammunition (range 80/320), two-handed
+Sling | 1d4 | bludgeoning | 1 sp | - | Ammunition (range 30/120)
+
+
+### Martial Melee Weapons
+
+**Martial Melee Weapon**
+
+Weapon | Damage | Damage Type | Cost | Weight | Properties
+---------|----------|---------|---------|---------|---------
+Drow War Gauntlet | 1d6 | piercing or slashing | 40 gp | 1 lb | Finesse, Light, Special*****
+Morningstar, Two-handed | 1d10 | piercing | 25 gp | 6 lb | Heavy, two-handed 
+Hooked Shortspear | 1d4 | piercing | 1 gp | 2 lb | light, special***
+Spiked chain | 1d8 | slashing | 30 gp | 3 lb  | Finesse, two-handed, reach
+Cutlass | 1d6  | slashing | 30 gp | 3 lb | Basket hilt, finesse, light
+Gladius | 1d6  | piercing | 40 gp | 3 lb  | Finesse, versatile damage (slashing)
+Dueling sword**| 1d8 | slashing | 30 gp | 4 lb  | Finesse
+Khopesh | 1d8  | slashing | 30 gp | 3 lb  | Heavy
+Battleaxe | 1d8	slashing | 10 gp |	4 lb |	Versatile (1d10)
+Flail | 1d8 | bludgeoning |	10 gp |	2 lb |	—
+Glaive | 1d10 |	slashing | 20 gp | 6 lb | Heavy, reach, two-handed
+Greataxe | 1d12 | slashing | 30 gp | 7 lb | Heavy, two-handed
+Greatsword | 2d6 | slashing | 50 gp | 6 lb | Heavy, two-handed
+Halberd | 1d10 | slashing |	20 gp |	6 lb | Heavy, reach, two-handed
+Lance | 1d12 | piercing | 10 gp | 6 lb | Reach, special
+Longsword | 1d8 | slashing | 15 gp | 3 lb | Versatile (1d10)
+Maul | 2d6 | bludgeoning | 10 gp | 10 lb |	Heavy, two-handed
+Morningstar	| 1d8 |	piercing | 15 gp | 4 lb | —
+Pike | 1d10 | piercing| 5 gp | 18 lb | Heavy, reach, two-handed
+Rapier | 1d8	piercing | 25 gp | 2 lb | Finesse
+Scimitar | 1d6 | slashing | 25 gp | 3 lb | Finesse, light
+Shortsword	| 1d6 | piercing | 10 gp | 2 lb | Finesse, light
+Trident | 1d6 | piercing | 5 gp | 4 lb | Thrown (range 20/60), versatile (1d8)
+War pick | 1d8 | piercing | 5 gp | 2 lb | —
+Warhammer | 1d8 | bludgeoning |	15 gp | 2 lb | Versatile (1d10)
+Warspear | 1d8 | piercing | 10 gp | 4 lb | Versatile (1d10), thrown (20/60)
+Whip | 1d4 | slashing | 2 gp | 3 lb | Finesse, reach
+
+### Martial Ranged Weapons
+
+Weapon | Damage | Damage Type | Cost | Weight | Properties
+---------|----------|---------|---------|---------|---------
+Blowgun | 1 | piercing | 10 gp | 1 lb | Ammunition (range 25/100), loading
+Crossbow, hand	| 1d6 | piercing | 75 gp | 3 lb | Ammunition (range 30/120), light, loading
+Crossbow, heavy | 1d10 piercing	 | 	50 gp | 18 lb | Ammunition (range 100/400), heavy, loading, two-handed
+Longbow | 1d8 | piercing | 50 gp | 2 lb | Ammunition (range 150/600), heavy, two-handed
+Net	| | | 1 gp | 3 lb | Special, thrown (range 5/15)
+
+### Special Weapons
 
 Weapons with special rules are described here.
-Bolas. A Large or smaller creature hit by a bolas must succeed on a DC 10 Dexterity saving throw or be restrained by it. A creature can break free of the bolas by using its action to make a DC 10 Strength check or by dealing 5 slashing damage to the bolas. Formless creatures are immune to this effect.
-Net. When you attack with a net, you target a point in space. Each Large or smaller creature within 5 feet of that point must succeed on a DC 10 Dexterity saving throw or be restrained by the net. A creature can break free of the net by using its action to make a DC 10 Strength check or by dealing 5 slashing damage to the net. 
+
+**Bolas.** A Large or smaller creature hit by a bolas must succeed on a DC 10 Dexterity saving throw or be restrained by it. A creature can break free of the bolas by using its action to make a DC 10 Strength check or by dealing 5 slashing damage to the bolas. Formless creatures are immune to this effect.
+
+**Net.** When you attack with a net, you target a point in space. Each Large or smaller creature within 5 feet of that point must succeed on a DC 10 Dexterity saving throw or be restrained by the net. A creature can break free of the net by using its action to make a DC 10 Strength check or by dealing 5 slashing damage to the net. 
 
 ## Adventuring gear
 
-Acid. A glass vial of acid holds 4 ounces. As an action, you can splash the contents of the vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature or object. On a hit, the target takes 1d4 acid damage. If poured on metal, the metal takes 1d4 acid damage at the start of each of your turns for 1d4 rounds.
-Adventurer's Kit. This pack has the basics that an adventurer needs to get along in the wilderness. The kit includes a backpack loaded with a healer's kit, a mess kit, a tinderbox, ten torches, ten days of rations, and a waterskin. In addition, 50 feet of hempen rope are strapped to the pack.
-Alchemist's Fire. This sticky, adhesive fluid ignites when exposed to air. A clay flask of alchemist's fire contains 1 pint. As an action, you can throw the flask up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 11 Dexterity check to extinguish the flames.
-Holy Water. A clay flask of holy water contains 1 pint. As an action, you can splash the contents of the flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature. On a hit against a fiend or evil undead creature, the target takes 1d4 radiant damage.
+**Acid.** A glass vial of acid holds 4 ounces. As an action, you can splash the contents of the vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature or object. On a hit, the target takes 1d4 acid damage. If poured on metal, the metal takes 1d4 acid damage at the start of each of your turns for 1d4 rounds.
+
+**Adventurer's Kit.** This pack has the basics that an adventurer needs to get along in the wilderness. The kit includes a backpack loaded with a healer's kit, a mess kit, a tinderbox, ten torches, ten days of rations, and a waterskin. In addition, 50 feet of hempen rope are strapped to the pack.
+
+**Alchemist's Fire.** This sticky, adhesive fluid ignites when exposed to air. A clay flask of alchemist's fire contains 1 pint. As an action, you can throw the flask up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 11 Dexterity check to extinguish the flames.
+
+**Holy Water.** A clay flask of holy water contains 1 pint. As an action, you can splash the contents of the flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature. On a hit against a fiend or evil undead creature, the target takes 1d4 radiant damage.
 Horse. A typical riding horse can carry one rider and most of the typical adventurer’s supplies at a speed of 60 feet. If you have proficiency with land mounts, you can add your proficiency bonus to ability checks you make to control a horse under difficult circumstances.
-Thieves' Tools. This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow- bladed scissors, and a pair of pliers.
-Proficiency with thieves’ tools allows you to use them to attempt the following tasks.
-Disable a Trap: You can use your action to make a Dexterity check to attempt to disable a trap, applying your proficiency bonus to the check. You must have physical access to the trap’s mechanisms. If you succeed, you disable the trap and can bypass it safely. If you fail your Dexterity check by 5 or more, you trigger the trap.
-Open a Lock: You can use your action to make a Dexterity check to attempt to open a lock, applying your proficiency bonus to the check. If you succeed, you open the lock.
-Tinderbox. This small container holds flint, firesteel, and tinder (usually dry cloth soaked in light oil] used to kindle a fire. Lighting a torch with the flint and steel takes an action, and lighting any other fire takes at least that long.
+
+**Thieves' Tools.** This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow- bladed scissors, and a pair of pliers. Proficiency with thieves’ tools allows you to use them to attempt the following tasks.
+
+***Disable a Trap:*** You can use your action to make a Dexterity check to attempt to disable a trap, applying your proficiency bonus to the check. You must have physical access to the trap’s mechanisms. If you succeed, you disable the trap and can bypass it safely. If you fail your Dexterity check by 5 or more, you trigger the trap.
+
+***Open a Lock:*** You can use your action to make a Dexterity check to attempt to open a lock, applying your proficiency bonus to the check. If you succeed, you open the lock.
+
+**Tinderbox.** This small container holds flint, firesteel, and tinder (usually dry cloth soaked in light oil] used to kindle a fire. Lighting a torch with the flint and steel takes an action, and lighting any other fire takes at least that long.
+
+
+### New Weapon Properties
+
+**Penetrating:** Some ranged weapons are particularly effective against armored opponents at close range. Weapons with the penetrating property grant advantage on attack rolls when used against armored opponents within 15 feet. This ability is ineffective against abilities that increase AC but are not armor such as the monk’s Unarmored Defense.
+
+**Versatile Damage:** Weapons with this quality have both a primary and a secondary damage type. Your weapon will always do the primary damage type unless you declare otherwise before you roll damage.
+
+**Worn:** Worn weapons augment your unarmed attack damage and may not be disarmed. Putting on or removing a worn weapon takes an action.
+
+**Double**:
+
+### New and changed weapons
+
+
+**Drow War Gauntlet** Created by the dark elves, this wicked implement looks like a leather glove covered with odd protrusions. When a hidden catch is pressed (effectively equivalent to drawing a weapon), twisted blades and spikes spring forth. When you press the catch, you can choose whether you want to deal slashing or piercing damage. The gauntlet continues to deal the type of damage you have chosen until you press the catch to retract the blades. You can’t be disarmed of this weapon by normal means, but when you press the catch and the blades spring forth, you can’t hold anything in the hand upon which you are wearing the gauntlet.
+
+**Two-handed Morningstar** This weapon is simply a larger and heavier version of the standard Morningstar. It is often carried for purposes of sheer intimidation, as it looks wicked indeed.
+
+**Blastpowder and shot (10)** 25 gp per weapon 2 lbs. per weapon
+
+**Cestus:** Popular in the arenas and tavernas of Coryan, this reinforced leather glove consists of a series of leather thongs that are tied over the hand; the thongs secure a set of metal plates, one over the knuckles and the other along the back of the hand. There are two variants of this weapon. The myrmex "limb-piercer" has the versatile damage (piercing) property and the sphairai "bone-breaker" has the versatile damage (slashing) property.
+
+*** On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall prone. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus.
+
+**** This weapon is similar to a light crossbow except that it has half the range (40/160 feet) and doesn't have the loading property. It automatically reloads after firing until it runs out of ammunition. Reloading the cartridge takes an action.
+
+***** Can't be bought by player characters. 
+
+### About Worn Weapons
+
+```
+You can use weapons you wear on your body, (worn weapons), to make unarmed strikes. When you make an unarmed strike while wearing a worn weapon, you deal the weapon’s damage instead of your normal unarmed strike damage. You must able to use the part of your body where the weapon is attached to make the unarmed strike. You cannot use a cestus to make an unarmed strike if you are using that hand to wield a sword or hold a lantern. For example, when you attack with a cestus, your unarmed strike deals 1d4 + your Strength modifier bludgeoning damage, assuming you use the fist wearing the cestus to make that unarmed strike. 
+
+Worn weapons do allow you to benefit from runes and other magical effects that can be applied to weapons.Any rune or spell that would affect a weapon can be applied to a worn weapon, and the rune or effect applies to your unarmed strikes.
+
+```
+
+**Flintlocks:** Altheria may be a center of knowledge and learning, but it is the power of blastpowder that has kept the Republic of Altheria safe for many years. The Altherians’ advanced understanding of blastpowder and its explosive potential has aided them in the design of their flintlock weapons. 
+
+Altherian flintlocks are designed to take advantage of specific amounts of blastpowder for every shot, leading to the creation of blastpowder rounds – small paper or cloth packets of blastpowder pre-measured to gain the most efficient and accurate shot. Therefore, these fine weapons are usually easier, safer, and faster to reload and fire.
+
+Altherians, as well as clerics and holy champions of Althares, may purchase flintlocks at the listed price and may carry them regardless of rank.
+
+You do not suffer penalties for firing a flintlock while prone. Unless you have a flintlock maintenance kit and are proficient with it, whenever you roll a 1 on a ranged attack roll with a flintlock the weapon malfunctions and jams. A jammed flintlock cannot be fired. 
+
+Repairing a jammed flintlock requires proficient use of a flintlock maintenance kit and takes 10 minutes.
+
+Additionally, in Arcanis flintlocks are reinforced and balanced for use as improvised melee weapons. Flintlock pistols may be used as clubs, while flintlock rifles may be used as greatclubs. If you are proficient with a club or greatclub, you can add your proficiency bonus to attack rolls with your flintlock when you use it as an improvised weapon.
+
+## New Equipment Packs
+
+**Soldier’s Pack (14 gp):** 
+
+Includes a backpack, a bedroll, a hammer, a mess-kit, 10 pitons, 10 torches, a tinderbox, a tent, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it. 
+
+### Optional Rule: Large Weapons and Armor
+
+```
+
+There are some Heroes who are naturally Large size, or who have the ability to increase their size and become Large.
+
+If this occurs, you may be required to purchase weapons and armor sized for a Large creature.
+
+Finding someone with the skill to forge Large-sized equipment is no easy task, and the equipment itself costs double its listed price. Large weapons deal an extra die of damage, so a Large longsword deals 2d8 damage. You cannot wear armor that is too small for you.
+
+If you try to wield a weapon too big for you, you suffer disadvantage on all attack rolls with that weapon, even if you are proficient with it. If you wear armor that is too big for you, you suffer disadvantage on all Dexterity (Stealth) checks and your speed is reduced by 10, no matter your Strength.
+
+```
+
+# Beyond Damage Dice
+
+## SWORDS
+
+### GREATSWORD
+
+**Arcing Slash.** When you attack with a greatsword, **once per turn** you may choose to target two creatures within your reach with a single attack. This attack uses the same attack roll for both targets and deals slashing damage equal to id6 plus your Strength modifier to each target. 
+
+**Grinding Halt.** Whenever you must make a Strength saving throw to avoid being moved against your will, you can dig the blade of your greatsword into the ground as a reaction. Roll 2d6 and add the number rolled to the saving throw. If the effect pushing you does not have a saving throw, you move 5 feet fewer.
+
+### LONGSWORD
+
+**Lock Blades.** When a creature attacks you with a weapon, you may use your reaction to attempt to lock blades and parry their attack. Make an attack roll with your longsword. You have advantage on this roll if you are wielding your lpngsword with two hands. If the result of this roll equals or exceeds their attack roll, their attack misses. 
+
+**Short Draw.** As an attack, you may draw a sheathed one-handed sword and make an attack roll to strike the enemy with its pommel, leaving the target gasping for breath. This attack deals no damage, but the next attack roll made against the target has advantage. You must have at least one hand free to take this action.
+
+### RAPIER
+
+**Main Gauche.**^Thle wielding both a rapier and a dagger, you may use a reaction after being attacked to roll a d4 and add the result to your Armor Class until the end of the attacker’s turn. 
+
+**Lock Blades.** When a creature attacks you with a weapon, you may use your reaction to make an attack roll with your rapier. If the result of this roll equals or exceeds their attack roll, their attack misses. ■
+
+### SCIMITAR
+
+**Bloody Wound.** When you hit a living creature with a scimitar, you can choose to make a superficial but bloody wound. The attack deals no damage, but the target takes id6 slashing damage at the beginning of each of its turns until it makes a DC 10 Wisdom \(Medicine\) check as an action to stop the bleeding or until it receives magical healing. A creature can have only one bloody wound at a time. 
+
+**Short Draw.** As an attack, you may draw a sheathed one-handed sword and make an attack roll to strike the enemy with its pommel, leaving the target gasping for breath. This attack deals no damage, but the next attack roll made against the target has advantage. You must have at least one hand free to take this action.
+
+### SHORTSWORD
+
+**Close Quarters Combat.** When you successfully grapple a creature or escape a grapple, you may make a single \_ attack with a short sword as a bonus action. Additionally, whenever a creature fails to escape a grapple with you, you may make a single attack with a short sword as a reaction. 
+
+**Short Draw.** As an attack, you may draw a sheathed one-handed sword and make an attack roll to strike the enemy with its pommel, leaving the target gasping for breath. This attack deals no damage, but the next attack roll made against the target has advantage. You must have at least one hand free to take this action.
+
+## POLEARMS AND AXES
+
+### BATTLEAXE
+
+**Crushing Blow.** As an action, you can make a single attack roll with your battleaxe against an armored or naturally armored creature within 5 feet of you. If the attack hits, the target’s AC is permanently reduced by 1 until its armor is repaired, but cannot be reduced below 10 + the target’s Dexterity modifier. This attack has no effect on creatures with magical armor, unless your battleaxe is also magical.
+
+### GLAIVE
+
+**Disarming Parry.** When a creature attacks you with a **melee** weapon, you may use your reaction to catch their weapon in your glaive’s hook and disarm them. Make an attack roll with your glaive. If the result of this roll equals or exceeds their attack roll, their attack misses and they must succeed on a Strength saving throw or drop their weapon. 
+
+**Trip.** As an attack while you are wielding a glaive, you may sweep your opponent’s legs in an attempt to trip them. Make an attack roll against a Large or smaller creature. If the attack hits, it must succeed on a Strength saving throw or fall prone.
+
+### HALBERD
+
+**Rebuff.** As an attack while you are wielding a halberd, you may use the haft of your weapon to rebuff up to two adjacent creatures. Make a single attack roll against one or two adjacent creatures within 5 feet of you. If the attack hits a target, you push it up to 10 feet away from you. 
+
+**Trip.** As an attack while you are wielding a halberd, you may sweep your opponent’s legs in an attempt to trip them. Make an attack roll against a Large or smaller creature. If the attack hits, it must succeed on a ■ Strength saving throw or fall prone.
+
+### LANCE
+
+**Charge.** If you move at least 20 feet straight toward a creature before hitting it with a lance attack, the target takes an extra 1d12 piercing damage and must make a Strength saving throw. On a failure, the target falls prone. 
+
+**Repel Charge.** As an action, you can set your lance against a charge. If a creature moves at least 20 feet straight toward you and attacks you, you may use your reaction to make an attack with your lance **when this creature enter your reach**. If this attack hits, it is an automatic critical hit and the target must make a Strength saving throw. On a failure, it falls prone and falls off its mount if it is mounted.
+
+### PIKE
+
+As it is a polearm, a pike-wielder always has access to the disarming parry and trip maneuvers \(see “Glaive”\). 
+
+**Phalanx.** If you are adjacent to at least two other pike-wielders, your pike attacks have advantage.
+
+**Repel Charge.** As an action, you can set your pike against a charge. If a creature moves at least 20 feet straight toward you and attacks you, you may use your reaction to make an attack with your pike **when this creature enter your reach**. If this attack hits, it is an automatic critical hit and the target must make a Strength saving throw. On a failure, it falls prone and falls off its mount if it is mounted.
+
+### QUARTERSTAFF 
+
+**Vault**. You can use your quarterstaff to help you leap long distances. You can use an action to double the length of your long jump, allowing you to leap a number of feet up to twice your Strength score \(this jump is part of your movement\). If you land adjacent to a creature at the end of this jump, you can make a single attack with your quarterstaff as part of this action.
+
+### TRIDENT
+
+**Pin.** As an action, make an attack roll against a Medium creature you are grappling. If the attack hits, you catch one of the target’s limbs between the tines and bury the trident in the ground, restraining the creature until the weapon is dislodged. The target may make a Strength or Dexterity saving throw \(their choice\) at the end of each of their turns to escape. 
+
+**Disarming Parry.** When a creature attacks you with a weapon, you may use your reaction to catch their weapon in your trident’s tines and disarm them. Make an attack roll with your trident. If the result of this roll equals or exceeds their attack roll, their attack misses and they must succeed on a Strength saving throw or drop their weapon. 
+
+### OTHER POLEARMS
+
+ ^faether you’re wielding a fauchard, ranseur, or Bohemian earspoon, you can always use the disarming parry and trip maneuvers \(see “Glaive”\).
+
+## HAMMERS AND BLUDGEONS
+
+### CLUB
+
+**Improvised Clobber.** If you are using an improvised weapon that counts as a club, you may choose to strike with such force that your weapon breaks. As an action, make a single club attack. On a hit, this attack is an automatic critical hit and your improvised club breaks. 
+
+**Blackjack**. Make a single attack roll with your club against a humanoid target. If the attack hits, it does no damage, but the target must make a Constitution saving throw or be stunned until the beginning of its next turn.
+
+### FLAIL
+
+**Chain Garrote.** ^^Lile wielding a flail, you may attempt to grapple a creature by looping the chain of your flail around its neck. ^^Lile grappled in this way, the creature cannot speak, cannot breathe, and has disadvantage on attack rolls against you. If you surprised the creature with this grapple, it cannot hold its breath and immediately begins suffocating. Creatures that you cannot grapple or do not need to breathe are unaffected by this maneuver. 
+
+**Shield Snare.** As an action while wielding a flail, you may make a single attack roll against a target carrying a shield or a similar defensive tool. This attack ignores any bonus to AC granted by the shield and deals normal weapon damage. If the attack hits, the target must also make a Strength saving throw. On a failure, its shield is pulled from its grip and lands at its feet.
+
+### GREATCLUB
+
+**Hurling Impact.** As an action, you can make a single attack roll with your greatclub against a Medium or smaller target. If the attack hits, it does normal weapon damage and the target must make a Strength saving throw. On a failure, the target is pushed up to 5 feet away from you. On a critical hit, this attack does 2d8 extra damage and the greatclub breaks.
+
+**Ribshatter.** Make a single attack roll with your greatclub against a humanoid target. This attack does normal weapon damage and the target must make a Constitution saving throw. On a failure, it is stunned until the beginning of its next turn. If the damage you dealt was greater than the creature’s maximum hit dice, it is stunned until the end of its next turn.
+
+### MACE AND MORNINGSTAR
+
+**Bruising Blow.** As an action, make a single attack roll with your mace or morningstar against a living creature. If the attack hits, it deals normal weapon damage and the target must make a Constitution saving throw. On a failure, the target does not add its Dexterity modifier to its AC until the end of your next turn or until it is treated with a DC 10 Wisdom \(Medicine\) check. 
+
+**Ribshatter**. Make a single attack roll with your mace or morningstar against a humanoid target. This attack does normal weapon damage and the target must make a Constitution saving throw. On a failure, it is stunned until the beginning of its next turn. If the damage you dealt was greater than the creature’s maximum hit dice, it is stunned until the end of its next turn.
+
+### MAUL
+
+**Crushing Blow.** As an action, you can make a single attack roll with your maul against an armored or naturally armored creature. If the attack hits, the target’s AC is permanently reduced by 1 until its armor is repaired, but it cannot be reduced below 10 + the target’s Dexterity modifier. This attack has no effect on creatures with magical armor unless your maul is also magical. 
+
+**Hurling Impact.** As an action, you can make a single attack roll with your maul against a Medium or smaller target. If the attack hits, it does normal weapon damage, and the target must make a Strength saving throw. On a failure, the target is pushed up to 15 feet away from you.
+
+### WAR PICK
+
+**Piercing Point.** As an action, you may pinpoint a weak point of an opponent’s armor and make a single attack with your war pick against it. This attack pierces armor, treating the target’s AC as 10 + their Dexterity modifier. On a hit, this attack does normal weapon damage. 
+
+**Trip.** As an attack while you are wielding a war pick, you may hook your opponent’s leg in an attempt to trip them. Make an attack roll against a Medium or Small creature. If the attack hits, it must succeed on a Strength saving throw or fall prone.
+
+### WARHAMMER
+
+**Bruising Blow.** As an action, make a single attack roll with your warhammer against a living i creature. If the attack hits, it deals normal TISJ weapon damage, and the target must make a Constitution saving throw. On a failure, the target does not add its Dexterity modifier to its AC until the end of your next turn or until it is treated with a DC 10 Wisdom \(Medicine\) check. 
+
+**Sundering Strike.** As an attack, make an attack roll with your warhammer against a creature wielding a weapon, including natural weapons. If the attack hits, the weapon is damaged, and all attacks made with this weapon have disadvantage. Another sundering strike destroys the weapon. This attack has no effect on magical weapons unless your warhammer is also magical.
+
+### WHIP
+
+**Bullwhip.** As part of your attack action, make a whip attack against a beast or a creature with an Intelligence score of 2 or lower. The target must make a Wisdom saving throw or be frightened of you until the end of its next turn. 
+
+**Snare.** As part of your attack action, you may snap your whip around a creature or its weapon. If you target the weapon, the creature must make a Strength saving throw or drop its weapon at its feet. If you target the creature, it must make a Strength saving throw or be restrained. It may repeat this saving throw at the end of each of its turns. You cannot make whip attacks until the restrained condition is ended.
+
+## THROWN WEAPONS
+
+### DAGGER
+
+These maneuvers can also be used with dagger-like bladed throwing weapons such as shuriken or kunai. 
+
+**Pinning Point.** When you make a melee or ranged weapon attack with a dagger, you may attempt to pin a Large or smaller creature to a wall or surface by catching their clothing with the knife’s point. This maneuver can be used against creatures without clothing at the GM’s discretion. Make an attack roll; if the attack hits, the target must make a Strength saving throw. On a failure, the target’s speed is reduced to zero until the dagger ' is removed. The target can make another Strength saving throw as an action on its turn. 
+
+**Concealed Blade.** Instead of making a Dexterity \(Stealth\) check to hide yourself, you may make a Dexterity \(Sleight of Hand\) check—contested by an active or passive Wisdom \(Perception\) check—to conceal your dagger. As an action, you may make a weapon attack with a concealed dagger against a creature that has not yet acted in combat. This attack has advantage.
+
+### HANDAXE
+
+**Pinning Edge.** When you make a melee or ranged weapon attack with a hand axe, you may attempt to pin a Large or smaller creature to a wall or surface by catching their clothing with the axe’s edge. This maneuver can be used against creatures without clothing at the GM’s discretion. Make an attack roll; if the attack hits, the target must make a Strength saving throw. On a failure, the target’s speed is reduced to zero until the axe is removed. The target can make another Strength saving throw as an action on its turn.
+
+### JAVELIN
+
+**Fearsome Accuracy.** As an attack, you may throw your VP javelin at a creature at the very limit of your range. Make an attack roll against a creature exactly 120 feet away. If the attack hits, the creature takes normal damage and must make a Wisdom saving throw. On a failure, the creature becomes frightened of you for 1 minute. 
+
+**Trip.** As a melee weapon attack while you are wielding a javelin, you may sweep your opponent’s legs in an attempt to trip them. Make an attack roll against a Large or smaller creature. If the attack hits, it must succeed on a Strength saving throw or fall prone.
+
+### LIGHT HAMMER
+
+**Dazing Blow.** As an action, you may make a single ranged weapon attack with a light hammer. If the attack hits, the target must make a Constitution saving throw or be incapacitated until the end of its next turn. 
+
+**Sunder Joints.** When you make a melee weapon attack against a creature in medium or heavy armor with a light hammer, you may choose to damage the joints of their armor instead of dealing damage to the creature. If the attack hits, the creature’s movement is reduced by 10 feet until the end of their next turn. This reduction is not cumulative.
+
+### NET
+
+Nets have the unique property, **Ensnaring**, described below.
+
+> **Ensnaring:** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net \(AC 10\) also frees the creature without harming it, ending the effect and destroying the net.
+
+**Blinding Binds.** Instead of restraining your foe, you may instead wrap the thick cords of your net around a single creature’s head. A Large or smaller creature hit by a net when you use this maneuver is blinded but is not restrained, until the net is removed. 
+
+**Wing-Wrapping Net.** Instead of restraining a flying creature, you may entangle its wings in your net. A Huge or smaller winged creature hit by a net when you use this maneuver has its fly speed reduced to 0 \(but is not restrained\) until the net is removed.
+
+## RANGED WEAPONS
+
+### BLOWGUN
+
+A blowgun has no specific maneuvers to use in combat, but a character with a poisoner’s kit \(50 gp\) can spend a short rest creating one of the following simple poisons. Applying a poison to a blowgun dart is a bonus action, and each vial of poison has 10 uses before it must be created again. A poison’s effects are in addition to the 1 piercing damage dealt by a blow dart. 
+
+> Deathtoad Toxin. A creature hit by a dart coated with this poison must make a DC 10 Constitution saving throw. On a failure, it takes 2d6 poison damage.
+
+> Chuul Ichor. A creature hit by a dart coated with this poison must make a DC 10 Constitution saving throw. On a failure, it is paralyzed until the beginning of its next turn.
+
+> Svirfneblin Wooziness Tonic. A creature hit by a dart coated with this poison must make a DC 10 Constitution saving throw. On a failure, it is poisoned until the end of its next turn.
+
+### COMPOSITE BOW
+
+The composite bow’s unique construction gives it an incredibly heavy draw, making it usable only by the strongest archers. Characters with Strength 14 or lower have disadvantage on attacks made with a composite bow. 
+
+**Power Shot.** When you make an attack with a composite bow, you may take a penalty on your attack roll equal to your Strength modifier. This penalty must be applied before the roll is made. If the attack hits, it deals additional damage equal to twice your Strength modifier. 
+
+**Staggering Shot.** As an action while wielding a composite bow, you may make a single ranged weapon attack. If this attack hits, the enemy takes full weapon damage and must make a Constitution saving throw. On a failure, the target’s speed is reduced to 0 until the end of its next turn.
+
+### HEAVY CROSSBOW AND LIGHT CROSSBOW
+
+{% hint style="info" %}
+
+In campaign settings with firearms, these maneuvers can also be used by a character who wields a rifle. 
+
+{% endhint %}
+
+**Shrapnel Shot.** As an action, make a single attack with your crossbow against an unattended object. The attack deals double damage to the target. If the object is destroyed, it explodes into a cloud of shrapnel. Choose one of the following options: 
+
+* Creatures within 5 feet of the object must make a Dexterity saving throw, taking id6 piercing damage on a failure. 
+
+* A creature adjacent to the object must make a Constitution saving throw. On a failure, the creature is blinded until the beginning of your next turn. 
+
+**Patient Shot.** You carefully align your crossbow’s sights over your target. As an action in a turn that you have not moved, you may make a single crossbow attack with advantage.
+
+### HAND CROSSBOW
+
+In campaign settings with firearms, these maneuvers can also be used by a character who wields a pistol.
+
+**Concealed Sidearm.** Instead of making a Dexterity \(Stealth\) check to hide yourself, you may make a Dexterity \(Sleight of Hand\) check—contested by an active or passive Wisdom \(Perception\) check—to conceal your hand crossbow. As an action, you may make a weapon attack with a concealed crossbow against a creature that has not yet acted in combat. This attack has advantage. 
+
+**Rapid Shot.** You rapidly reload your hand crossbow, throwing off your aim but allowing you to make an additional attack this turn. As a bonus action, you may reload your hand crossbow and make an attack with it against a target within 30 feet. This attack has disadvantage.
+
+### LONGBOW AND SHORTBOW
+
+**Pinning Shot.** When you make an attack with a bow, you may attempt to pin a Large or smaller creature to a wall or surface by catching their clothing with the arrow’s point. This maneuver can be used against creatures without clothing at the GM’s discretion. Make an attack roll; if the attack hits, the target must make a Strength saving throw. On a failure, the target’s speed is reduced to 0 until the arrow is removed. The target can make another Strength saving throw as an action on its turn. 
+
+**Distracting Shot.** As an action, make a single attack with your bow. You intentionally miss your target but give an ally the chance to attack while it is distracted. The next attack roll against the target has advantage if it is made before the beginning of the target’s next turn. 
+
+**Trick Shot.** As an action, make a single stylish bow attack with disadvantage. If the lower roll would also hit the target, you automatically score a critical hit.
+
+### SLING
+
+**Underdog Strike**. As an action, you may make a single ranged weapon attack with your sling against a creature at least 1 size category larger than you. This attack deals normal weapon damage, and an extra id4 bludgeoning damage per size category difference. 
+
+**Headcrack.** As an action, you may make a single ranged weapon attack with your sling. If the attack hits, the target must make a Constitution saving throw or be stunned until the beginning of its next turn.
+
+### NORDMANSCH GREATAXE
+
+The nordmansch greataxe likely originated with the foresters and lumberjacks of the Ordenn forest, who found a way of making axe heads they continue to keep secret. The nordmansch make more axes than their woodsmen actually need. The nordmansch greataxe is a two-handed weapon built to sunder other weapons. Its edge is hardened especially for this purpose, and its haft is likewise set with trapping prongs to catch and hold a foe’s weapon. At the GM’s discretion, typical greataxes may also use the sundering strike maneuver. 
+
+**Sundering Strike.** As part of the attack action, make a single attack roll with your nordmansch against a creature wielding a weapon, including natural weapons. If the attack hits, the weapon is damaged, and all attacks made with this weapon have disadvantage. Another sundering strike destroys the weapon. This attack has no effect on magical weapons, unless your nordmansch is also magical. 
+
+**Disarming Parry.** When a creature attacks you with a weapon, you may use your reaction to catch their weapon in your nordmansch’s prongs and disarm them. Make an attack roll with your nordmansch. If the result of this roll equals or exceeds their attack roll, their attack misses, and they must succeed on a Strength saving throw or drop their weapon.
+
+### NORTHLANDS ESTOC
+
+A hand-and-a-half sword designed to pierce heavy armor and sharpened only on the tip, an estoc is 4 feet long, sometimes with a second crossguard. It is said to have been used first by the knights ofVaelTurog and Balinor against the elves, but now is used by dwarven mercenaries and human knights who expect to fight other heavily armored warriors. Its anti-armor properties make it popular with monster hunters and dragon slayers as well. Sometimes called the “tuck.” The estoc also has the following special property. Special: The estoc deals an additional id6 damage to creatures wearing heavy armor, or naturally armored creatures with an AC of 16 or higher. 
+
+**Armor-Piercing Thrust.** As an action, you may pinpoint a weak point of an opponent’s armor and make a single attack with your estoc against it. This attack pierces armor, treating the target’s AC as io + their Dexterity modifier. On a hit, this attack does normal weapon damage, and does not deal the additional damage granted by the estoc’s special property \(above\). 
+
+**Blunted Bash**. Instead of dealing piercing damage, you can choose to deal bludgeoning damage by striking the target with the estoc’s unsharpened blade. This attack’s damage die is one size smaller than normal \(id4 if one-handed, id6 if two-handed\), and cannot benefit from the estoc’s special property \(below\).
+
+### ROTHENIAN PONIARD
+
+This longsword has a spring-loaded poniard concealed in the hilt, which quickly extends when the hilt is gripped in a particular way. It is particularly beloved by rogues, as the concealed blade helps them sneak attack opponents already locked in combat. Kariv of a crueler bent have been known to poison the secondary blade. Thanks to its hidden blade, the Rothenian poniard has the following special ability: 
+
+> **Special:** The larger blade is a versatile weapon, and the secondary blade is a light weapon. You may make an attack with the secondary blade as bonus action, as if you were two-weapon fighting. Retracting the poniard requires an action.
+
+**Hidden Poniard.** If the poniard is still concealed within your sword’s hilt, you may make a Dexterity \(Sleight of Hand\) check opposed by a target creature’s Wisdom \(Perception\) check. If you win this contest, you may make a single attack roll with the concealed poniard against that target. This attack has advantage. 
+
+## SOUTHLANDS WEAPONS
+
+### DIKAMA \(FANG BLADE\)
+
+First crafted by the bronzesmiths of the Lion Kingdom of Omphaya, the wicked dikama fang blade is shaped like a serrated, oversized lion’s tooth. 
+
+**Bloody Wound.** When you hit a living creature with a dikama, you can choose to make a superficial but bloody wound. The attack deals no damage, but the target takes id6 slashing damage at the beginning of each of its turns until it or another creature makes a DC 10 Wisdom \(Medicine\) check as an action to stop the bleeding or until it receives magical healing. 
+
+**Serrated Twist.** When you deal damage to a living creature with a dikama \(not including damage from the Bloody Wound maneuver\), you may twist the serrated blade as a bonus action. The creature must make a Constitution saving throw or take 2d4 slashing damage.
+
+Armor: A suit of scale or plate made from fervidite may look dull, but it is much lighter than a similar suit made of a different metal. Fervidite armor removes disadvantage of Dexterity (Stealth) checks and any Strength requirement to move at full speed caused by the armor. Additionally,
+
+Medium fervidite armor can be worn under clothing, requiring an observer to succeed on a DC 15 Intelligence (Investigation) check to spot the armor.
+
+Weapon: Weapons and ammunition made from fervidite have 50 extra hit points and are considered to be  both adamantine and silver for the purpose of bypassing damage resistances and immunities, or triggering damage vulnerabilities. Fervidite can be used to either forge the blade of a weapon like a sword or it can be used to add studs and tracings to a weapon like a quarterstaff.
+
+Due to the strength of the metal, ammunition made from fervidite generally does not break when fired. At the end of combat, you can recover all expended ammunition made from fervidite, unless the GM says otherwise. 
+
+
+
+Armor: While you are wearing a suit of adamantine armor, anytime you are hit with a critical strike the attack becomes a normal hit and the armor takes a permanent and cumulative -1 penalty to AC. Adamantine armor reduced to AC 10 is destroyed. Some smiths can repair adamantine armor, but the process is expensive and time consuming. Usually, it costs half the total purchase cost to repair adamantine armor.
+
+Weapon: Weapons made of adamantine are virtually unbreakable and have resistance to all slashing, piercing, and bludgeoning damage. Some creatures, usually constructs, have resistances that can only be bypassed by adamantine weapons.
+
+# Alchemical equipment
+
+## Alchemical Items
+
+Alchemical items are not products of magic, but of science. All these items have one thing in common; they may only be used once. Unlike magic items, alchemical items can be easily purchased.
+
+Alchemical Items |40gp 
+
+----------|---------
+
+Blood Paste  | B1 
+
+Combustible Sphere | B2 
+
+Flash Sphere | B3 
+
+Frost Sphere | 50 gp
+
+Glow Dust | 25gp
+
+Gum Bag | 50gp
+
+Moon Ink | 25gp
+
+Refreshing Brew | 40gp
+
+Smelling Salts | 40gp
+
+Sweet Water | 25gp
+
+### **Blood Paste**
+
+Description: Created from a mixture of several different herbs, blood paste is a sweet smelling red paste that heals all but the most grievous injury.
+
+Abilities/Effects: During a short rest, you may apply this paste to heal 1d6 hit points. A creature may not benefit from another application of the paste until they complete a long rest.
+
+### **Combustible Sphere**
+
+Description: These small spheres are filled with a mixture of alcohol, flint chips and blast powder.
+
+Abilities/Effects: As an action you can throw this flask up to 20 feet, shattering it on impact. 
+
+Make a ranged attack against a creature or object, treating the combustible sphere 
+
+as an improvised weapon. On a hit, the target takes 1d6 fire damage and 1d6 thunder damage. This explosion is quite loud and can be clearly heard hundreds of feet away.
+
+### **Flash Sphere**
+
+Description: This small sphere is filled with a gray powder thatmay be thrown, causing a splash attack, bursting in a flash of searing light.
+
+Abilities/Effects: As an action you can throw this flask at a creature, object, or empty space up to 20 feet away, shattering it on impact. Make a ranged attack against a creature or object, treating the flash sphere as an improvised weapon; no attack roll is needed if you target an empty space. All creatures within 5 feet of the point of impact must make a successful DC 10 Constitution saving throw 
+
+or become blinded until the beginning of their next turn. A creature that cannot see gains advantage on their saving throw.
+
+### **Frost Sphere**
+
+Description: This small sphere is filled with two chemicals each a distinct shade of blue. When the chemicals are mixed they suddenly bsorb all heat from the surrounding area, flash freezing water and chilling those unfortunate enough to be close to the point of impact.
+
+Abilities/Effects: As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the frost sphere as an improvised weapon. On a hit, the target takes 2d6 cold damage. If thrown into a body of water, the sphere instantly shatters and freezes 2 cubic feet of the water.
+
+### Glow Dust
+
+Description: Essentially dried glowing moss, this powder retains the ability to glow after a good shake.
+
+Abilities/Effects: As an action, you may empty the contents of this container to cover a 10-foot by 10-foot area which then glows with dim light. This illumination grants advantage on Wisdom (Survival) or Intelligence (Investigation) checks to find tracks or any other signs of passage. This effect lasts for 10 minutes, after which the glow fades.
+
+### Gum Bag
+
+Description: Created from tar and mixed with special oils, this mixture is held in small clay containers. When the concoction comes in contact with air, it creates a bond strong enough to hold a warhorse in place.
+
+Abilities/Effects: As an action, you can throw this container up to 20 feet, where it shatters on contact and its contents mix and expand. Make a ranged attack against a creature or object, treating the gum bag as an improvised weapon. On a hit, the target must make a successful DC 15 Strength saving throw or have their walking speed reduced to 0. As an action, at the beginning of their turn, a creature affected by the contents of a gum bag may attempt a DC 15 Strength (Athletics) check to break free. The contents of the bag lose its adhesive properties after 1 minute.
+
+### Moon Ink
+
+Description: Commonly created from the nightbloom flowering plant, this ink is highly prized by any who wish to keep their communications secret.
+
+Abilities/Effects: Once anything is written with this ink, the writer needs to warm the paper over an open fire to cause the ink to quickly disappear. Later, the owner of the document may lightly wet the paper and then hold it up against a light source (typically the light of the full moon, hence its name) to read the message. One vial of ink will last for two pages of paper.
+
+### Refreshing Brew
+
+Description: This delicious elixir has been around longer than recorded history, it is commonly referred to as ‘morning draft’.
+
+Abilities/Effects: If you consume a flask of this refreshing drink during a long rest, you regain 2 additional spent hit die. You may only benefit from one vial of refreshing brew per long rest.
+
+### Smelling Salts
+
+Description: The Ansharan temple created this strange and powerful concoction to help young neophytes quickly recover from the rigors of their training.
+
+Abilities/Effects: : You may use smelling salts on an unconscious creature to force them back into consciousness. If the creature was knocked unconscious due to hit point loss, the creature is awakened and spends 1 hit die to recover hit points. Creatures which do not have any remaining hit die cannot be aroused though the use of smelling salts.
+
+### Sweet Water
+
+Description: Highly sought after by nobility, there are only a handful of alchemists capable of brewing a vial of this clear luminescent liquid.
+
+Abilities/Effects: One vial of sweet water cleanses 2 gallons of liquid of any poisons or impurities. It has no effect on creatures entirely comprised of liquid, like water elementals.
+
+## Elixirs, oils, salves
+
+### Draught of the Saddle Born
+
+Potion, rare
+
+Description: This liquid has the thick consistency of syrup and is white in color.
+
+History: Though shunned by their fellow tribesman, Ehtzara are still sought out from time to time by an ambitious chieftain or budding warrior for items of power. One common request is for a Jihuk-Za, or, roughly translated, a “draught of the saddle born”. These potions are reputed to give the imbiber power over equines and grant a warrior uncanny control of their mount. Ehtzara brew these elixirs from mare’s milk and the sap from certain cacti, the identity of which is kept a closely guarded secret.
+
+Abilities/Effects: When you drink this potion you gain the ability to speak with all manner of equine animals for 4 hours and have advantage on all Wisdom (Animal Handling) checks dealing with equines.
+
+### Elixir of Longevity
+
+Potion, legendary
+
+Description: The liquid of this potion is clear with a slight yellowish tint. 
+
+History: This elixir was used exclusively by the ssanu nobles of Yahssremore during the years before the elorii slave revolt. Brewed from blending the tears of the immortal elorii, extracted through unspeakable tortures, along with the venom of a rare and deadly asp, this elixir grants its imbiber an unnaturally extended life.
+
+Abilities/Effects: Once you drink this potion you must make a DC 25 Constitution saving throw. If you succeed your natural lifespan is doubled; if you fail, you die instantly. This potion may be used multiple times, but each dose requires a new Constitution saving throw. This potion has no effect if you are immortal.
+
+## Elixir of Red Fury
+
+Potion, rare
+
+Description: This blood red potion bubbles and swirls as if the very liquid were angered.
+
+History: First created by the Temple of Hurrian, there is also a version of this potion available from the Temple of Nier.
+
+Abilities/Effects: Drinking this potion causes you to fly into furious rage for 1 minute, granting a +2 bonus to melee damage as well as gaining advantage on Strength ability checks and Strength saving throws. During this red rage, you are unable to cast or concentrate on spells. You may not end the rage until the potion runs its course.
+
+## Elixir of Skins
+
+Potion, rare
+
+Description: Brewed from a combination of blood, broth, and marrow from an appropriate beast, this brownish mixture is then poured into a wooden flask carved in the creature’s likeliness.
+
+History: This elixir was once the province of the Pengik tribes of the Pricklespur Forest, but years of trading with the neighboring Yhing hir has made this unique brew available to the shaman of the horsemen.
+
+Abilities/Effects: Each elixir of skins is made with materials from a specific creature of CR 2 or less. For 4 hours after imbibing this elixir, you may, as a bonus action, Wild Shape into the creature the elixir was made from.
+
+ 
+
+You may only use this ability once and you can remain transformed for up to one hour. If you are a druid, you gain all of the Wild Shape benefits imparted by your Circle (if any).
+
+## Elixir of the Oracle
+
+Potion, very rare
+
+Description: This elixir has a slightly rosy tint, though the faint specs suspended in the liquid reflect a gold and silvery shine.
+
+History: This elixir is brewed only by the most talented of Larissan Oracles, and then only when they feel it is necessary to grant individuals visions of their own future. When imbibed, this elixir grants the user an answer to a question regarding the future of a person, place, or object.
+
+Abilities/Effects: When drinking this potion, you instantly fall into a deep trance for 1 minute, during which you are overwhelmed by visions of the future. These take the form of a flood of pictures, sounds, and emotions. You may attempt a DC 15 Wisdom (Insight) check to determine a general emotion connected to the visions (fear, disgust, anguish, distrust, or pleasure, for example).
+
+At the GM’s discretion, you may attempt an Intelligence (Investigation) check to recall specific details of the vision at a later date. The exact nature of the vision is up to the GM, but this potion can be used as a vehicle to foreshadow important campaign events.
+
+## Elixir of the Valinor’s Heart
+
+Potion, very rare
+
+Description: This ornate crystal vial contains a viscous red fluid.
+
+History: Said to have been created by the val’Mehan family during the ancient Blood Wars, the formula for creating this potion was discovered by the Emerald Society during an expedition in the Blessed Lands. Since creating one draught of this elixir requires the complete exsanguination of a val, it was considered too dangerous for public consumption and so consigned to the Vaults of Forbidden Knowledge in New Althre’. Nevertheless, the formula made its way into grimoires of various black sorcerers, witches and unscrupulous Sarishans across the Known Lands.
+
+Abilities/Effects: This elixir grants the drinker the bloodline abilities of a single val family, with the specific powers being dictated by which val was used to create the elixir. For 1 hour after imbibing this elixir, you gain one of the following benefits as appropriate: 
+
+If you are a val of the same bloodline as the elixir, your Blood Rank is increased by 2 and you gain the corresponding benefits (attack bonus, save DC increase, additional powers, uses per day), though you gain no additional bloodline powers.
+
+If you are a val of a different bloodline from the elixir, you suppress your own powers and replace them with powers chosen from the potion’s bloodline. You may only access a number of bloodline powers equal to those you already have (for example, if you have 3 val bloodline powers presently, you may only access 3 bloodline powers of equivalent level of the val bloodline of the elixir).
+
+If you are not a val you gain no benefits from this elixir, and instead suffer 4d10 poison damage and are poisoned for 1 hour.
+
+Fury Elixir
+
+Potion, uncommon
+
+Description: This milky mixture is usually contained in a metal flask, which bubbles and sizzles when unstopped.
+
+History: First gaining popularity in the gladiatorial arenas of Sicaris, Eppion, and Plexus, the elixir was a closely guarded secret as use of magical or alchemical enhancements are frowned upon. It remained so until the funerary games of the Emperor Calcestus val’Assante. There, a second-rate gladiator butchered a very skilled and favorite fighter of the new emperor. After an investigation, the gladiator confessed to taking the concoction and soon thereafter use of the fury elixir has been prohibited. Even though the elixir blesses the user with greatly enhanced physical attributes and the ability to ignore pain, it later ravages the mind and body leaving many a gladiator an empty husk.
+
+Abilities/Effects: Upon drinking this potion you gain resistance to bludgeoning, piercing, and slashing damage, as well as gaining a +1d4 bonus on melee damage rolls for 10 minutes. Afterwards, you gain 1 level of exhaustion.
+
+Ghost Guard Potion
+
+Potion, rare
+
+Description: This clear viscous liquid seems to shimmer when held up to the light.
+
+History: Brewed from specially prepared roots and herbs growing on the Corlathian Mountains, this potion has become very popular among the faithful of Beltine and those who actively hunt sprints.
+
+Abilities/Effects: Once you drink this potion your spirit feels fortified. You gain resistance to necrotic damage for 1 hour. In addition, you have advantage on saving throws made to resist abilities and effects from creatures who possess the Incorporeal Movement special trait.
+
+ 
+
+Ghoststep Draught
+
+Potion, very rare
+
+Description: Requiring a lengthy Beltinian prayer over a flask of ectoplasm residue from a forcefully dissipated spirit or shade, the ghoststep draught is one of the rarest and most difficult potions to produce.
+
+History: Believed known only to the Beltinian high priests for use in their most sacred rituals travelers to the Hinterlands have witnessed the Ehtzara use a similar potion to achieve the same results. Scholars are unsure if this is merely a product of parallel development or if there is some heretofore unknown link between the Beltinians and these erratic shamans.
+
+Abilities/Effects: Once you drink this potion your physical form begins to dissipate, taking on the qualities of an incorporeal creature, gaining the Incorporeal Movement and Ethereal Sight special traits of a ghost for 1 minute.
+
+Holy Tiger Draught
+
+Potion, rare
+
+Description: This fiery tasting green potion is typically found within a decorative gourd painted or carved with stalking tigers and jungle motifs.
+
+History: This exotic elixir originated among the cannibal Nung tribe located far to the west, on one of the many archipelagos of the Messalean Sea. The tribe’s witch doctor prepares the draught from sacred peppers, a fresh kill and invocations to the spirit of the fearsome striped hunter that stalks the land. Though savage, the Nung do understand and appreciate the strange and exotic trinkets that come from trade. Far ranging Chauni and Dailish pirates have managed to acquire the recipe and have sold it to alchemists and scholars across the Known Lands.
+
+Abilities/Effects: When you drink this magical potion your hands become muscular and paw-like with retractable claws. For the next hour, your unarmed strikes deal 1d6 slashing damage. In addition, when taking the Attack action, you may make an additional unarmed strike as a bonus action.
+
+While under the effects of this potion your hands lack the ability to grasp objects, requiring you to make a DC 15 Dexterity check to pick up or hold any object. If you possess the Martial Arts class feature you may choose to deal bludgeoning, slashing or piercing damage with your unarmed strikes. 
+
+Mindfire
+
+Potion, very rare
+
+Description: This clear liquid tastes sweet and produces a pleasant tingling to the user’s lips.
+
+History: This potion is brewed from the crushed petals of the rare prince’s flower and has become quite popular among scribes and sages thought the Known Lands. Though its benefits are tangible, it takes a terrible toll upon the body. What some imbibers feel is even worse is that prince’s flower is only found upon the Isle of Tears, the home of the dreaded Sorcerer-King and his Harvesters. Originally created by the Ymandrake Wine Drinkers, they often demand payment in the form of information on the whereabouts of arcane spellcasters in exchange for another vial.
+
+Abilities/Effects: When you drink this potion you add double your proficiency bonus on Intelligence and Wisdom ability checks for 1 hour. Afterwards, you suffer 1 level of exhaustion.
+
+Oil of Beast Repulsion
+
+Potion, rare
+
+Description: This murky liquid has an unexpectedly floral scent, and is applied topically. If ingested, it acts as a mild poison, inducing violent vomiting for ld4 hours.
+
+History: Brewed by the Pengik from extracts gathered across their traditional lands, this oil is made from the squeezing of the rare iyaye vine, a dangerous crawling plant that is only found in the remote parts of the Pricklespur Forest.
+
+Bits of various animals must then be boiled into the potion.
+
+Abilities/Effects: After applying this oil, for 1 minute any beasts that come within 30 feet of you must succeed on a DC 19 Wisdom saving throw or become frightened. Beasts that fail their save remain frightened as long as they can see you and must move to the nearest safe spot where they cannot see you.
+
+If they then come back within 30 feet of you, they may make a new saving throw. Once a beast succeeds on their saving throw, they are unaffected by the oil for its duration. Creatures that cannot smell automatically succeed on their saving throw.
+
+ 
+
+Oil of Deflection
+
+Potion, rare
+
+Description: Stored in a hinged shell of a small turtle, this salve is created from a mixture of herbs and a pungent mold that grows deep within swamps and marshes. Rumors persist of additional, if less savory, ingredients but what these are is something that the ss’ressen priestesses are unwilling to share. After letting the concoction cool after boiling, it creates a smelly paste that is applied by smearing it over the user’s body.
+
+History: Crafted by specially trained ss’ressen priestesses, the salve is used to provide ss’ressen warriors with an equal footing against the heavier armored humans of Milandir and Coryan.
+
+Abilities/Effects: Each shell holds 3 applications of oil of deflection. Each application covers a Medium or smaller creature. Applying this oil takes 1 minute, but once applied, you gain a +1 bonus to your AC for the next hour.
+
+Oil of Puissance
+
+Potion, rare
+
+Description: This clear oil has a metallic smell and is brewed by priests of Nier or Hurrian.
+
+History: This oil was first developed by Taliose val’Virdan, an alchemist in service to the Sword of the Heavens. He was later captured by rebel forces and ‘persuaded’ to reveal the formula before being buried up to his neck and left near a colony of tiger ants on the edge of the Haunted Wastes.
+
+Abilities/Effects: You gain 10 temporary hit points and have advantage on Strength and Constitution saving throws for 1 minute.
+
+Oil of Pyrotechnics
+
+Potion, rare
+
+Description: Appearing to look like common olive oil, these potions typically come in fragile ceramic or glass containers. The liquid is a highly reactive explosive, without the viscosity of alchemist’s fire. When used as a grenade-like weapon, it explodes with devastating consequences.
+
+History: These oils were first encountered by Coryani legions during their war with the Khitani, who were fond of using this explosive concoction to devastating effect.
+
+Abilities/Effects: As an action, you can throw this vial up to 20 feet, where it shatters on impact and the liquid within explodes on contact. Make a ranged attack against a creature or an object, 
+
+treating the vial as an improvised weapon. Every creature in a 10-foot radius around where the vial breaks must make a DC 14 Dexterity saving throw. An affected creature takes 3d8 fire and 3d8 thunder damage, or half as much on a successful saving throw. This explosion is quite loud and can be clearly heard hundreds of feet away.
+
+Oil of Scent Masking
+
+Potion, uncommon
+
+Description: This amber colored oil is odorless. When applied, this oil masks the scent of the wearer.
+
+History: This oil was first discovered being used by poachers raiding the preserves of Balantica to avoid the hounds and other beasts used to safeguard the area. When questioned, the poachers couldn’t identify who sold them the oil. The ruling val’Dellenov family believes that it must have been the neighboring val’Borda family, testing the oil’s efficacy before issuing it to their spies. For their part, the scions of Cadic vehemently deny any such accusations.
+
+Abilities/Effects: After spreading this oil upon your body, any creature who attempts to track or locate you though scent suffers disadvantage on their ability checks for the next three hours. Even if the creature normally has advantage while using scent, the power of this oil is so overpowering the creature still suffers disadvantage.
+
+Potion of Bloodmastery
+
+Potion, (lesser) rare; (greater) very rare
+
+Description: This potion is dark red, almost the purple of a bruise, with a silver effervesce when unstopped.
+
+History: Seeking a way to emulate the ability some mages wield Adkir, a member of the Ymandrake Order of Wine Drinkers, studied and experimented around the clock, much to the agony of his test subjects, until he unlocked the secret of the formulae. Through a laborious process, he was able to distill the very essence in a sorcerer’s blood that allows him to manipulate arcane power. After hurriedly preparing his first vial of it, he presented it to Order. Needless to say, his superiors were most pleased and Adkir’s worth to the Wine Drinkers soared.
+
+Only accomplished Wine Drinkers are allowed access to the lesser bloodmastery potion and the secret of its creation, while only the highest-ranking Wine Drinkers have access to the greater bloodmastery potion. Adkir has recently perfected an even more powerful bloodmastery potion that emulates specific val family bloodline abilities, but gleefully waits to demonstrate its marvelous efficiency in a large-scale slaughter of some kind. His Order finds this amusing. The vals certainly won’t.
+
+Abilities/Effects: When casting a spell, you may drink this potion as an additional material component. Its effects depend on the rarity of the potion. If you drink this potion and you are not a Wine Drinker, you suffer disadvantage on any saving throw against spells until the beginning of your next turn, in addition to its other effects.
+
+Lesser bloodmastery: Your spell is cast as if you used a spell slot 1 level higher, even if you do not possess the appropriate spell slot.
+
+Greater bloodmastery: Your spell is cast as if you used a spell slot one-level higher, even if you do not possess a higher level slot. In addition, if your target has blood or internal fluid of some kind, you have advantage on your spell attack roll and give disadvantage on your target’s saving throw against the spells effects, if any.
+
+Potion of Mist
+
+Potion, rare
+
+Description: This clear viscous liquid seems to shimmer when held up to the light.
+
+History: Commissioned by a group of thieves, the dwarven Master Alchemist Rodin, the Encali knew a great business opportunity when he saw one. He freely sold hundreds of vials of his creation to anyone who could meet his price. His monopoly was eventually broken when the formula was stolen, the robber vanishing without a trace, but for a thin trail of haze.
+
+Abilities/Effects: You After drinking this potion, for 1 minute you may spend your reaction to surround yourself in silvery mist and teleport up to 30 feet to an unoccupied space that you can see.
+
+Potion of Poison Spittle
+
+Potion, rare
+
+Description: Swirling green fluid fills this glass phial, usually marked with a spitting asp on the side.
+
+History: A cache of vials filled with this potion was discovered in a cave near the Canyon of Zhu. While only forty bottles of the mixture were found, others have been found in and near the Abessian Dominion throughout the years. Possession of this item is illegal in most nations of the Known Lands.
+
+Abilities/Effects: After drinking this potion, for 1 minute you may, as a bonus action you may spit poison at a target you can see. Make a ranged attack against a creature within 30 feet, treating your poison spittle as an improvised weapon. Any creature struck suffers 3d8 poison damage and must make a DC 13 Constitution saving throw or be poisoned for 1 hour. 
+
+Potion of Putrescence
+
+Potion, uncommon
+
+Description: This vile liquid is sickly green in color and is usually held in a putrescent skin.
+
+History: Fanatical Nerothians aspiring to one day receive the blessing of Neroth and join the ranks of undead, use this potion to emulate their betters. Once ingratiated into their court, they make themselves subservient to their undead lords, seeking guidance, tutelage, and performing tasks delegated by their masters, in the hopes of being granted life beyond life.
+
+Abilities/Effects: Once you drink this disgusting potion, for 1 minute, any creature within 10 feet that possesses a sense of smell must make a DC 15 Constitution saving throw or become poisoned by your noxious scent until they are more than 10 feet away from you. For the next hour, you have advantage on all Charisma checks when attempting to feign death, appearing to all as a corpse.
+
+Potion of Satiety
+
+Potion, rare
+
+History: These potions can usually be acquired at shrines or temples to the goddess Anshar, especially those near the frontier, where finding fresh water and food is uncertain.
+
+Abilities/Effects: You require neither food nor drink for 1d4 days + your Constitution modifier after drinking this potion. You suffer no ill effects of thirst or starvation during this time, even those that would be inflicted through supernatural means. You may eat and drink during this time without ill effect. Once the duration has ended, you must make a DC 14 Constitution saving throw or gain 2 levels of exhaustion.
+
+If you drink this potion while you have levels of exhaustion, you immediately vomit up the potion and do not gain any of its effects.
+
+Potion of Steely Nerves
+
+Potion, uncommon
+
+Description: This purple liquid is easily identified by its pungent odor and fiery taste.
+
+ 
+
+History: First crafted by the Milandisian priests of Hurrian for those marching towards the horrors of Canceri during the Heretic War, this potion now enjoys widespread use across the Known Lands.
+
+Abilities/Effects: For 1 hour after imbibing this potion, you have advantage on all saving throws against any effect that would make you frightened.
+
+Potion of Uncanny Alertness
+
+Potion, rare
+
+Description: This potion at first appears colorless but when held in the sunlight it is revealed to have a faint blue tint.
+
+History: Used by explorers of the Emerald Society when delving into ancient catacombs or in the pervasive lightless caverns of the Endless Dark, this potion has saved many lives by revealing chasms and dead drops that would have otherwise been invisible.
+
+imbibing this potion, you have advantage on all Wisdom (Perception) checks and your passive Perception increases by +5. Unfortunately, your increased sensitivity of vision and hearing makes you vulnerable to bright lights and loud sounds, giving you disadvantage on saving throws against light or sound based attacks during the duration of the potion.
+
+Potion, uncommon
+
+Description: These oils were once stored in glass upon which were inscribed prayers and benedictions of the various Gods. During the Fifth Crusade, common tin flasks were used and reused due to the King’s orders to produce large quantities of the oil.
+
+History: Once a rare commodity and given sparingly to only the most pious and worthy, sanctified oils were produced in large quantities by order of King Osric during the Fifth Crusade of Light. So commonplace were these sacred oils that the soldiers began to irreverently calling it, “the Gods’ spit”. With their stores of ingredients depleted, temple priests were unable to produce the quantities demanded of them twenty years later at the inception of the Sixth Crusade of Light, leading to a higher mortality rate among the rank and file in their battles against Infernals.
+
+Abilities/Effects: As an action you may apply this oil on a non-magical weapon, shield or suit of armor. If applied to a weapon, the weapon becomes temporarily magical, 
+
+granting a +1 bonus to attack and damage rolls with that weapon. If applied to a shield or armor, it grants a +1 bonus to AC while wearing the armor or holding the shield. This effect lasts for 1 hour.
+
+Voei Skin Salve
+
+Potion, very rare
+
+Description: This clay jar contains a brownish-green liquid with the viscosity of syrup. When applied to the bare skin, flesh takes on a thick and warty quality, darkening slightly, and giving off a cinnamon aroma.
+
+History: The formula for this noxious salve was discovered by Calyce val’Dellenov during an expedition to the Fervidus Hills. Her party of explorers came across the deserted encampment of a tribe of savage Voei. While the rest of the expedition sifted for rare Voei artifacts, Calyce stumbled upon the dwelling of the tribe’s witchdoctor. Among the many strange items in the hut, she came across a sample of a strange salve. When applied to the skin, the flesh becomes hard and warty, taking on a brown tinge and making it resistant to many types of harm.
+
+After years of experimentation mostly on herself, Calyce was able to replicate the recipe and manufacture more of the paste. Unfortunately, Calyce also learned that the salve has an addictive quality to it, until eventually, the being that was Calyce val’Dellenov was cornered and incinerated, ending her homicidal rampage throughout the streets of Old Coryan.
+
+Abilities/Effects: You cannot apply this paste if you have levels of exhaustion. Once applied, the paste remains active for 1 hour. While active, you heal 10 hit points of damage at the beginning of your turn. This healing is suppressed for 1 round if you suffer acid or fire damage.
+
+If you are reduced to 0 hit points while under the effects of this potion, you automatically succeed on all death saving throws, and begin to regain hit points after your third death save. If you suffer acid or fire damage while below 0 hit points, you automatically fail your death saving throws as normal for suffering damage while unconscious.
+
+After this paste wears off, you gain 1 level of exhaustion.
+
+War Paints of the Skohir
+
+Potion, very rare
+
+Description: These body paints are fashioned by Skohir shamans from the paste made from red seaweed found in the shallows of islands known only to them. This paste is mixed during a complex ritual while with various herbs, roots and seeds to create pastes of different colors and textures, while appealing to various spirits to empower the mixiuie.
+
+History: Used by the Skohir during raids or for rare standing battles against rival Yhing-hir tribes or Milandisians, it makes these formidable warriors even more deadly and fearsome.
+
+Abilities/Effects: The war paint requires 1 hour to apply as the application must be precise and pleasing to the spirits. For 1 hour, these pigments protect you, granting an AC of 14 + your Dexterity modifier. In addition, the war paint grants different effects depending upon the type of pigment applied.
+
+Red war paint gives advantage on Strength and Dexterity saving throws
+
+Blue gives advantage on Intelligence and Wisdom saving throws
+
+Violet affords a +1d4 bonus to all weapon damage rolls.
+
+Black grants the ability to take the Hide action as a bonus action on your turn as well as the benefits of the pass without trace spell (self-only, no concentration required).
+
+# Mastercraft Items
+
+## Mastercraft Items 
+
+A mastercraft item is an item created with such skill and care that it is clearly superior to a normal item. Not just any craftsmen can create a mastercraft item; only an expert in his or her craft, with exceptional skill and years of experience, can create such an item. Mastercraft items can take the form of weapons, armor, or tools. All mastercraft items are exceptionally durable and can take wear and tear better than a normal item. Although mastercraft items are not magical, magic items are mastercraft items, but their magical description and properties replaces any benefit they grant from being mastercraft. 
+
+### Mastercraft weapons 
+
+Mastercraft weapons are particularly sharp and sturdy. You gain a +1 bonus to damage rolls made with a mastercraft weapon. Your weapon is less likely to break under normal use. Ammunition generally cannot be mastercrafted. If a mastercraft weapon gains a bonus to damage from any other source, that bonus replaces the bonus granted from the weapon being a mastercraft weapon. Mastercraft weapons cost 300 GPs more than the base price of the weapon. A mastercraft weapon can also be silvered, but this costs an additional 100 GPs. 
+
+### Mastercraft Armor 
+
+Mastercraft armor and shields provide the same protection as their normal counterparts but weigh less. Mastercraft light armor, medium armor, and shields weigh half as much as normal. Mastercraft heavy armor weighs three-quarters as much as normal. The strength score required to wear mastercraft heavy armor before one's speed is reduced is one point less than the listed score. Mastercraft armor and shields are less likely to break under normal use. They cost twice as much as their normal counterparts. 
+
+### Mastercraft Tools 
+
+Mastercraft tools are created with such quality that they make it easier for you to use them. You gain a +1 bonus to any check you make with a mastercraft tool with which you are proficient. They are more durable under normal use. Mastercraft tools cost four times as much as their normal counterparts.
+
+Джерело: [http://farlandworld.com/mastercraft.html](http://farlandworld.com/mastercraft.html)
+
+# Rare materials
+
+Material/Treatment Cost Adamantine 428 gp per lb Adamant x gp Arandur x gp Darksteel x gp Dlarun x gp Dragonhide x gp Gold 50 gp per lb Mithral 210 gp per lb Silver 5 gp per lb Telstang x gp Blueshine x gp Everbright x gp Halabar's Stealth x gp
+
+Hides & Leathers Dragon Leather: Armor \(leather, studded leather, scale mail, hide\): The powerful virtues of dragon's hide can be invested into suits of armor made of the material by cunning craftsmen. When you're wearing armor made from it, you reduce the damage taken from slashing and piercing injuries by 1. You additionally reduce damage taken from a single damage type that corresponds with the original dragon's breath weapon by 1 \(fire for red dragons, lightning for blue, etc\). Wearers are warned, however, that dragons do take ill to those they encounter wearing this. Metals Adamantine: An alloy of adamant, silver, and electrum, or of steel and mithral, it is black in color, with a green sheen in candlelight or a purple-white light in magical radiance. Armor \(Chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate\): Adamant makes armor of exquisite diamond-hard substance. While you're wearing it, any critical hit against you becomes a normal hit. Weapons: Though adamantine weapons have no additional properties, adamantine takes and holds magic quite well. Many magical weapons are wrought of adamantine because of this. Adamant: A gleaming, glossy black refinement of adamantine, a natural jet-black ferromagnetic ore found in obsidian beds. It is gleaming, glossy black, with a rainbow sheen in bright light. It is too brittle to make keen weapons from, but is a favorite of dwarf-folk for hammers. Armor \(Chain shirt, scale mail, ring mail, chain mail, splint\): Though this jet black metal is too fragile to form actual armor, strips of it can be used to reinforce flexible armors. It strengthens the armor minutely, but its main property is to partially absorb fire. You reduce all slashing damage by 1, and all fire damage by 1d6. In any combat in which you take bludgeoning damage, however, roll a d20 at the end of the combat. If you roll a 9 or lower, the strips of adamant have been shattered and will need to be repaired \(which costs 20% of the cost to install the reinforcements\) by a smith skilled in the working of adamant. Until repairs are done, you lose all benefits of this material. Weapons \(bludgeoning\): When you have advantage on an attack roll, if the lower of the two dice would also hit your target's AC, you inflict an additional d4 damage. Arandur: Once the exclusive secret of the gnome-kind, arandur is a gleaming silver-blue metal, with a green reflective sheen in sunlight. It also naturally absorbs the magical injuries used to inflict raw kinetic injuries. Armor \(scale mail, breastplate, half plate; splint, plate; shield\): When used to make non-flexible metal armors, arandur grants its wearer the ability to reduce force damage by 2. Weapons \(slashing or piercing\): Arandur can be honed to wicked edges that are not easily dulled. When you inflict a critical with a slashing or piercing weapons wrought of arandur, add your Proficiency bonus to the final damage total. Darksteel: A silvery metal with a shadowed cast that gleams purple-ish in firelight, darksteel's making is lost today, an ancient secret of teh Ironstar clan of dwarves. Smiths throughout the Realms offer great amounts of gold for the recovery of any lost ingots of the metal. Armor \(Chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate\): Armor wrought of darksteel reduces all bludgeoning and lightning damage inflicted to the wearer by 1. Dlarun: A little known halfling metal dug up from clumps of river clay and then kilned at high temperatures, dlarun is a bone-white metal that can take a high polish, and gains a distinctive greenish sheen under magical lighting. It has the strange benefit of steadying the minds of those that wear it. Armor \(Studded leather; breastplate, half plate; splint, plate; shield\): Armor wrought of dlarun reduces all bludgeoning and psychic damage by 1, and grants a +1 to saves against all Enchantment spells. Gold: Though quite precious, gold is still considered one of the "common metals." Gold is aligned with solar and celestial magics, purifying undeath. Gold continually flakes and chips away, however, necessitating constant \(although simple\) repairs. Armor \(any\): Though gold is too soft to make armor from, while wearing gold-filigreed armor, reduce all necrotic damage taken by 1. For each item of armor possessed and used, add the following costs to your Lifestyle expenditures per month: 1sp for light armor or shield, 5sp for medium armor, 1gp for heavy armor. Weapon \(any\): Gold-filigreed weapons used to strike the undead inflict 1 additional point of radiant damage. For each such weapon, add 2sp to your Lifestyle cost expenditures per month. Mithral: Called the "truemetal" by dwarf-folk, mithral is derived from soft, glittering, silvery-black ore found in rare veins and pockets from the depths of the Underdark to surface rocks. Armor \(chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate; shield\): Mithral lends subtlety and grace to the wearer. If the armor normally inflicts disadvantage on Stealth rolls, that property is negated. If it does not, then the armor can be worn normally under clothes without giving away the fact that the wearer is wearing armor. Weapons \(slashing or piercing\): The fine edge of mithral is sung about in elven ballads, and with good reason. When you have advantage on an attack roll, if the lower of the two dice would also hit your target's AC, you inflict an additional d4 damage. Silver: Another common metal, silver is aligned with the powers and mysteries of Selûne. Weapon \(any\): Many creatures take grievous wounds from silvered weapons. Though the metal is too soft and costly to make weapons from directly, weapons can easily be silvered with the stuff, granting the property of the metal without taking away from its utility. Telstang: Originally a gnomish secret, this alloy of copper, mithral, platinum, and silver is a dull pewter-silver in hue, and gives off a clear bell-like tone when struck with another metal \(leading to its other name of "singing metal"\). It also collects and reverberates sudden sonic assaults outward away from itself. Armor \(Scale mail, breastplate, half plate; splint, plate\): Though telstang's construction make it largely unsuitable for armors, some craft them anyway for its two tremendous benefits. The first is that any sonic damage taken by the wearer is reduced by 1d6 points. The second is that the wearer automatically succeeds at any saving throws that paralyze or change his shape. Any critical hit with bludgeoning or force damage shatters your armor, however \(though this critical hit only inflicts normal damage instead of doubling it\). Metal Treatments These are alchemical and metallurgical treatments used to treat specific kinds of metals.
+
+Blueshine: Metal weapons and armor. A treatment that gives a bluish sheen to any items wrought of iron, steel, adamantine, arandur, darksteel, mithral, silver, or telstang, blueshine helps negate caustic substances. The metal part of weapons coated in the stuff become immune to acid damage, and armors coated in it grant resistance to acid damage: reduce all acid damage taken by 1 for medium armors or 2 for heavy armors. Everbright: Metal weapons and armor. A dwarven process now known to smiths of many folk, everbright-treated items gleam with a mirror finish \(like a chromium finish\). Metal objects \(which can only be made of steel, adamantine, or mithral\) treated with everbright are immune to rust and the passage of time, and those wearing armor or bearing shields treated with it reduce radiant damage taken by 1 for medium armors and shields or 2 for heavy armors. Remaining unseen while wearing such armor is quite difficult, however; those searching visually for everbright-clad characters gain advantage on their checks to spot them. Halabar's Stealth: Metal weapons and armor. An expensive but increasingly common metal treatment that renders metallic weapons and armor nonferromagnetic, nonreflective, and wholly silent, not even clanging when struck against other metals or stone. Drawing or wielding such weapons will not reveal a hidden character, and metal armor wrought of it does not inflict disadvantage on Stealth checks.
+
+# Расходуемое снаряжение
+
+**Alchemical Fire**
+
+**Acid**
+
+**Antitoxin**
+
+**Holy water**
+
+# Spellbook Costs
+
+These prices provide the Base Cost referred to below
+
+Blank Spellbook, Quarto \(Standard; 12" x 9.5"\), sold in signatures of 8 pages, at a cost of 6gp per signature. \(Minimum 2 signatures • Maximum 37 signatures\)
+
+16 pages \(2 signatures\): 12 gp
+
+40 pages \(5 signatures\): 30 gp
+
+80 pages \(10 signatures\): 60 gp
+
+200 pages \(25 signatures\): 150 gp
+
+296 pages \(37 signatures\): 220 gp
+
+Blank Spellbook, Octavo \(Traveling; 9" x 6"\), sold in signatures of 8 pages, at a cost of 3 gp per signature \(Minimum 1 signature • Maximum 25 signatures\)
+
+8 pages \(1 signatures\): 3 gp
+
+16 pages \(2 signatures\): 6 gp
+
+40 pages \(5 signatures\): 15 gp
+
+80 pages \(10 signatures\): 30 gp
+
+200 pages \(25 signatures\): 75 gp
+
+Blank Spellbook, Folio \(Sanctum; 15" x 12"\), sold in signatures of 8 pages, at a cost of 12 gp per signature. \(Minimum 2 signatures • Maximum x signatures\)
+
+16 pages \(2 signatures\): 24 gp
+
+40 pages \(5 signatures\): 60 gp
+
+80 pages \(10 signatures\): 120 gp
+
+200 pages \(25 signatures\): 300 gp
+
+296 pages \(37 signatures\): 440 gp
+
+400 pages \(50 signatures\): 600 gp
+
+496 pages \(62 signatures\): 740 gp
+
+## Covers
+
+Costs are assumed to be for quarto-sized books. Halve costs for octavo-sized books, and double them for folio-sized ones.
+
+Cloth: Ragcloth: 5 sp • Sturdy: 1 gp
+
+Paperboard: Basic: 1 gp • Sturdy: 2 gp • Cloth-Covered: 3 gp
+
+Leather: Scrapstitch: 2 gp • Basic: 5 gp • Decorative: 20 gp • Fine: 40 gp
+
+Wood: Glueboard: 3 gp • Simple: 5 gp • Decorative: 15 gp • Fine: 25 gp • Sealing: +15 gp
+
+Metals: Thinsheet: 5 gp • Simple: 10 gp • Decorative: 30 gp • Fine: 75 gp • Sealing: +30 gp
+
+## Adornments
+
+Gilding: Silver +10% of Base Cost; Gold +20% of Base Cost
+
+Precious Metal & Gem Accents: Cost of gems and metals, plus 10gp \(5gp for octavos, 20gp for folios\)
+
+Cover Artwork: Varies
+
+Practical Additions
+
+Key Lock: DC 15 - 25gp; DC 20 - 50gp; DC 25 - 100gp
+
+Puzzle Lock: DC 15 - 35gp; DC 20 - 70gp; DC 25 - 150gp
+
+## Enchantments
+
+Minor Property: 150gp
+
+Arcane Locking: 250gp
+
+Arcane Words: 50gp
+
+Immunity: 1000 gp + 500gp per additional damage type
+
+Illusory Appearance: Single Appearance 100gp; Variable Appearance 200gp; Mutable Appearance 400gp
+
+Levitating: 75gp
+
+### Spells
+
+Cantrips: 30 gp each
+
+Higher Level Spells: 50 gp per spell level each
+
+# Potions & Spell Scrolls
+
+## Potions
+
+Common: 50 gp
+
+Uncommon: 250 gp
+
+Rare: 1500 gp
+
+Very Rare: 15000 gp
+
+## Spell Scrolls
+
+Common: Cantrip: 25 gp 
+• 1st Level: 50 gp
+
+Uncommon: 2nd Level: 150 gp • 3rd Level: 300 gp
+
+Rare: 4th Level: 800 gp • 5th Level: 1500 gp
+
+Very Rare: 6th Level: 4000 gp • 7th Level: 8000 gp • 8th Level: 16,000 gp
+
+Legendary: 9th Level: 50,000 gp
+
+# Снаряжение для Паладина
+
+Паладины крайне серьезно относятся к своему снаряжению, и всегда стараются купить самое лучшее. Своим снаряжением они не только подчеркивают  честь своего положения; для некоторых  снаряжение символизирует их принципы.
+
+• Щит символизирует клятву паладина придерживаться своего этоса. 
+
+• Меч символизирует тех кого он поклялся защищать: одна грань аристократию, вторая обычных людей.
+
+• Доспехи являются символом его отношения к власти. Как доспехи защищает его тело, так же он должен защищать своего монарха.
+
+• Шлем олицетворяет собой его религию. Так же как шлем защищает его голову, так же он должен защищать свою церковь.
+
+• Одежда, хорошей выделки и безупречно чистая, символизирует чистоту духа.
+
+## Стандартное Снаряжение
+
+Вещи из следующего списка имеют почти все паладины. Обычно, эти вещи приобретаются из лишних денег паладина. Обычно паладины стараются поддерживать свои вещи в идеальном состоянии, следовательно, они редко требуют замены.
+
+### Доспехи
+
+Паладину доступны все виды доспехов. При наличии выбора, более предпочтителен полный латный доспехи. Но, из-за дороговизны полного латного или простого латного доспехов, некоторые останавливаются на пластинчатом или плетеном доспехе, или даже кольчуге. Кожаный, клепаный кожаный и набивной, включая магические, обычно игнорируются, поскольку эти доспехи обычно ассоциируются с людьми более низкого класса. Паладин скорее предпочтет обычную кольчугу, чем клепаную кожу +3.
+
+В большинстве миров  паладин предпочитают следующий набор доспехов: хаубрек/шлем (или то и другое вместе), кольчуга и латный доспей.
+
+Хаубрек и шлем. Небогатые паладины, обычно из примитивных государств, или же те, кто только начинает свою карьеру, обычно носят только хаубрек (часть кольчуги, закрывающая грудь) и шлем. Обычно паладин сам делает хаубрек, наматывая проволоку вокруг палки, затем, отрезая куски, так что бы получились кольца. Затем он выравнивает их при помощи молота, затем заклепывает их вместе, так что бы они приняли форму тела, по длине до колен и с капюшоном накрывающим голову. Шлем обычно заостряющийся к верху и с открытым лицом. Комбинация хаубрека и шлема гораздо дешевле, чем кольчуги, но и имеет АС 7.
+
+Кольчуга. Хаубрек вместе с кольчужными леггинсами и защитой для рук составляет кольчугу (AC 5). На шлеме также можно добавить козырек для лучшей защиты лица. Несмотря на то, что кольчуга относительно недорога и сравнительно легка, у нее так же есть свои недостатки. Во-первых, вес очень неравномерно распределяется по телу и ложится в основном на плечи. И даже самый сильный человек устанет, если будет целый день, не снимая носить кольчугу. Мастер так же может назначить штраф -2 ко всем броскам атаки этого человека (если он больше 24 часов не снимая, носит кольчугу).
+
+Хотя бы раз в неделю, кольчугу надо смазывать маслом и полировать, процесс этот занимает часа 3-4.  Если за ней не ухаживать, то через месяц она придет в негодность, АС будет ухудшаться на один за каждый месяц без надлежащего ухода.
+
+Латный доспех. Латы (AC 3) включает в себя нагрудник, наспинник, и полоски металла на ноги и на руки, в общем, на те места, которые не защищает кольчуга. Листы металла называющиеся pauldrons защищают места между руками и грудью. Эпольеты (наплечники) защищают верх туловища; латные рукавицы (металлические перчатки) защищают руки.
+
+Высокоуровневые паладины иногда украшают свои латы (латные перчатки, шлемы) золотыми или серебряными украшениями или небольшими бриллиантами. Эти вещи совместимы с этосом паладина, который должен по своему статусу производить хорошее впечатление, но не может копить и афишировать богатства. Геральдические символы могут быть выгравированы или нарисованы на любых местах латного доспеха.
+
+Латный доспех тоже должен полироваться и смазываться маслом, но поскольку он состоит из более крупных частей, нежели колечки у кольчуги, то он меньше подвержен ржавлению. Хотя латный доспех заметно тяжелее кольчужного, но его вес лучше распределяется по телу, за счет чего люди носящие его меньше устают.
+
+### Щиты
+
+Большинство паладинов используют средний щит, поскольку он предоставляет хорошую фронтальную и боковую защиту и достаточно легок, для того чтобы использовать его верхом. Обычно они сделаны из дерева и обтянуты толстой кожей, имеют треугольную форму с округлой вершиной и заостренными нижними углами. Сам щит выпуклый и размером примерно 4 - 5 футов. Паладин держит его в левой руке (или правой, если он левша) за специальную ручку, которая находится с внутренней стороны щита.
+
+Некоторые паладины предпочитают прямоугольные, круглые или даже пятиугольные щиты. Щит может быть отделан золотом, серебром, бриллиантами, на нем могут быть выгравированы геральдические знаки или же он просто может быть ярко раскрашен.
+
+### Оружие
+
+Хотя паладин может владеть любым оружием, но большинство чувствуют себя неуютно без меча (длинного, двуручного, полуторного, а может быть даже и короткого), копья (среднего или тяжелого) и кинжала. Обычно паладин носит свой меч в ножнах на поясе, в этом случае с другой стороны висит кинжал.
+
+Так же паладины могут иметь следующие оружия цеп всадника, булава всадника, пика всадника, боевой топор и скимитар. К метательному оружию паладины равнодушны, так как оно тяжело в использовании, если ты на коне.
+
+Турнирное копье, хотя и предпочтительно, обычно очень дорого. За место этого, паладин может на наконечник обычного копья надеть деревянную заглушку и тем самым сделать его пригодным для турниров. Заглушка же эта может оказаться ненадежной; есть 5% шанс, в течение поединка, (1 на 1d20), что она отвалиться. В этом случае поединок приостанавливается и начинается заново.  Боец, постоянно теряющий заглушку для копья, может быть дисквалифицирован.
+
+### Одежда и Специальные Предметы 
+
+Выбирая одежду, паладин пытается объединить в ней функциональность и элегантность. Он предпочитает яркие, насыщенные цвета (синий, красный, зеленый, фиолетовый) и, когда может себе это позволить, дорогую ткань (шелк, вельвет). Поскольку паладина часто встречают по внешнему виду, трата денег на дорогую одежду и снаряжение не считается нарушением этоса.
+
+Идеальный гардероб, который паладин приобретает в течение своей карьеры, состоит из следующих вещей:
+
+• Две строгие шелковые или льняные рубашки с длинными рукавами.
+
+• Две пары бриджей или брюк, плотно облегающих ноги, сделанных из шерсти, хлопка или льна, (брюки широкого покроя обычно ассоциируются с крестьянами или низкими по статусу людьми). Бриджи обычно до колен и ярко раскрашены.
+
+• Подкладка к доспехам (из мягкой кожи или подбитой ткани, носимая под кольчугой, что бы предотвратить натирание.
+
+• Две пары шелковых носков.
+
+• Пара сапог для верховой езды.
+
+• Пара кожаных туфель, обычно, заостренных к носу  и застегивающихся на щиколотке.
+
+• Две туники, длиной до колена и надевающихся через голову, обычно без рукавов. Туники могут быть украшены рисунками или же драгоценностями.
+
+• Накидка, так же без рукавов. Накидка обычно окаймлена мехом, со всякими кисточками, ленточками.
+
+• Легкая мантия для весны и лета, из хлопка или шелка, застегивающаяся на горле при помощи застежки.
+
+• Зимняя мантия подбитая бобровым, лисьим или другим теплым мехом.
+
+• Широкий кожаный ремень, с железной пряжкой.
+
+• Шерстяная хлопковая или фетровая шапка.
+
+• Церемониальный чепец (плотно сидящая шапка, закрывающая волосы и уши, подвязанная под подбородком) из льна или шелка, украшенная вышивками, перьями или золотыми нитями. Обычно он нужен для правительственных банкетов или церковных церемоний. Женщина паладины используют церемониальный платок.
+
+• Два хлопковых или шерстяных полотенца (одно для умывания, второй в роли скатерти).
+
+• Столовые приборы: вилки, ложки, ножи, чашки, тарелки, бокалы. Эти вещи должны быть из серебра, золота, хрусталя.
+
+• Полное снаряжение для своей лошади.
+
+• Два теплых одеяла, одно для себя, второе для лошади.
+
+• Зеркало (необходимо для ухода за лошадью).
+
+### Формальная Одежда Для Паладинов Женщин
+
+Женщины паладины могут носить всю вышеперечисленную одежду. Для формальных церемоний, женщины паладины могут носить, тунику до пола, называемую килт (kirtle), которая плотно облегает грудь, бедра и ноги. Женщины также носят чулки, на подвязках, а вот обувь для всех одинакова. 
+
+## Эмблемы, Штандарты и Навершия
+
+Паладины часто украшают свои доспехи, щиты, одежду или оружия надписями или символами которые символизируют их ранг, церковь или короля. За определенные поступки церковь или монарх могут преподнести в дар паладину какие-либо украшения, которые будут свидетельствовать о его поступках:
+
+Эмблема. Эмблемы символизируют родину паладина, его семью или Орден. Эмблема может быть как медальоном, подвязкой, так же это может быть гравировка на доспехах, щите, оружии или вышивка на одежде. Обычные символы: люди со звериными головами, цветок или дерево с короной,  оружие с крыльями.
+
+Штандарт. Штандарт это флаг с  Y-видной верхушкой, на длинном древке. Штандарт может  включать в себя набор цветов, геральдические символы или знаки различия церкви или правительства паладина. Штандарт становится знаменем,  когда его обрезают так, чтобы он стал квадратным. Небольшой штандарт, называется флажок и может прикрепляться на копье.
+
+Навершие. Навершием может сложить пучок кожаных полосок, несколько перьев, деревянная резьба, кисточка или любой другой маленький предмет прикрепленный к шлему паладина. Навершие обычно того же цвета, что и щит паладина. Обычно их одевают на турниры, что бы можно было отличить одного паладина от другого,  но некоторые паладины носят их всегда. Навершие так же можно надевать на гриву или уздечку боевой лошади.
+
+## Дополнительное Снаряжение
+
+Священное писание. В священном писании записаны все постулаты веры персонажа, молитвы, принципы поведения, требования со стороны божества, а также другой теологический материал. Священное писание не является книгой заклинаний и никак не помогает при их сотворении.
+
+Поскольку священное писание может быть очень дорогим, персонажи иногда просят церковь предоставить им его  в рассрочку, добавляя по несколько золотых монет к своей обычной десятине, но если церковь богата, то она может безвозмездно предоставить своему паладину священное писание. Но в этом случае если паладин теряет книгу, то он обязан выплатить ее стоимость церкви.
+
+Герб. Обычно это относится к геральдическим рисункам на щитах или доспехах паладина, но иногда может означать определенный тип одежды, например, белая туника, носимая поверх доспехов, украшенная геральдическими символами паладина. Такая туника, во-первых, дает возможность другим понять, кто стоит перед ними, а во-вторых, может спасти от перегревания в очень жаркую погоду.
+
+Косметический набор. Очень полезен при подготовке к какому-либо официальному приему или банкету, косметический набор обычно содержит: кусок овечьего жира, что бы сделать кожу блестящей, румяна, сделать щеки белыми или розовыми, тальк для тела с легким, приятным запахом, а так же приспособления для бритья.
+
+Набор для ухода за лошадью. Для эффективного и полного ухода за лошадью, этот набор включает в себя скребок (для отряхивания  грязи с шерсти),  бритва (для срезания лишних волос), губка для тела (для удаления грязи с ног, копыт и других мест, где не подходит скребок), щипцы (доставлять камни застрявшие в копытах), и расческу для гривы и хвоста (чтобы очистить и расчесать волосы).
+
+Похожие наборы существуют для всех видов животных.
+
+Султан. Представляет из себя пучок связанных перьев, ленточек, кисточек, переплетенных с тонкими металлическими проволоками. Султаны прикрепляется на шлем (возможно, по бокам), края щитов, защищая глаза от яркого света. Так же они несколько замедляют коррозию и помогают отражать удары.  Обычно они раскрашены в те же цвета, что и щит паладина. 
+
+Саше. Небольшая сумочка, в которой хранятся смеси цветков, трав  специй, которые придают приятный запах одежде. Саше может, хранится где угодно.
+
+Шпоры. Со шпорами значительно легче управлять своей лошадью, так как есть возможность отдавать команды легким движением ноги. Лучшие шпоры те, которые не причиняют боли животному, они имеют колесики определенной формы, за место острых концов.
+
+Различное Снаряжение
+
+Предмет	Цена	Вес (в фунтах)
+
+Подкладка к доспехам	5 зм	5
+
+Священное писание	50-500 зм	1-5
+
+Накидка с капюшоном
+
+  Шерстяная	7 см	4
+
+  Шелковая или вельветовая	50 зм	2
+
+Герб	8 см	**
+
+Чепец, церемониальный	2 зм	**
+
+Косметический набор	7 см	**
+
+Столовые приборы 	15 зм	1
+
+Набор для ухода за лошадью	1 зм	1
+
+Мантия
+
+  Весеняя	1 зм	**
+
+  Зимняя	10-30 зм	1-5
+
+Султан	2 cм	**
+
+Заглушка на копье	1 см	**
+
+Саше	1-3 зм	**
+
+Шпоры	1 зм	**
+
+Зимняя мантия, меховая	20-40 зм	5-10
+
+## Новое Магическое Снаряжение
+
+**Сбруя полета:** Сбруя полета похожа на обычную сбрую, для лошади, слона или любого другого спутника. Когда  надета на спутника паладина,  сбруя полета может, по команде паладина, выращивать металлические крылья, длиной примерно в две длины спутника. Эти крылья позволяют спутнику летать со скоростью его обычного передвижения и иметь класс Маневренности С. Естественно животное, одетое в эту сбрую, может летать так, как если бы умело летать всегда.
+
+Паладин, который не владеет профессией Воздушной Верховой Езды, получает штраф -2 к своим броскам атаки и должен делать проверку Ловкости тогда, когда скажет Мастер, персонаж владеющий этой профессией никаких неудобств не испытывает.
+
+Крылья держатся 1d4 часа в день; спутник инстинктивно чувствует, что время полета подходит к концу и всегда успевает вовремя приземлиться.
+
+**Уздечка спокойствия:** Эта уздечка, когда надета на спутника паладина, позволяет ему избегать всех эффектов магического страха. Что касаемо морали,  уздечка спокойствия делает бесстрашным  спутника паладина (мораль 19-20). Ее можно использовать как на спутниках, так и на обычных животных.
+
+**Султан призывания:** Когда находится на шлеме паладина, султан призывания позволяет ему телепатически призвать своего спутника, на расстоянии 10 миль на уровень. Если спутник попал в плен, или по каким то другим причинам не способен вернуться к паладину, он чуствует тупую боль вокруг глаз, как бы то ни было, паладин не может узнать точного местонахождения спутника.
+
+**Масло гармонии:** Если этим маслом полностью смазать любой металлический доспех, то его АС улучшается на 1 на 24 часа.   AC не может стать меньше 0. Процесс смазывания доспеха занимает 1-2 часа, в зависимости от его размеров.
+
+**Ножны сохранности:** Меньше фута длиной, эти кожаные ножны, казалось бы, подходят только для кинжала. Но, на самом деле, в них убирается любое оружие любого размера (от ножа до алебарды). Когда часть оружия попадает в ножны, оно все уменьшается до размеров кинжала. Оружие можно достать только при помощи кодового слова или заклинания удар (knock). После того как оружие полностью вынули из ножен, оно принимает свои обычные размеры.
+
+**Мешочек десятины:** Это небольшой кошель из черного вельвета, перевязанный шелковой веревочкой. Любые монеты, драгоценные камни, все, что в него попадает, сразу переносится в церковь паладина, либо туда кому он должен отдавать десятину. Для этого необходимо иметь камешек, кусочек дерева, все что угодно, что связано с местом назначения. В противном случае его можно использовать, как просто кошель, но он может быть использован только законопослушно добрыми персонажами.
+
+**Туника комфорта:** Эта легкая туника может быть одета поверх кольчуги, либо поверх любого доспеха, чей вес не равномерно распределяется по телу. Она идеально распределяет вес, за счет чего доспех начинает весить в два раза меньше, а персонаж не подвергается эффектам усталости. 
+
 
 
 # Multiclassing 
@@ -1458,11 +2398,9 @@ In most cases, the character can simply try again. The only real cost is the tim
 
 In other cases, the first failure renders subsequent ability checks impossible. For instance, a rogue tries to trick a town guard into thinking that the group members are undercover agents of the king. The rogue loses the contest of Charisma (Deception] against Wisdom. The same lie told again clearly won’t work.
 
-# ###
+# Dungeon Adventuring
 
-# 
 
-Dungeon Adventuring
 It should come as no surprise that dungeons, subterranean complexes of maze-like passages and chambers, play a key role in DUNGEONS & DRAGONS. Most adventures feature at least one dungeon, and it's possible to set a campaign entirely within an enormous, sprawling dungeon that can take characters from 1st to 20th level.
 This section provides a turn-based system for exploring a dungeon. The rules address how to move through and investigate a dungeon, the tasks that characters can undertake while they explore, and how those tasks are performed.
 Your Dungeon Map
@@ -1530,20 +2468,35 @@ After performing these steps, go back to the first step and repeat the sequence 
 Гильдия торговцев, благородная семья, рыцарский орден, круг друидов - это всё фракции
 
 Название фракции
+
 Цели
+
 Мотивация (почему именно эти цели?)
+
 Черты
+
 Связи
+
 Идеалы
+
 Недостатки
+
 Лидеры
+
 Личный состав (живые ресурсы)
+
 Ресурсы (неживые ресурсы включая географические владения)
+
 Враги
+
 Союзники
+
 Стратегия
+
 Тактика
+
 Планы на ближайшее время
+
 Планы на будущее
 
 ## Шаблон описания сил
@@ -1553,20 +2506,35 @@ After performing these steps, go back to the first step and repeat the sequence 
 Банда преступников, племя орков, клан варваров, армия гоблиноидов, шпионская ячейка, твердыня морозных великанов - это все силы.
 
 Название силы
+
 Цели
+
 Мотивация (почему именно эти цели?)
+
 Черты
+
 Связи
+
 Идеалы
+
 Недостатки
+
 Лидеры
+
 Личный состав (живые ресурсы)
+
 Ресурсы (неживые ресурсы включая географические владения)
+
 Враги
+
 Союзники
+
 Стратегия
+
 Тактика
+
 Планы на ближайшее время
+
 Планы на будущее
 
 ## Шаблон описания организации (3.5 based)
@@ -1575,24 +2543,23 @@ After performing these steps, go back to the first step and repeat the sequence 
 
 ```The number following each race name is a percentage of the entire membership, not the exact number of individuals of that race.```
 
-
 **Authority Figure(s):**
  
-[Name, gender, race, class, and level for each.] 
+```[Name, gender, race, class, and level for each.] ```
 
 **Important Characters:**
  
-[Name, gender, race, class, and level (title or position) for each.] 
+```[Name, gender, race, class, and level (title or position) for each.] ```
 
 **Others:**
  
-[Class mix: exclusive, mixed, or integrated]; [class and level (XX), class and level (XX), and so on].
+```[Class mix: exclusive, mixed, or integrated]; [class and level (XX), class and level (XX), and so on].```
  
 The numbers in this entry are the exact numbers of residents of each class. 
 
 **Notes:**
  
-[Place any special notes about the organization here.]
+```[Place any special notes about the organization here.]```
 
 
 
@@ -1996,7 +2963,7 @@ Piracy is an accepted fact of life in the northern Trackless Sea. Pirates attack
 Hellgate Keep vs. Mankind
 The demonic forces of Hellgate Keep continually press against the human and dwarven folk in the northeast. Men have not been able to drive the demons out, but mercenary companies and adventuring bands can always find employ as guardians in Turnstone Pass. A monastery of Helm, near Neverwin- ter, sponsors a company of 100 troops of all character classes each year. This group, called Helm's Hundred, leaves Helm's Hold each spring for Sundabar.
 
-#  Дикая местность
+# Дикая местность
 
 Всякий раз, когда персонажи покидают относитель¬ную безопасность Смертельных Снегов и путешествуют на большие расстояния, они подвергаются жестоким погодным условиям и опасным чудовищам диких мест. Смертельные Снега и земли на севере рассматриваются как открытая местность с целью определения случайной погоды (смотрите Главу 2), в то время как большинство других мест в городке и вокруг него считаются альпийскими областями.
 
@@ -2004,7 +2971,7 @@ The demonic forces of Hellgate Keep continually press against the human and dwar
 
 Никаких столкновений в дикой местности не происходит в пределах 2 миль от городских стен в тече¬ние дня или в пределах 1 мили - ночью или в плохую погоду. Даже чудища обходят городок стороной, если не ищут себе неприятностей.
 
-#  Natural Hazards
+# Natural Hazards
 
 Hungry monsters and rapacious brigands occupy the thoughts of many travelers in the North, but in truth these are not the deadliest dangers of this harsh land. Everyday oc￾currences such as a bitter cold snap in winter, an ill-timed snowfall, a forest fire, or a river in flood kill just as many travelers and homesteaders in the Silver Marches as mon￾sters do, and certainly have the potential to inflict much greater damage to property.
 
@@ -3264,7 +4231,7 @@ ENVIRONMENTAL HAZARDS
 In this section you can find new environmental hazards, which follows similar rules as traps or lair actions. To determine the DC and damage, use the following tables
 
 ----------------------------------------------------------------------------------
-# MAGIC ITEMS
+
 
 Setback		10-11	
 Dangerous		12-1 5	
@@ -3977,7 +4944,7 @@ longbow	70 gp	1d6 piercing	3 lb.	Ammunition (range 150/600), heavy, special, two
 Repeating crossbow, heavy	75 gp	1d10 piercing	20 lb.	Ammunition (50/200), heavy, special, two¬handed
 
 instead of as an action. Creatures that are proficient with light armor are proficient with bucklers.
-Spiked shield. While wielding a spiked shield, your Armor Class increases by 1. A spiked shield serves as a martial melee weapon that deals 1d4 piercing damage. When you take the Attack action and wielding a spiked shield, you can attack with it as a bonus action. Creatures that are proficient with regular shields are proficient with spiked shields, both as a shield and a weapon.
+Spiked shield. 
 Targe. This shield is wielded in a way that leaves one’s hand open. While wearing a targe, your Armor Class increases by 1. You can use the hand you wield the targe in to manipulate objects, shove, grapple, or perform somatic spell components.
 Creatures that are proficient with regular shields are proficient with targes.
 Tower shield. While wielding a tower shield, your Armor Class increases by 3, but your speed decreases by 5 feet and you have disadvantage on Dexterity checks and saving throws. You provide three-quarters cover, instead of half cover, to other creatures. You can use your action to set the shield like a wall, giving yourself total cover against ranged attacks until the start of your next turn. Creatures that are proficient with heavy armor are proficient with tower shields.
@@ -4020,5 +4987,4 @@ Smokestick. As an action, you can ignite a smokestick using a torch, tinderbox, 
 Tanglefoot bag. As an action, you can throw this bag of alchemic goo at a creature within 30 feet of you. Make a ranged attack against a creature, treating the bag as an improvised weapon. On a hit, the creature is restrained for 1 minute if it is Large or smaller. Hit or miss, the tanglefoot bag is then destroyed. A creature restrained by the goo can free itself by using its action to make a DC 13 Strength check or by dealing 10 points of slashing damage to the goo. The goo has an AC of 13. In either case, the effect ends early.
 Thunderstone. As an action, you can throw a thunderstone up to 30 feet. When it strikes a hard surface or is struck hard, it creates a deafening bang and is destroyed. Creatures within 10 feet of the stone must make a DC 11 Constitution saving throw or be deafened for 1 hour. If a creature deafened in this way casts a spell with verbal components, it must make a DC 11 Charisma saving throw or fail to cast the spell.
 Tindertwig. You can strike the end of this small, wooden stick on a flammable object, requiring no action. The object immediately ignites and the tindertwig is destroyed.
-
 
