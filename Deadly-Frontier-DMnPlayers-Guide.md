@@ -1,4 +1,4 @@
-<!-- TOC --> [СМЕРТЕЛЬНЫЕ РУБЕЖИ](#смертельные-рубежи) - [Code of Conduct](#code-of-conduct)auto- [Character Generation](#character-generation)auto    - [Allowed Races](#allowed-races)auto    - [Starting Gear](#starting-gear)auto    - [It's my life](#its-my-life)auto    - [Exotic races backgrounds](#exotic-races-backgrounds)auto        - [Member of Chill (goblin, bugbear, hobgoblin)](#member-of-chill-goblin-bugbear-hobgoblin)auto        - [Debt of Honor (hobgoblin)](#debt-of-honor-hobgoblin)auto        - [Чужой среди своих, вдвойне чужой среди чужих (орк)](#чужой-среди-своих-вдвойне-чужой-среди-чужих-орк)auto        - [I have an axe and ready to travel (firbolg)](#i-have-an-axe-and-ready-to-travel-firbolg)auto    - [Abilities generation](#abilities-generation)auto- [Roll20 Player's Guide](#roll20-players-guide)auto    - [Default macros](#default-macros)auto    - [How-to](#how-to)auto- [Flow of Time](#flow-of-time)auto- [Tiers of Play](#tiers-of-play)auto- [Отдых и восстановление](#отдых-и-восстановление)auto    - [Длинный отдых](#длинный-отдых)auto    - [Short Rest](#short-rest)auto    - [Восстановление хит-поинтов](#восстановление-хит-поинтов)auto        - [Медленное природное лечение - Slow Natural Healing](#медленное-природное-лечение---slow-natural-healing)auto        - [Healer's Kit Dependency](#healers-kit-dependency)auto- [Травмы и ранения](#травмы-и-ранения)auto    - [Триггеры](#триггеры)auto    - [Таблицы ранений](#таблицы-ранений)auto- [Crafting](#crafting)auto    - [Herbalism](#herbalism)auto    - [Poisons](#poisons)auto    - [Monster Harvesting](#monster-harvesting)auto- [Outfits - simple system](#outfits---simple-system)auto    - [Design Goals](#design-goals)auto    - [What is an outfit?](#what-is-an-outfit)auto    - [Mandatory Properties](#mandatory-properties)auto        - [Size](#size)auto        - [Lifestyle](#lifestyle)auto        - [Culture](#culture)auto    - [Optional properties](#optional-properties)auto    - [Creating optional properties](#creating-optional-properties)auto    - [Gameplay effects of properties](#gameplay-effects-of-properties)auto    - [Wearing armor and outfits.](#wearing-armor-and-outfits)auto    - [Selling outfits](#selling-outfits)auto    - [Outfit formatting](#outfit-formatting)auto    - [Sample outfits](#sample-outfits)auto- [Litercay and languages](#litercay-and-languages)auto- [Modified Three Pillar](#modified-three-pillar)auto    - [Gaining Levels](#gaining-levels)auto    - [Dividing XP](#dividing-xp)auto    - [Experience for Exploring Interactions](#experience-for-exploring-interactions)auto        - [Pillar 1: Exploration](#pillar-1-exploration)auto            - [Items](#items)auto            - [Locations](#locations)auto    - [Experience for Social Interactions](#experience-for-social-interactions)auto        - [Pillar 2: Social Interaction](#pillar-2-social-interaction)auto            - [NPCs](#npcs)auto            - [Role Play](#role-play)auto    - [Experience for Combat Interactions](#experience-for-combat-interactions)auto        - [Pillar 3: Combat](#pillar-3-combat)auto- [Pregenerated characters](#pregenerated-characters)auto- [Rumors and bonds - class and background specific](#rumors-and-bonds---class-and-background-specific)auto- [Factions](#factions)auto    - [Faction](#faction)auto    - [Renown & Ranks](#renown--ranks)auto    - [Fame](#fame)auto    - [Infamy](#infamy)auto    - [Faction's benefits](#factions-benefits)auto    - [Faction magic items](#faction-magic-items)auto        - [Uncommon](#uncommon)auto        - [Rare](#rare)auto        - [Very Rare](#very-rare)auto        - [Signature Item](#signature-item)auto        - [Available](#available)auto        - [Rewards](#rewards)auto    - [Spellcasting services available for faction members](#spellcasting-services-available-for-faction-members)auto        - [Base](#base)auto        - [Advanced](#advanced)auto        - [High-level](#high-level)auto    - [Faction safe house](#faction-safe-house)auto    - [Faction contacts](#faction-contacts)auto    - [Faction downtime activity](#faction-downtime-activity)auto    - [Faction support](#faction-support)auto        - [Zhentarim](#zhentarim)auto    - [Tools & Language training](#tools--language-training)auto        - [Tools](#tools)auto        - [Language](#language)auto        - [Other training](#other-training)auto- [Character retirement  - Отставка персонажа и "выход на пенсию"](#character-retirement----отставка-персонажа-и-выход-на-пенсию)auto- [Tasks and Skills](#tasks-and-skills)auto    - [New tools proficiency](#new-tools-proficiency)auto    - [Strength](#strength)auto        - [Athletics.](#athletics)auto    - [Dexterity](#dexterity)auto        - [Acrobatics](#acrobatics)auto        - [Sleight of Hand](#sleight-of-hand)auto        - [Stealth](#stealth)auto        - [Other](#other)auto    - [Constitution](#constitution)auto    - [Intelligence](#intelligence)auto        - [Arcana](#arcana)auto        - [History](#history)auto        - [Nature](#nature)auto        - [Religion](#religion)auto        - [Invvestigation](#invvestigation)auto        - [Other](#other-1)auto    - [Wisdom](#wisdom)auto        - [Animal Handling](#animal-handling)auto        - [Perception](#perception)auto        - [Insight](#insight)auto        - [Survival](#survival)auto        - [Medicine](#medicine)auto        - [Other Wisdom Checks](#other-wisdom-checks)auto    - [Charisma](#charisma)auto        - [Persuassion](#persuassion)auto        - [Deception](#deception)auto        - [Intimidation](#intimidation)auto        - [Performance](#performance)auto        - [Other Charisma Checks](#other-charisma-checks)auto    - [Disguise Kit](#disguise-kit)auto    - [Расширенное описание Stealth](#расширенное-описание-stealth)auto        - [Conditions for Stealth](#conditions-for-stealth)auto        - [Benefit of Being Hidden](#benefit-of-being-hidden)auto    - [Расширенное описание Perception. Отличие от Investigation](#расширенное-описание-perception-отличие-от-investigation)auto        - [Noticing and Finding](#noticing-and-finding)auto        - [Finding a Hidden Object](#finding-a-hidden-object)auto        - [Noticing or Finding a Hidden Creature](#noticing-or-finding-a-hidden-creature)auto        - [Listening at a Door](#listening-at-a-door)auto    - [Знания](#знания)auto        - [LORE](#lore)auto- [Правила по социальным взаимодействиям - Social Interactions](#правила-по-социальным-взаимодействиям---social-interactions)auto    - [Attitudes and Reactions](#attitudes-and-reactions)auto        - [Friendly](#friendly)auto        - [Indifferent](#indifferent)auto        - [Hostile](#hostile)auto    - [Changing Attitudes](#changing-attitudes)auto    - [Ideals, Flaws, and Bonds](#ideals-flaws-and-bonds)auto    - [Learning a Character's Traits](#learning-a-characters-traits)auto    - [Resolving the Interaction](#resolving-the-interaction)auto- [Martial combat fixes and tweaks](#martial-combat-fixes-and-tweaks)auto    - [Fighting styles changes](#fighting-styles-changes)auto    - [Feats changes](#feats-changes)auto- [Additional downtime activities](#additional-downtime-activities)auto- [Измененные правила верхового боя (боя верхом)](#измененные-правила-верхового-боя-боя-верхом)auto    - [Intelligent Creatures](#intelligent-creatures)auto    - [Death of a Mount or Companion](#death-of-a-mount-or-companion)auto    - [Companion Needs](#companion-needs)auto    - [Official Ruling from the D&D Player's Handbook 5e](#official-ruling-from-the-dd-players-handbook-5e)auto    - [Riding a mount with no saddle](#riding-a-mount-with-no-saddle)auto    - [Combat Mechanics](#combat-mechanics)auto        - [Mount Actions in Combat](#mount-actions-in-combat)auto            - [Dash](#dash)auto            - [Disengage](#disengage)auto            - [Dodge](#dodge)auto        - [Area of Effect on Mounted Creatures](#area-of-effect-on-mounted-creatures)auto        - [Ranged Attacks while Mounted](#ranged-attacks-while-mounted)auto        - [Animal Handling](#animal-handling-1)auto        - [Keeping Control of the Mount](#keeping-control-of-the-mount)auto    - [Melee Reach](#melee-reach)auto- [Управление животными](#управление-животными)auto    - [Тренировка животных](#тренировка-животных)auto    - [Поведение животных в бою](#поведение-животных-в-бою)auto    - [Шаблон варбиста](#шаблон-варбиста)auto- [Equipment](#equipment)auto    - [Armor](#armor)auto        - [Light armor](#light-armor)auto        - [Medium armor](#medium-armor)auto        - [Heavy Armor](#heavy-armor)auto        - [Shields](#shields)auto    - [Armor Description](#armor-description)auto    - [Weapons](#weapons)auto        - [Simple Melee Weapons](#simple-melee-weapons)auto        - [Simple Ranged Weapons](#simple-ranged-weapons)auto        - [Martial Melee Weapons](#martial-melee-weapons)auto        - [Martial Ranged Weapons](#martial-ranged-weapons)auto        - [Special Weapons](#special-weapons)auto    - [Adventuring gear](#adventuring-gear)auto        - [New Weapon Properties](#new-weapon-properties)auto        - [New and changed weapons](#new-and-changed-weapons)auto        - [About Worn Weapons](#about-worn-weapons)auto    - [New Equipment Packs](#new-equipment-packs)auto        - [Optional Rule: Large Weapons and Armor](#optional-rule-large-weapons-and-armor)auto- [Beyond Damage Dice](#beyond-damage-dice)auto    - [SWORDS](#swords)auto        - [GREATSWORD](#greatsword)auto        - [LONGSWORD](#longsword)auto        - [RAPIER](#rapier)auto        - [SCIMITAR](#scimitar)auto        - [SHORTSWORD](#shortsword)auto    - [POLEARMS AND AXES](#polearms-and-axes)auto        - [BATTLEAXE](#battleaxe)auto        - [GLAIVE](#glaive)auto        - [HALBERD](#halberd)auto        - [LANCE](#lance)auto        - [PIKE](#pike)auto        - [QUARTERSTAFF](#quarterstaff)auto        - [TRIDENT](#trident)auto        - [OTHER POLEARMS](#other-polearms)auto    - [HAMMERS AND BLUDGEONS](#hammers-and-bludgeons)auto        - [CLUB](#club)auto        - [FLAIL](#flail)auto        - [GREATCLUB](#greatclub)auto        - [MACE AND MORNINGSTAR](#mace-and-morningstar)auto        - [MAUL](#maul)auto        - [WAR PICK](#war-pick)auto        - [WARHAMMER](#warhammer)auto        - [WHIP](#whip)auto    - [THROWN WEAPONS](#thrown-weapons)auto        - [DAGGER](#dagger)auto        - [HANDAXE](#handaxe)auto        - [JAVELIN](#javelin)auto        - [LIGHT HAMMER](#light-hammer)auto        - [NET](#net)auto    - [RANGED WEAPONS](#ranged-weapons)auto        - [BLOWGUN](#blowgun)auto        - [COMPOSITE BOW](#composite-bow)auto        - [HEAVY CROSSBOW AND LIGHT CROSSBOW](#heavy-crossbow-and-light-crossbow)auto        - [HAND CROSSBOW](#hand-crossbow)auto        - [LONGBOW AND SHORTBOW](#longbow-and-shortbow)auto        - [SLING](#sling)auto        - [NORDMANSCH GREATAXE](#nordmansch-greataxe)auto        - [NORTHLANDS ESTOC](#northlands-estoc)auto        - [ROTHENIAN PONIARD](#rothenian-poniard)auto    - [SOUTHLANDS WEAPONS](#southlands-weapons)auto        - [DIKAMA \(FANG BLADE\)](#dikama-\fang-blade\)auto- [Alchemical equipment](#alchemical-equipment)auto    - [Alchemical Items](#alchemical-items)auto        - [**Blood Paste**](#blood-paste)auto        - [**Combustible Sphere**](#combustible-sphere)auto        - [**Flash Sphere**](#flash-sphere)auto        - [**Frost Sphere**](#frost-sphere)auto        - [Glow Dust](#glow-dust)auto        - [Gum Bag](#gum-bag)auto        - [Moon Ink](#moon-ink)auto        - [Refreshing Brew](#refreshing-brew)auto        - [Smelling Salts](#smelling-salts)auto        - [Sweet Water](#sweet-water)auto    - [Elixirs, oils, salves](#elixirs-oils-salves)auto        - [Draught of the Saddle Born](#draught-of-the-saddle-born)auto        - [Elixir of Longevity](#elixir-of-longevity)auto    - [Elixir of Red Fury](#elixir-of-red-fury)auto    - [Elixir of Skins](#elixir-of-skins)auto    - [Elixir of the Oracle](#elixir-of-the-oracle)auto    - [Elixir of the Valinor’s Heart](#elixir-of-the-valinors-heart)auto- [Mastercraft Items](#mastercraft-items)auto    - [Mastercraft Items](#mastercraft-items-1)auto        - [Mastercraft weapons](#mastercraft-weapons)auto        - [Mastercraft Armor](#mastercraft-armor)auto        - [Mastercraft Tools](#mastercraft-tools)auto- [Rare materials](#rare-materials)auto- [Расходуемое снаряжение](#расходуемое-снаряжение)auto- [Spellbook Costs](#spellbook-costs)auto    - [Covers](#covers)auto    - [Adornments](#adornments)auto    - [Enchantments](#enchantments)auto        - [Spells](#spells)auto- [Potions & Spell Scrolls](#potions--spell-scrolls)auto    - [Potions](#potions)auto    - [Spell Scrolls](#spell-scrolls)auto- [Снаряжение для Паладина](#снаряжение-для-паладина)auto    - [Стандартное Снаряжение](#стандартное-снаряжение)auto        - [Доспехи](#доспехи)auto        - [Щиты](#щиты)auto        - [Оружие](#оружие)auto        - [Одежда и Специальные Предметы](#одежда-и-специальные-предметы)auto        - [Формальная Одежда Для Паладинов Женщин](#формальная-одежда-для-паладинов-женщин)auto    - [Эмблемы, Штандарты и Навершия](#эмблемы-штандарты-и-навершия)auto    - [Дополнительное Снаряжение](#дополнительное-снаряжение)auto    - [Новое Магическое Снаряжение](#новое-магическое-снаряжение)auto- [Multiclassing](#multiclassing)auto    - [Extra Attack](#extra-attack)auto- [How to Play](#how-to-play)auto    - [Contests](#contests)auto- [DM GUIDE](#dm-guide)auto    - [Шаблон поселений](#шаблон-поселений)auto    - [Шаблон персонажей](#шаблон-персонажей)auto    - [Шаблон регионов](#шаблон-регионов)auto- [DM Guidelines](#dm-guidelines)auto    - [Resolving Tasks](#resolving-tasks)auto    - [When to Use Dice](#when-to-use-dice)auto    - [Шаблон истории (приключения)](#шаблон-истории-приключения)auto- [Exploration](#exploration)auto    - [Hazards](#hazards)auto        - [Requirements](#requirements)auto    - [Engaging the Players](#engaging-the-players)auto    - [Кульминация](#кульминация)auto    - [Multiple Ability Checks](#multiple-ability-checks)auto- [Dungeon Adventuring](#dungeon-adventuring)auto    - [Шаблон фракции](#шаблон-фракции)auto    - [Шаблон описания сил](#шаблон-описания-сил)auto    - [Шаблон описания организации (3.5 based)](#шаблон-описания-организации-35-based)autoauto<!-- /TOC -->
+<!-- TOC -->autoauto- [СМЕРТЕЛЬНЫЕ РУБЕЖИ](#смертельные-рубежи)auto- [Code of Conduct](#code-of-conduct)auto- [Character Generation](#character-generation)auto    - [Allowed Races](#allowed-races)auto    - [Starting Gear](#starting-gear)auto    - [It's my life](#its-my-life)auto    - [Exotic races backgrounds](#exotic-races-backgrounds)auto        - [Member of Chill (goblin, bugbear, hobgoblin)](#member-of-chill-goblin-bugbear-hobgoblin)auto        - [Debt of Honor (hobgoblin)](#debt-of-honor-hobgoblin)auto        - [Чужой среди своих, вдвойне чужой среди чужих (орк)](#чужой-среди-своих-вдвойне-чужой-среди-чужих-орк)auto        - [I have an axe and ready to travel (firbolg)](#i-have-an-axe-and-ready-to-travel-firbolg)auto    - [Abilities generation](#abilities-generation)auto    - [Languages](#languages)auto- [Flow of Time](#flow-of-time)auto- [Tiers of Play](#tiers-of-play)auto- [Отдых и восстановление](#отдых-и-восстановление)auto    - [Длинный отдых](#длинный-отдых)auto    - [Short Rest](#short-rest)auto    - [Восстановление хит-поинтов](#восстановление-хит-поинтов)auto        - [Медленное природное лечение - Slow Natural Healing](#медленное-природное-лечение---slow-natural-healing)auto        - [Healer's Kit Dependency](#healers-kit-dependency)auto- [Травмы и ранения](#травмы-и-ранения)auto    - [Триггеры](#триггеры)auto    - [Таблицы ранений](#таблицы-ранений)auto- [Crafting](#crafting)auto    - [Herbalism](#herbalism)auto    - [Poisons](#poisons)auto    - [Monster Harvesting](#monster-harvesting)auto- [Outfits - simple system](#outfits---simple-system)auto    - [Design Goals](#design-goals)auto    - [What is an outfit?](#what-is-an-outfit)auto    - [Mandatory Properties](#mandatory-properties)auto        - [Size](#size)auto        - [Lifestyle](#lifestyle)auto        - [Culture](#culture)auto    - [Optional properties](#optional-properties)auto    - [Creating optional properties](#creating-optional-properties)auto    - [Gameplay effects of properties](#gameplay-effects-of-properties)auto    - [Wearing armor and outfits.](#wearing-armor-and-outfits)auto    - [Selling outfits](#selling-outfits)auto    - [Outfit formatting](#outfit-formatting)auto    - [Sample outfits](#sample-outfits)auto- [Litercay and languages](#litercay-and-languages)auto- [Modified Three Pillar](#modified-three-pillar)auto    - [Gaining Levels](#gaining-levels)auto    - [Dividing XP](#dividing-xp)auto    - [Experience for Exploring Interactions](#experience-for-exploring-interactions)auto        - [Pillar 1: Exploration](#pillar-1-exploration)auto            - [Items](#items)auto            - [Locations](#locations)auto    - [Experience for Social Interactions](#experience-for-social-interactions)auto        - [Pillar 2: Social Interaction](#pillar-2-social-interaction)auto            - [NPCs](#npcs)auto            - [Role Play](#role-play)auto    - [Experience for Combat Interactions](#experience-for-combat-interactions)auto        - [Pillar 3: Combat](#pillar-3-combat)auto- [Pregenerated characters](#pregenerated-characters)auto- [Rumors and bonds - class and background specific](#rumors-and-bonds---class-and-background-specific)auto- [Factions](#factions)auto    - [Faction](#faction)auto    - [Renown & Ranks](#renown--ranks)auto    - [Fame](#fame)auto    - [Infamy](#infamy)auto    - [Faction's benefits](#factions-benefits)auto    - [Faction magic items](#faction-magic-items)auto        - [Uncommon](#uncommon)auto        - [Rare](#rare)auto        - [Very Rare](#very-rare)auto        - [Signature Item](#signature-item)auto        - [Available](#available)auto        - [Rewards](#rewards)auto    - [Spellcasting services available for faction members](#spellcasting-services-available-for-faction-members)auto        - [Base](#base)auto        - [Advanced](#advanced)auto        - [High-level](#high-level)auto    - [Faction safe house](#faction-safe-house)auto    - [Faction contacts](#faction-contacts)auto    - [Faction downtime activity](#faction-downtime-activity)auto    - [Faction support](#faction-support)auto        - [Zhentarim](#zhentarim)auto    - [Tools & Language training](#tools--language-training)auto        - [Tools](#tools)auto        - [Language](#language)auto        - [Other training](#other-training)auto- [Character retirement  - Отставка персонажа и "выход на пенсию"](#character-retirement----отставка-персонажа-и-выход-на-пенсию)auto- [Tasks and Skills](#tasks-and-skills)auto    - [New tools proficiency](#new-tools-proficiency)auto    - [Strength](#strength)auto        - [Athletics.](#athletics)auto    - [Dexterity](#dexterity)auto        - [Acrobatics](#acrobatics)auto        - [Sleight of Hand](#sleight-of-hand)auto        - [Stealth](#stealth)auto        - [Other](#other)auto    - [Constitution](#constitution)auto    - [Intelligence](#intelligence)auto        - [Arcana](#arcana)auto        - [History](#history)auto        - [Nature](#nature)auto        - [Religion](#religion)auto        - [Invvestigation](#invvestigation)auto        - [Other](#other-1)auto    - [Wisdom](#wisdom)auto        - [Animal Handling](#animal-handling)auto        - [Perception](#perception)auto        - [Insight](#insight)auto        - [Survival](#survival)auto        - [Medicine](#medicine)auto        - [Other Wisdom Checks](#other-wisdom-checks)auto    - [Charisma](#charisma)auto        - [Persuassion](#persuassion)auto        - [Deception](#deception)auto        - [Intimidation](#intimidation)auto        - [Performance](#performance)auto        - [Other Charisma Checks](#other-charisma-checks)auto    - [Disguise Kit](#disguise-kit)auto    - [Расширенное описание Stealth](#расширенное-описание-stealth)auto        - [Conditions for Stealth](#conditions-for-stealth)auto        - [Benefit of Being Hidden](#benefit-of-being-hidden)auto    - [Расширенное описание Perception. Отличие от Investigation](#расширенное-описание-perception-отличие-от-investigation)auto        - [Noticing and Finding](#noticing-and-finding)auto        - [Finding a Hidden Object](#finding-a-hidden-object)auto        - [Noticing or Finding a Hidden Creature](#noticing-or-finding-a-hidden-creature)auto        - [Listening at a Door](#listening-at-a-door)auto    - [Знания](#знания)auto        - [LORE](#lore)auto- [Правила по социальным взаимодействиям - Social Interactions](#правила-по-социальным-взаимодействиям---social-interactions)auto    - [Attitudes and Reactions](#attitudes-and-reactions)auto        - [Friendly](#friendly)auto        - [Indifferent](#indifferent)auto        - [Hostile](#hostile)auto    - [Changing Attitudes](#changing-attitudes)auto    - [Ideals, Flaws, and Bonds](#ideals-flaws-and-bonds)auto    - [Learning a Character's Traits](#learning-a-characters-traits)auto    - [Resolving the Interaction](#resolving-the-interaction)auto- [Martial combat fixes and tweaks](#martial-combat-fixes-and-tweaks)auto    - [Fighting styles changes](#fighting-styles-changes)auto    - [Feats changes](#feats-changes)auto- [Additional downtime activities](#additional-downtime-activities)auto- [Измененные правила верхового боя (боя верхом)](#измененные-правила-верхового-боя-боя-верхом)auto    - [Intelligent Creatures](#intelligent-creatures)auto    - [Death of a Mount or Companion](#death-of-a-mount-or-companion)auto    - [Companion Needs](#companion-needs)auto    - [Official Ruling from the D&D Player's Handbook 5e](#official-ruling-from-the-dd-players-handbook-5e)auto    - [Riding a mount with no saddle](#riding-a-mount-with-no-saddle)auto    - [Combat Mechanics](#combat-mechanics)auto        - [Mount Actions in Combat](#mount-actions-in-combat)auto            - [Dash](#dash)auto            - [Disengage](#disengage)auto            - [Dodge](#dodge)auto        - [Area of Effect on Mounted Creatures](#area-of-effect-on-mounted-creatures)auto        - [Ranged Attacks while Mounted](#ranged-attacks-while-mounted)auto        - [Animal Handling](#animal-handling-1)auto        - [Keeping Control of the Mount](#keeping-control-of-the-mount)auto    - [Melee Reach](#melee-reach)auto- [Управление животными](#управление-животными)auto    - [Тренировка животных](#тренировка-животных)auto    - [Поведение животных в бою](#поведение-животных-в-бою)auto    - [Шаблон варбиста](#шаблон-варбиста)auto- [Equipment](#equipment)auto    - [Armor](#armor)auto        - [Light armor](#light-armor)auto        - [Medium armor](#medium-armor)auto        - [Heavy Armor](#heavy-armor)auto        - [Shields](#shields)auto    - [Armor Description](#armor-description)auto    - [Weapons](#weapons)auto        - [Simple Melee Weapons](#simple-melee-weapons)auto        - [Simple Ranged Weapons](#simple-ranged-weapons)auto        - [Martial Melee Weapons](#martial-melee-weapons)auto        - [Martial Ranged Weapons](#martial-ranged-weapons)auto        - [Special Weapons](#special-weapons)auto        - [New Weapon Properties](#new-weapon-properties)auto        - [New and changed weapons](#new-and-changed-weapons)auto        - [About Worn Weapons](#about-worn-weapons)auto    - [Adventuring gear](#adventuring-gear)auto    - [New Equipment Packs](#new-equipment-packs)auto        - [Optional Rule: Large Weapons and Armor](#optional-rule-large-weapons-and-armor)auto- [Beyond Damage Dice](#beyond-damage-dice)auto    - [SWORDS](#swords)auto        - [GREATSWORD](#greatsword)auto        - [LONGSWORD](#longsword)auto        - [RAPIER](#rapier)auto        - [SCIMITAR](#scimitar)auto        - [SHORTSWORD](#shortsword)auto    - [POLEARMS AND AXES](#polearms-and-axes)auto        - [BATTLEAXE](#battleaxe)auto        - [GLAIVE](#glaive)auto        - [HALBERD](#halberd)auto        - [LANCE](#lance)auto        - [PIKE](#pike)auto        - [QUARTERSTAFF](#quarterstaff)auto        - [TRIDENT](#trident)auto        - [OTHER POLEARMS](#other-polearms)auto    - [HAMMERS AND BLUDGEONS](#hammers-and-bludgeons)auto        - [CLUB](#club)auto        - [FLAIL](#flail)auto        - [GREATCLUB](#greatclub)auto        - [MACE AND MORNINGSTAR](#mace-and-morningstar)auto        - [MAUL](#maul)auto        - [WAR PICK](#war-pick)auto        - [WARHAMMER](#warhammer)auto        - [WHIP](#whip)auto    - [THROWN WEAPONS](#thrown-weapons)auto        - [DAGGER](#dagger)auto        - [HANDAXE](#handaxe)auto        - [JAVELIN](#javelin)auto        - [LIGHT HAMMER](#light-hammer)auto        - [NET](#net)auto    - [RANGED WEAPONS](#ranged-weapons)auto        - [BLOWGUN](#blowgun)auto        - [COMPOSITE BOW](#composite-bow)auto        - [HEAVY CROSSBOW AND LIGHT CROSSBOW](#heavy-crossbow-and-light-crossbow)auto        - [HAND CROSSBOW](#hand-crossbow)auto        - [LONGBOW AND SHORTBOW](#longbow-and-shortbow)auto        - [SLING](#sling)auto        - [NORDMANSCH GREATAXE](#nordmansch-greataxe)auto        - [NORTHLANDS ESTOC](#northlands-estoc)auto        - [ROTHENIAN PONIARD](#rothenian-poniard)auto    - [SOUTHLANDS WEAPONS](#southlands-weapons)auto        - [DIKAMA \(FANG BLADE\)](#dikama-\fang-blade\)auto- [Alchemical equipment](#alchemical-equipment)auto        - [Alchemical Items](#alchemical-items)auto            - [**Blood Paste**](#blood-paste)auto            - [**Combustible Sphere**](#combustible-sphere)auto            - [**Flash Sphere**](#flash-sphere)auto            - [**Frost Sphere**](#frost-sphere)auto            - [Glow Dust](#glow-dust)auto            - [Gum Bag](#gum-bag)auto            - [Moon Ink](#moon-ink)auto            - [Refreshing Brew](#refreshing-brew)auto            - [Smelling Salts](#smelling-salts)auto            - [Sweet Water](#sweet-water)auto        - [Elixirs, oils, salves](#elixirs-oils-salves)auto            - [Draught of the Saddle Born](#draught-of-the-saddle-born)auto            - [Elixir of Longevity](#elixir-of-longevity)auto            - [Elixir of Red Fury](#elixir-of-red-fury)auto            - [Elixir of Skins](#elixir-of-skins)auto            - [Elixir of the Oracle](#elixir-of-the-oracle)auto    - [Elixir of the Valinor’s Heart](#elixir-of-the-valinors-heart)auto            - [Fury Elixir](#fury-elixir)auto            - [Ghost Guard Potion](#ghost-guard-potion)auto            - [Ghoststep Draught](#ghoststep-draught)auto            - [Holy Tiger Draught](#holy-tiger-draught)auto            - [Mindfire](#mindfire)auto            - [Oil of Beast Repulsion](#oil-of-beast-repulsion)auto            - [Oil of Deflection](#oil-of-deflection)auto            - [Oil of Puissance](#oil-of-puissance)auto            - [Oil of Pyrotechnics](#oil-of-pyrotechnics)auto            - [Potion of Bloodmastery](#potion-of-bloodmastery)auto            - [Potion of Mist](#potion-of-mist)auto            - [Potion of Poison Spittle](#potion-of-poison-spittle)auto            - [Potion of Putrescence](#potion-of-putrescence)auto            - [Potion of Satiety](#potion-of-satiety)auto            - [Potion of Steely Nerves](#potion-of-steely-nerves)auto            - [Potion of Uncanny Alertness](#potion-of-uncanny-alertness)auto            - [](#)auto            - [Voei Skin Salve](#voei-skin-salve)auto            - [War Paints of the Skohir](#war-paints-of-the-skohir)auto    - [Mastercraft Items](#mastercraft-items)auto        - [Mastercraft weapons](#mastercraft-weapons)auto        - [Mastercraft Armor](#mastercraft-armor)auto        - [Mastercraft Tools](#mastercraft-tools)auto    - [Rare materials](#rare-materials)auto- [Spellbook Costs](#spellbook-costs)auto    - [Covers](#covers)auto    - [Adornments](#adornments)auto    - [Enchantments](#enchantments)auto        - [Spells](#spells)auto- [Potions & Spell Scrolls](#potions--spell-scrolls)auto    - [Potions](#potions)auto    - [Spell Scrolls](#spell-scrolls)auto- [Снаряжение для Паладина](#снаряжение-для-паладина)auto    - [Стандартное Снаряжение](#стандартное-снаряжение)auto        - [Доспехи](#доспехи)auto        - [Щиты](#щиты)auto        - [Оружие](#оружие)auto        - [Одежда и Специальные Предметы](#одежда-и-специальные-предметы)auto        - [Формальная Одежда Для Паладинов Женщин](#формальная-одежда-для-паладинов-женщин)auto    - [Эмблемы, Штандарты и Навершия](#эмблемы-штандарты-и-навершия)auto    - [Дополнительное Снаряжение](#дополнительное-снаряжение)auto    - [Новое Магическое Снаряжение](#новое-магическое-снаряжение)auto- [Multiclassing](#multiclassing)auto    - [Extra Attack](#extra-attack)auto- [How to Play](#how-to-play)auto    - [Contests](#contests)auto- [DM Guidelines](#dm-guidelines)auto    - [Resolving Tasks](#resolving-tasks)auto    - [When to Use Dice](#when-to-use-dice)auto- [Exploration](#exploration)auto    - [Hazards](#hazards)auto        - [Requirements](#requirements)auto    - [Engaging the Players](#engaging-the-players)auto        - [Dungeon Adventuring](#dungeon-adventuring)auto    - [Шаблон поселений](#шаблон-поселений)auto    - [Шаблон персонажей](#шаблон-персонажей)auto    - [Шаблон регионов](#шаблон-регионов)auto    - [Шаблон истории (приключения)](#шаблон-истории-приключения)auto    - [Шаблон фракции](#шаблон-фракции)auto    - [Шаблон описания сил](#шаблон-описания-сил)auto    - [Шаблон описания организации (3.5 based)](#шаблон-описания-организации-35-based)autoauto<!-- /TOC -->
 
 # СМЕРТЕЛЬНЫЕ РУБЕЖИ
 
@@ -16,7 +16,7 @@ Starting Level: 1
 
 Humans: Standard, Variant. Human Regional Languages: Illuskan, Chondatan, Damaran, Bothii (for Uthgardt barbarians)
 
-Dwarves:
+Dwarves: 
 
 Elves:
 
@@ -26,13 +26,15 @@ Gnomes:
 
 Tieflings: non-winged variant [1] 
 
+Из чудовищных рас - гоблины, медвежути, хобгоблины, орки, фирболги при наличии соответствующей предыстории (см.дальше [Extra races backgrounds]())
+
 ## Starting Gear
 
-Background gear: as usual
+**Background gear:** as usual
 
-Class gear: roll as intended
+**Class gear:** roll as intended
 
-Any additional gear from It's my life 
+Any additional gear from [It's my life]() 
 
 ## It's my life
 
@@ -40,37 +42,77 @@ DM is rolling
 
 ## Exotic races backgrounds
 
-Из чудовищных рас - гоблины, медвежути, хобгоблины, орки, фирболги.
 
 ### Member of Chill (goblin, bugbear, hobgoblin)
 
+**Skills proficiencies:**
 
+**Tools proficiencies:**
+
+**Equipment:**
+
+**Lifestyle:**
+
+**Overview**
+
+**Feature:**
 
 ### Debt of Honor (hobgoblin)
 
+**Skills proficiencies:**
 
+**Tools proficiencies:**
+
+**Equipment:**
+
+**Lifestyle:**
+
+**Overview**
+
+**Feature:**
 
 ### Чужой среди своих, вдвойне чужой среди чужих (орк)
 
+**Skills proficiencies:**
 
+**Tools proficiencies:**
+
+**Equipment:**
+
+**Lifestyle:**
+
+**Overview**
+
+**Feature:**
 
 ### I have an axe and ready to travel (firbolg)
 
+**Skills proficiencies:**
 
+**Tools proficiencies:**
+
+**Equipment:**
+
+**Lifestyle:**
+
+**Overview**
+
+**Feature:**
 
 ## Abilities generation
 
 4d6d1, reroll if sum of modifiers is below +5
 
-Стартовое снаряжние от предыстории + наброска снаряжения от класса + наброска по таблицам из Руководства Занатара по Всему - It's your life
 
-Региональные человеческие языки: Иллусканский, Чондатанский, Дамаранский
+## Languages
 
-# Roll20 Player's Guide
+**Региональные человеческие языки:** Иллусканский, Чондатанский, Дамаранский, ~~Bothii~~
 
-## Default macros
+**Standard languages** Common, Dwarvish, Elvish, Giant, Gnomish, Goblin, Halfling
 
-## How-to
+**Exotic languages** Abyssal,  Celestial, Draconic, D
+
+
 
 # Flow of Time
 
@@ -83,13 +125,13 @@ DM is rolling
 # Tiers of Play
 
 
-Tier | Tier Name | Levels | Description | Requirement
----------|----------|---------|---------|---------
- 1 | Adventurer | 1-4 | Вы не боитесь риска, крови и опасностей. Возможно, вами движет страсть к туго набитому золотыми монетами кошельку или жажда справедливости. В любом случае, сидеть на месте и заниматься рутиной явно не для вас. Вы хотите действия. | None
- 2 | Seasoned Adventurer or Veteran | 5-8 | Каждую ночь ноют шрамы, полученные вами в жестоких схватках с чудовищами и  опасностями окружаюшего вас мира, но через ваши руки прошло ценностей уже больше, чем многие крестьяне видели за всю свою жизнь. Вас узнают на улицах, и пускай пока не Глубоководья, но это только начало. Хотя иногда вечерами вы грустите за своими товарищами, которых уже нет с вами. | None
- 3 | Hero | 9-12 | Герой| Quest
- 4 | Paragon | 13-16 | В вашу честь называют детей| Quest
- 5 | Epic Hero| 17-20 | ~~Убить принцессу. Трахнуть тарраску. Легко.~~ | Epic Quest
+Tier | Tier Name                      | Levels | Description                                                                                                                                                                                                                                                                                                                                                            | Requirement
+-----|--------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------
+1    | Adventurer                     | 1-4    | Вы не боитесь риска, крови и опасностей. Возможно, вами движет страсть к туго набитому золотыми монетами кошельку или жажда справедливости. В любом случае, сидеть на месте и заниматься рутиной явно не для вас. Вы хотите действия.                                                                                                                                  | None
+2    | Seasoned Adventurer or Veteran | 5-8    | Каждую ночь ноют шрамы, полученные вами в жестоких схватках с чудовищами и  опасностями окружаюшего вас мира, но через ваши руки прошло ценностей уже больше, чем многие крестьяне видели за всю свою жизнь. Вас узнают на улицах, и пускай пока не Глубоководья, но это только начало. Хотя иногда вечерами вы грустите за своими товарищами, которых уже нет с вами. | None
+3    | Hero                           | 9-12   | Герой                                                                                                                                                                                                                                                                                                                                                                  | Quest
+4    | Paragon                        | 13-16  | В вашу честь называют детей                                                                                                                                                                                                                                                                                                                                            | Quest
+5    | Epic Hero                      | 17-20  | ~~Убить принцессу. Трахнуть тарраску. Легко.~~                                                                                                                                                                                                                                                                                                                         | Epic Quest
 
 # Отдых и восстановление
 
@@ -193,15 +235,15 @@ An outfit can be wretched, squalid, poor, modest, comfortable, wealthy or aristo
 
 *Base cost of an outfit associated with a specific lifestyle*
 
-Lifestyle | Outfit cost, gp
----------|----------
- Wretched | 0
- Squalid | 1
- Poor | 2
- Modest | 9
- Comfortable | 18
- Wealthy | 36
- Aristocratic | 90
+Lifestyle    | Outfit cost, gp
+-------------|----------------
+Wretched     | 0
+Squalid      | 1
+Poor         | 2
+Modest       | 9
+Comfortable  | 18
+Wealthy      | 36
+Aristocratic | 90
  
 ### Culture
 
@@ -310,28 +352,28 @@ They may receive a higher or lower percentage depending on the their tier of pla
 
 Players gain levels according to the normal PHB Character Advancement table.
 
-| XP | Level | XP to Next Level |
-| :--- | :--- | :--- |
-| 0 | 1 | 300 |
-| 300 | 2 | 600 |
-| 900 | 3 | 1,800 |
-| 2,700 | 4 | 3,800 |
-| 6,500 | 5 | 7,500 |
-| 14,000 | 6 | 9,000 |
-| 23,000 | 7 | 11,000 |
-| 34,000 | 8 | 14,000 |
-| 48,000 | 9 | 16,000 |
-| 64,000 | 10 | 21,000 |
-| 85,000 | 11 | 15,000 |
-| 100,000 | 12 | 20,000 |
-| 120,000 | 13 | 20,000 |
-| 140,000 | 14 | 25,000 |
-| 165,000 | 15 | 30,000 |
-| 195,000 | 16 | 30,000 |
-| 225,000 | 17 | 40,000 |
-| 265,000 | 18 | 40,000 |
-| 302,000 | 19 | 50,000 |
-| 355,000 | 20 | See Epic Boons |
+| XP      | Level | XP to Next Level |
+|---------|-------|------------------|
+| 0       | 1     | 300              |
+| 300     | 2     | 600              |
+| 900     | 3     | 1,800            |
+| 2,700   | 4     | 3,800            |
+| 6,500   | 5     | 7,500            |
+| 14,000  | 6     | 9,000            |
+| 23,000  | 7     | 11,000           |
+| 34,000  | 8     | 14,000           |
+| 48,000  | 9     | 16,000           |
+| 64,000  | 10    | 21,000           |
+| 85,000  | 11    | 15,000           |
+| 100,000 | 12    | 20,000           |
+| 120,000 | 13    | 20,000           |
+| 140,000 | 14    | 25,000           |
+| 165,000 | 15    | 30,000           |
+| 195,000 | 16    | 30,000           |
+| 225,000 | 17    | 40,000           |
+| 265,000 | 18    | 40,000           |
+| 302,000 | 19    | 50,000           |
+| 355,000 | 20    | See Epic Boons   |
 
 ## Dividing XP
 
@@ -349,23 +391,23 @@ For discovering both Items and Locations, each player gains 5% at their tier, 5%
 
 In this version, players are rewarded for discovering magic items that are of the highest nonconsumable rarity suggested for their tier as per Xanathar's Guide.
 
-| Tier | Requirements to rarity or cost |
-| :--- | :--- |
-| 1 | A single art object or gem worth 100 gp or more, or a major uncommon item |
-| 2 | A single art object or gem worth 1,000 gp or more, or a major rare item |
-| 3 | A single art object or gem worth 5,000 gp or more, or a major very rare item |
-| 4 | A single art object or gem worth 50,000 gp or more, or a major legendary item |
+| Tier | Requirements to rarity or cost                                                |
+|------|-------------------------------------------------------------------------------|
+| 1    | A single art object or gem worth 100 gp or more, or a major uncommon item     |
+| 2    | A single art object or gem worth 1,000 gp or more, or a major rare item       |
+| 3    | A single art object or gem worth 5,000 gp or more, or a major very rare item  |
+| 4    | A single art object or gem worth 50,000 gp or more, or a major legendary item |
 
 #### Locations
 
 A location's tier depends on the importance to your campaign, measured by the scope of its discovery or liberation's impact:
-| Tier | Location importance |
-| :--- | :--- |
-| 1| A location important to a small town or village |
-| 2 | A location vital to a kingdom |
-| 3 | A location important across the region |
-| 4 | A location of continent importance |
-| 5 | A location of planet importance |
+| Tier | Location importance                             |
+|------|-------------------------------------------------|
+| 1    | A location important to a small town or village |
+| 2    | A location vital to a kingdom                   |
+| 3    | A location important across the region          |
+| 4    | A location of continent importance              |
+| 5    | A location of planet importance                 |
 
 ## Experience for Social Interactions
 
@@ -377,13 +419,13 @@ Players gain XP for turning important NPCs into allies, aligning them with their
 
       Each player gains 5% at their tier, 5% additional for every tier above, 2% for below their tier.
 
-| Tier | NPC influence |
-| :--- | :--- |
-| 1 | An NPC with influence over a small town or village, or the equivalent |
-| 2 | An NPC with influence over a city or the equivalent |
-| 3 | An NPC with influence over a kingdom, continent, or the equivalent |
-| 4 | An NPC \(including a deity\) with cosmic significance or influence across multiple worlds. |
-| 5 | An NPC \(including a deity\) with cosmic significance or influence across multiple worlds. |
+| Tier | NPC influence                                                                              |
+|------|--------------------------------------------------------------------------------------------|
+| 1    | An NPC with influence over a small town or village, or the equivalent                      |
+| 2    | An NPC with influence over a city or the equivalent                                        |
+| 3    | An NPC with influence over a kingdom, continent, or the equivalent                         |
+| 4    | An NPC \(including a deity\) with cosmic significance or influence across multiple worlds. |
+| 5    | An NPC \(including a deity\) with cosmic significance or influence across multiple worlds. |
 
 #### Role Play
 
@@ -443,7 +485,7 @@ Renown | Significant quests | Min. character level rank | Faction benefits
  0 | 0 | 1 | Base Faction spellcasting services
  5 | 0 | 2 |Faction magic items (uncommon), Signature Item, Faction safe house, Faction downtime activity
  5 | 1 | 3 |Tools & Language training
- 15 | 1 | 4 | Faction magic item (rare), ,  Faction support,
+ 15 | 1 | 4 | Faction magic item (rare), Faction support,
  25 | 3 | 5 | Faction magic item (very rare), Other rewards
  50 | 10 | 6 |
 
@@ -528,19 +570,50 @@ You might make a Strength (Athletics] check in difficult situations encountered 
 •	You try to jump an unusually long distance or pull off a stunt midjump.
 •	You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
 
+Check DC	Climbing Examples	Jumping Examples	Swimming Examples
+5	Climbing a steep hill or slope.	Making your normal jump distance with a running start.	Swimming through calm waters.
+10	Climbing a tree or a steep, rough incline.	Jumping 5 feet further or 2 feet higher than normal with a running start, or avoiding a low ceiling or waist-high obstacle during a long jump.	Swimming through rough waters.
+15	Climbing a tall pole or totem, or dungeon- or ruin-style stone walls.	Jumping your long jump distance without a running start, or jumping 10 feet further or 4 feet higher than normal with a running start.	Swimming through stormy waters.
+20	Climbing a brick wall or rock cliff.	Jumping 15 feet further or 6 feet higher than normal with a running start.	Swimming up a fast- moving river.
+25	Climbing a tall, sheer cliff, or a wall made of shaped stone.	Jumping twice your normal jump distance with a running start.	Swim through a giant whirlpool.
+30	Climbing a wall of force.	Jumping twice your normal jump distance without a running start, or three times as much with a running start.	Swimming up a waterfall.
+The DC for a given climbing example increases by 5 if the surface is slick with liquid but decreases by 5 if you have decent handholds or a properly-secured rope.
+
+Climbing, jumping, and swimming should remain purely in the playhouse of Strength. Dexterity and the Acrobatics skill should not be applied to these given activities, to keep Strength a relevant, obvious solution to problems these can solve.
+Example DCs can be found in the Athletics DCs table.
+Climbing. Scaling an incline is an easy task that should not require an ability check, even a steep one given generous handholds. Failure should not mean a deadly fall. A Dexterity saving throw of a lesser DC can sometimes be allowed to stay in place. In most cases, failing simply causes one to slide back down unless under immediate duress and threat of injury.
+Calling for a check at all is only really required if the situation is appropriately dangerous. An entire party could scale a steep cliff without much effort, so long as there is nothing nipping at their heels or waiting at the top for them.
+Jumping. The Athletics skill states that it can be used to jump unusually long distances. Only call for such a check if a character could not make it with their default jumping distance, detailed in the rules for movement.
+ 
+
 ## Dexterity
 
 ### Acrobatics
 
 Make a Dexterity (Acrobatics] check to balance when you try to keep your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck. The DM might also call for a Dexterity (Acrobatics] check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
 
+Acrobatics is not a replacement for the Athletics skill. Instead, it has very specific implementations that are usually done passively or as part of some other action: keeping one’s balance, slipping out of tight spaces, and of course performing acrobatic stunts.
+ACROBATICS DCS
+Check DC	Situation
+5	Walk in a straight line with your arms out to either side.
+10	Keep one's footing on an icy surface in combat.
+15	Perform a standing backflip, or walk across a tightrope.
+20	Perform a quadruple somersault during a jump.
+25	Cartwheel across a tightrope.
+30	Walk across a frictionless surface.
+
 ### Sleight of Hand
 
 Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand] check. You can also draw small weapons without alerting anyone that you have done so, such as when palming a knife or sliding darts out of your sleeve. And the DM might call for a Dexterity (Sleight of Hand] check to determine whether you can lift a coin purse off another person or slip something out of another person’s pocket.
 
+This skill could, in many ways, simply be combined with the Stealth skill. However, it still does have its uses and can come up in play, if not all that often. This will mostly occur through the Steal action, but Dexterity (Sleight of Hand) checks can be used for pulling magic tricks or carefully manipulating small objects.
+Like the Stealth skill, Sleight of Hand is almost always opposed by a creature’s Wisdom (Perception) check or passive Perception score, with almost no exceptions. A soft DC 10 can be used to perform some simple acts of manual trickery, such as using a fishhook and line to grab a set of keys from a jail cell.
+
 ### Stealth
 
 Make a Dexterity (Stealth] check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+Stealth is perhaps the most well-defined skill in Dungeons & Dragons. It is used for anything involving stealth, and it is always contested by a creature’s Wisdom (Perception) check or passive Perception score.
+To smooth play, do not call for repeated Dexterity (Stealth) checks when a character is simply moving through an area. Instead, only ask for another check if the character is spotted or performs a specific action that could break their stealth. A Dexterity (Stealth) check of 17 could get a creature past most guards and sentries, even passing across doorways or moving within a few feet of an unaware guard. However, once a character attempts to take out a guard or after a character activates a trap, a second check may be worthwhile, as the situation can change dramatically.
 
 ### Other
 
@@ -567,18 +640,54 @@ The DM might call for a Constitution check when a character tries to accomplish 
 ## Intelligence
 
 An Intelligence check comes into play when a creature needs to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Nature, Religion, and Search skills apply to some Intelligence checks.
+During the course of an adventure, players may encounter things that their characters may know about, but which they do not. Doing this makes heavy use of Intelligence- based skills (Arcana, History, Nature, and Religion especially).
+Usually these checks are made without much trouble. When a player wants to know about a creature during combat, however, combat can be slowed down. To make a check to recall information about a creature, an object, or anything else, a character must use their action or reaction to do so.
+A check to identify a creature and its general strengths has a DC of 10 + half the creature’s CR. This increases by 5 if the creature is not from the Material Plane. Succeeding by 5 or more also recalls some or all of the creature’s specific abilities and weaknesses.
 
 ### Arcana
 
 A character might make an Intelligence (Arcana] check to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, or the inhabitants of those planes.
 
+The Arcana skill is not just for recalling information about magic, identifying spells and such. It can be used to figure out how a magical device functions, or to disable magical traps. Given the nature of Dungeons & Dragons’ settings, the Arcana skill should have plenty of instances to shine.
+Arcana is also the most versatile knowledge skill when it comes to monsters. It can be used to recall information about the abilities of most aberrations, celestials, most constructs, elementals, fey, fiends, monstrosities created by magic, some oozes, and most undead, as Arcana covers knowledge about spells, magic, and the planes all in one.
+ARCANA DCS
+Check DC	Situation
+Varies	Identify a spell, either as it's being cast or by its effects (DC 10 + the spell's level).
+5	Recognize that an effect is magical.
+10	Determine whether a creature or object is magical in origin, and recall information about it if it's common.
+15	Recognize the type of magic of an effect (whether it's of arcane, divine, psionic, or some other type of origin). Recall the common inhabitants of another plane of existence, or recognize the influence of another plane on an area.
+20	Recall information related to a legendary item or artifact's origin and powers, or about the state and effects of another plane of existence.
+
 ### History
 
 A character might make an Intelligence (History] check to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, or lost civilizations.
 
+
+Unlike Arcana, History is dedicated almost entirely to recalling information. Its use is quite specific as well. In a pinch, the skill can be used past its normal intentions to recall information about the local region, such as local nobles, recent battles, and local feuds or problems.
+It can also be used to recall information about particularly impactful monsters. Information about dragons, giants, and humanoids tends to fit best in the History skill. Depending on the setting, it may help recall information about other monsters, such as the role of aberrations in Eberron.
+
+Check DC	Situation
+5	Recall common information about the recent past.
+10	Recall uncommon information about events in the last 5 years.
+15	Recall hidden information about the last century.
+20	Recall hidden information about the last millennium, or information about something purposely destroyed or wiped from most historical records.
+25	Recall hidden information about the distant past, so long as it was recorded in some way.
+30	Recall, in perfect detail, any event from the distant past.
+
+
 ### Nature
 
 A character might make an Intelligence (Nature] check to recall lore about terrain, plants and animals, the weather, or natural cycles.
+
+Nature is one of the wider Intelligence skills, usable in a host of situations, especially to recall information about beasts, the wilder dragons, many fey, primal humanoids, common monstrosities, and of course plants.
+In some cases, Wisdom (Nature) checks may be appropriate. Consider allowing these for rangers and druids, who are close to nature but whose Intelligence scores are generally not all that high.
+NATURE DCS Check DC Situation
+5	Identify common plants and animals.
+10	Recall that a neighboring desert is infamous for its ice storms, or that the local forest is guarded by vengeful fey.
+15	Determine that a storm is artificial, that a cliff face is actually an unnatural façade, or that a specific animal usually isn't found in the area.
+20	Identify that a creature is one-of-a- kind or possibly a new species.
+25	Pinpoint the depth and epicenter of an earthquake from eyewitness reports.
+30	Determine that a nearby mountain is going to erupt within the next few days.
 
 ### Religion
 
@@ -587,6 +696,20 @@ A character might make an Intelligence (Religion] #check to recall lore about de
 ### Invvestigation
 
 When you look around for clues that point to a hidden object, such as a trap or secret door, or hints of a creature’s passage through an area, you make an Intelligence (Search] check.
+
+This skill is the “black sheep” of the fifth edition skill system. Often confused with Perception in its use, the difference between the two is often vague, both in rules and in various official adventures.
+The best way to illustrate this is with a common Dungeons & Dragon element: traps. Perception can be used to spot a trap. You can see the shine of torchlight on a trip 
+wire, or the slight separation between stones indicating a pressure plate. Investigation allows you to figure out how a trap works. It lets you notice that the trip wire is likely attached something that comes down from the slots in the ceiling, or that the pressure plate likely has to do with the holes in the walls.
+It may also be better to think about them in terms of scale. Perception is for things that are obvious, out in the open. You could notice them at a glance, given a high enough awareness. Investigation is for seeing smaller-scale things, such as that a single book in a bookcase is out of place, with a different subject than the others.
+Like Insight, Investigation can be used by DMs to move a campaign along. If players have found clues but aren’t connecting them, an Intelligence (Investigation) or Wisdom (Investigation) check may help them put 2 and 2 together.
+INVESTIGATION DCS
+Check DC	Situation
+5	Notice that one person in a lineup is of a different race than the others.
+10	Determine the weakest pillar holding up an aging ruin's ceiling, or notice that one person in a crowd has a limp.
+15	Determine that a letter contains a secret message, or pour over a text and find a specific passage quickly.
+20	Find the single brick in a wall that, when pushed, opens a secret door.
+25	Spot a secret message hidden in the specific wording of an ancient text.
+30	Find a needle in a haystack.
 
 ### Other
 
@@ -602,23 +725,72 @@ The DM might call for an Intelligence check when a character tries to accomplish
 
 ### Animal Handling
 
-When there is any question whether you can calm down a domesticated animal, keep your mount from getting spooked, or intuit an animal’s intentions, make a Wisdom (Animal Handling] check.
+When there is any question whether you can calm down a domesticated animal, keep your mount from getting spooked, or intuit an animal’s intentions, make a Wisdom (Animal Handling) check.
+
+Animal Handling sees perhaps the least use in most campaigns. If someone takes it, try to give them a few chances to use it, even if it’s only once or twice every few sessions.
+ 
+ANIMAL HANDLING DCS
+Check DC	Situation
+5	Command a healthy, trained animal to do a trick it knows.
+10	Command a healthy, trained animal to do a trick it doesn't know, or to put itself in harm's way.
+15	Get an untrained animal to do what you want, for its benefit.
+20	Get an untrained animal to attack an enemy or otherwise put itself in harm's way.
+25	Get an injured and untrained animal to put itself in harm's way.
+30	Command a cat to bark.
+
+If the check is made under external threats, such as during combat or while avoiding an ongoing lava flow, increase the DC by 5. Having something the animal wants (especially food) can give a character advantage on the check.
 
 ### Perception
 
 You might make a Wisdom (Perception] check to spot, hear, or otherwise detect the presence of something. For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear creatures moving stealthily toward you in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush ahead of you on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.
 
+
+Being one of the most-used skills, Perception needs little encouragement in its use. Perception is also the one skill focused on for passive scores. For NPCs, passive Perception use is a must to speed up play, but for characters, encouraging regular active use of the Perception skill can keep play active. While some say to use passive Perception as a hard minimum for Wisdom (Perception) checks, it can be useful to completely ignore it for active checks where failure could be more interesting, exciting, or dangerous.
+PERCEPTION DCS
+Check DC	Situation
+5	Hear people talking in the next room, or see someone walking in the trees.
+10	Hear people whispering in the next room.
+15	Read the lips of someone across the room.
+
+Check DC	Situation
+20	Hear and understand whispers from a
+	room over, or see the telltale signs of a
+	secret door.
+25	Hear an owl gliding in for a kill.
+30	See the outline of an invisible creature.
+
 ### Insight
 
 When you attempt to determine the true intentions of another person, such as when searching out a lie or predicting someone’s next move, you can make a Wisdom (Insight] check. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms.
 
+Insight is yet another skill used in contests more often than flat checks. Unlike NPCs, PCs do not get situational bonuses to their Wisdom (Insight) checks, instead relying on the player’s own wit. However, in a pinch with no leads, a character can make a DC 15 Wisdom (Insight) check to get a hunch that something is amiss or not. If the DM so 
+decides, he or she may provide the player with some sort of hint to go along with the hunch, such as “People’s eyes keep glancing at the beautiful tapestry on the far wall” to denote that people might be hiding something.
+On a failed check to notice an NPC’s bluff, the DM should be careful not to show their hand. Too often, even a failed check can tell the player that their suspicions are at least partially correct, instead of revealing little or no information. When describing a failure to detect a bluff, try to say that a character has trouble getting a good read on the NPC, rather than saying that the character finds the NPC trustworthy.
+
 ### Survival
 
 A character might make a Wisdom (Survival] check to hunt wild game, guide a party safely through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
+.
+urvival is yet another well-defined skill. The guidelines in the Dungeon Master’s Guide on foraging, navigation, and tracking all give solid DCs on the skill’s use.
+When cook’s utensils aren’t available (or a character isn’t proficient in with them), Wisdom (Survival) checks can be used to determine if a proper meal is prepared by an unskilled chef. A DC of 10 is usually more than enough to produce something edible from wild game and plants, with a 15 or 20 giving a much-needed morale boost in the wilderness in the form of a delicious, if gamey, meal. This morale boost can be presented by temporary hit points, usually 1d4.
+
 
 ### Medicine
 
 When you try to stabilize a dying companion or quickly diagnose what common illness is afflicting him or her, you make a Wisdom (Medicine] check.
+
+Yet another underused skill, Medicine can have more uses than just stabilizing a dying ally in combat. Medicine can be used in place of other Intelligence-based checks to recall information and determine the nature of poisons and diseases, especially when they are affecting a creature. In many cases, Intelligence (Medicine) checks are even more apt than Wisdom (Medicine) checks, though medicine in D&D is often based on gut-feelings rather than the modern method of rote learning.
+MEDICINE DCS
+Check DC	Situation
+5	Determine that someone has a cold. Recall how to treat common ailments.
+10	Identify fresh wounds and determine how they were made in most cases.
+15	Determine the exact cause of death of the recently deceased. Determine how to treat a rare poison or disease.
+20	Identify a specific poison or disease by only cursory descriptions or symptoms.
+
+
+Check DC	Situation
+25	Find the cure or treatment for a magical disease.
+30	Raise a creature that has recently died not through magic but your skill alone.
 
 ### Other Wisdom Checks
 
@@ -628,18 +800,49 @@ The DM might call for a Wisdom check when a character tries to accomplish one of
 •	Sense the true direction of an echoing sound
 
 ## Charisma
-
+Charisma checks and their corresponding skills can be a point of contention. Firstly, they are not a replacement for roleplaying—trying to get one’s point across and interacting with an NPC should be a precursor to any Charisma check in situations that are not simply handwaved during shopping, downtime, or other bookkeeping tasks.
+Charisma checks are often better treated as a way to see how a situation pans out, in a more meta sense. A 
+high Charisma (Persuasion) check, even with poor reasoning beforehand, can simply show that an NPC is willing to give the character the benefit of the doubt. A poor Charisma (Intimidation) roll, even if the odds are stacked against the NPC, may reveal that the NPC has a sudden boost of morale from a secret plan he or she has. And a poor Charisma (Deception) check, even if what the PC said is totally believable, may show that the NPC is simply a suspicious type who has a nose for danger.
+In this way, Charisma can be seen not just as force of will in a direct sense, but a type of social luck—the ability for things to go well for a player character. After all, luck is an important skill to have as an adventurer.
+Charisma checks with NPCs are usually contested by Wisdom (Insight) checks. To avoid undue rolling and putting the need for luck on the players’ shoulders, it is usually best to use the NPC’s passive Insight score. Depending on the situation and the actions of the character, this score can be modified. Use the Insight Modifiers table as a guideline. Try to limit the modifiers to 2 or less: one for the NPC’s attitude toward the character, and another for the situation.
 ### Persuassion
 
 When you attempt to influence someone or a group of people with your tact, social graces, or good nature, make a Charisma (Persuasion] check. Typically, you attempt to persuade someone when you are acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let you see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.
+
+The last of the three major Charisma skills, Persuasion is also the most-used. Influencing an NPC to do what you want is an important skill to have! As such, it is often opposed by an NPC’s passive Insight score, with adjustments based on the attitude of the NPC as given in the Insight Modifiers table in the previous section.
+In this case, using the Insight score might not make sense, at first. Just like Intimidation, consider the Insight score as a way to represent not only the ability to detect lies but a sort of luck created by situational awareness. A creature with a large bonus to Wisdom (Insight) checks is more likely to foresee negative outcomes to doing what the party wants or even associating with them.
+The DM should try to only call for Charisma (Persuasion) checks when the NPC in question wouldn’t perform or refuse to perform the action in question. A close ally may already give their life for the party, but a villain will surely reject any requests the party makes that don’t fit their fell fancy.
+Finally, the Persuasion skill can be used to handwave the gathering of rumors. Searching for information or rumors on a specific subject in a town might take a few hours and a DC 10 or 15 Charisma (Persuasion) check, allowing characters to move the story forward while others shop or rest.
+RELIGION
+Religion is the narrowest of the Intelligence skills. DMs coming from older editions often use it beyond its stated scope, though this has little impact on the game itself. In truth, Intelligence (Religion) checks may rarely come up in a game not involved with cults or religious organizations.
+That’s not to say it’s completely useless. It can be used to recall information on many celestials, fiends, and some undead, as they relate to cults and deities.
+RELIGION DCS
+
+
+Check DC	Situation
+5	Recognize holy symbols of common deities.
+10	Recall the rites and major traditions of common religions, enough to fit in at a church.
+15	Determine which deity or cult an ancient ruin was dedicated to, or recall information on local mythology.
+20	Recognize the secret symbols and actions of cultists hiding their dealings in plain sight.
+25	Recognize the symbols and myths of a god dead and buried for 10,000 years.
+30	Improvise the proper rites of a long- dead religion to contact its sleeping god.
+
 
 ### Deception
 
 When you make a Charisma (Deception] check, you are attempting to deceive someone, either verbally or through your actions, which can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass off a disguise, dull someone’s suspicions with false assurances, or maintain a straight face while telling a blatant lie.
 
+Due to its situational nature, Deception is usually used in contests alone, opposed by an NPC’s Wisdom (Insight) check. Generally, it’s best to use passive Insight scores to set a DC for the check, with adjustments based on the attitude of the NPC. Insight in this case is used in its closest rules-as-written form, allowing an NPC to detect whether a PC is pulling their leg.
+The Insight Modifiers table in the previous section contains guidelines for modifying an NPC’s Insight score to set a DC for a character’s Charisma (Deception) checks.
+
+
 ### Intimidation
 
 When you attempt to influence someone through overt threats, hostile actions, and physical violence, make a Charisma (Intimidation] check. Examples of when you would intimidate another include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
+
+Like Deception, Intimidation is often contested by a Wisdom (Insight) check or, more smoothly, an NPC’s passive Insight score. The Insight Modifiers table in the previous section contains guidelines for modifying an NPC’s Insight score to set a DC for a character’s Charisma (Intimidation) checks.
+Many players attempt to use this skill in combat. While tempting, the DM should not use the frightened condition in this case, as it steps on the toes of many class features and spells. Instead, use Intimidation checks as a way to affect morale. A high Intimidation check accompanied by the slaying an opponent may cause weaker enemies to retreat. A low Intimidation check may make stronger enemies more aggressive. In either case, the Insight skill is used to represent not just a creature’s ability to read a situation but also to show their self-awareness, whether they can avoid being overcome by fear in the heat of battle or not.
+
 
 ### Performance
 
@@ -721,18 +924,18 @@ When you listen at a door or otherwise try to hear noise in an area, the DM asks
 
 ### LORE
 
-| field of lore | Skill | description |
-| :--- | :--- | :--- |
-| cultural lore | History | customs, aphorisms, and legends of a particular culture |
-| forbidden lore | Arcana or Religion | cults and their practices, lost languages, and the planes of existence and their inhabitants |
-| hobbyist lore | ? | in-depth knowledge of a niche interest, such as current and past standings for a knightly tournament, art of a particular style, a deep understanding of a particular philosophy, or all the plays penned by a particular playwright |
-| magical lore | Arcana | spells, magic items, eldritch symbols, and magical traditions |
-| military lore | History | battles, coats of arms, weaponry, fortifications, and tactics |
-| ~~natural lore~~ | Nature | terrain, plants and animals, the weather, and natural cycles |
-| planar lore | Arcana | planes of existence, demiplanes, and planar mechanics |
-| Political lore | History | kingdoms, rulers, courtly etiquette, and the lineages, mottoes, and emblems of noble houses |
-| religious lore | Religion | deities, rites and prayers, ecclesiastical hierarchies, and holy symbols subterranean lore, including lore about caves as well as the flora, fauna, and peoples living underground |
-| trade lore | History | materials, manufacture, a specific craft \(such as smithing, brewing, or cooking\), and commerce |
+| field of lore    | Skill              | description                                                                                                                                                                                                                          |
+|------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| cultural lore    | History            | customs, aphorisms, and legends of a particular culture                                                                                                                                                                              |
+| forbidden lore   | Arcana or Religion | cults and their practices, lost languages, and the planes of existence and their inhabitants                                                                                                                                         |
+| hobbyist lore    | ?                  | in-depth knowledge of a niche interest, such as current and past standings for a knightly tournament, art of a particular style, a deep understanding of a particular philosophy, or all the plays penned by a particular playwright |
+| magical lore     | Arcana             | spells, magic items, eldritch symbols, and magical traditions                                                                                                                                                                        |
+| military lore    | History            | battles, coats of arms, weaponry, fortifications, and tactics                                                                                                                                                                        |
+| ~~natural lore~~ | Nature             | terrain, plants and animals, the weather, and natural cycles                                                                                                                                                                         |
+| planar lore      | Arcana             | planes of existence, demiplanes, and planar mechanics                                                                                                                                                                                |
+| Political lore   | History            | kingdoms, rulers, courtly etiquette, and the lineages, mottoes, and emblems of noble houses                                                                                                                                          |
+| religious lore   | Religion           | deities, rites and prayers, ecclesiastical hierarchies, and holy symbols subterranean lore, including lore about caves as well as the flora, fauna, and peoples living underground                                                   |
+| trade lore       | History            | materials, manufacture, a specific craft \(such as smithing, brewing, or cooking\), and commerce                                                                                                                                     |
 
 # Правила по социальным взаимодействиям - Social Interactions
 
@@ -758,11 +961,11 @@ The only reason to make a check when dealing with a friendly character is to see
 
 FRIENDLY NPC REACTIONS
 
- DC  | Result
-----------|---------
- Default | The NPC will do as you wish for requests that don't involve risks or sacrifice 
- 15 | The NPC accepts a minor risk or sacrifice to do as you wish
- 25 | The NPC accepts a significant risk or sacrifice to do as you wish
+DC      | Result
+--------|-------------------------------------------------------------------------------
+Default | The NPC will do as you wish for requests that don't involve risks or sacrifice
+15      | The NPC accepts a minor risk or sacrifice to do as you wish
+25      | The NPC accepts a significant risk or sacrifice to do as you wish
  
 ### Indifferent
 
@@ -774,11 +977,11 @@ A check is usually necessary when the adventurers try to persuade an indifferent
 
 INDIFFERENT NPC REACTIONS
 
- DC  | Result
-----------|---------
- Default | The NPC offers no help or harm  
- 15 | The NPC will do as you wish without taking risks or making sacrifices
- 25 | The NPC accepts a minor risk or sacrifice to do as you wish
+DC      | Result
+--------|----------------------------------------------------------------------
+Default | The NPC offers no help or harm
+15      | The NPC will do as you wish without taking risks or making sacrifices
+25      | The NPC accepts a minor risk or sacrifice to do as you wish
 
 ### Hostile
 
@@ -790,11 +993,11 @@ Adventurers almost always need to make a fairly challenging Charisma check to co
 
 HOSTILE NPC REACTIONS
 
- DC  | Result
-----------|---------
- Default | The NPC opposes your actions and may take risks to do so  
- 15 | The NPC offers no help or harm
- 25 | The NPC will help you as long as there are no risks or sacrifices involved
+DC      | Result
+--------|---------------------------------------------------------------------------
+Default | The NPC opposes your actions and may take risks to do so
+15      | The NPC offers no help or harm
+25      | The NPC will help you as long as there are no risks or sacrifices involved
 
 ## Changing Attitudes	
 
@@ -880,13 +1083,13 @@ Just like a normal PC, mounts and pets have basic needs. They need: Food and Wat
 Food and Water Needs
 
 | Creature Size | Food per Day | Water per Day |
-| :--- | :--- | :--- |
-| Tiny  |   1/4 pound |   1/4 gallon |
-| Small  |  1 pound | 1 gallon |
-|   Medium | 1 pound |  1 gallon |
-| Large  | 4 pounds  |   4 gallons |
-| Huge | 16 pounds  | 16 gallons  |
-| Gargantuan  | 64 pounds |   64 gallons |
+|---------------|--------------|---------------|
+| Tiny          | 1/4 pound    | 1/4 gallon    |
+| Small         | 1 pound      | 1 gallon      |
+| Medium        | 1 pound      | 1 gallon      |
+| Large         | 4 pounds     | 4 gallons     |
+| Huge          | 16 pounds    | 16 gallons    |
+| Gargantuan    | 64 pounds    | 64 gallons    |
 
 ## Official Ruling from the D&D Player's Handbook 5e
 
@@ -978,49 +1181,53 @@ For example a medium or smaller sized creature, wielding a melee weapon without 
 
 # Equipment
 
-
 ## Armor
 
 ### Light armor
 
-Armor | Cost | AC | Strength Requirement | Stealth | Weight
----------|----------|---------|---------|---------|---------
-Armored Coat | 65 gp | 12 + Dex modifier | - | - | 5 lb.
-Dragon leather	| 500 gp |	12 + Dex modifier	| —	| — | 15 lb.
-Mithral shirt	| 5000 gp | 13 + Dex modifier | — | — | 10 lb.
+Armor          | Cost    | AC                | Strength Requirement | Stealth | Weight | Properties
+---------------|---------|-------------------|----------------------|---------|-------|-------
+Armored Coat   | 65 gp   | 12 + Dex modifier | -                    | -       | 5 lb. |
+Dragon leather | 500 gp  | 12 + Dex modifier | —                    | —       | 15 lb. |
+Mithral shirt  | 5000 gp | 13 + Dex modifier | —                    | —       | 10 lb. |
 
 ### Medium armor
 
-Armor | Cost | AC | Strength Requirement | Stealth | Weight
----------|----------|---------|---------|---------|---------
-Scale mail | 50 gp | 14 + Dex modifier (max 2) | —	| Disadvantage 	| 45 lb.
-Studded dragon	leather | 500 gp | 14 + Dex modifier (max 2) |	— |	— |	20 lb.
-Dragon scale | 500 gp |	15 + Dex modifier (max 2)	| — | Disadvantage | 50 lb.
-Mithral scale | 5,000 gp | 15 + Dex modifier (max 2) | — | — | 25 lb.
-Spiked armor | 75 gp | 14 + Dex modifier (max 2) | - | Disadvantage | 45 lb.
+Armor                  | Cost     | AC                        | Strength Requirement | Stealth | Weight | Properties
+-----------------------|----------|---------------------------|----------------------|--------------|-------|-------
+Scale mail             | 50 gp    | 14 + Dex modifier (max 2) | —                    | Disadvantage | 45 lb. |
+Studded dragon	leather | 500 gp   | 14 + Dex modifier (max 2) | —                    | —            | 20 lb. |
+Dragon scale           | 500 gp   | 15 + Dex modifier (max 2) | —                    | Disadvantage | 50 lb. |
+Mithral scale          | 5,000 gp | 15 + Dex modifier (max 2) | —                    | —            | 25 lb. |
+Spiked armor           | 75 gp    | 14 + Dex modifier (max 2) | -                    | Disadvantage | 45 lb. |
 
 ### Heavy Armor
 
-Armor | Cost | AC | Strength Requirement | Stealth | Weight
----------|----------|---------|---------|---------|---------
-Ring mail	| 30 gp |	14 | — | Disadvantage |	40 lb.
-Chain mail	| 75 gp |	16 | 13 | Disadvantage | 55 lb.
-Splint mail	| 500 gp |	17 | 15 | Disadvantage | 60 lb.
-Banded mail | 750 gp |	17 | 14 | Disadvantage | 55 lb.
-Plate mail | 1500 gp | 18 | 15 | Disadvantage | 65 lb.
-Mithral plate |	7500 gp | 18 | 13 | Disadvantage | 40 lb.
+Armor         | Cost    | AC | Strength Requirement | Stealth      | Weight | Properties
+--------------|---------|----|----------------------|--------------|-------|-------
+Ring mail     | 30 gp   | 14 | —                    | Disadvantage | 40 lb. |
+Chain mail    | 75 gp   | 16 | 13                   | Disadvantage | 55 lb. |
+Splint mail   | 500 gp  | 17 | 15                   | Disadvantage | 60 lb. |
+Banded mail   | 750 gp  | 17 | 14                   | Disadvantage | 55 lb. |
+Plate mail    | 1500 gp | 18 | 15                   | Disadvantage | 65 lb. |
+Mithral plate | 7500 gp | 18 | 13                   | Disadvantage | 40 lb. |
 
 ### Shields
 
-Armor | Cost | AC | Strength Requirement | Stealth | Weight
----------|----------|---------|---------|---------|---------
-Buckler	| 30 gp | +1 | — | — | 3 lb.
-Shield	| 10 gp | +2 | — | — | 6 lb.
-Spiked shield * | 15 gp | +1 | — | 15 | — | 7 lb. 
-Tower | 30 gp |	+3 | 13 | Disadvantage | 15 lb.
-
+Armor   | Cost  | AC | Strength Requirement | Stealth | Weight | Properties
+--------|-------|----|----------------------|---------|-------
+Buckler | 8 gp | +1 | —                    | —       | 2 lb | Special
+Shield  | 10 gp | +2 | —                    | —       | 6 lb | Special
+Spiked shield * | 15 gp | +1 | — | 15 | — | 75 lb | Special
+Tower | 30 gp |	+3 | 13 | Disadvantage | 15 lb | Special
+Targe | 12 gp | +1 | - | - | 3 lb | Special
 
 ## Armor Description
+
+**Armor spikes.** Armor spikes can be added to a set of medium or heavy armor for 150 gp, representing the price of the spikes and the expertise needed to add them to a set of armor.
+
+While wearing armor with spikes, wrestling with you is a dangerous proposition. If you use the Attack action to grapple a creature within 5 feet of you and successfully do so, the creature takes 1d4 piercing damage. If the creature ends its turn being grappled by you in this way and is within 5 feet of you, it takes another 1d4 piercing damage. If the suit of armor is magical, the damage dealt by the spikes is also considered magical.
+
 
 **Banded**. This armor is made of overlapping strips of metal sewn to a backing of leather and chain mail. The strips cover vulnerable areas; the chain mail and leather protect the joints while providing freedom of movement. Straps and buckles distribute the weight evenly, making it easier to move around in this armor. This suit includes a helmet and gauntlets.
 
@@ -1038,7 +1245,13 @@ This armor can be easily mistaken for normal clothing; any observer must succeed
 
 **Buckler**: This small shield is fitted around the arm and made of metal, wood, or boiled leather. It takes the same time to don and doff as a normal shield \(1 action\) and a character cannot benefit from a buckler and any other type of shield at the same time. Unlike a shield, a character can still use the hand in which the buckler is equipped. If during a character's turn they use an item with this hand, attack with a weapon in this hand, or attack with a two-handed weapon, then the character does not gain the buckler's bonus to AC until the start of their next turn. Attacking with a one-handed weapon or thrown weapon using the buckler hand causes disadvantage on the attack roll. The hand wielding the buckler does not count as a free hand for the purposes of spellcasting, grappling, or unarmed attacks. A character proficient with shields is also considered proficient with bucklers. A buckler does not benefit from the rules or abilities that specifically refer to shields, such as the Protection Fighting Style or the Shield Master feat.
 
-**Tower Shield:** A huge metal-reinforced shield nearly as tall as its wielder. Donning and doffing the tower shield takes 1 action. A character cannot benefit from a tower shield and any other type of shield at the same time. While a tower shield is equipped, its bearer takes disadvantage on all attack rolls due to the off-balancing encumbrance of the shield, unless the weapon has the Light property. A character proficient with both shields and heavy armor is assumed to be proficient with tower shields. All other rules that affect shields still apply to tower shields.
+Targe. This shield is wielded in a way that leaves one’s hand open. While wearing a targe, your Armor Class increases by 1. You can use the hand you wield the targe in to manipulate objects, shove, grapple, or perform somatic spell components.
+Creatures that are proficient with regular shields are proficient with targes.
+
+
+
+
+**Tower Shield:** A huge metal-reinforced shield nearly as tall as its wielder. Donning and doffing the tower shield takes 1 action. A character cannot benefit from a tower shield and any other type of shield at the same time. While a tower shield is equipped, its bearer takes disadvantage on all attack rolls due to the off-balancing encumbrance of the shield, unless the weapon has the Light property. A character proficient with both shields and heavy armor is assumed to be proficient with tower shields. All other rules that affect shields still apply to tower shields. Tower shield. While wielding a tower shield, your Armor Class increases by 3, but your speed decreases by 5 feet and you have disadvantage on Dexterity checks and saving throws. You provide three-quarters cover, instead of half cover, to other creatures. You can use your action to set the shield like a wall, giving yourself total cover against ranged attacks until the start of your next turn. Creatures that are proficient with heavy armor are proficient with tower shields.
 
 **Spiked shield:** While wielding a spiked shield, your Armor Class increases by 1. A spiked shield serves as a **martial melee weapon** that deals 1d4 piercing damage. You can use spiked shield as off-hand weapon using standard[2] rules for two-weapon fighting. Characters that are proficient with regular shields are proficient with spiked shields,both as a shield and a weapon.
 
@@ -1048,48 +1261,50 @@ This armor can be easily mistaken for normal clothing; any observer must succeed
 ### Simple Melee Weapons
 **Simple Melee Weapons**
 
-Weapon | Damage | Damage Type | Cost | Weight | Properties
----------|----------|---------|---------|---------|---------
- Gauntlet | 1d4 | bludgeoning | - | - | worn
- Cestus | 1d4 | bludgeoning | 5 gp | 2 lb | Special, worn
- Man catcher  | 1d4 | piercing | 40 gp| 3 lb | Heavy, two-handed, special
- Club | 1d4 | bludgeoning | 1 cp | 3 lb. | light
- Dagger | 1d4 | piercing | 2 gp | 1 lb. | Finesse,	light,	thrown	(range	20/60)
- Great club | 1d10 |  bludgeoning | 2 sp| 10 lb. | 
- Handaxe | 1d6 | slashing | 5 gp | 2 lb. | Light, thrown (range 20/60) 
- Light hammer | 1d4 | bludgeoning | 2 gp | 2 lb. | Light, thrown (range 20/60)
- Mace | 1d6 | bludgeoning | 5 gp | 4 lb | - 
- Quarterstaff | 1d6 | bludgeoning | 2 sp | Versatile (1d8)
- Sickle | 1d4 | slashing | 1 gp | 2 lb | Light
- Spear | 1d6 | piercing | 1 gp | 3 lb | Thrown (range 20/60), versatile (1d8)
- Javelin | 1d6 | piercing | 5 sp | 2 lb | Thrown (range 30/120)
- Yklwa | 1d8 | piercing | 1 gp | 3 lb | Thrown (10/30)
+Weapon       | Damage | Damage Type | Cost  | Weight | Properties
+-------------|--------|-------------|-------|--------|-------------------------------------
+Gauntlet     | 1d4    | bludgeoning | -     | -      | worn
+Cestus       | 1d4    | bludgeoning | 5 gp  | 2 lb   | Special, worn
+Man catcher  | 1d4    | piercing    | 40 gp | 3 lb   | Heavy, two-handed, special
+Club         | 1d4    | bludgeoning | 1 cp  | 3 lb.  | light
+Dagger       | 1d4    | piercing    | 2 gp  | 1 lb.  | Finesse,	light,	thrown	(range	20/60)
+Great club   | 1d10   | bludgeoning | 2 sp  | 10 lb. |
+Handaxe      | 1d6    | slashing    | 5 gp  | 2 lb.  | Light, thrown (range 20/60)
+Light hammer | 1d4    | bludgeoning | 2 gp  | 2 lb.  | Light, thrown (range 20/60)
+Mace         | 1d6    | bludgeoning | 5 gp  | 4 lb   | -
+Quarterstaff | 1d6 | bludgeoning | 2 sp | Versatile (1d8)
+Sickle | 1d4 | slashing | 1 gp | 2 lb | Light
+Spear | 1d6 | piercing | 1 gp | 3 lb | Thrown (range 20/60), versatile (1d8)
+Javelin | 1d6 | piercing | 5 sp | 2 lb | Thrown (range 30/120)
+Yklwa | 1d8 | piercing | 1 gp | 3 lb | Thrown (10/30)
 
 ### Simple Ranged Weapons
 **Simple Ranged Weapon**
 
-Weapon | Damage | Damage Type | Cost | Weight | Properties
----------|----------|---------|---------|---------|---------
-Crossbow, light | 1d8 | piercing | 25 gp | 5 lb | Ammunition (range 80/320), loading, two-handed
-Dart | 1d4 | piercing | 5 cp | 1/4 lb | Finesse, thrown (range 20/60)
-Shortbow | 1d6 | piercing | 25 gp | 2 lb | Ammunition (range 80/320), two-handed
-Sling | 1d4 | bludgeoning | 1 sp | - | Ammunition (range 30/120)
+Weapon          | Damage | Damage Type | Cost  | Weight | Properties
+----------------|--------|-------------|-------|--------|-----------------------------------------------
+Crossbow, light | 1d8    | piercing    | 25 gp | 5 lb   | Ammunition (range 80/320), loading, two-handed
+Dart            | 1d4    | piercing    | 5 cp  | 1/4 lb | Finesse, thrown (range 20/60)
+Shortbow        | 1d6    | piercing    | 25 gp | 2 lb   | Ammunition (range 80/320), two-handed
+Sling           | 1d4    | bludgeoning | 1 sp  | -      | Ammunition (range 30/120
+Composite shortbow | 1d4 | piercibg | 45 gp | 3 lb |Ammunition (range 80/320), special, two¬handed
+Repeating crossbow, light |1d8 | piercing |	75 gp| 6 lb |	Ammunition (range 40/160), magazine(6), two¬handed
 
 
 ### Martial Melee Weapons
 
 **Martial Melee Weapon**
 
-Weapon | Damage | Damage Type | Cost | Weight | Properties
----------|----------|---------|---------|---------|---------
-Drow War Gauntlet | 1d6 | piercing or slashing | 40 gp | 1 lb | Finesse, Light, Special*****
-Morningstar, Two-handed | 1d10 | piercing | 25 gp | 6 lb | Heavy, two-handed 
-Hooked Shortspear | 1d4 | piercing | 1 gp | 2 lb | light, special***
-Spiked chain | 1d8 | slashing | 30 gp | 3 lb  | Finesse, two-handed, reach
-Cutlass | 1d6  | slashing | 30 gp | 3 lb | Basket hilt, finesse, light
-Gladius | 1d6  | piercing | 40 gp | 3 lb  | Finesse, versatile damage (slashing)
-Dueling sword**| 1d8 | slashing | 30 gp | 4 lb  | Finesse
-Khopesh | 1d8  | slashing | 30 gp | 3 lb  | Heavy
+Weapon                  | Damage | Damage Type          | Cost  | Weight | Properties
+------------------------|--------|----------------------|-------|--------|-------------------------------------
+Drow War Gauntlet       | 1d6    | piercing or slashing | 40 gp | 1 lb   | Finesse, Light, Special*****
+Morningstar, Two-handed | 1d10   | piercing             | 25 gp | 6 lb   | Heavy, two-handed
+Hooked Shortspear       | 1d4    | piercing             | 1 gp  | 2 lb   | light, special***
+Spiked chain            | 1d8    | slashing             | 30 gp | 3 lb   | Finesse, two-handed, reach
+Cutlass                 | 1d6    | slashing             | 30 gp | 3 lb   | Basket hilt, finesse, light
+Gladius                 | 1d6    | piercing             | 40 gp | 3 lb   | Finesse, versatile damage (slashing)
+Dueling sword**         | 1d8    | slashing             | 30 gp | 4 lb   | Finesse
+Khopesh                 | 1d8    | slashing             | 30 gp | 3 lb   | Heavy
 Battleaxe | 1d8	slashing | 10 gp |	4 lb |	Versatile (1d10)
 Flail | 1d8 | bludgeoning |	10 gp |	2 lb |	—
 Glaive | 1d10 |	slashing | 20 gp | 6 lb | Heavy, reach, two-handed
@@ -1110,15 +1325,32 @@ Warhammer | 1d8 | bludgeoning |	15 gp | 2 lb | Versatile (1d10)
 Warspear | 1d8 | piercing | 10 gp | 4 lb | Versatile (1d10), thrown (20/60)
 Whip | 1d4 | slashing | 2 gp | 3 lb | Finesse, reach
 
+Dire flail	25 gp	1d8 bludgeoning	10 lb.	Double (1d6), two-handed
+Double axe	30 gp	1d8 slashing	10 lb.	Double (1d6), two-handed
+Garrote	5 gp	—	1 lb.	Finesse, special, two-handed
+Katana	35 gp	1d10 slashing	3 lb.	Finesse, two-handed
+Kusarigama	20 gp	1d4 bludgeoning or slashing	8 lb.	Double (1d4), finesse, special, two-handed
+Parrying dagger	5 gp '	1d4 piercing	1 lb.	Finesse, light, special
+Scythe	12 gp	1d10 slashing	10 lb.	Heavy, reach, two-handed
+Spiked chain	15 gp	1d8 piercing	10 lb.	Finesse, reach, two-handed
+Two-bladed sword	30 gp	1d8 slashing	10 lb.	Double (1d6), two-handed
+Urgrosh	25 gp	1d10 piercing or slashing	12 lb.	Double (1d4), two-handed
+
+
+
 ### Martial Ranged Weapons
 
-Weapon | Damage | Damage Type | Cost | Weight | Properties
----------|----------|---------|---------|---------|---------
-Blowgun | 1 | piercing | 10 gp | 1 lb | Ammunition (range 25/100), loading
-Crossbow, hand	| 1d6 | piercing | 75 gp | 3 lb | Ammunition (range 30/120), light, loading
+Weapon         | Damage | Damage Type | Cost  | Weight | Properties
+---------------|--------|-------------|-------|--------|------------------------------------------
+Blowgun        | 1      | piercing    | 10 gp | 1 lb   | Ammunition (range 25/100), loading
+Crossbow, hand | 1d6    | piercing    | 75 gp | 3 lb   | Ammunition (range 30/120), light, loading
 Crossbow, heavy | 1d10 piercing	 | 	50 gp | 18 lb | Ammunition (range 100/400), heavy, loading, two-handed
 Longbow | 1d8 | piercing | 50 gp | 2 lb | Ammunition (range 150/600), heavy, two-handed
 Net	| | | 1 gp | 3 lb | Special, thrown (range 5/15)
+
+Boomerang	5 sp	1d4 bludgeoning	1 lb.	Finesse, light, special, thrown (range 20/60)
+Composite longbow	70 gp	1d6 piercing	3 lb.	Ammunition (range 150/600), heavy, special, two-handed
+Repeating crossbow, heavy	150 gp	1d10 piercing	20 lb.	Ammunition (50/200), heavy, magazine(6), two¬handed
 
 ### Special Weapons
 
@@ -1126,27 +1358,19 @@ Weapons with special rules are described here.
 
 **Bolas.** A Large or smaller creature hit by a bolas must succeed on a DC 10 Dexterity saving throw or be restrained by it. A creature can break free of the bolas by using its action to make a DC 10 Strength check or by dealing 5 slashing damage to the bolas. Formless creatures are immune to this effect.
 
-**Net.** When you attack with a net, you target a point in space. Each Large or smaller creature within 5 feet of that point must succeed on a DC 10 Dexterity saving throw or be restrained by the net. A creature can break free of the net by using its action to make a DC 10 Strength check or by dealing 5 slashing damage to the net. 
+**Net.** When you attack with a net, you target a point in space. Each Large or smaller creature within 5 feet of that point must succeed on a DC 10 Dexterity saving throw or be restrained by the net. A creature can break free of the net by using its action to make a DC 10 Strength check or by dealing 5 slashing damage to the net.
 
-## Adventuring gear
+**Boomerang.** When you throw this weapon and miss, it returns to your hand. Creatures that are proficient with javelins are also proficient with boomerangs.
 
-**Acid.** A glass vial of acid holds 4 ounces. As an action, you can splash the contents of the vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature or object. On a hit, the target takes 1d4 acid damage. If poured on metal, the metal takes 1d4 acid damage at the start of each of your turns for 1d4 rounds.
+**Composite bow.** These bows use a complex design with a high draw weight. You add your Strength modifier alongside your Dexterity modifier to damage rolls for composite bows.
 
-**Adventurer's Kit.** This pack has the basics that an adventurer needs to get along in the wilderness. The kit includes a backpack loaded with a healer's kit, a mess kit, a tinderbox, ten torches, ten days of rations, and a waterskin. In addition, 50 feet of hempen rope are strapped to the pack.
+Garrote. When you attack with this weapon and hit, you immediately grapple the target if it is Large or smaller and is not formless. This grapple ends early if you let go of either end of the garrote. While grappled in this way, the creature is gagged, cannot breathe, and melee attacks against it are made with advantage. Rogues are proficient with garrotes.
 
-**Alchemist's Fire.** This sticky, adhesive fluid ignites when exposed to air. A clay flask of alchemist's fire contains 1 pint. As an action, you can throw the flask up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 11 Dexterity check to extinguish the flames.
+Kusarigama. This double weapon has very different ends, attached by a chain: a sickle, dealing slashing damage; and a weight, dealing bludgeoning damage with the reach property. You can choose which end with which to attack. Monks are proficient with the kusarigama and can treat it as a monk weapon.
 
-**Holy Water.** A clay flask of holy water contains 1 pint. As an action, you can splash the contents of the flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature. On a hit against a fiend or evil undead creature, the target takes 1d4 radiant damage.
-Horse. A typical riding horse can carry one rider and most of the typical adventurer’s supplies at a speed of 60 feet. If you have proficiency with land mounts, you can add your proficiency bonus to ability checks you make to control a horse under difficult circumstances.
+Parrying dagger. When you wield this weapon and are targeted by a melee weapon attack, you can use your reaction to increase your AC by 2 against that attack. Rogues are proficient with parrying daggers.
 
-**Thieves' Tools.** This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow- bladed scissors, and a pair of pliers. Proficiency with thieves’ tools allows you to use them to attempt the following tasks.
-
-***Disable a Trap:*** You can use your action to make a Dexterity check to attempt to disable a trap, applying your proficiency bonus to the check. You must have physical access to the trap’s mechanisms. If you succeed, you disable the trap and can bypass it safely. If you fail your Dexterity check by 5 or more, you trigger the trap.
-
-***Open a Lock:*** You can use your action to make a Dexterity check to attempt to open a lock, applying your proficiency bonus to the check. If you succeed, you open the lock.
-
-**Tinderbox.** This small container holds flint, firesteel, and tinder (usually dry cloth soaked in light oil] used to kindle a fire. Lighting a torch with the flint and steel takes an action, and lighting any other fire takes at least that long.
-
+Repeating crossbows. These crossbows are fitted with cartridges that can hold up to six crossbow bolts. A repeating crossbow automatically reloads after firing until it runs out of ammunition. You can reload the cartridge as an action.
 
 ### New Weapon Properties
 
@@ -1157,6 +1381,9 @@ Horse. A typical riding horse can carry one rider and most of the typical advent
 **Worn:** Worn weapons augment your unarmed attack damage and may not be disarmed. Putting on or removing a worn weapon takes an action.
 
 **Double**:
+
+Double. A double weapon has two ends with which you can attack. When you take the Attack action and attack with the weapon, you can engage in two-weapon fighting with it, treating one end as the required light weapon with the specified damage die.
+
 
 ### New and changed weapons
 
@@ -1195,6 +1422,91 @@ You do not suffer penalties for firing a flintlock while prone. Unless you have 
 Repairing a jammed flintlock requires proficient use of a flintlock maintenance kit and takes 10 minutes.
 
 Additionally, in Arcanis flintlocks are reinforced and balanced for use as improvised melee weapons. Flintlock pistols may be used as clubs, while flintlock rifles may be used as greatclubs. If you are proficient with a club or greatclub, you can add your proficiency bonus to attack rolls with your flintlock when you use it as an improvised weapon.
+
+## Adventuring gear
+
+This section describes the special properties of this document’s new adventuring gear.
+**ADDITIONAL ADVENTURING GEAR**
+Name | Cost | Weight
+-----|------|-------
+Smoke Pellet | 15 gp | —
+Smokestick | 25 gp | 1/2 lb.
+Tanglefoot bag | 50 gp | 4 lb.
+Thunderstone | 30 gp | 1 lb.
+Tindertwig | 15 gp | —
+Arrow, Barbed	|i gp|	—
+Arrow, Smoldering|	2 gp|	—
+Arrow, Smoking	|3 gp|	—
+Arrow, Splintering|	2 gp|	—
+
+
+Ammunition	-
+Blunt Tip Arrow (5)	2 gP
+Blunt Tip Bolt (5)	2 gP
+Blunt Tip Needle (20)	2 gP
+Hollow Tip Arrow (5)	2 gP
+Hollow Tip Bolt (5)	2 gP
+Hollow Tip Needle (20)	2 gP
+Hollow Tip Sling Bullet (20)	1 gP
+Serrated Tip Arrow (5)	2 gP
+Serrated Tip Bolt (5)	2 gP
+Serrated Tip Needle (20)	2 gP
+Serrated Tip Sling Bullet (20)	1 gP
+Musical Instrumenets	-
+Harp	25 gP
+Violin	20 gp
+Tools and Kits	-
+Falconry Kit	5 gP
+Farming Tools	5 gP
+Prospector's Kit	lOgp
+Taxidermist's Kit	lOgp
+Parachute	25 gp
+Spice Pouch	5 gp
+
+
+**Arrow, Barbed.** This piece of ammunition causes bleeding wounds. A creature hit with a barbed arrow or bolt takes 1 point of piercing damage at the beginning of its turn until it uses its action to pull the arrow free. Once pulled free of the wound, the ammunition is destroyed.
+
+**Arrow, Smoldering.** This piece of ammunition has a hollow point containing alchemist’s fire and a simple ignition mechanism. A creature you hit with a smoldering arrow or bolt takes 1d4 fire damage at the beginning of its next turn. Once ignited, the ammunition is destroyed.
+
+**Arrow, Smoking.** This piece of ammunition lets out a blast of smoke on contact. A 5-foot radius sphere centered on the creature or point you hit is heavily obscured until the end of your next turn. Once ignited, the ammunition is destroyed.
+**Arrow, Splintering.** When you hit a creature with a splintering arrow or bolt, it explodes into wooden or bone shards. Each creature within 5 feet of the target must make a DC 12 Dexterity saving throw or take 1d4 piercing damage. Once it explodes, the ammunition is destroyed.
+Smoke pellet. As an action or bonus action, you can throw a smoke pellet at a point within 10 feet of you. The smoke pellet then detonates and is destroyed, creating a 10-foot cube filled with smoke. This area is heavily obscured until the end of your next turn.
+**Smokestick.** As an action, you can ignite a smokestick using a torch, tinderbox, or other source of fire or intense heat. Once ignited, the smokestick continually fills the area within 5 f eet of it with thick, black smoke. An area filled with the smoke is heavily obscured. This smoke disperses at the end of your next turn, but the smokestick continues to burn for 1 minute, allowing it to be thrown or moved around with to form large areas of smoke.
+**Tanglefoot bag.** As an action, you can throw this bag of alchemic goo at a creature within 30 feet of you. Make a ranged attack against a creature, treating the bag as an improvised weapon. On a hit, the creature is restrained for 1 minute if it is Large or smaller. Hit or miss, the tanglefoot bag is then destroyed. A creature restrained by the goo can free itself by using its action to make a DC 13 Strength check or by dealing 10 points of slashing damage to the goo. The goo has an AC of 13. In either case, the effect ends early.
+**Thunderstone.** As an action, you can throw a thunderstone up to 30 feet. When it strikes a hard surface or is struck hard, it creates a deafening bang and is destroyed. Creatures within 10 feet of the stone must make a DC 11 Constitution saving throw or be deafened for 1 hour. If a creature deafened in this way casts a spell with verbal components, it must make a DC 11 Charisma saving throw or fail to cast the spell.
+**Tindertwig.** You can strike the end of this small, wooden stick on a flammable object, requiring no action. The object immediately ignites and the tindertwig is destroyed.
+
+**Acid.** A glass vial of acid holds 4 ounces. As an action, you can splash the contents of the vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature or object. On a hit, the target takes 1d4 acid damage. If poured on metal, the metal takes 1d4 acid damage at the start of each of your turns for 1d4 rounds.
+
+**Adventurer's Kit.** This pack has the basics that an adventurer needs to get along in the wilderness. The kit includes a backpack loaded with a healer's kit, a mess kit, a tinderbox, ten torches, ten days of rations, and a waterskin. In addition, 50 feet of hempen rope are strapped to the pack.
+
+**Alchemist's Fire.** This sticky, adhesive fluid ignites when exposed to air. A clay flask of alchemist's fire contains 1 pint. As an action, you can throw the flask up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 11 Dexterity check to extinguish the flames.
+
+**Holy Water.** A clay flask of holy water contains 1 pint. As an action, you can splash the contents of the flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature. On a hit against a fiend or evil undead creature, the target takes 1d4 radiant damage.
+Horse. A typical riding horse can carry one rider and most of the typical adventurer’s supplies at a speed of 60 feet. If you have proficiency with land mounts, you can add your proficiency bonus to ability checks you make to control a horse under difficult circumstances.
+
+**Thieves' Tools.** This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow- bladed scissors, and a pair of pliers. Proficiency with thieves’ tools allows you to use them to attempt the following tasks.
+
+***Disable a Trap:*** You can use your action to make a Dexterity check to attempt to disable a trap, applying your proficiency bonus to the check. You must have physical access to the trap’s mechanisms. If you succeed, you disable the trap and can bypass it safely. If you fail your Dexterity check by 5 or more, you trigger the trap.
+
+***Open a Lock:*** You can use your action to make a Dexterity check to attempt to open a lock, applying your proficiency bonus to the check. If you succeed, you open the lock.
+
+**Tinderbox.** This small container holds flint, firesteel, and tinder (usually dry cloth soaked in light oil] used to kindle a fire. Lighting a torch with the flint and steel takes an action, and lighting any other fire takes at least that long.
+
+Falconry Kit. In this bag is a single leather bracer, a leather cowl, a whistle, a set of small bells, and leather strips.
+A Wisdom Check may come when training a small bird of prey, where as a Charism check might be useful when taming the bird
+Farming Tools. In this bag is a collapsible hoe, a collapsible rake, a book of known herbs and their farming techniques, and a small satchel of seeds worth 3 gp.
+If a character wishes to tend to their own garden or plant seeds, it would be appropriate to ask for a Wisdom check, where as tiying to identify a plant with their book may use an Intelligence check. If a character would try to gather leaves in a pile quickly, it wouldn't be uncommon to ask for a Dexterity check, while trying to clear thick roots might be a Strength check.
+Prospector's Kit. In this metal box is a collapsible hammer used to breaking small rocks, a gold pan, a tiny magnifying glass, a handful of brushes, and a scraping tool.
+It would be common to ask for a Dexterity check when trying to properly scrap clay or rock off of a surface, whereas it might be suitable for a Wisdom check to pick out the fine flakes of gold An Intelligence check might be called for identifying the difference between silver and Sham Silver.
+Taxidermist's Kit. This container holds a set of leather punches, a fine knife for scraping, a pair of small shears, and needles.
+A Strength check would be suitable for attempting to gather the tough scales of a dragon, where as a Dexterity check might be more preferable for softer hides. A Charisma check might be asked in order to make a beautiful taxidermized creature for a patron.
+
+
+Parachute. This parachute is more of a small glider, rather than a widespread cloth. The frame is made of a sturdy metal, which has loops that hold the fabric. The parachute takes 1 minute to unfold and set up. A creature can use this to move at a rate of their long jump speed per round when in the air, while descending at a slowed rate of 30 feet per round
+Spice Rack. A small assortment of spices and containers are stored in a wooden box. Using a spice rack allows food past its prime to be consumed without ill effects. If the spice rack is used for cooking food during a short rest, a character regains 1 additional hit point for every hit die they expend 
+
+
 
 ## New Equipment Packs
 
@@ -1490,7 +1802,7 @@ Weapon: Weapons made of adamantine are virtually unbreakable and have resistance
 
 # Alchemical equipment
 
-## Alchemical Items
+### Alchemical Items
 
 Alchemical items are not products of magic, but of science. All these items have one thing in common; they may only be used once. Unlike magic items, alchemical items can be easily purchased.
 
@@ -1518,13 +1830,13 @@ Smelling Salts | 40gp
 
 Sweet Water | 25gp
 
-### **Blood Paste**
+#### **Blood Paste**
 
 Description: Created from a mixture of several different herbs, blood paste is a sweet smelling red paste that heals all but the most grievous injury.
 
 Abilities/Effects: During a short rest, you may apply this paste to heal 1d6 hit points. A creature may not benefit from another application of the paste until they complete a long rest.
 
-### **Combustible Sphere**
+#### **Combustible Sphere**
 
 Description: These small spheres are filled with a mixture of alcohol, flint chips and blast powder.
 
@@ -1534,7 +1846,7 @@ Make a ranged attack against a creature or object, treating the combustible sphe
 
 as an improvised weapon. On a hit, the target takes 1d6 fire damage and 1d6 thunder damage. This explosion is quite loud and can be clearly heard hundreds of feet away.
 
-### **Flash Sphere**
+#### **Flash Sphere**
 
 Description: This small sphere is filled with a gray powder thatmay be thrown, causing a splash attack, bursting in a flash of searing light.
 
@@ -1542,51 +1854,51 @@ Abilities/Effects: As an action you can throw this flask at a creature, object, 
 
 or become blinded until the beginning of their next turn. A creature that cannot see gains advantage on their saving throw.
 
-### **Frost Sphere**
+#### **Frost Sphere**
 
 Description: This small sphere is filled with two chemicals each a distinct shade of blue. When the chemicals are mixed they suddenly bsorb all heat from the surrounding area, flash freezing water and chilling those unfortunate enough to be close to the point of impact.
 
 Abilities/Effects: As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the frost sphere as an improvised weapon. On a hit, the target takes 2d6 cold damage. If thrown into a body of water, the sphere instantly shatters and freezes 2 cubic feet of the water.
 
-### Glow Dust
+#### Glow Dust
 
 Description: Essentially dried glowing moss, this powder retains the ability to glow after a good shake.
 
 Abilities/Effects: As an action, you may empty the contents of this container to cover a 10-foot by 10-foot area which then glows with dim light. This illumination grants advantage on Wisdom (Survival) or Intelligence (Investigation) checks to find tracks or any other signs of passage. This effect lasts for 10 minutes, after which the glow fades.
 
-### Gum Bag
+#### Gum Bag
 
 Description: Created from tar and mixed with special oils, this mixture is held in small clay containers. When the concoction comes in contact with air, it creates a bond strong enough to hold a warhorse in place.
 
 Abilities/Effects: As an action, you can throw this container up to 20 feet, where it shatters on contact and its contents mix and expand. Make a ranged attack against a creature or object, treating the gum bag as an improvised weapon. On a hit, the target must make a successful DC 15 Strength saving throw or have their walking speed reduced to 0. As an action, at the beginning of their turn, a creature affected by the contents of a gum bag may attempt a DC 15 Strength (Athletics) check to break free. The contents of the bag lose its adhesive properties after 1 minute.
 
-### Moon Ink
+#### Moon Ink
 
 Description: Commonly created from the nightbloom flowering plant, this ink is highly prized by any who wish to keep their communications secret.
 
 Abilities/Effects: Once anything is written with this ink, the writer needs to warm the paper over an open fire to cause the ink to quickly disappear. Later, the owner of the document may lightly wet the paper and then hold it up against a light source (typically the light of the full moon, hence its name) to read the message. One vial of ink will last for two pages of paper.
 
-### Refreshing Brew
+#### Refreshing Brew
 
 Description: This delicious elixir has been around longer than recorded history, it is commonly referred to as ‘morning draft’.
 
 Abilities/Effects: If you consume a flask of this refreshing drink during a long rest, you regain 2 additional spent hit die. You may only benefit from one vial of refreshing brew per long rest.
 
-### Smelling Salts
+#### Smelling Salts
 
 Description: The Ansharan temple created this strange and powerful concoction to help young neophytes quickly recover from the rigors of their training.
 
 Abilities/Effects: : You may use smelling salts on an unconscious creature to force them back into consciousness. If the creature was knocked unconscious due to hit point loss, the creature is awakened and spends 1 hit die to recover hit points. Creatures which do not have any remaining hit die cannot be aroused though the use of smelling salts.
 
-### Sweet Water
+#### Sweet Water
 
 Description: Highly sought after by nobility, there are only a handful of alchemists capable of brewing a vial of this clear luminescent liquid.
 
 Abilities/Effects: One vial of sweet water cleanses 2 gallons of liquid of any poisons or impurities. It has no effect on creatures entirely comprised of liquid, like water elementals.
 
-## Elixirs, oils, salves
+### Elixirs, oils, salves
 
-### Draught of the Saddle Born
+#### Draught of the Saddle Born
 
 Potion, rare
 
@@ -1596,7 +1908,7 @@ History: Though shunned by their fellow tribesman, Ehtzara are still sought out 
 
 Abilities/Effects: When you drink this potion you gain the ability to speak with all manner of equine animals for 4 hours and have advantage on all Wisdom (Animal Handling) checks dealing with equines.
 
-### Elixir of Longevity
+#### Elixir of Longevity
 
 Potion, legendary
 
@@ -1606,7 +1918,7 @@ History: This elixir was used exclusively by the ssanu nobles of Yahssremore dur
 
 Abilities/Effects: Once you drink this potion you must make a DC 25 Constitution saving throw. If you succeed your natural lifespan is doubled; if you fail, you die instantly. This potion may be used multiple times, but each dose requires a new Constitution saving throw. This potion has no effect if you are immortal.
 
-## Elixir of Red Fury
+#### Elixir of Red Fury
 
 Potion, rare
 
@@ -1616,7 +1928,7 @@ History: First created by the Temple of Hurrian, there is also a version of this
 
 Abilities/Effects: Drinking this potion causes you to fly into furious rage for 1 minute, granting a +2 bonus to melee damage as well as gaining advantage on Strength ability checks and Strength saving throws. During this red rage, you are unable to cast or concentrate on spells. You may not end the rage until the potion runs its course.
 
-## Elixir of Skins
+#### Elixir of Skins
 
 Potion, rare
 
@@ -1630,7 +1942,7 @@ Abilities/Effects: Each elixir of skins is made with materials from a specific c
 
 You may only use this ability once and you can remain transformed for up to one hour. If you are a druid, you gain all of the Wild Shape benefits imparted by your Circle (if any).
 
-## Elixir of the Oracle
+#### Elixir of the Oracle
 
 Potion, very rare
 
@@ -1658,7 +1970,7 @@ If you are a val of a different bloodline from the elixir, you suppress your own
 
 If you are not a val you gain no benefits from this elixir, and instead suffer 4d10 poison damage and are poisoned for 1 hour.
 
-Fury Elixir
+#### Fury Elixir
 
 Potion, uncommon
 
@@ -1668,7 +1980,7 @@ History: First gaining popularity in the gladiatorial arenas of Sicaris, Eppion,
 
 Abilities/Effects: Upon drinking this potion you gain resistance to bludgeoning, piercing, and slashing damage, as well as gaining a +1d4 bonus on melee damage rolls for 10 minutes. Afterwards, you gain 1 level of exhaustion.
 
-Ghost Guard Potion
+#### Ghost Guard Potion
 
 Potion, rare
 
@@ -1678,9 +1990,8 @@ History: Brewed from specially prepared roots and herbs growing on the Corlathia
 
 Abilities/Effects: Once you drink this potion your spirit feels fortified. You gain resistance to necrotic damage for 1 hour. In addition, you have advantage on saving throws made to resist abilities and effects from creatures who possess the Incorporeal Movement special trait.
 
- 
 
-Ghoststep Draught
+#### Ghoststep Draught
 
 Potion, very rare
 
@@ -1690,7 +2001,7 @@ History: Believed known only to the Beltinian high priests for use in their most
 
 Abilities/Effects: Once you drink this potion your physical form begins to dissipate, taking on the qualities of an incorporeal creature, gaining the Incorporeal Movement and Ethereal Sight special traits of a ghost for 1 minute.
 
-Holy Tiger Draught
+#### Holy Tiger Draught
 
 Potion, rare
 
@@ -1702,7 +2013,7 @@ Abilities/Effects: When you drink this magical potion your hands become muscular
 
 While under the effects of this potion your hands lack the ability to grasp objects, requiring you to make a DC 15 Dexterity check to pick up or hold any object. If you possess the Martial Arts class feature you may choose to deal bludgeoning, slashing or piercing damage with your unarmed strikes. 
 
-Mindfire
+#### Mindfire
 
 Potion, very rare
 
@@ -1712,7 +2023,7 @@ History: This potion is brewed from the crushed petals of the rare prince’s fl
 
 Abilities/Effects: When you drink this potion you add double your proficiency bonus on Intelligence and Wisdom ability checks for 1 hour. Afterwards, you suffer 1 level of exhaustion.
 
-Oil of Beast Repulsion
+#### Oil of Beast Repulsion
 
 Potion, rare
 
@@ -1728,7 +2039,7 @@ If they then come back within 30 feet of you, they may make a new saving throw. 
 
  
 
-Oil of Deflection
+#### Oil of Deflection
 
 Potion, rare
 
@@ -1738,7 +2049,7 @@ History: Crafted by specially trained ss’ressen priestesses, the salve is used
 
 Abilities/Effects: Each shell holds 3 applications of oil of deflection. Each application covers a Medium or smaller creature. Applying this oil takes 1 minute, but once applied, you gain a +1 bonus to your AC for the next hour.
 
-Oil of Puissance
+#### Oil of Puissance
 
 Potion, rare
 
@@ -1748,7 +2059,7 @@ History: This oil was first developed by Taliose val’Virdan, an alchemist in s
 
 Abilities/Effects: You gain 10 temporary hit points and have advantage on Strength and Constitution saving throws for 1 minute.
 
-Oil of Pyrotechnics
+#### Oil of Pyrotechnics
 
 Potion, rare
 
@@ -1760,7 +2071,7 @@ Abilities/Effects: As an action, you can throw this vial up to 20 feet, where it
 
 treating the vial as an improvised weapon. Every creature in a 10-foot radius around where the vial breaks must make a DC 14 Dexterity saving throw. An affected creature takes 3d8 fire and 3d8 thunder damage, or half as much on a successful saving throw. This explosion is quite loud and can be clearly heard hundreds of feet away.
 
-Oil of Scent Masking
+O#### il of Scent Masking
 
 Potion, uncommon
 
@@ -1770,7 +2081,7 @@ History: This oil was first discovered being used by poachers raiding the preser
 
 Abilities/Effects: After spreading this oil upon your body, any creature who attempts to track or locate you though scent suffers disadvantage on their ability checks for the next three hours. Even if the creature normally has advantage while using scent, the power of this oil is so overpowering the creature still suffers disadvantage.
 
-Potion of Bloodmastery
+#### Potion of Bloodmastery
 
 Potion, (lesser) rare; (greater) very rare
 
@@ -1786,7 +2097,7 @@ Lesser bloodmastery: Your spell is cast as if you used a spell slot 1 level high
 
 Greater bloodmastery: Your spell is cast as if you used a spell slot one-level higher, even if you do not possess a higher level slot. In addition, if your target has blood or internal fluid of some kind, you have advantage on your spell attack roll and give disadvantage on your target’s saving throw against the spells effects, if any.
 
-Potion of Mist
+#### Potion of Mist
 
 Potion, rare
 
@@ -1796,7 +2107,7 @@ History: Commissioned by a group of thieves, the dwarven Master Alchemist Rodin,
 
 Abilities/Effects: You After drinking this potion, for 1 minute you may spend your reaction to surround yourself in silvery mist and teleport up to 30 feet to an unoccupied space that you can see.
 
-Potion of Poison Spittle
+#### Potion of Poison Spittle
 
 Potion, rare
 
@@ -1806,7 +2117,7 @@ History: A cache of vials filled with this potion was discovered in a cave near 
 
 Abilities/Effects: After drinking this potion, for 1 minute you may, as a bonus action you may spit poison at a target you can see. Make a ranged attack against a creature within 30 feet, treating your poison spittle as an improvised weapon. Any creature struck suffers 3d8 poison damage and must make a DC 13 Constitution saving throw or be poisoned for 1 hour. 
 
-Potion of Putrescence
+#### Potion of Putrescence
 
 Potion, uncommon
 
@@ -1816,7 +2127,8 @@ History: Fanatical Nerothians aspiring to one day receive the blessing of Neroth
 
 Abilities/Effects: Once you drink this disgusting potion, for 1 minute, any creature within 10 feet that possesses a sense of smell must make a DC 15 Constitution saving throw or become poisoned by your noxious scent until they are more than 10 feet away from you. For the next hour, you have advantage on all Charisma checks when attempting to feign death, appearing to all as a corpse.
 
-Potion of Satiety
+#### Potion of Satiety
+
 
 Potion, rare
 
@@ -1826,19 +2138,17 @@ Abilities/Effects: You require neither food nor drink for 1d4 days + your Consti
 
 If you drink this potion while you have levels of exhaustion, you immediately vomit up the potion and do not gain any of its effects.
 
-Potion of Steely Nerves
+#### Potion of Steely Nerves
 
 Potion, uncommon
 
 Description: This purple liquid is easily identified by its pungent odor and fiery taste.
 
- 
-
 History: First crafted by the Milandisian priests of Hurrian for those marching towards the horrors of Canceri during the Heretic War, this potion now enjoys widespread use across the Known Lands.
 
 Abilities/Effects: For 1 hour after imbibing this potion, you have advantage on all saving throws against any effect that would make you frightened.
 
-Potion of Uncanny Alertness
+#### Potion of Uncanny Alertness
 
 Potion, rare
 
@@ -1847,6 +2157,8 @@ Description: This potion at first appears colorless but when held in the sunligh
 History: Used by explorers of the Emerald Society when delving into ancient catacombs or in the pervasive lightless caverns of the Endless Dark, this potion has saved many lives by revealing chasms and dead drops that would have otherwise been invisible.
 
 imbibing this potion, you have advantage on all Wisdom (Perception) checks and your passive Perception increases by +5. Unfortunately, your increased sensitivity of vision and hearing makes you vulnerable to bright lights and loud sounds, giving you disadvantage on saving throws against light or sound based attacks during the duration of the potion.
+
+#### 
 
 Potion, uncommon
 
@@ -1858,7 +2170,7 @@ Abilities/Effects: As an action you may apply this oil on a non-magical weapon, 
 
 granting a +1 bonus to attack and damage rolls with that weapon. If applied to a shield or armor, it grants a +1 bonus to AC while wearing the armor or holding the shield. This effect lasts for 1 hour.
 
-Voei Skin Salve
+#### Voei Skin Salve
 
 Potion, very rare
 
@@ -1874,7 +2186,7 @@ If you are reduced to 0 hit points while under the effects of this potion, you a
 
 After this paste wears off, you gain 1 level of exhaustion.
 
-War Paints of the Skohir
+#### War Paints of the Skohir
 
 Potion, very rare
 
@@ -1892,19 +2204,18 @@ Violet affords a +1d4 bonus to all weapon damage rolls.
 
 Black grants the ability to take the Hide action as a bonus action on your turn as well as the benefits of the pass without trace spell (self-only, no concentration required).
 
-# Mastercraft Items
 
 ## Mastercraft Items 
 
-A mastercraft item is an item created with such skill and care that it is clearly superior to a normal item. Not just any craftsmen can create a mastercraft item; only an expert in his or her craft, with exceptional skill and years of experience, can create such an item. Mastercraft items can take the form of weapons, armor, or tools. All mastercraft items are exceptionally durable and can take wear and tear better than a normal item. Although mastercraft items are not magical, magic items are mastercraft items, but their magical description and properties replaces any benefit they grant from being mastercraft. 
+A mastercraft item is an item created with such skill and care that it is clearly superior to a normal item. Not just any craftsmen can create a mastercraft item; only an expert in his or her craft, with exceptional skill and years of experience, can create such an item. Mastercraft items can take the form of weapons, armor, or tools. All mastercraft items are exceptionally durable and can take wear and tear better than a normal item. Although mastercraft items are not magical, magic items are mastercraft items, but their magical description and properties replaces any benefit they grant from being mastercraft.
 
-### Mastercraft weapons 
+### Mastercraft weapons
 
 Mastercraft weapons are particularly sharp and sturdy. You gain a +1 bonus to damage rolls made with a mastercraft weapon. Your weapon is less likely to break under normal use. Ammunition generally cannot be mastercrafted. If a mastercraft weapon gains a bonus to damage from any other source, that bonus replaces the bonus granted from the weapon being a mastercraft weapon. Mastercraft weapons cost 300 GPs more than the base price of the weapon. A mastercraft weapon can also be silvered, but this costs an additional 100 GPs. 
 
 ### Mastercraft Armor 
 
-Mastercraft armor and shields provide the same protection as their normal counterparts but weigh less. Mastercraft light armor, medium armor, and shields weigh half as much as normal. Mastercraft heavy armor weighs three-quarters as much as normal. The strength score required to wear mastercraft heavy armor before one's speed is reduced is one point less than the listed score. Mastercraft armor and shields are less likely to break under normal use. They cost twice as much as their normal counterparts. 
+Mastercraft armor and shields provide the same protection as their normal counterparts but weigh less. Mastercraft light armor, medium armor, and shields weigh half as much as normal. Mastercraft heavy armor weighs three-quarters as much as normal. The strength score required to wear mastercraft heavy armor before one's speed is reduced is one point less than the listed score. Mastercraft armor and shields are less likely to break under normal use. They cost twice as much as their normal counterparts.
 
 ### Mastercraft Tools 
 
@@ -1912,23 +2223,49 @@ Mastercraft tools are created with such quality that they make it easier for you
 
 Джерело: [http://farlandworld.com/mastercraft.html](http://farlandworld.com/mastercraft.html)
 
-# Rare materials
+## Rare materials
 
-Material/Treatment Cost Adamantine 428 gp per lb Adamant x gp Arandur x gp Darksteel x gp Dlarun x gp Dragonhide x gp Gold 50 gp per lb Mithral 210 gp per lb Silver 5 gp per lb Telstang x gp Blueshine x gp Everbright x gp Halabar's Stealth x gp
+| Material/Treatment | Cost           |
+| ------------------- | --------------- |
+| Adamantine         | 428 gp per lb |
+| Adamant            | x gp           |
+| Arandur            | x gp           |
+| Darksteel          | x gp           |
+| Dlarun             | x gp           |
+| Dragonhide         | x gp           |
+| Gold               | 50 gp per lb   |
+| Mithral            | 210 gp per lb  |
+| Silver             | 5 gp per lb    |
+| Telstang           | x gp           |
+| Blueshine          | x gp           |
+| Everbright         | x gp           |
+| Halabar's          | Stealth x gp    |
 
-Hides & Leathers Dragon Leather: Armor \(leather, studded leather, scale mail, hide\): The powerful virtues of dragon's hide can be invested into suits of armor made of the material by cunning craftsmen. When you're wearing armor made from it, you reduce the damage taken from slashing and piercing injuries by 1. You additionally reduce damage taken from a single damage type that corresponds with the original dragon's breath weapon by 1 \(fire for red dragons, lightning for blue, etc\). Wearers are warned, however, that dragons do take ill to those they encounter wearing this. Metals Adamantine: An alloy of adamant, silver, and electrum, or of steel and mithral, it is black in color, with a green sheen in candlelight or a purple-white light in magical radiance. Armor \(Chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate\): Adamant makes armor of exquisite diamond-hard substance. While you're wearing it, any critical hit against you becomes a normal hit. Weapons: Though adamantine weapons have no additional properties, adamantine takes and holds magic quite well. Many magical weapons are wrought of adamantine because of this. Adamant: A gleaming, glossy black refinement of adamantine, a natural jet-black ferromagnetic ore found in obsidian beds. It is gleaming, glossy black, with a rainbow sheen in bright light. It is too brittle to make keen weapons from, but is a favorite of dwarf-folk for hammers. Armor \(Chain shirt, scale mail, ring mail, chain mail, splint\): Though this jet black metal is too fragile to form actual armor, strips of it can be used to reinforce flexible armors. It strengthens the armor minutely, but its main property is to partially absorb fire. You reduce all slashing damage by 1, and all fire damage by 1d6. In any combat in which you take bludgeoning damage, however, roll a d20 at the end of the combat. If you roll a 9 or lower, the strips of adamant have been shattered and will need to be repaired \(which costs 20% of the cost to install the reinforcements\) by a smith skilled in the working of adamant. Until repairs are done, you lose all benefits of this material. Weapons \(bludgeoning\): When you have advantage on an attack roll, if the lower of the two dice would also hit your target's AC, you inflict an additional d4 damage. Arandur: Once the exclusive secret of the gnome-kind, arandur is a gleaming silver-blue metal, with a green reflective sheen in sunlight. It also naturally absorbs the magical injuries used to inflict raw kinetic injuries. Armor \(scale mail, breastplate, half plate; splint, plate; shield\): When used to make non-flexible metal armors, arandur grants its wearer the ability to reduce force damage by 2. Weapons \(slashing or piercing\): Arandur can be honed to wicked edges that are not easily dulled. When you inflict a critical with a slashing or piercing weapons wrought of arandur, add your Proficiency bonus to the final damage total. Darksteel: A silvery metal with a shadowed cast that gleams purple-ish in firelight, darksteel's making is lost today, an ancient secret of teh Ironstar clan of dwarves. Smiths throughout the Realms offer great amounts of gold for the recovery of any lost ingots of the metal. Armor \(Chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate\): Armor wrought of darksteel reduces all bludgeoning and lightning damage inflicted to the wearer by 1. Dlarun: A little known halfling metal dug up from clumps of river clay and then kilned at high temperatures, dlarun is a bone-white metal that can take a high polish, and gains a distinctive greenish sheen under magical lighting. It has the strange benefit of steadying the minds of those that wear it. Armor \(Studded leather; breastplate, half plate; splint, plate; shield\): Armor wrought of dlarun reduces all bludgeoning and psychic damage by 1, and grants a +1 to saves against all Enchantment spells. Gold: Though quite precious, gold is still considered one of the "common metals." Gold is aligned with solar and celestial magics, purifying undeath. Gold continually flakes and chips away, however, necessitating constant \(although simple\) repairs. Armor \(any\): Though gold is too soft to make armor from, while wearing gold-filigreed armor, reduce all necrotic damage taken by 1. For each item of armor possessed and used, add the following costs to your Lifestyle expenditures per month: 1sp for light armor or shield, 5sp for medium armor, 1gp for heavy armor. Weapon \(any\): Gold-filigreed weapons used to strike the undead inflict 1 additional point of radiant damage. For each such weapon, add 2sp to your Lifestyle cost expenditures per month. Mithral: Called the "truemetal" by dwarf-folk, mithral is derived from soft, glittering, silvery-black ore found in rare veins and pockets from the depths of the Underdark to surface rocks. Armor \(chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate; shield\): Mithral lends subtlety and grace to the wearer. If the armor normally inflicts disadvantage on Stealth rolls, that property is negated. If it does not, then the armor can be worn normally under clothes without giving away the fact that the wearer is wearing armor. Weapons \(slashing or piercing\): The fine edge of mithral is sung about in elven ballads, and with good reason. When you have advantage on an attack roll, if the lower of the two dice would also hit your target's AC, you inflict an additional d4 damage. Silver: Another common metal, silver is aligned with the powers and mysteries of Selûne. Weapon \(any\): Many creatures take grievous wounds from silvered weapons. Though the metal is too soft and costly to make weapons from directly, weapons can easily be silvered with the stuff, granting the property of the metal without taking away from its utility. Telstang: Originally a gnomish secret, this alloy of copper, mithral, platinum, and silver is a dull pewter-silver in hue, and gives off a clear bell-like tone when struck with another metal \(leading to its other name of "singing metal"\). It also collects and reverberates sudden sonic assaults outward away from itself. Armor \(Scale mail, breastplate, half plate; splint, plate\): Though telstang's construction make it largely unsuitable for armors, some craft them anyway for its two tremendous benefits. The first is that any sonic damage taken by the wearer is reduced by 1d6 points. The second is that the wearer automatically succeeds at any saving throws that paralyze or change his shape. Any critical hit with bludgeoning or force damage shatters your armor, however \(though this critical hit only inflicts normal damage instead of doubling it\). Metal Treatments These are alchemical and metallurgical treatments used to treat specific kinds of metals.
+**Hides & Leathers Dragon Leather: Armor \(leather, studded leather, scale mail, hide\):** The powerful virtues of dragon's hide can be invested into suits of armor made of the material by cunning craftsmen. When you're wearing armor made from it, you reduce the damage taken from slashing and piercing injuries by 1. You additionally reduce damage taken from a single damage type that corresponds with the original dragon's breath weapon by 1 \(fire for red dragons, lightning for blue, etc\). Wearers are warned, however, that dragons do take ill to those they encounter wearing this. Metals Adamantine: An alloy of adamant, silver, and electrum, or of steel and mithral, it is black in color, with a green sheen in candlelight or a purple-white light in magical radiance. 
 
-Blueshine: Metal weapons and armor. A treatment that gives a bluish sheen to any items wrought of iron, steel, adamantine, arandur, darksteel, mithral, silver, or telstang, blueshine helps negate caustic substances. The metal part of weapons coated in the stuff become immune to acid damage, and armors coated in it grant resistance to acid damage: reduce all acid damage taken by 1 for medium armors or 2 for heavy armors. Everbright: Metal weapons and armor. A dwarven process now known to smiths of many folk, everbright-treated items gleam with a mirror finish \(like a chromium finish\). Metal objects \(which can only be made of steel, adamantine, or mithral\) treated with everbright are immune to rust and the passage of time, and those wearing armor or bearing shields treated with it reduce radiant damage taken by 1 for medium armors and shields or 2 for heavy armors. Remaining unseen while wearing such armor is quite difficult, however; those searching visually for everbright-clad characters gain advantage on their checks to spot them. Halabar's Stealth: Metal weapons and armor. An expensive but increasingly common metal treatment that renders metallic weapons and armor nonferromagnetic, nonreflective, and wholly silent, not even clanging when struck against other metals or stone. Drawing or wielding such weapons will not reveal a hidden character, and metal armor wrought of it does not inflict disadvantage on Stealth checks.
+**Armor \(Chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate\):** Adamant makes armor of exquisite diamond-hard substance. While you're wearing it, any critical hit against you becomes a normal hit. Weapons: Though adamantine weapons have no additional properties, adamantine takes and holds magic quite well. Many magical weapons are wrought of adamantine because of this. 
 
-# Расходуемое снаряжение
+**Adamant:** A gleaming, glossy black refinement of adamantine, a natural jet-black ferromagnetic ore found in obsidian beds. It is gleaming, glossy black, with a rainbow sheen in bright light. It is too brittle to make keen weapons from, but is a favorite of dwarf-folk for hammers. **Armor \(Chain shirt, scale mail, ring mail, chain mail, splint\):** Though this jet black metal is too fragile to form actual armor, strips of it can be used to reinforce flexible armors. It strengthens the armor minutely, but its main property is to partially absorb fire. You reduce all slashing damage by 1, and all fire damage by 1d6. In any combat in which you take bludgeoning damage, however, roll a d20 at the end of the combat. If you roll a 9 or lower, the strips of adamant have been shattered and will need to be repaired **\(which costs 20% of the cost to install the reinforcements\)** by a smith skilled in the working of adamant. Until repairs are done, you lose all benefits of this material. Weapons **\(bludgeoning\):** When you have advantage on an attack roll, if the lower of the two dice would also hit your target's AC, you inflict an additional d4 damage. 
 
-**Alchemical Fire**
+**Arandur:** Once the exclusive secret of the gnome-kind, arandur is a gleaming silver-blue metal, with a green reflective sheen in sunlight. It also naturally absorbs the magical injuries used to inflict raw kinetic injuries. **Armor \(scale mail, breastplate, half plate; splint, plate; shield\):** When used to make non-flexible metal armors, arandur grants its wearer the ability to reduce force damage by 2. Weapons **\(slashing or piercing\):** Arandur can be honed to wicked edges that are not easily dulled. When you inflict a critical with a slashing or piercing weapons wrought of arandur, add your Proficiency bonus to the final damage total. 
 
-**Acid**
+**Darksteel:** A silvery metal with a shadowed cast that gleams purple-ish in firelight, darksteel's making is lost today, an ancient secret of teh Ironstar clan of dwarves. Smiths throughout the Realms offer great amounts of gold for the recovery of any lost ingots of the metal. **Armor \(Chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate\):** Armor wrought of darksteel reduces all bludgeoning and lightning damage inflicted to the wearer by 1. 
 
-**Antitoxin**
+**Dlarun:** A little known halfling metal dug up from clumps of river clay and then kilned at high temperatures, dlarun is a bone-white metal that can take a high polish, and gains a distinctive greenish sheen under magical lighting. It has the strange benefit of steadying the minds of those that wear it. **Armor \(Studded leather; breastplate, half plate; splint, plate; shield\):** Armor wrought of dlarun reduces all bludgeoning and psychic damage by 1, and grants a +1 to saves against all Enchantment spells. 
 
-**Holy water**
+**Gold:** Though quite precious, gold is still considered one of the "common metals." Gold is aligned with solar and celestial magics, purifying undeath. Gold continually flakes and chips away, however, necessitating constant **\(although simple\) repairs. Armor \(any\):** Though gold is too soft to make armor from, while wearing gold-filigreed armor, reduce all necrotic damage taken by 1. For each item of armor possessed and used, add the following costs to your Lifestyle expenditures per month: 1sp for light armor or shield, 5sp for medium armor, 1gp for heavy armor. **Weapon \(any\):** Gold-filigreed weapons used to strike the undead inflict 1 additional point of radiant damage. For each such weapon, add 2sp to your Lifestyle cost expenditures per month.
+
+**Mithral:** Called the "truemetal" by dwarf-folk, mithral is derived from soft, glittering, silvery-black ore found in rare veins and pockets from the depths of the Underdark to surface rocks. 
+**Armor \(chain shirt, scale mail, breastplate, half plate; ring mail, chain mail, splint, plate; shield\):** Mithral lends subtlety and grace to the wearer. If the armor normally inflicts disadvantage on Stealth rolls, that property is negated. If it does not, then the armor can be worn normally under clothes without giving away the fact that the wearer is wearing armor. **Weapons \(slashing or piercing\):** The fine edge of mithral is sung about in elven ballads, and with good reason. When you have advantage on an attack roll, if the lower of the two dice would also hit your target's AC, you inflict an additional d4 damage. 
+
+**Silver:** Another common metal, silver is aligned with the powers and mysteries of Selûne. **Weapon \(any\):** Many creatures take grievous wounds from silvered weapons. Though the metal is too soft and costly to make weapons from directly, weapons can easily be silvered with the stuff, granting the property of the metal without taking away from its utility. 
+
+**Telstang:** Originally a gnomish secret, this alloy of copper, mithral, platinum, and silver is a dull pewter-silver in hue, and gives off a clear bell-like tone when struck with another metal \(leading to its other name of "singing metal"\). It also collects and reverberates sudden sonic assaults outward away from itself. **Armor \(Scale mail, breastplate, half plate; splint, plate\):** Though telstang's construction make it largely unsuitable for armors, some craft them anyway for its two tremendous benefits. The first is that any sonic damage taken by the wearer is reduced by 1d6 points. The second is that the wearer automatically succeeds at any saving throws that paralyze or change his shape. Any critical hit with bludgeoning or force damage shatters your armor, however \(though this critical hit only inflicts normal damage instead of doubling it\). Metal Treatments These are alchemical and metallurgical treatments used to treat specific kinds of metals.
+
+**Blueshine:** Metal weapons and armor. A treatment that gives a bluish sheen to any items wrought of iron, steel, adamantine, arandur, darksteel, mithral, silver, or telstang, blueshine helps negate caustic substances. The metal part of weapons coated in the stuff become immune to acid damage, and armors coated in it grant resistance to acid damage: reduce all acid damage taken by 1 for medium armors or 2 for heavy armors. 
+
+**Everbright:** Metal weapons and armor. A dwarven process now known to smiths of many folk, everbright-treated items gleam with a mirror finish \(like a chromium finish\). Metal objects \(which can only be made of steel, adamantine, or mithral\) treated with everbright are immune to rust and the passage of time, and those wearing armor or bearing shields treated with it reduce radiant damage taken by 1 for medium armors and shields or 2 for heavy armors. Remaining unseen while wearing such armor is quite difficult, however; those searching visually for everbright-clad characters gain advantage on their checks to spot them. Halabar's Stealth: Metal weapons and armor. An expensive but increasingly common metal treatment that renders metallic weapons and armor nonferromagnetic, nonreflective, and wholly silent, not even clanging when struck against other metals or stone. Drawing or wielding such weapons will not reveal a hidden character, and metal armor wrought of it does not inflict disadvantage on Stealth checks.
+
 
 # Spellbook Costs
 
@@ -2259,8 +2596,112 @@ If the contest ends in a tie, the situation remains the same as it was before th
 
 Likewise, if you tie in a contest to hide from another creature, your situation with respect to that creature does not change. If the creature was already aware of you before the contest, you fail to hide. If it was not aware of you before the contest, you remain hidden.
 
+# DM Guidelines
 
-# DM GUIDE
+## Resolving Tasks
+
+In the DUNGEONS & DRAGONS® game, a Dungeon Master must take a number of roles, all at the same time. A DM serves as a referee, interpreting the rules and resolving any conflicts that arise because of them. The DM builds the world, creates adventures, and places monsters and treasure. The DM is the characters’ eyes and ears, describing what the characters can see and hear to the players.
+
+The first rule of being a good DM is to remember that the rules are a tool that you and the players use to have a good time. The rules aren’t in charge. You, the DM, are the one in charge of the game. Guide the play experience and the use of the rules so that as many of your players have a good time as possible. There will be setbacks, such as a character being slain by an unlucky die roll, but look for ways to turn setbacks into interesting complications in the game’s story.
+
+The second rule is to remember that the DM’s power comes with responsibility. Be fair and impartial with the players. Don’t force your story upon them or give them a game where their choices don’t matter. By the same token, challenge their characters with deadly monsters, fiendish traps, and vexing puzzles. A good DM is no pushover, but a good DM is also never simply out to slaughter the characters.
+
+## When to Use Dice
+
+Characters in the D&D game frequently attempt a tremendous variety of tasks, from running across a swinging rope bridge to talking their way out of a sticky spot with an orc chieftain. All these tasks are resolved in an interaction between you (the DM] and the player whose character is attempting the task.
+
+When a player wants to take an action, it’s often appropriate to just let the action succeed. A character doesn’t normally need to make a Dexterity check to walk across an empty room, or a Charisma check to order a mug of ale in a tavern. Only call for a roll if you think it’s worth taking the time for the rules to come into the flow of the game. Ask yourself two questions to aid your decision.
+Is the action being taken so easy, so free of stress or conflict, or so appropriate to the situation that there should be no chance of failure? “So easy” should take into account the ability score associated with the intended action. It’s easy for someone with a Strength score of 18 to flip over a table, though not easy for someone with a Strength score of 9.
+
+Is the action being taken so inappropriate or impossible that it would never work? Hitting the moon with an arrow is, for instance, impossible in almost any circumstance.
+
+If the answer to both of these questions is no, some kind of roll is appropriate.
+
+# Exploration
+
+## Hazards
+
+Is there a chance that failing a task might lead to a disastrous outcome for the character? You decide whether a hazard applies to a particular ability check and when the hazard applies.
+
+A hazard might affect a character who fails an ability check. For example, a character who attempts and fails a Strength (Athletics] check to jump across a pit that he or she couldn’t normally clear probably falls into the pit. Sometimes, though, a hazard kicks in only if the character misses the ability check’s DC (or loses a contest] by a significant margin, such as 5 or 10. Examples of hazards can be found in the “Tasks and Skills” section.
+
+### Requirements
+
+A task might require a specific tool or circumstance for a character to have any chance of success. For example, you might need a magnifying glass to accurately appraise a gem.
+
+A character who cannot meet the requirements for a task automatically fails. One who meets them can attempt an ability check as normal for the task.
+
+You can decide to waive this requirement, but the task should be hard to complete without it. You might give the character disadvantage on the ability check, or set the DC higher than you would for a character who met the requirement.
+
+Otherwise, requirements should come up only rarely. Use them to encourage the players to come up with clever solutions, not to punish them for trying to do interesting things.
+
+## Engaging the Players
+
+As a DM, you could memorize these guidelines, apply them flawlessly, and still miss out on the point of D&D. Unlike some other games, D&D is a flexible set of guidelines, not a rigid set of laws.
+
+When you ask a player to make an ability check, an attack, or a saving throw, you first should focus on engaging the players’ imaginations. Describe the scene to them, and pull in details such as sights, sounds, and even smells to make the action vivid.
+More important, you want the players to become fully engaged in the game. Reward inventive players who look beyond game options to describe their characters’ actions. Roleplaying games stand out from other types of games because they allow for this type of creativity. Encourage it whenever you can.
+
+The easiest way to do so is to make imaginative solutions the easiest path to success for the adventurers. Consider the following options.
+
+**Ability Checks.** When a player makes an ability check, invite him or her to describe the character’s action. If the player makes clever use of the situation in the description, consider either granting an automatic success or advantage on the ability check.
+Contests. In a contest, an ingenious description that points to a key advantage that a character might gain could lead you to grant the character advantage on the check.
+
+**Attacks and Saving Throws.** A colorful description is nice for attacks and saving throws, but should rarely be the avenue to gaining a concrete game benefit, since it is too easy to abuse such an approach. You might have players endlessly describing how they resist a mind flayer’s mind blast or trying to narrate every detail of a sword blow. In most cases, spells and special abilities serve to grant characters advantage on their attacks and saving throws.
+
+That said, if the situation warrants it, use advantage to grant a character an edge.
+
+**Disadvantage.** Not every idea is a good one. A character might try to win the prince’s favor by bragging about all the bandits he or she slew, not realizing that the prince is an avowed pacifist. If an idea backfires on a player, apply disadvantage to the ability check or attack.## Multiple Ability Checks
+
+Sometimes a character fails an ability check and wants to try again. You have a couple of options in this case.
+
+In most cases, the character can simply try again. The only real cost is the time it takes. The character keeps trying and, after enough time passes, eventually succeeds. To speed things up, you can assume that a character can automatically succeed at a task if he or she spends twenty times the normal amount of time needed to complete it. This exception does not allow a character to turn an impossible task into a successful one.
+
+In other cases, the first failure renders subsequent ability checks impossible. For instance, a rogue tries to trick a town guard into thinking that the group members are undercover agents of the king. The rogue loses the contest of Charisma (Deception] against Wisdom. The same lie told again clearly won’t work.
+
+### Dungeon Adventuring
+
+
+It should come as no surprise that dungeons, subterranean complexes of maze-like passages and chambers, play a key role in DUNGEONS & DRAGONS. Most adventures feature at least one dungeon, and it's possible to set a campaign entirely within an enormous, sprawling dungeon that can take characters from 1st to 20th level.
+
+This section provides a turn-based system for exploring a dungeon. The rules address how to move through and investigate a dungeon, the tasks that characters can undertake while they explore, and how those tasks are performed.
+
+Your Dungeon Map
+Before the characters can explore your dungeon, you need to have a map that outlines its key geographic features and terrain.
+A dungeon can range in size from a few chambers beneath a ruined temple to a huge complex of rooms and passages that extends hundreds of feet below the earth. It's best to use graph paper to map your dungeon, with each square on the paper representing an area of 10 feet by 10 feet.
+You track the characters' movement on your map to determine what sort of obstacles and monsters they encounter. Your adventure notes should indicate the contents of key chambers and passages in the dungeon.
+Light. Darkness might be the default condition inside an underground complex, but your dungeon can still have plenty of light sources. Most inhabited areas might be illuminated to some extent; even creatures that can see in the dark still use fire for warmth, cooking, and defense.
+ 
+At the other end of the spectrum, many subterranean creatures, including undead, have no need for light, either because they have darkvision or because they don't rely on sight. In regions where these creatures operate, the characters must bring their own light sources.
+Dungeon Features
+At its most basic, a dungeon is composed of spaces that are enclosed by walls and separated from one another by doors and other barriers. It has other features, such as traps and portcullises, that further set it apart from aboveground adventuring environments.
+Walls. The walls in a dungeon can be thick, natural stone formations or manufactured structures (usually wooden] built to subdivide large chambers.
+Walls have hit points and can be destroyed. A creature can break through a 5-foot-square section of wall by succeeding on a Strength check with a DC equal to the wall's current hit points. The hit points and break DC for a section of wall are determined by its material and thickness.
+Hit Points/Inch of Thickness
+60
+5
+30
+30
+10
+Doors. Intelligent dungeon inhabitants will barricade or lock doors when possible, especially if they expect attackers. The DC to break down a door depends on the materials used to create it. In addition, characters can attack doors in an attempt to batter them down. The Strength DC to break down a door equals its current hit points.
+Door Material Hit Points
+Adamantine	120
+Glass	5
+Iron	60
+Stone	60
+Wood	10
+Portcullis. A portcullis is a set of vertical bars reinforced with one or two horizontal bands of iron. A portcullis is dropped to block a passage, 
+with a winch and chain used to raise it back up. The big benefit provided by a portcullis is that it blocks a passage while still allowing guards to watch the area beyond and fire arrows or cast spells into it.
+A portcullis can be lifted as an action that requires a DC 20 Strength check, or no check if a character can use that action to turn its winch. A creature that makes a DC 25 Strength check can bend the portcullis’s bars apart to allow creatures to pass through it.
+Secret Doors. Some doors in a dungeon are crafted to blend into the walls that surround them. An Intelligence (Search] check is required to find clues pointing to the presence of a secret door. The DC is 10, 20, or 30, with higher DCs denoting better craftsmanship. A secret door that has been detected is treated like a normal door of the appropriate material (usually stone].
+Traps. Intelligent dungeon dwellers set traps in areas where they expect enemies to approach, while long-forgotten tombs might have traps set hundreds of years ago.
+The Dungeon Turn
+This is the sequence of play for a minute of travel and exploration in a dungeon.
+1.	Travel Pace and Exploration Tasks. The players decide what direction their characters will move in and their travel pace. They also decide on their exploration tasks, chosen from the list under “Exploration Tasks.” The players should also determine their formation (often called “marching order”]: who is in the front, the middle, and the back of the group.
+2.	Progress on the Map. Follow the characters’ path on your dungeon map, describing what they see and allowing them to make decisions as they move. The characters might encounter creatures that you have placed in certain locations. If they do so, an interaction or combat encounter ensues.
+3.	Random Encounters. Check for random encounters once every 10 minutes. If monsters are encountered, resolve any interaction or combat that occurs between the creatures and the characters.
+After performing these steps, go back to the first step and repeat the sequence for another turn.
+
 
 ## Шаблон поселений
 
@@ -2305,28 +2746,6 @@ Likewise, if you tie in a contest to hide from another creature, your situation 
 Таблица присутствия фракций
 
 Таблица зацепок для приключения в регионе
-
-# DM Guidelines
-
-## Resolving Tasks
-
-In the DUNGEONS & DRAGONS® game, a Dungeon Master must take a number of roles, all at the same time. A DM serves as a referee, interpreting the rules and resolving any conflicts that arise because of them. The DM builds the world, creates adventures, and places monsters and treasure. The DM is the characters’ eyes and ears, describing what the characters can see and hear to the players.
-The first rule of being a good DM is to remember that the rules are a tool that you and the players use to have a good time. The rules aren’t in charge. You, the DM, are the one in charge of the game. Guide the play experience and the use of the rules so that as many of your players have a good time as possible. There will be setbacks, such as a character being slain by an unlucky die roll, but look for ways to turn setbacks into interesting complications in the game’s story.
-
-The second rule is to remember that the DM’s power comes with responsibility. Be fair and impartial with the players. Don’t force your story upon them or give them a game where their choices don’t matter. By the same token, challenge their characters with deadly monsters, fiendish traps, and vexing puzzles. A good DM is no pushover, but a good DM is also never simply out to slaughter the characters.
-
-## When to Use Dice
-
-Characters in the D&D game frequently attempt a tremendous variety of tasks, from running across a swinging rope bridge to talking their way out of a sticky spot with an orc chieftain. All these tasks are resolved in an interaction between you (the DM] and the player whose character is attempting the task.
-
-When a player wants to take an action, it’s often appropriate to just let the action succeed. A character doesn’t normally need to make a Dexterity check to walk across an empty room, or a Charisma check to order a mug of ale in a tavern. Only call for a roll if you think it’s worth taking the time for the rules to come into the flow of the game. Ask yourself two questions to aid your decision.
-Is the action being taken so easy, so free of stress or conflict, or so appropriate to the situation that there should be no chance of failure? “So easy” should take into account the ability score associated with the intended action. It’s easy for someone with a Strength score of 18 to flip over a table, though not easy for someone with a Strength score of 9.
-
-Is the action being taken so inappropriate or impossible that it would never work? Hitting the moon with an arrow is, for instance, impossible in almost any circumstance.
-
-If the answer to both of these questions is no, some kind of roll is appropriate.
-
-
 ## Шаблон истории (приключения)
 
 ВАЖНО! Для описания использовать наметки Александриана и Hack&Slash
@@ -2351,93 +2770,9 @@ If the answer to both of these questions is no, some kind of roll is appropriate
 1) Мотивация персонажей. Почему персонажи захотят участвовать в этом приключении?
 2) Мотивация игроков. Почему игроки захотят участвовать в этом приключении?
 
-# Exploration
-
-## Hazards
-Is there a chance that failing a task might lead to a disastrous outcome for the character? You decide whether a hazard applies to a particular ability check and when the hazard applies.
-
-A hazard might affect a character who fails an ability check. For example, a character who attempts and fails a Strength (Athletics] check to jump across a pit that he or she couldn’t normally clear probably falls into the pit. Sometimes, though, a hazard kicks in only if the character misses the ability check’s DC (or loses a contest] by a significant margin, such as 5 or 10. Examples of hazards can be found in the “Tasks and Skills” section.
-
-### Requirements
-
-A task might require a specific tool or circumstance for a character to have any chance of success. For example, you might need a magnifying glass to accurately appraise a gem.
-
-A character who cannot meet the requirements for a task automatically fails. One who meets them can attempt an ability check as normal for the task.
-
-You can decide to waive this requirement, but the task should be hard to complete without it. You might give the character disadvantage on the ability check, or set the DC higher than you would for a character who met the requirement.
-
-Otherwise, requirements should come up only rarely. Use them to encourage the players to come up with clever solutions, not to punish them for trying to do interesting things.
-
-## Engaging the Players
-
-As a DM, you could memorize these guidelines, apply them flawlessly, and still miss out on the point of D&D. Unlike some other games, D&D is a flexible set of guidelines, not a rigid set of laws.
-
-When you ask a player to make an ability check, an attack, or a saving throw, you first should focus on engaging the players’ imaginations. Describe the scene to them, and pull in details such as sights, sounds, and even smells to make the action vivid.
-More important, you want the players to become fully engaged in the game. Reward inventive players who look beyond game options to describe their characters’ actions. Roleplaying games stand out from other types of games because they allow for this type of creativity. Encourage it whenever you can.
-
-The easiest way to do so is to make imaginative solutions the easiest path to success for the adventurers. Consider the following options.
-
-Ability Checks. When a player makes an ability check, invite him or her to describe the character’s action. If the player makes clever use of the situation in the description, consider either granting an automatic success or advantage on the ability check.
-Contests. In a contest, an ingenious description that points to a key advantage that a character might gain could lead you to grant the character advantage on the check.
-
-Attacks and Saving Throws. A colorful description is nice for attacks and saving throws, but should rarely be the avenue to gaining a concrete game benefit, since it is too easy to abuse such an approach. You might have players endlessly describing how they resist a mind flayer’s mind blast or trying to narrate every detail of a sword blow. In most cases, spells and special abilities serve to grant characters advantage on their attacks and saving throws.
-
-That said, if the situation warrants it, use advantage to grant a character an edge.
-
-Disadvantage. Not every idea is a good one. A character might try to win the prince’s favor by bragging about all the bandits he or she slew, not realizing that the prince is an avowed pacifist. If an idea backfires on a player, apply disadvantage to the ability check or attack.
-
-## Кульминация
+Кульминация
 
 Это самая драматичная сцена приключения. Часто именно от нее зависит исход приключения и развязка.
-
-## Multiple Ability Checks
-
-Sometimes a character fails an ability check and wants to try again. You have a couple of options in this case.
-
-In most cases, the character can simply try again. The only real cost is the time it takes. The character keeps trying and, after enough time passes, eventually succeeds. To speed things up, you can assume that a character can automatically succeed at a task if he or she spends twenty times the normal amount of time needed to complete it. This exception does not allow a character to turn an impossible task into a successful one.
-
-In other cases, the first failure renders subsequent ability checks impossible. For instance, a rogue tries to trick a town guard into thinking that the group members are undercover agents of the king. The rogue loses the contest of Charisma (Deception] against Wisdom. The same lie told again clearly won’t work.
-
-# Dungeon Adventuring
-
-
-It should come as no surprise that dungeons, subterranean complexes of maze-like passages and chambers, play a key role in DUNGEONS & DRAGONS. Most adventures feature at least one dungeon, and it's possible to set a campaign entirely within an enormous, sprawling dungeon that can take characters from 1st to 20th level.
-This section provides a turn-based system for exploring a dungeon. The rules address how to move through and investigate a dungeon, the tasks that characters can undertake while they explore, and how those tasks are performed.
-Your Dungeon Map
-Before the characters can explore your dungeon, you need to have a map that outlines its key geographic features and terrain.
-A dungeon can range in size from a few chambers beneath a ruined temple to a huge complex of rooms and passages that extends hundreds of feet below the earth. It's best to use graph paper to map your dungeon, with each square on the paper representing an area of 10 feet by 10 feet.
-You track the characters' movement on your map to determine what sort of obstacles and monsters they encounter. Your adventure notes should indicate the contents of key chambers and passages in the dungeon.
-Light. Darkness might be the default condition inside an underground complex, but your dungeon can still have plenty of light sources. Most inhabited areas might be illuminated to some extent; even creatures that can see in the dark still use fire for warmth, cooking, and defense.
- 
-At the other end of the spectrum, many subterranean creatures, including undead, have no need for light, either because they have darkvision or because they don't rely on sight. In regions where these creatures operate, the characters must bring their own light sources.
-Dungeon Features
-At its most basic, a dungeon is composed of spaces that are enclosed by walls and separated from one another by doors and other barriers. It has other features, such as traps and portcullises, that further set it apart from aboveground adventuring environments.
-Walls. The walls in a dungeon can be thick, natural stone formations or manufactured structures (usually wooden] built to subdivide large chambers.
-Walls have hit points and can be destroyed. A creature can break through a 5-foot-square section of wall by succeeding on a Strength check with a DC equal to the wall's current hit points. The hit points and break DC for a section of wall are determined by its material and thickness.
-Hit Points/Inch of Thickness
-60
-5
-30
-30
-10
-Doors. Intelligent dungeon inhabitants will barricade or lock doors when possible, especially if they expect attackers. The DC to break down a door depends on the materials used to create it. In addition, characters can attack doors in an attempt to batter them down. The Strength DC to break down a door equals its current hit points.
-Door Material Hit Points
-Adamantine	120
-Glass	5
-Iron	60
-Stone	60
-Wood	10
-Portcullis. A portcullis is a set of vertical bars reinforced with one or two horizontal bands of iron. A portcullis is dropped to block a passage, 
-with a winch and chain used to raise it back up. The big benefit provided by a portcullis is that it blocks a passage while still allowing guards to watch the area beyond and fire arrows or cast spells into it.
-A portcullis can be lifted as an action that requires a DC 20 Strength check, or no check if a character can use that action to turn its winch. A creature that makes a DC 25 Strength check can bend the portcullis’s bars apart to allow creatures to pass through it.
-Secret Doors. Some doors in a dungeon are crafted to blend into the walls that surround them. An Intelligence (Search] check is required to find clues pointing to the presence of a secret door. The DC is 10, 20, or 30, with higher DCs denoting better craftsmanship. A secret door that has been detected is treated like a normal door of the appropriate material (usually stone].
-Traps. Intelligent dungeon dwellers set traps in areas where they expect enemies to approach, while long-forgotten tombs might have traps set hundreds of years ago.
-The Dungeon Turn
-This is the sequence of play for a minute of travel and exploration in a dungeon.
-1.	Travel Pace and Exploration Tasks. The players decide what direction their characters will move in and their travel pace. They also decide on their exploration tasks, chosen from the list under “Exploration Tasks.” The players should also determine their formation (often called “marching order”]: who is in the front, the middle, and the back of the group.
-2.	Progress on the Map. Follow the characters’ path on your dungeon map, describing what they see and allowing them to make decisions as they move. The characters might encounter creatures that you have placed in certain locations. If they do so, an interaction or combat encounter ensues.
-3.	Random Encounters. Check for random encounters once every 10 minutes. If monsters are encountered, resolve any interaction or combat that occurs between the creatures and the characters.
-After performing these steps, go back to the first step and repeat the sequence for another turn.
 
 Развязка
 
@@ -2467,37 +2802,37 @@ After performing these steps, go back to the first step and repeat the sequence 
 
 Гильдия торговцев, благородная семья, рыцарский орден, круг друидов - это всё фракции
 
-Название фракции
+**Название фракции**
 
-Цели
+**Цели**
 
-Мотивация (почему именно эти цели?)
+**Мотивация (почему именно эти цели?)**
 
-Черты
+**Черты**
 
-Связи
+**Связи**
 
-Идеалы
+**Идеалы**
 
-Недостатки
+**Недостатки**
 
-Лидеры
+**Лидеры**
 
-Личный состав (живые ресурсы)
+**Личный состав (живые ресурсы)**
 
-Ресурсы (неживые ресурсы включая географические владения)
+**Ресурсы (неживые ресурсы включая географические владения)**
 
-Враги
+**Враги**
 
-Союзники
+**Союзники**
 
-Стратегия
+**Стратегия**
 
-Тактика
+**Тактика**
 
-Планы на ближайшее время
+**Планы на ближайшее время**
 
-Планы на будущее
+**Планы на будущее**
 
 ## Шаблон описания сил
 
@@ -2505,37 +2840,37 @@ After performing these steps, go back to the first step and repeat the sequence 
 
 Банда преступников, племя орков, клан варваров, армия гоблиноидов, шпионская ячейка, твердыня морозных великанов - это все силы.
 
-Название силы
+**Название силы**
 
-Цели
+**Цели**
 
-Мотивация (почему именно эти цели?)
+**Мотивация (почему именно эти цели?)**
 
-Черты
+**Черты**
 
-Связи
+**Связи**
 
-Идеалы
+**Идеалы**
 
-Недостатки
+**Недостатки**
 
-Лидеры
+**Лидеры**
 
-Личный состав (живые ресурсы)
+**Личный состав (живые ресурсы)**
 
 Ресурсы (неживые ресурсы включая географические владения)
 
-Враги
+**Враги**
 
-Союзники
+**Союзники**
 
-Стратегия
+**Стратегия**
 
-Тактика
+**Тактика**
 
-Планы на ближайшее время
+**Планы на ближайшее время**
 
-Планы на будущее
+**Планы на будущее**
 
 ## Шаблон описания организации (3.5 based)
 
@@ -2561,8 +2896,6 @@ The numbers in this entry are the exact numbers of residents of each class.
  
 ```[Place any special notes about the organization here.]```
 
-
-
 ## Шаблон описания поселения (3.5 based)
 
 ## Генератор целей столкновений
@@ -2571,7 +2904,6 @@ The numbers in this entry are the exact numbers of residents of each class.
 
 ## Генератор наград
 
-
 ## Создание приключения на основе древних руин
 
 [Worldanvil link](https://www.worldanvil.com/w/----fr-palant/a/------article-1-1-1)
@@ -2579,108 +2911,89 @@ The numbers in this entry are the exact numbers of residents of each class.
 ### Двадцать идей для древних приключений
  
 Вы можете использовать идеи, представленные в следующем списке, чтобы разработать приключения и темы кампаний вокруг элементов древнего прошлого.
- 
-d20 Приключение
- 
-1Шахтеры, ведя туннель около разрушенной твердыни, обнаруживают давно потерянную филактерию мощного лича
- 
-2Торговец при сделке расплачивается древними монетами, не понимая, что они отчеканены утерянной империей Торговец не знает происхождения монет и утверждает, что получил их в оплату за предшествующую сделку.
- 
-3Старая народная песня содержит ключ к решению архаичной тайны.
- 
-4Заклинания=обереги, сдерживающие ужасное зло, начали распадаться. Авантюристы должны собрать част разделенного артефакта из мест по всему Фаэруну и собрать его, чтобы восстановить рушащиеся неудачу обереги.
- 
-5Дикая волна заклинателя выдирает объект или существо с прошлого и приносит его в настоящее.
- 
-6Размыв, песчаная буря или землетрясение раскапывает захороненные руины.
- 
-7Торговец на базаре продает авантюристам старый, изношенный предмет, который оказывается мощным древни] артефактом.
- 
-8Обереги невидимости, скрывающие древнюю магическую башню, распадаются, показывая ее существовани удивленным местным жителям,
- 
-9После необычного шторма таинственный артефакт из легенд обнаружен летящим по воздуху.
- 
-10Персонажу снится давно мертвый предок, сообщающий о старой кровавой присяги, которую видящий сон обяза выполнять.
- 
-11Авантюрист узнает, что он происходит из древней королевской линии, забытое королевство которой тепер находится на нецивилизованных землях.
- 
-12Рьяные прихожане давно мертвого бога объявляют о возвращении своего божества.
- 
-13Древняя военная конструкция оживает и начинает буйствовать.
- 
-14Средство против разрушительной магической чумы находится вместе с заключенным злым существом, которо предлагает обменять предмет на свое освобождение.
- 
-15Старый артефакт в древних руинах обнаруживает свое присутствие внезапным испусканием странной магическо энергии.
- 
-16Знаки и предзнаменования из древнего пророчества начинают сбываться.
- 
-17Авантюрист испытывает повторяющиеся видения произошедшего давно ужасающего случая.
- 
-18Долгожитель, покинувший Фаэрун эпохи назад, неожиданно возвращается. Он знает много древних сказаний, но ем можно причинить серьезный вред из-за его устарелой чувствительности и предубеждений.
- 
-19Древний доспех, наполненного разумом легендарного героя, должен выполнить последнюю миссию. Он пытаетс овладеть персоной, которая будет носить его и закончит давно начатое.
- 
-20 Открывается портал в другой мир, предполагая вторжение, подобное тому, которое произошло века назад, когда о открылся первоначально
+
+d20 | Приключение
+---------|----------
+1 |  Шахтеры, ведя туннель около разрушенной твердыни, обнаруживают давно потерянную филактерию мощного лича
+2 |  Торговец при сделке расплачивается древними монетами, не понимая, что они отчеканены утерянной империей Торговец не знает происхождения монет и утверждает, что получил их в оплату за предшествующую сделку.
+3 |  Старая народная песня содержит ключ к решению архаичной тайны.
+4 |  Заклинания=обереги, сдерживающие ужасное зло, начали распадаться. Авантюристы должны собрать част разделенного артефакта из мест по всему Фаэруну и собрать его, чтобы восстановить рушащиеся неудачу обереги.
+5 |  Дикая волна заклинателя выдирает объект или существо с прошлого и приносит его в настоящее.
+6 |  Размыв, песчаная буря или землетрясение раскапывает захороненные руины.
+7 |  Торговец на базаре продает авантюристам старый, изношенный предмет, который оказывается мощным древни] артефактом.
+8 |  Обереги невидимости, скрывающие древнюю магическую башню, распадаются, показывая ее существовани удивленным местным жителям,
+9 |  После необычного шторма таинственный артефакт из легенд обнаружен летящим по воздуху.
+10 | Персонажу снится давно мертвый предок, сообщающий о старой кровавой присяги, которую видящий сон обяза выполнять.
+11 | Авантюрист узнает, что он происходит из древней королевской линии, забытое королевство которой тепер находится на нецивилизованных землях.
+12 | Рьяные прихожане давно мертвого бога объявляют о возвращении своего божества.
+13 | Древняя военная конструкция оживает и начинает буйствовать.
+14 | Средство против разрушительной магической чумы находится вместе с заключенным злым существом, которо предлагает обменять предмет на свое освобождение.
+15 | Старый артефакт в древних руинах обнаруживает свое присутствие внезапным испусканием странной магическо энергии.
+16 | Знаки и предзнаменования из древнего пророчества начинают сбываться.
+17 | Авантюрист испытывает повторяющиеся видения произошедшего давно ужасающего случая.
+18 | Долгожитель, покинувший Фаэрун эпохи назад, неожиданно возвращается. Он знает много древних сказаний, но ем можно причинить серьезный вред из-за его устарелой чувствительности и предубеждений.
+19 | Древний доспех, наполненного разумом легендарного героя, должен выполнить последнюю миссию. Он пытаетс овладеть персоной, которая будет носить его и закончит давно начатое.
+20 | Открывается портал в другой мир, предполагая вторжение, подобное тому, которое произошло века назад, когда о открылся первоначально
  
 ТАБЛИЦА 1: ЖИТЕЛИ РУИН
  
-а% Вид жителей (пример)
+d%  | Вид жителей (пример)
+---------|----------
+01-15 | Прежние жители в форме нежити (тени или привидения)
  
-01-15Прежние жители в форме нежити (тени или привидения)
+16-20 | Паразиты, животные или растения (ужасный медведь)
  
-16-20Паразиты, животные или растения (ужасный медведь)
+21-25 | Дегенерировавшие предки (скулк (ФИ))
  
-21-25Дегенерировавшие предки (скулк (ФИ))
+26-35 | Убитые грабители в форме нежити (гхолы или вампиры)
  
-26-35Убитые грабители в форме нежити (гхолы или вампиры)
+36-55 | Уединенный монстр (дракон, ламия или мантикора)
  
-36-55Уединенный монстр (дракон, ламия или мантикора)
+56-75 | Племя гигантов, чудовищных гуманоидов или злых гуманоидов (гноллы или орки)
  
-56-75Племя гигантов, чудовищных гуманоидов или злых гуманоидов (гноллы или орки)
+76-85 | Страж (аутсайдер или конструкция)
  
-76-85Страж (аутсайдер или конструкция)
- 
-86-100Гуманоидная банда (авантюристы, бандиты или патруль)
+86-100 | Гуманоидная банда (авантюристы, бандиты или патруль)
  
 ТАБЛИЦА 2: ОСОБЕННОСТИ РАЗРУШЕННОГО ГОРОДА ИЛИ ГОРОДКА
  
-а%Особенность (пример)
+d% | Особенность (пример)
+ ---------|----------
+01-02 | Арсенал
  
-01-02Арсенал
+05-07 | Бараки
  
-05-07Бараки
+08-12 | Место погребения (кладбище или мавзолей)
  
-08-12Место погребения (кладбище или мавзолей)
+13-15 | Доки и корабли
  
-13-15Доки и корабли
+16-20 | Укрепления (городские стены или частокол)
  
-16-20Укрепления (городские стены или частокол)
+21-22 | Зверинец или зоопарк
  
-21-22Зверинец или зоопарк
+23-2? | Памятник (статуя или фонтан)
  
-23-2?Памятник (статуя или фонтан)
+26-30 | Дворец
  
-26-30Дворец
+31-35 | Парк
  
-31-35Парк
+36-40 | Общественная территория (игровой дом или арена)
  
-36-40Общественная территория (игровой дом или арена)
+41-60 | Место жительства (лачуга, дом или особняк)
  
-41-60Место жительства (лачуга, дом или особняк)
+61-63 | Школа, колледж или университет
  
-61-63Школа, колледж или университет
+64-68 | Коллектор
  
-64-68Коллектор
+69-78 | Магазин
  
-69-78Магазин
+79-83 | Храм (святыня, собор или священная роща)
  
-79-83Храм (святыня, собор или священная роща)
+84-93 | Склад
  
-84-93Склад
+94-98 | Наблюдательная башня
  
-94-98Наблюдательная башня
- 
-99-100Башня колдуна
+99-100 | Башня колдуна
  
 ## Замки и твердыни
  
@@ -2690,7 +3003,7 @@ d20 Приключение
  
 ТАБЛИЦА 3: ОСОБЕННОСТИ ЗАМКОВ И ТВЕРДЫНЬ
  
-а%Особенность (пример)
+d% Особенность (пример)
  
 01-05Арсенал
  
@@ -2728,7 +3041,7 @@ d20 Приключение
  
 ТАБЛИЦА 4: ОСОБЕННОСТИ ЭКСТРАПРОСТРАНСТВЕННЫХ МЕСТ
  
-аюОсобенность
+d% | Особенность
  
 1Вход в экстрапространственное место невидим.
  
@@ -2752,7 +3065,7 @@ d20 Приключение
  
  
  
-а%Особенность (пример)
+d% Особенность (пример)
  
 01-10Алтарь
  
@@ -2784,7 +3097,7 @@ d20 Приключение
  
 ТАБЛИЦА 6: ОСОБЕННОСТИ МОГИЛ И МЕСТ ПОГРЕБЕНИЯ
  
-а%Особенность (пример)
+d% Особенность (пример)
  
 01-10Курган или могильный холм
  
@@ -2822,7 +3135,7 @@ d20 Приключение
  
 ТАБЛИЦА 7: ОСОБЕННОСТИ БАШНИ
  
-а%Особенность (пример)
+d% | Особенность (пример)
  
 01-05Палаты призывания
  
@@ -2850,7 +3163,7 @@ d20 Приключение
  
 91-100Вернувшиеся служители.
 
-## Rumors
+# Rumors
 
 In addition to the constant threat posed by the numerous monsters of the Savage Frontier, more insidious perils are manifesting. The Zhentarim seek to extend their influence westward from Llorkh. The Kraken Society, an organization of spies, assassins, and sinister dealers in lore and knowledge, is well ensconced in Luskan and other coastal cities and dreams of subverting inland towns such as Yartar along the Dessarin valley. And the Arcane Brotherhood of Luskan contests the influence of Waterdeep's Lords over the region.
 Adventurers come to the Silver Marches to advance the cause of civilization by scouring the land for monster lairs, cleansing dangerous ruins, and driving orc raiders back to their mountain dens. Silverymoon's growth and prosperity have brought new enemies though - the merchants and proud lords of cities such as Luskan and Yartar who grow jealous of the riches that flow through the Silver Marches.
@@ -2963,875 +3276,8 @@ Piracy is an accepted fact of life in the northern Trackless Sea. Pirates attack
 Hellgate Keep vs. Mankind
 The demonic forces of Hellgate Keep continually press against the human and dwarven folk in the northeast. Men have not been able to drive the demons out, but mercenary companies and adventuring bands can always find employ as guardians in Turnstone Pass. A monastery of Helm, near Neverwin- ter, sponsors a company of 100 troops of all character classes each year. This group, called Helm's Hundred, leaves Helm's Hold each spring for Sundabar.
 
-# Дикая местность
 
-Всякий раз, когда персонажи покидают относитель¬ную безопасность Смертельных Снегов и путешествуют на большие расстояния, они подвергаются жестоким погодным условиям и опасным чудовищам диких мест. Смертельные Снега и земли на севере рассматриваются как открытая местность с целью определения случайной погоды (смотрите Главу 2), в то время как большинство других мест в городке и вокруг него считаются альпийскими областями.
 
-С целью столкновений в дикой местности при¬нимайте Смертельные Снега и земли севернее как часть Лунных Земель, Долины Адбар и региона Холодной Долины (**Таблица 2)**. Очевидно, что любой идущий в горы, окружающие город, путешествует через Незерийские Горы (**Таблица 6**). Некоторые из случайных столкновений в дикой местности могут быть смертельными для партий среднего уровня. Шанс столкновения в течение каждого часа путешествия зависит от старания персонажей идти быстро или осторожно, смотрите Столкновения в дикой местности в Главе 2.
-
-Никаких столкновений в дикой местности не происходит в пределах 2 миль от городских стен в тече¬ние дня или в пределах 1 мили - ночью или в плохую погоду. Даже чудища обходят городок стороной, если не ищут себе неприятностей.
-
-# Natural Hazards
-
-Hungry monsters and rapacious brigands occupy the thoughts of many travelers in the North, but in truth these are not the deadliest dangers of this harsh land. Everyday oc￾currences such as a bitter cold snap in winter, an ill-timed snowfall, a forest fire, or a river in flood kill just as many travelers and homesteaders in the Silver Marches as mon￾sters do, and certainly have the potential to inflict much greater damage to property.
-
-## AVALANCHES AND LANDSLIDES
-
-The combination of high mountains and heavy snowfalls means that avalanches are a deadly peril in many areas around the North. The Lands Against the Wall, the Spine of the World, the Rauvin Mountains, and the passes through the Nether Mountains are particularly vulnerable. (Ironically, the Ice Mountains are not so dangerous, since they see less snowfall than their neighbors to the west.) If the snowpack is not high, death can still come hurtling down in the form of a landslide. The extremes of temperature common to the North fiercely weather the sides of mountains and cause many falling rocks throughout the year.
-
-The effects of avalanches and landslides are described in The Environment in Chapter 3 of the DUNGEON MASTER’s Guide. The typical avalanche or landslide has a width of 1d6×100 feet, from one edge of the slide zone to the oppo￾site edge. The bury zone in the center of the avalanche is half as wide as the avalanche’s full width. To determine the pre￾cise location of characters in the path of an avalanche, roll 1d6×20; the result is the number of feet from the center of the path taken by the bury zone to the center of the party’s location. Avalanches advance at a speed of 500 feet per round, landslides at a speed of 250 feet per round.
-
-## THE CLAWS OF THE COLD
-
-Even in the summertime, the mountain passes and high slopes plummet below freezing at night. Most old hands in the Silver Marches own a good set of winter clothing, and are wise enough to stay out of the sort of weather winter clothing won’t help against.
-
-For the effect of cold and extremely cold weather condi￾tions on characters and creatures, see Weather and Cold Dan￾gers, both in Chapter 3 of the DUNGEON MASTER’s Guide.
-
-Cold Water: Characters who become soaked or drenched in cold water (usually by immersion in a mountain stream, but marching in a downpour can do the job) are much more vulnerable to cold damage. Moderate temperatures are treated as cold conditions and cold temperatures are treated as extremely cold conditions for purposes of determining whether a soaked character is vulnerable to cold damage.
-
-This vulnerability remains for 2d4 hours or until a character changes into dry clothes. Soaked clothing provides no protec￾tion against cold damage.
-
-Characters who remain immersed in cold water take 1d6 points of subdual damage per minute of exposure from hy￾pothermia.
-
-Permafrost: North of the Sundabar Vale, permafrost con￾ditions prevail. Even in summer, the ground remains frozen hard a foot or so beneath the surface, except around sun￾warmed rocks. Buried corpses and food in contact with per￾mafrost will freeze (though stone cairns are necessary to keep scavengers away), and ready ice is always handy.
-
-Frozen Lakes and Rivers: During winter, most bodies of water in the Silver Marches freeze over. Most years, the freeze comes in the month of Marpenoth, beginning 1d10+20 days into the month. The ice lasts until the month of Ches, disappearing 1d10+20 days into the month. The thickness of the ice depends on the month and whether or not the water is flowing:
-
-| Month     | Standing Water | Flowing Water |
-| --------- | -------------- | ------------- |
-| Marpenoth | Thin           | —             |
-|           |                |               |
-| Uktar     | Moderate       | Thin          |
-|           |                |               |
-| Nightal   | Thick          | Moderate      |
-|           |                |               |
-| Hammer    | Thick          | Thick         |
-|           |                |               |
-| Alturiak  | Thick          | Thick         |
-|           |                |               |
-| Ches      | Thin           | Thin          |
-
-Thin ice is 1 to 2 inches thick. It supports Small creatures. Medium-size creatures that run, jump, fall, or fight on the ice may cause a break (50% chance per round of such activity).
-
-Moderate ice is 3 to 11 inches thick. It supports Large crea￾tures. Huge creatures that run, jump, fall, or fight on the ice may cause a break (50% chance per round of such activity).
-
-Thick ice may be anywhere from 1 to 4 feet thick. It sup￾ports creatures of any size. Ice has 3 hit points per inch of thickness. If a creature too heavy for the ice causes a break, the ice collapses in a circle whose radius is 5 feet larger than the face (or dimensions) of the creature causing the break. Any creature caught in the fracture area except for the creature causing the break may attempt a Reflex save (DC 15) to reach safe ice before it gives way.
-
-Thin ice is particularly dangerous, because the edges of a fractured area tend to crumble under a swimmer’s efforts to climb out. To climb out, a Small or Medium-size swimmer must succeed at an Escape Artist check (DC 15). Large crea￾tures can’t get back on top of thin ice after it fractures.
-
-Frozen rivers are dangerous, too. Creatures who fall through the ice of a frozen river may be swept away from the hole by the current and trapped under the ice. Apply the drowning rule (see Chapter 3 of the DUNGEON MASTER’s Guide) as necessary.  FOREST FIRES
-
-Most campfire sparks ignite nothing, but if conditions are dry, winds are strong, or the forest floor is dried out and flammable, a forest fire can result. Lightning strikes often set trees afire and start forest fires in this way. Luckily, the lands of the Silver Marches are almost always damp. Small “scorch-smolders” of blackened vegetation are the usual result, not conflagrations that spread for miles. Yet travelers can get caught in fires. The leading edge of a fire (the downwind side) can advance faster than a human can run (assume 120 feet per round for winds of moderate strength). Once a particular portion of the forest is ablaze, it re￾mains so for 2d4×10 minutes before dying to a smolder. Within the bounds of a forest fire, a character faces three dangers: heat damage, catching on fire, and smoke inhalation.
-
-Heat: Getting caught within a forest fire is even worse than being exposed to abysmal heat (see Heat Dangers in Chapter 3 of the DUNGEON MASTER’s Guide). Breathing the air causes a character to take 1d6 points of damage per round (no save). In addition, a character must make a Fortitude save every 5 rounds (DC 15, +1 per previous check) or sustain 1d4 points of subdual damage. A character who holds his breath can avoid the normal damage, but not the subdual damage.
-
-Catching on Fire: Characters engulfed in a forest fire are at risk of catching on fire when the leading edge of the fire overtakes them, and are then at risk once per minute thereafter. See Catch￾ing on Fire in Chapter 3 of the DUNGEON MASTER’s Guide.
-
-Smoke: Forest fires naturally produce a great deal of smoke. A character who breathes heavy smoke must make a Fortitude saving throw each round (DC 15, +1 per previous check) or spend that round choking and coughing. A charac￾ter who chokes for two consecutive rounds takes 1d6 points of subdual damage. Also, smoke obscures vision, giving one￾half concealment (20% miss chance) to characters within it.
-
-## FLOODS
-
-In locales throughout the Silver Marches where heavy pre￾cipitation and steep slopes prevail, floods are common.
-
-Rivers in Flood: In spring, the enormous snowmelt from the slopes of the Nether and Rauvin mountains engorges most of the streams and rivers in and around the Silver Marches. During spring flood, rivers become wider, deeper, and swifter. Assume that a river rises by 1d10+10 feet during the spring flood, and its width increases by a factor of 1d4×50%. Fords may disappear for days, bridges may be swept away, and even ferries might not be able to manage the crossing of a flooded river.A river in flood adds +5 to the DC of any Swim checks that characters attempt. For example, Striding Giant Rapids on the Rauvin might normally be considered rough water (see the Swim skill description in Chapter 4 of the Player’s Hand￾book), which means that Swim checks to get across the river are against DC 15. When this area is in spring flood, the DC rises to 20. (The increase in water depth may make fords too deep for most travelers to wade successfully, so swimming may be their best option if crossing the river is necessary.)
-
-Mountain Torrent: Innumerable swift, strong streams cascade down out of the mountains of the Silver Marches in all seasons. In general, the typical mountain torrent is 5d6 feet in width and studded with boulders. Waterfalls 1d6×10 feet in height occur every 1d4 miles. Unlucky or clumsy characters may find themselves in a fast-moving gauntlet of icy water, deadly rocks, and sudden waterfalls. Refer to Water Dangers in Chapter 3 of the DUNGEON MASTER’s Guide. Characters swept away by the torrent must attempt Swim checks (DC 15) every round to avoid going under. If a character gets a skill check result of 5 or more over the minimum necessary, he arrests his motion by catching a rock, tree limb, or bottom snag—he is no longer being carried along by the flow of the water. Escaping a torrent by reaching the bank requires three suc￾cessful Swim checks (DC 15) in a row. Characters arrested by a rock, limb, or snag can’t escape unless they strike out into the water and attempt to swim their way clear.
-
-Flash Floods: These sudden, short-lived torrents occur after heavy rains or ice breakups in spring. A flash flood typically lasts only 4d4 minutes before the waters recede.  Flash floods advance at a speed of 60 feet. See Flash Floods under Weather Hazards in Chapter 3 of the DUN￾GEON MASTER’s Guide.  FOG
-
-The forgotten peril of the North is its everpresent river mist and mountain fog. Characters traveling along a river by boat  can’t get too lost, of course. However, fogbound overland travel offers a real possibility of running into trees, gullies, and other hazards. A typical fog limits vision to a distance of 1d10×5 feet, completely foiling normal vision and darkvi￾sion beyond this range. Creatures closer than the absolute limit of visibility gain the benefits of one-half concealment (20% miss chance).  
-
-##  Encountering Hazards
-
-An encounter with a natural hazard in motion, such as an avalanche or a forest fire, begins in a particular way de￾pending on the type of hazard.
-
-**Avalanche/Landslide:** An avalanche or landslide can be spotted from as far away as 1d10×500 feet by a character who makes a successful Spot check (DC 20). The DC of the Spot check is modified by any of the conditions that apply from Table 3–2 in the DUNGEON MASTER’s Guide. (Con￾sider the avalanche to be a Colossal encounter, meaning that the DC is immediately reduced by 16.) If all charac￾ters fail their Spot checks to determine the encounter dis￾tance, the avalanche moves closer to them, and they automatically become aware of it when it closes to half the original distance.
-
-It’s possible to hear an avalanche coming even if you can’t see it. Under optimum conditions (no other loud noises occurring), a character who makes a successful Listen check (DC 15) can hear the avalanche or landslide when it is 1d6×500 feet away. This check might have a DC of 20, 25, or higher in conditions where hearing is difficult (such as in the middle of a thunderstorm).
-
-**Forest Fire:** A forest fire can be spotted from as far away as 2d6×100 feet by a character who makes a success￾ful Spot check (DC 20). The DC of the Spot check is modi￾fied by any of the conditions that apply from Table 3–2 in the DUNGEON MASTER’s Guide. (Consider the fire to be a Colossal encounter, meaning that the DC is immediately reduced by 16.) If all characters fail their Spot checks to determine the encounter distance, the fire moves closer to them, and they automatically see it when it closes to half the original distance.Characters who are blinded or otherwise unable to make Spot checks can feel the heat of the fire (and thus auto￾matically “spot” it) when it is 100 feet away.
-
-Natural Hazards
-
-Hungry monsters and rapacious brigands occupy the thoughts of many travelers in the North, but in truth these are not the deadliest dangers of this harsh land. Everyday oc￾currences such as a bitter cold snap in winter, an ill-timed snowfall, a forest fire, or a river in flood kill just as many travelers and homesteaders in the Silver Marches as mon￾sters do, and certainly have the potential to inflict much
-greater damage to property.
-
-## AVALANCHES AND LANDSLIDES
-
-The combination of high mountains and heavy snowfalls means that avalanches are a deadly peril in many areas around the North. The Lands Against the Wall, the Spine of the World, the Rauvin Mountains, and the passes through the Nether Mountains are particularly vulnerable. (Ironically, the Ice Mountains are not so dangerous, since they see less snowfall than their neighbors to the west.) If the snowpack is not high, death can still come hurtling down in the form of a landslide. The extremes of temperature common to the North fiercely weather the sides of mountains and cause many falling rocks throughout the year.
-The effects of avalanches and landslides are described in The Environment in Chapter 3 of the DUNGEON MASTER’s Guide. The typical avalanche or landslide has a width of 1d6×100 feet, from one edge of the slide zone to the oppo￾site edge. The bury zone in the center of the avalanche is half
-as wide as the avalanche’s full width. To determine the pre￾cise location of characters in the path of an avalanche, roll 1d6×20; the result is the number of feet from the center of the path taken by the bury zone to the center of the party’s location. Avalanches advance at a speed of 500 feet per round, landslides at a speed of 250 feet per round. 
-
-THE CLAWS OF THE COLD
-
-Even in the summertime, the mountain passes and high slopes plummet below freezing at night. Most old hands in the Silver Marches own a good set of winter clothing, and are wise enough to stay out of the sort of weather winter clothing won’t help against.
-
-For the effect of cold and extremely cold weather condi￾tions on characters and creatures, see Weather and Cold Dan￾gers, both in Chapter 3 of the DUNGEON MASTER’s Guide.
-Cold Water: Characters who become soaked or drenched in cold water (usually by immersion in a mountain stream, but marching in a downpour can do the job) are much more vulnerable to cold damage. Moderate temperatures are treated as cold conditions and cold temperatures are treated as extremely cold conditions for purposes of determining whether a soaked character is vulnerable to cold damage.
-
-This vulnerability remains for 2d4 hours or until a character changes into dry clothes. Soaked clothing provides no protec￾tion against cold damage.ake 1d6 points of subdual damage per minute of exposure from hy￾pothermia.Permafrost: North of the Sundabar Vale, permafrost con￾ditions prevail. Even in summer, the ground remains frozen hard a foot or so beneath the surface, except around sun￾warmed rocks. Buried corpses and food in contact with per￾mafrost will freeze (though stone cairns are necessary to keep scavengers away), and ready ice is always handy.
-Frozen Lakes and Rivers: During winter, most bodies of water in the Silver Marches freeze over. Most years, the freeze comes in the month of Marpenoth, beginning 1d10+20 days into the month. The ice lasts until the month of Ches, disappearing 1d10+20 days into the month. The thickness of the ice depends on the month and whether or not the water is flowing: 
-
-
-Month | Standing Water | Flowing Water
----------|----------|---------
-Marpenoth | Thin | —
-Uktar | Moderate | Thin
-Nightal | Thick | Moderate
-Hammer | Thick | Thick
-Alturiak | Thick | Thick
-Ches | Thin | Thin
-
-Thin ice is 1 to 2 inches thick. It supports Small creatures. Medium-size creatures that run, jump, fall, or fight on the ice may cause a break (50% chance per round of such activity).
-Moderate ice is 3 to 11 inches thick. It supports Large crea￾tures. Huge creatures that run, jump, fall, or fight on the ice may cause a break (50% chance per round of such activity).
-
-Thick ice may be anywhere from 1 to 4 feet thick. It sup￾ports creatures of any size. Ice has 3 hit points per inch of thickness. If a creature too heavy for the ice causes a break, the ice collapses in a circle whose radius is 5 feet larger than the face (or dimensions) of the creature causing the break. Any creature caught in the fracture area except for the creature causing the break may attempt a Reflex save (DC 15) to reach safe ice before it gives way. 
-
-Thin ice is particularly dangerous, because the edges of a fractured area tend to crumble under a swimmer’s efforts to climb out. To climb out, a Small or Medium-size swimmer must succeed at an Escape Artist check (DC 15). Large crea￾tures can’t get back on top of thin ice after it fractures.
-
-Frozen rivers are dangerous, too. Creatures who fall through the ice of a frozen river may be swept away from the hole by the current and trapped under the ice. Apply the drowning rule (see Chapter 3 of the DUNGEON MASTER’s Guide) as necessary.  
-
-FOREST FIRES
-
-Most campfire sparks ignite nothing, but if conditions are dry, winds are strong, or the forest floor is dried out and flammable, a forest fire can result. Lightning strikes often set trees afire and start forest fires in this way. Luckily, the lands of the Silver Marches are almost always damp. Small “scorch-smolders” of blackened vegetation are the usual result, not conflagrations that spread for miles. Yet travelers can get caught in fires. The leading edge of a fire (the downwind side) can advance faster than a human can run (assume 120 feet per round for winds of moderate strength). Once a particular portion of the forest is ablaze, it re￾mains so for 2d4×10 minutes before dying to a smolder. Within the bounds of a forest fire, a character faces three dangers: heat damage, catching on fire, and smoke inhalation.
-
-**Heat:** Getting caught within a forest fire is even worse than being exposed to abysmal heat (see Heat Dangers in Chapter 3 of the DUNGEON MASTER’s Guide). Breathing the air causes a character to take 1d6 points of damage per round (no save). In addition, a character must make a Fortitude save every 5 rounds (DC 15, +1 per previous check) or sustain 1d4 points of subdual damage. A character who holds his breath can avoid the normal damage, but not the subdual damage. 
-Catching on Fire: Characters engulfed in a forest fire are at risk of catching on fire when the leading edge of the fire overtakes them, and are then at risk once per minute thereafter. See Catch￾ing on Fire in Chapter 3 of the DUNGEON MASTER’s Guide.
-
-**Smoke: Forest** fires naturally produce a great deal of smoke. A character who breathes heavy smoke must make a Fortitude saving throw each round (DC 15, +1 per previous check) or spend that round choking and coughing. A charac￾ter who chokes for two consecutive rounds takes 1d6 points of subdual damage. Also, smoke obscures vision, giving one￾half concealment (20% miss chance) to characters within it.
-
-## FLOODS
-
-In locales throughout the Silver Marches where heavy pre￾cipitation and steep slopes prevail, floods are common. 
-
-**Rivers in Flood:** In spring, the enormous snowmelt from the slopes of the Nether and Rauvin mountains engorges most of the streams and rivers in and around the Silver Marches. During spring flood, rivers become wider, deeper, and swifter. Assume that a river rises by 1d10+10 feet during the spring flood, and its width increases by a factor of 1d4×50%. Fords may disappear for days, bridges may be swept away, and even ferries might not be able to manage the crossing of a flooded river.A river in flood adds +5 to the DC of any Swim checks that characters attempt. For example, Striding Giant Rapids on the Rauvin might normally be considered rough water (see the Swim skill description in Chapter 4 of the Player’s Hand￾book), which means that Swim checks to get across the river are against DC 15. When this area is in spring flood, the DC rises to 20. (The increase in water depth may make fords too deep for most travelers to wade successfully, so swimming may be their best option if crossing the river is necessary.)
-
-**Mountain Torrent:** Innumerable swift, strong streams cascade down out of the mountains of the Silver Marches in all seasons. In general, the typical mountain torrent is 5d6 feet in width and studded with boulders. Waterfalls 1d6×10 feet in height occur every 1d4 miles. Unlucky or clumsy characters may find themselves in a fast-moving gauntlet of icy water, deadly rocks, and sudden waterfalls. Refer to Water Dangers in Chapter 3 of the DUNGEON MASTER’s Guide. Characters swept away by the torrent must attempt Swim checks (DC 15) every round to avoid going under. If a character gets a skill check result of 5 or more over the minimum necessary, he arrests his motion by catching a rock, tree limb, or bottom snag—he is no longer being carried along by the flow of the water. Escaping a torrent by reaching the bank requires three suc￾cessful Swim checks (DC 15) in a row. Characters arrested by a rock, limb, or snag can’t escape unless they strike out into the water and attempt to swim their way clear.
-
-**Flash Floods:** These sudden, short-lived torrents occur after heavy rains or ice breakups in spring. A flash flood typically lasts only 4d4 minutes before the waters recede.  Flash floods advance at a speed of 60 feet. See Flash Floods under Weather Hazards in Chapter 3 of the DUN￾GEON MASTER’s Guide. 
-
-## FOG
-
-The forgotten peril of the North is its everpresent river mist and mountain fog. Characters traveling along a river by boat  can’t get too lost, of course. However, fogbound overland travel offers a real possibility of running into trees, gullies, and other hazards. A typical fog limits vision to a distance of 1d10×5 feet, completely foiling normal vision and darkvi￾sion beyond this range. Creatures closer than the absolute limit of visibility gain the benefits of one-half concealment (20% miss chance).
-
-## Encountering Hazards
-
-An encounter with a natural hazard in motion, such as an avalanche or a forest fire, begins in a particular way de￾pending on the type of hazard.
-
-**Avalanche/Landslide:** An avalanche or landslide can be spotted from as far away as 1d10×500 feet by a character who makes a successful Spot check (DC 20). The DC of the Spot check is modified by any of the conditions that apply from Table 3–2 in the DUNGEON MASTER’s Guide. (Con￾sider the avalanche to be a Colossal encounter, meaning that the DC is immediately reduced by 16.) If all charac￾ters fail their Spot checks to determine the encounter dis￾tance, the avalanche moves closer to them, and they automatically become aware of it when it closes to half the original distance.
-
-It’s possible to hear an avalanche coming even if you can’t see it. Under optimum conditions (no other loud noises occurring), a character who makes a successful Listen check (DC 15) can hear the avalanche or landslide when it is 1d6×500 feet away. This check might have a DC of 20, 25, or higher in conditions where hearing is difficult (such as in the middle of a thunderstorm).
-
-**Forest Fire:** A forest fire can be spotted from as far away as 2d6×100 feet by a character who makes a success￾ful Spot check (DC 20). The DC of the Spot check is modi￾fied by any of the conditions that apply from Table 3–2 in the DUNGEON MASTER’s Guide. (Consider the fire to be a Colossal encounter, meaning that the DC is immediately reduced by 16.) If all characters fail their Spot checks to determine the encounter distance, the fire moves closer to them, and they automatically see it when it closes to half the original distance.Characters who are blinded or otherwise unable to make 
-
-## Заблудились
-
-There are many ways to get lost in the wilderness. Following an obvious road, trail, or feature such as a stream or lakeshore prevents any possibility of becoming lost, but trav￾elers striking off cross-country may become disoriented—es￾pecially in conditions of poor visibility or in difficult terrain.
-
-**Poor Visibility:** Any time characters cannot see at least 60 feet in the prevail￾ing conditions of visibility, they may be￾come lost. Characters traveling through fog, snow, or a downpour might easily lose the ability to see any landmarks not in their immediate vicinity. Similarly, characters travel￾ing at night may be at risk, too, de￾pending on the quality of their light sources, the amount of moonlight, and whether or not they have dark￾vision or low-light vision.
-
-**Difficult Terrain:** Any character in forest, moor, hill, or mountain terrain may become lost if he or she moves away from a trail, road, stream, or other obvious path or track.
-
-**Chance to Get Lost:** If conditions exist that make getting lost a possibility, the character leading the way must succeed at a Wilderness Lore check or become lost. The difficulty of this check varies based on the terrain, the visibility condi￾tions, and whether or not the character has a map of the area being traveled through.
-| Terrain                         | DC
-| ------------------------------- | ------------------------------- 
-| Moor or hill terrain, map       | 6 
-|                                 |
-| Mountain terrain, map           | 8
-|                                 |
-| Moor or hill terrain, no map 10 | 10 
-|                                 |
-| Poor visibility                 | 12
-|                                 |
-| Mountain terrain, no map        | 12
-|                                 |
-| Forest                          | 15
-
-
-Check once per hour (or portion of an hour) spent in local or overland movement to see if travelers have become lost.
-
-In the case of a party moving together, only the character leading the way makes the check. (DM Tip: Make this check in secret, since the characters may not realize that they’re lost right away.)
-
-Effects of Being Lost: If a party becomes lost, it is no longer certain of moving in the direction it intended to travel.
-
-Randomly determine the direction the party actually travels in during each hour of local or overland movement. The char￾acters’ movement continues to be random until they blunder into a landmark they can’t miss, or until they recognize that they are lost and make an effort to regain their bearings.
-
-Recognizing that You’re Lost: Once per hour of random travel, each character in the party may attempt a Wilderness Lore check (DC 20 –1 per hour of random travel) to recognize that they are no longer certain of their direction of travel. Some circumstances may make it obvious that the characters are lost; if they expected to reach a certain spot within an hour but three or four hours pass by with no sign of their destination, that’s a bad sign.
-
-Setting a New Course: A lost party is also uncertain of determin￾ing in which direction it should travel in order to reach a desired objective—even an objective such as “the point where we left the road and went off into these dratted woods.” Determining the correct direction of travel once a party has become lost re￾quires a Wilderness Lore check (DC 15 +2 per hour of random travel). If a character fails in this
-
-check, he chooses a random direction as the “correct” direction for resuming travel. (DM Tip: Again, this is a check you should make in secret. The lost characters may think they know the way to travel after regaining their bearings, but could be entirely wrong again.) Once the characters are traveling along their new course, correct or incorrect, it’s entirely possible for them to get lost again. If the conditions still make it possible for travelers to become lost, check once per hour of travel as described under Chance to Get Lost to see if the party maintains its new course, or begins to move at random again.
-
-Conflicting Directions: It’s possible that several characters may attempt to determine the right direction to proceed after becoming lost. That’s just fine. The DM makes a Wil￾derness Lore check for each character in secret, then tells the players whose characters succeeded the correct direction to travel, and tells the players whose characters failed a random direction they think is right. (DM Tip: A few extraneous die rolls behind your screen might make it less apparent which characters are right and which characters are wrong.)
-
-Regaining Your Bearings: There are several ways to be￾come un-lost. First, if the characters successfully set a new course and follow it to the destination they’re trying to reach, they’re not lost anymore. Second, the characters through random movement might run into an unmistakable landmark. Third, if conditions suddenly improve—the fog lifts, the sun comes up, or the travelers use know direction to ascertain the correct direction of north—lost characters may attempt to set a new course, as described above, with a +4 bonus on the Wilderness Lore check. Finally, more powerful magic such as find the path may make their course clear.
-
-## Путешествие по горам
-
-High altitude can be extremely fatiguing—or sometimes deadly—to creatures that aren’t used to it. Cold becomes ex￾treme, and the lack of oxygen in the air can wear down even the most hardy of warriors.
-
-Acclimated Characters: Creatures accustomed to high alti￾tude generally fare better than lowlanders. Any creature nor￾mally found in mountain terrain is considered native to the area, and acclimated to the high altitude. Characters with the Endurance feat, 4 ranks of Wilderness Lore, or 7 ranks of Climb are also acclimated to high altitude.
-
-Undead, constructs, and other creatures that do not breathe are immune to altitude effects.
-
-Altitude Bands: In general, mountains present three possi￾ble altitude bands: low pass, low peak/high pass, and high peak.
-
-Low Pass (lower than 7,000 feet): Most travel in low mountains takes place in low passes. Travelers may find the going difficult (which is reflected in the movement modi￾fiers for traveling through mountains), but there are no un￾usual weather or altitude effects.
-
-Low Peak or High Pass (7,000 to 20,000 feet): Ascending to the highest slopes of low mountains, or most normal travel through high mountains, falls into this category. At these ele￾vations, creatures may be subject to high altitude effects (see below). Temperatures at this level are one grade colder than the prevailing weather would indicate—for example, if the day’s temperature is moderate, it’s actually cold at this altitude.
-
-High Peak (more than 20,000 feet): The highest slopes and peaks of high mountains exceed 20,000 feet in height. At these el￾evations, creatures may be subject to altitude sickness (see below).
-
-Temperatures at this level are always two grades colder than the prevailing weather indicates—for example, if the day’s tempera￾ture is moderate, it’s actually extremely cold at this altitude.
-
-High Altitude Effects: All nonacclimated creatures labor to breathe in the thin air at high altitude. See Lack of Air/High Altitude, under Other Dangers in Chapter 3 of the DUNGEON MASTER’s Guide. Acclimated characters are not subject to high altitude effects.
-
-Altitude Sickness: Any creature at an altitude higher than 20,000 feet is subject to both high altitude effects and alti￾tude sickness, as described under Lack of Air/High Altitude in Chapter 3 of the DUNGEON MASTER’s Guide. Creatures acclimated to high altitude as described above receive a +4 bonus on their saving throws to resist high altitude effects and altitude sickness, but eventually even seasoned moun￾taineers must abandon these dangerous elevations.
-
-## Зыбучие пески и топи
-
-In moors, marshes, and other examples of sodden terrain, hidden, water-filled holes await the unwary. Obvious bogs are not very dangerous—everybody can recognize a mud￾hole or a scum-covered pond. However, some of these patches present a deceptively solid appearance and may trap careless characters. A character approaching a hidden bog or patch of quicksand at a normal pace is entitled to a Wilder￾ness Lore check (DC 8) to spot the danger before stepping in, but charging or running characters don’t have a chance to detect a hidden bog before blundering in. A typical patch of quicksand or quaking bog is (1d4+1)×5 feet in diameter; the momentum of a charging or running character carries him or her 1d2×5 feet into the bog.
-
-Effects of Quicksand: Characters in quicksand must make a Swim check (DC 10) every round to simply tread water in place, or a Swim check (DC 15) to move 5 feet in whatever direction is desired. If a trapped character fails this check by 5 or more, he sinks below the surface and begins to drown whenever he can no longer hold his breath. Characters below the surface of a bog may swim back to the surface with a successful Swim check (DC 15 +1 per con￾secutive round of being under the surface).
-
-Rescue: Pulling out a character trapped in quicksand can be difficult. A rescuer needs a branch, spear haft, rope, or similar tool that enables him to reach the victim with one end of it. Then he must make a Strength check (DC 15) to successfully pull the victim, and the victim must make a Strength check (DC 10) to hold onto the branch, pole, or rope. If the victim fails to hold on, he must make an imme￾diate Swim check (DC 15) to stay above the surface. If both checks succeed, the victim is pulled 5 feet closer to safety.
-
-## RAIN, SNOW, SLEET, AND HAIL
-
-Precipitation is a daily occurrence in the Silver Marches most of the year. Bad weather frequently slows or halts travel and makes it virtually impossible to navigate from one spot to another.
-
-**Rain:** Rain is all too frequent in the North. Rain affects visibility, ranged attacks and Listen, Search, and Spot checks as described in Precipitation under Weather Hazards in Chapter 3 of the DUNGEON MASTER’s Guide. Characters caught out in steady rain become soaked in 2d6×10 minutes, which may make them more vulnerable to cold damage (see The Claws of the Cold earlier in this chapter).
-
-**Downpours:** These sudden, heavy rains often cause flash floods in hilly or mountainous country. Downpours have all the properties of rain, except that visibility is reduced as de￾scribed below, and characters become soaked in 10 minutes, rendering them more susceptible to cold damage.
-
-Visibility in a downpour is limited to a range of 1d10×5 feet. Creatures closer than the absolute limit of visibility gain one-half concealment (20% miss chance).
-
-**Hail:** The effects of hail are described in Precipitation under Weather Hazards in Chapter 3 of the DUNGEON MASTER’s Guide. Hail in the North can be unusually heavy and dangerous—there is a 10% chance that the hail deals 1 point of damage to all creatures caught in the open, and if this happens, there’s a 20% chance that hailstones the size of a human fist (or bigger) fall. This extra-large hail deals 1d4 points of damage to any creature caught in the open. Fallen hail reduces movement by half, just like a fall of snow. In moderate or warm temperatures, it takes 1d4 hours for fallen hail to melt. In cold temperatures, hail remains on the ground for 4d4 hours.
-
-**Sleet:** The ice storms of the North are legendary for their destructive power. Sleet has the same effects on visibility, ranged attacks, and Listen, Search, and Spot checks as rain, and reduces movement by half.
-
-Sleet hisses as it falls, and coats everything with ice, creat￾ing slippery conditions for any skill checks affected by the conditions of the surface (Balance and Climb, for example). This slippery state lasts until snowfall covers the ice, or a thaw (one day of moderate or higher temperatures) melts it. In addition, sleet soaks characters in the open over the course of 2d6×10 minutes, making them more vulnerable to cold damage.
-
-**Snow:** Falling snow has the same effects on visibility, ranged weapon attacks, and skill checks as rain, and reduces movement to half. A day of snowfall leaves 1d6 inches of snow on the ground. When the depth of the snow reaches half a creature’s height, movement is slowed to one-quarter normal, and when snow reaches a creature’s height, move￾ment is halved again.
-
-Snow melts off at the rate of 4 inches per day of moder￾ate temperatures, 8 inches per day of warm temperatures, or 12 inches per day of hot temperatures.
-
-**Heavy Snow:** Heavy snowfall has the same effects as normal snowfall, but also restricts visibility as fog does (see Fog, earlier in this section). A day of heavy snow leaves 1d3 feet of snow on the ground. Heavy snow accompanied by strong or severe winds may result in snowdrifts 1d4×5 feet in depth, especially in and around objects big enough to de￾flect the prevailing wind—a cabin or large tent, for instance. There is a 10% chance that a heavy snowfall is accompa￾nied by lightning (see below).
-
-## LIGHTNING
-
-Thunderstorms are common in the summer and early fall in the Silver Marches. A mountain thunderstorm is nothing to stand around and admire; it can be deadly. Lightning some￾times accompanies heavy snowfalls, too.
-
-**Thunderstorms:** During a day in which thunderstorms appear, creatures in the open encounter 1d3 distinct storms. Each storm lasts for 2d6×10 minutes. There is a 20% chance per storm that a bolt endangers a creature or group of creatures in the open. Each lightning bolt inflicts 1d10 8-sided dice of damage in a 10-foot radius. Roll randomly to determine which char￾acter is at the center of the strike. Any threatened character (including the character at the center) is entitled to a Reflex save (DC 15) to take only half damage.
-
-## SANDSTORMS
-
-Thanks to the dampness of the North, duststorms are un￾known in these lands, but sandstorms—heavy particles driven by furious winds from Anauroch—occur from time to time.
-
-They seldom reach west of Sundabar. Sandstorms reduce vis￾ibility to 1d10×5 feet and provide a –4 penalty on Listen, Search, and Spot checks. Sandstorms deal 1d3 points of subdual damage per hour to any creatures caught in the open, and leave a thin coating of sand (1d2 inches) in their wake.
-
-# Random Encounters
-
-TABLE 1: RAUVIN VALE AND SUNDABAR VALE ENCOUNTERS (SETTLED)
-
-Day| Night | Encounter | Number Encountered
----------|----------|----------|---------
-— | 01–02 | Abishai, white | 1
-01–07 |03–05 | Bandits | see Groups
-— | 06 | Baneguardm | 1d8+2
-— | 07–08 | Bat, | night | hunterm | 2d6
-08–11 | 09 | Bear, | brown | (animal) | 1
-12–16 | 10–11 | Brantas | 1d6+2
-17–25 | 12 | Deer | (animal)s | 2d6
-26–27 | 13 | Dire | bear | 1
-28–29 | 14 | Dire | rat | 1d10+10
-30–31 | 15–16 | Dire | wolf | 1
-— | 17–18 | Dread | warriorm | 1
-32–34 | 19 | Elk | (animal)s | 1d6+2
-35 | 20–21 | Gargoyle | 1d2
-— | 22–23 | Ghast | 1d2
-— | 24–26 | Ghoul | 1d6
-36–37 | 27–34 | Goblin | raiders | see Groups
-38–45 | 35–39 | NPCs | see Groups
-46–53 | 40 | Merchants | see Groups
-54 | 41 | Mountain torrent | SEE GROUPS
-— | 42 | Nythm | 1
-55–57 | 43–48 | Ogre | 1d2
-58–59 | 49–54 | Orc | 1d3+1
-60 | 55–58 | Orc | marauders | see Groups
-61–69 | 59–61 | Patrol | see Groups1
-70–71 | 62–63 | Perytonm | 1d2
-72 | 64–65 | Planetouched, | fey’rim | 2d4
-73 | 66–68 | Planetouched, | tanarukkm | 1d4+1
-74–78 | 69–70 | Rothé, | surfacef | 1d10+10
-— | 71 | Spectral | pantherm | 1
-— | 72–73 | Skeleton, | medium | 1d6
-79–81 | 74–75 | Red | tiger | (animal)s | 1
-82–84 | 76–79 | Troll | 1
-— | 80–81 | Vampire | spawn | 1d2
-85 | 82 | Wereboar | 1d2
-86–87 | 83–84 | Werewolf | 1d2
-— | 85–87 | Wight | 1d2
-88–96 | 88–90 | Wolf | (animal) | 1d6+10
-97–100 | 91–97 | Worg | 1d2
-— | 98–100 | Zombie, | medium | 1d4+1
-
-TABLE 2: MOONLANDS, ADBAR VALE, AND COLD VALE ENCOUNTERS (FRONTIER)
-
-Day| Night | Encounter | Number Encountered
----------|----------|----------|---------
-— | 01–02 | Abishai, | whitem | 1d2
-01–05 | 03–04 | Bandits | see Groups
-— | 05–06 | Bat, night hunterm | 2d6
-06–10 | 07 | Bear, brown (animal) | 1
-11 | 08 | Behir | 1
-12–16 | 09–10 | Brantas | 1d6+2
-17–18 | 11–12 | Bugbear | 1d3+1
-19–25 | 13 | Deer (animal)s | 2d6
-26–27 | 14–15 | Dire bear | 1
-28–29 | 16–17 | Dire wolf | 1d4+4
-30 | 18–19 | Dire wolverine | 1d2
-31–34 | 20–24 | Dragon (see Table 2a) | 1
-35 | 25 | Dragonkinm | 2d4
-— | 26–27 | Dread warriorm | 1
-36–39 | 28–29 | Dwarf patrol | see Groups
-40–43 | 30 | Elk (animal)s | 1d6+2
-44 | 31–34 | Ettin | 1d3+1
-— | 35–37 | Ghast | 1d2
-— | 38–41 | Ghoul | 1d6
-45–46 | 42–47 | Goblin raiders | see Groups
-47 | 48–51 | Hill giant | 1d2
-48–49 | 52–53 | Leucrottam | 1d4
-— | 54 | Nishruum | 1
-50–53 | 55 | Merchants | see Groups
-54–55 | 56–57 | Mountain torrent | see Groups
-56–58 | 58–59 | NPCs | see Groups
-59–60 | 60–61 | Ogre | 1d2
-61–63 | 62–67 | Orc | marauders | see Groups
-64 | 68–69 | Planetouched, | tanarukkm | 1d4+1
-65–68 | 70–71 | Rothé, surfacef | 1d10+10
-69–73 | 72 | Argent Legion patrol | see Groups
-74–76 | 73 | Red tiger (animal)s | 1
-77–79 | 74–77 | Troll | 1d3+1
-80–85 | 78–79 | Uthgardt scouts | see Groups
-— | 80–81 | Vampire spawn | 1d2
-86 | 82 | Wereboar | 1d2
-87–89 | 83–84 | Werewolf | 1d6+4
-— | 85–87 | Wight | 1d4+1
-— | 88–89 | Winter | wolf | 1d4+1
-90–95 | 90–94 | Wolf (animal) | 1d6+10
-96–97 | 95 | Wolverine (animal) | 1d2
-98–100 | 96–100 | Worg | 1d2
-
-TABLE 2A: MOONLANDS, ADBAR VALE, AND COLD VALE DRAGONS
-
-d% | Dragon
----------|---------
-01–10 | Fangm, juvenile
-11–18 | Gold, young
-19–45 | Red, young
-46–55 | Shadowm, juvenile
-56–100 | White, young adult
-
-TABLE 3: EVERMOORS ENCOUNTERS (WILDERNESS)
-
-Day| Night | Encounter | Number Encountered
----------|----------|----------|---------
-01–02 | 01–03 | Behir | 1
-— | 04–05 | Darkenbeastm | 1d2+2
-03–10 | 06 | Deer (animal)s | 2d6
-11–14 | 07–09 | Dire wolf | 1d4+4
-15–20 | 10–14 | Dragon (see Table 3a) | 1
-— | 15–17 | Dread warriorm | 1d4+3
-21–25 | 18–21 | Ettin | 1d3+1
-26–28 | 22–24 | Fog giantm | 1d2
-— | 25–27 | Ghast pack | see Groups
-— | 28–30 | Ghost see Groups
-29–34 | 31–35 | Hill giant | 1d3
-35–37 | 36–37 | Ice serpentm | 1d3+1
-38–45 | 38–44 | NPCs | see Groups
-46 | 45–47 | Nishruum | 1
-47 | 48–50 | Nythm | 1
-48–53 | 51–54 | Ogre | 1d3+1
-54–61 | 55–63 | Orc marauders | see Groups
-62–66 | 64–67 | Rothé, ghostf | 1d10+10
-67–69 | 68–69 | Shambling mound | 1d2
-70–71 | 70–71 | Snowcloaks | 1d6+2
-— | 72 | Spectre | 1d6
-72–83 | 73–77 | Troll | 1d3+1
-— | 78–80 | Wight | 1d8+1
-— | 81–82 | Will-o’-wisp | 1d6
-— | 83–84 | Wraith | 1d6
-84–86 | 85–87 | Winter wolf | 1d6+5
-87–94 | 88–90 | Wolf (animal) | 1d10+6
-95–99 | 91–96 | Worg | 1d4+4
-100 | 97–100 | Yeth hound | 1d6+5
-
-TABLE 3A: EVERMOORS DRAGONS
-
-d% | Dragon
----------|---------
-01–10 | Black, young (clutch of 1d4+1)
-11–20 | Black, old
-21–45 | Red, juvenile
-46–52 | Shadowm, young
-53–61 | White, young (clutch of 1d4+1)
-62–95 | White, old
-96–98 | Dracolichf, white adult
-99–100 | Dracolichf, red young adult
-
-TABLE 4: HIGH FOREST ENCOUNTERS (WILDERNESS)
-
-Day| Night | Encounter | Number Encountered
----------|----------|----------|---------
-01 | 01–02 | Abishai, greenm | 1d4
-— | 03–05 | Bat, night hunterm | 2d6
-— | 06–07 | Bat, sinisterm | 1d6+3
-02–07 | 08–09 | Centaur | 1d4+4
-— | 10–11 | Crawling clawm | 4d6
-— | 12–14 | Darkenbeastm | 1d2+2
-08–15 | 15 | Deer (animal)s | 2d6
-— | 16–17 | Dire bat | 1d4+4
-16–17 | 18–19 | Dire bear | 1
-18–19 | 20–21 | Dire rat | 1d10+10
-20–22 | 22–24 | Dire wolf | 1d4+4
-23–24 | 25 | Dire wolverine | 1
-— | 26–27 | Dread warriorm | 2d6
-25–30 | 28–33 | Dragon | (see 4a) | 1
-31–34 | 34 | Elk (animal)s | 1d6+2
-35 | 35 | Forest fire | see Groups
-— | 36–37 | Ghast pack | see Groups
-36–41 | 38–40 | Gnoll hunters | see Groups
-42–43 | 41–44 | Gray render | 1
-44–45 | 45–47 | Green hag | (hag) | 1d2
-46 | 48–49 | Gulguthydram | 1
-47 | 50 | Ibrandlinm | 1d2
-48–49 | 51–54 | Kir-lananf | 1d4+1
-50–56 | 55–57 | NPCs | see Groups
-57 | 58 | Nymph | 1
-58–60 | 59–61 | Ogre | 1d3+1
-61–65 | 62–68 | Orc marauders | see Groups
-66 | 69–70 | Phase spider | 1d4
-67–68 | 71–73 | Planetouched, fey’rim | 1d2×10
-69–70 | 74–75 | Planetouched, tanarukkm | 1d6+5
-71–72 | 76 | Red tiger (animal)s | 1
-— | 77 | Shadow | 1d4+1
-73 | 78 | Shambling mound | 1d2
-71–72 | 70 | Planetouched,  fey’rim | 1d2×10
-73–74 | 71 | Planetouched,  tanarukkm | 1d6+5
-75–76 | 72 | Rock  wyrms | 1d2
-77–80 | 73 | Rothé, ghostf | 1d10+10
-81–82 | 74 | Argent  Legion  patrol | see Groups
-83–84 | 75–77 | Snowcloaks | 1d6+2
-85–86 | 78 | Uthgardt  scouts | see Groups
-— | 79–80 | Vampire | 1d2
-— | 81–82 | Vampire troupe | see Groups
-87–92 | 83–84 | Wolf  (animal) | 1d8+8
-93–96 | 85–90 | Worg | 1d4+4
-— | 91–93 | Wraith | 1d6+5
-97–99 | 94–96 | Wyvern | 1d4+2
-100 | 97–100 | Yrthak | 1d3+1
-
-TABLE 6A: NETHER AND RAUVIN MOUNTAINS DRAGONS
-
-d% | Dragon
----------|---------
-01–10 | Blue, adult
-11–19 | Copper, adult
-20–39 | Fangm, mature adult
-40–47 | Gold, young adult
-48–59 | Red, young adult
-60–69 | Silver, young adult
-70–96 | White, old
-97–98 | Dracolichf, red young adult
-99–100 | Dracolichf, white mature adult
-
-TABLE 7: SPINE OF THE WORLD AND ICE MOUNTAINS ENCOUNTERS (DESOLATE)
-
-Day| Night | Encounter | Number Encountered
----------|----------|----------|---------
-01–02 | 01 | Arctic dwarf hunters | see Groups
-03 | 02 | Avalanche/landslide | see Groups
-04–05 | 03 | Bear, polar (animal) | 1d2
-06–08 | 04 | Brantas | 1d6+2
-09–10 | 05–06 | Cloud giant | 1
-11–14 | 07–08 | Dire bear | 1d2
-15–19 | 09–12 | Dire wolf | 1d4+4
-20–27 | 13–20 | Dragon (see Table 7a) | 1
-28–33 | 21 | Eagle, giant | 1d3+2
-34–38 | 22–28 | Ettin | 1d3+1
-39–46 | 29–37 | Frost giant | 1d4+1
-47–48 | 38–43 | Frost worm | 1
-49–50 | 44–49 | Goblin raiders | see Groups
-51–53 | 50–52 | Hill giant | 1d4+1
-54–56 | 53–54 | Mountain torrent | see Groups
-57–58 | 55–56 | NPCs | see Groups
-59–62 | 57–59 | Ogre | 1d3+1
-63–66 | 60–66 | Orc marauders | see Groups
-67–69 | 67–69 | Orc warband |
-70–72 | 70–73 | Planetouched, tanarukkm | 1d6+5
-73–76 | 74–76 | Remorhaz | 1
-77–78 | 77–78 | Rock wyrms | 1d2
-79–82 | 79–80 | Rothé, ghostf | 1d10+10
-83–85 | 81–84 | Snowcloaks | 1d6+2
-86–89 | 85 | Wolf (animal) | 1d8+8
-90–95 | 86–90 | Worg 1d4+4
-— | 91–93 | Wraith | 1d6+5
-96–98 | 94–96 | Wyvern | 1d4+2
-99–100 | 97–100 | Yrthak | 1d3+1
-
-TABLE 7A: SPINE OF THE WORLD AND ICE MOUNTAINS DRAGONS
-
-d% | Dragon
----------|---------
-01–22 | Fangm, old
-23–28 | Gold, adult
-29–39 | Red, adult
-40–45 | Silver, adult
-46–60 | White, juvenile (clutch of 1d4+1)
-61–95 | White, old
-96–97 | Dracolichf, red adult
-98–100 | Dracolichf, white mature adult
-
-##  Группы неигровых персонажей
-
-Special groups called out in the preceding tables are described here. If the class of a humanoid is not specified, assume that it is a 1st-level warrior.
-
-**Argent Legion Patrol:** 1d4+4 1st-level warriors and 1d3 leaders (level 1d4+1), mounted on light warhorses and armed with lances, crossbows, and longswords. To determine the leaders’ classes, roll d%: 01–20, cleric; 21–60, fighter; 61–70, paladin; 71–80, ranger; 81–90, sorcerer; 91–100, wizard. Argent Legion patrols are usually lawful neutral.
-
-**Avalanche/Landslide:** A natural hazard threatens the characters; see the Encountering Natural Hazards sidebar and Avalanches and Landslides, later in this chapter. Refer also to Landslides and Avalanches in Chapter 3 of the DUN￾GEON MASTER’s Guide.
-
-**Arctic Dwarf Hunters:** The hunting party consists of 1d4+2 arctic dwarf War1, 1d2 arctic dwarf  arbarians (level 1d3+2), and a leader of level 1d4+3. To determine the leader’s class, roll d%: 01–50, barbarian; 51–65, cleric; 66–75, druid; 76–80, fighter; 81–95, ranger; 96–100, rogue.
-
-**Bandits:** 1d6+1 1st-level warriors and 1d2 NPC leaders of level 1d3+1. To determine the class of the leaders, roll d%: 01–15, cleric; 16–40, fighter; 41–60, rogue; 61–70, sorcerer; 71–100, warrior. Bandits are usually chaotic evil. For the race of the bandit group, roll d%: 01–10, dwarf; 11–70, human; 71–100, half-orc.
-
-**Bugbear Band:** 1d10+10 bugbears, 1d3 bugbear warriors (level 1d3+1), and 1 bugbear fighter (level 1d4+3).
-
-**Dwarf Patrol:** 1d4+4 1st-level shield dwarf warriors, 1d2 shield dwarf clerics (level 1d3), and 1 leader (level 1d4+2).For the leader’s class, roll d%: 01–15, barbarian; 16–35, cleric; 36–85, fighter; 86–90, paladin; 91–95, rogue; 96–100, wizard.
-
-**Forest Fire:** In summer or fall, a forest fire endangers the characters. The fire covers a front 3d10×500 feet across, centered on the location of the party at the time the encounter was generated. See the Encountering Natural Hazards sidebar and Forest Fires, later in this chapter. In winter or spring, treat this as no encounter.
-
-**Ghast Pack:** 1d3+1 ghasts and 1d6+1 ghouls.
-
-**Ghost:**This encounter consists of 1d4 ghosts of level 1d4+2. To determine the class of each ghost, roll d%: 01–05,bard; 06–20, cleric; 21–60, fighter; 61–65, ranger; 66–80, rogue; 81–90, sorcerer; 91–100, wizard. The ghosts are usu￾ally neutral evil. For the race of the ghosts, roll d%: 01–25, shield dwarf; 26–40, moon elf; 41–80, human; 81–90, half￾orc; 91–100, lightfoot halfling.
-
-**Gnoll Hunters:** 1d4+2 gnolls, led by 1 gnoll ranger (level 1d3+2) and 1 gnoll adept (level 1d4) and accompanied by  1d2 dire wolves.
-
-**Goblin Raiders:** 1d4+4 goblins, led by 1 goblin fighter (level 1d4+1) and 1 goblin adept (level 1d4). All the goblins are mounted on worgs.
-
-**Merchants:** 2d4 1st-level commoners, 2d4 1st-level war￾riors, and 1d2 NPC leaders (level 1d4+1). To determine the leaders’ classes, roll d%: 01–10, cleric; 11–35, fighter; 36–55, rogue; 56–60, wizard; 61–75, warrior; 76–100, expert. Merchants match the normal alignment for their race (neutral if alignment is not specified). For the race of the merchants, roll d%: 01–20, shield dwarf; 21–25, moon elf; 26–75, human; 76–85, lightfoot halfling; 86–95, half￾orc; 96–100, rock gnome.
-
-**Mountain Torrent:** The party encounters an unmarked stream in its path with no obvious means of crossing. There is a 50% chance that some kind of precarious crossing exists (a fallen log, or chain of boulders) that can be employed with a successful Balance check (DC 15). Failure on this check means that the character falls in the water and may be swept downstream; see Mountain Torrents under Floods in the following section. If the party is traveling along a road or trail, the stream is bridged in some fashion. Treat this as no encounter.
-
-**NPCs:** The NPC party consists of 1d3+2 individuals (level 2d4). To determine the alignment, race, and class of each character, consult Tables 2–28 through 2–32 in the DUN￾GEON MASTER’s Guide, or use the corresponding tables in the FORGOTTEN REALMS DUNGEON MASTER’s Screen.
-
-**Orc Marauders:** 1d10+5 orcs, 1d3+1 orc barbarians (level 1d3+1), and 1 orc adept (level 1d6) accompanied by 1d2 dire boars.
-
-**Orc Warband:** 1d10+10 orcs, 1d3 orc barbarians (level 1d3+1), 1d3 orc fighters (level 1d3+1), 1 orc adept (level 1d6), and 1 orc leader (level 1d3+3), accompanied by 1d2 dire boars. To determine the leader’s class, roll d%: 01–30, barbarian; 31–45, cleric; 46–80, fighter; 81–85, ranger; 86–90, rogue; 91–100, sorcerer.
-
-**Uthgardt Scouts:** 1d4+2 1st-level human warriors and 1d2 leaders (level 1d6+1). For the leaders’ classes, roll d%: 01–50, barbarian; 51–65, cleric; 66–75, druid; 76–85, ranger; 86–90, rogue; 91–100, sorcerer. There is a 30% chance the group belongs to the Sky Pony tribe and is mounted. Uthgardt scouts are usually chaotic neutral.
-
-**Vampire Troupe:** 1d2 vampires and 1d4+1 vampire spawn.
-
-**Werewolf Raiders:** 1d4+1 werewolves, 1d4+4 wolves, and 1 werewolf leader (level 1d6+1). To determine the leader’s class, roll d%: 01–15, cleric; 16–25, druid; 26–60, fighter;61–75, ranger; 76–90, rogue; 91–100, sorcerer.
-
-**Wood Elf Patrol:** 1d4+4 1st-level wood elf warriors, 1d2 wood elf rogues (level 1d3+1), 1d2 wood elf sorcerers (level 1d3+1), and 1 leader (level 1d4+3). For the leader’s class, roll d%: 01–10, cleric; 11–20, druid; 21–50, fighter; 51–75, ranger; 76–80, rogue; 81–90, sorcerer; 91–100, wizard. Some of these patrols may include moon elves or sun elves
-
-# Random Weather
-
-Many different weather influences impact the Silver Marches.
-
-The prevailing weather patterns in this part of Faerûn tend to come from the Sea of Swords to the west, and the presence of high mountains on all sides often creates “cloud barriers” that force frequent precipitation. The presence of Anauroch nearby also influences the weather in unpredictable ways. Any particular day’s weather consists of three components: the temperature, the wind strength, and the precipitation.
-
-Tables 8 through 11 provide random weather combina￾tions based on each season, weighted toward more or less likely results. A sudden thaw in the mountains is possible in winter, but it’s not as likely as long stretches of bitter cold or heavy snow.
-
-## USING THE TABLES
-
-Any given weather condition lasts for 1d6 days before a new pattern sets in, so it’s only necessary to roll for new weather when the previous pattern ends, not every day. The weather tables are organized into three basic locations: river valleys, open country, and northern or alpine areas. Apply the same die roll to all three regions (this makes it less likely that the mountains will be experiencing a rare thaw at the same time the river valleys are suffering from a brutal cold snap).
-
-**River Valley:** The Rauvin and Sundabar vales fall into this category, as well as the eaves of the High Forest. Although plagued by heavy fogs throughout the year, these regions are more sheltered than other parts of the Silver Marches.
-
-**Open Country:** The Evermoors, Moonlands, Old Delzoun (except for Sundabar Vale), and the forests of the northern Silver Marches fall into this category.
-
-**Northern or Alpine Regions:** The Ice, Nether, and Rauvin mountains fall into this category, as well as other lands that are hard against the Spine of the World, such as the Druar￾wood and the Lands Against the Wall.
-
-TABLE 8: WINTER (UKTAR 1–CHES 30)
-
-River Valley| Open Country | North,Alpine | Temp. | Wind  | Precip.
----------|----------|---------|----------|---------|---------
-01–04 | 01–02 | 01 | Warm | Fair | Clear
-05–09 | 03–06 | 02–03 | Moderate | Varies | Clear
-10–15 | 07–09 | 04 | Moderate | Fair | Fog
-16–18 | 10–12 | 05–06 | Moderate | Varies | Rain
-19–23 | 13–15 | 07 | Moderate | Varies | DwnPr
-24–26 | 16–17 | 08 | Moderate | Varies | Hail
-27–39 | 18–36 | 09–20 | Cold | Varies | Clear
-40–50 | 37–43 | 21–29 | Cold | Fair | Fog
-51–65 | 44–58 | 30–42 | Cold | Varies | Snow
-66–72 | 59–65 | 43–48 | Cold | Varies | HSnow
-73–77 | 66–71 | 49–55 | Cold | Varies | Sleet
-78 | 72–73 | 56–59 | Cold | Storm | Clear
-79–83 | 74–79 | 60–65 | Cold | Storm | HSnow
-84–85 | 80–81 | 66–68 | Cold | Storm | Sleet
-86–90 | 82–88 | 69–77 | XCold | Varies | Clear
-91–93 | 89–91 | 78–88 | XCold | Varies | Snow
-94–98 | 92–97 | 89–95 | XCold | Storm | Clear
-99–100 | 98–100 | 96–100 | XCold | Storm | Snow
-
-TABLE 9: SPRING (TARSAKH 1–KYTHORN 25)
-River Valley| Open Country | North,Alpine | Temp. | Wind  | Precip.
----------|----------|---------|----------|---------|---------
-01–04 | 01–02 | 01 | Warm | Fair | Clear
-01–07 | 01–06 | 01–04 | Warm | Varies | Clear
-08–14 | 07–12 | 05–07 | Warm | Varies | Rain
-15–19 | 13–16 | 08–09 | Warm | Varies | DwnPr
-20–25 | 17–21 | 10–13 | Warm | Storm | Clear
-26–30 | 22–25 | 14–16 | Warm | Storm | ThStrm
-31–36 | 26–31 | 17–24 | Moderate | Varies | Clear
-37–50 | 32–38 | 25–30 | Moderate | Fair | Fog
-51–59 | 39–51 | 31–37 | Moderate | Varies | Rain
-60–63 | 52–55 | 38–40 | Moderate | Varies | DwnPr
-64–67 | 56–59 | 41–45 | Moderate | Varies | Hail
-68–71 | 60–63 | 46–53 | Moderate | Storm | Clear
-72–76 | 64–66 | 54–56 | Moderate | Storm | DwnPr
-77–79 | 67–69 | 57–61 | Moderate | Storm | Hail
-80–83 | 70–74 | 62–68 | Cold | Varies | Clear
-84–87 | 75–77 | 69–76 | Cold | Fair | Fog
-88–92 | 78–86 | 77–88 | Cold | Varies | Snow
-93–94 | 87–89 | 89–91 | Cold | Varies | HSnow
-95 | 90–92 | 92–94 | Cold | Varies | Sleet
-96–97 | 93–95 | 95–97 | Cold | Storm | Clear
-98–99 | 96–97 | 98–99 | Cold | Storm | HSnow
-100 | 98–100 | 100 | Cold | Storm | Sleet
-
-TABLE 10: SUMMER (KYTHORN 26–ELEINT 4)
-
-River Valley| Open Country | North,Alpine | Temp. | Wind  | Precip.
----------|----------|---------|----------|---------|---------
-01–09 | 01–08 | — | Hot | Fair | Clear
-10 | 09–10 | — | Hot | Storm | Sand
-11–30 | 11–27 | 01–17 | Warm | Fair | Clear
-31–39 | 28–36 | 18–23 | Warm | Fair | Rain
-40–45 | 37–41 | 24–25 | Warm | Fair | DwnPr
-46–54 | 42–50 | 26–35 | Warm | Storm | ThStrm
-55–74 | 51–71 | 36–49 | Moderate | Varies | Clear
-75–84 | 72–76 | 50–57 | Moderate | Fair | Fog
-85–93 | 77–86 | 58–67 | Moderate | Varies | Rain
-94–97 | 87–90 | 68–73 | Moderate | Varies | DwnPr
-98–100 | 91–93 | 74–77 | Moderate | Varies | Hail
-— | 94–95 | 78–84 | Cold | Varies | Clear
-— | 96–97 | 85–90 | Cold | Fair | Fog
-— | 98–99 | 91–97 | Cold | Varies | Snow
-— | — | 98 | Cold | Varies | HSnow
-— | 100 | 99–100 | Cold | Varies | Sleet
-
-TABLE 11: FALL (ELEINT 5–MARPENOTH 30)
-
-River Valley| Open Country | North,Alpine | Temp. | Wind  | Precip.
----------|----------|---------|----------|---------|---------
-01–03 | 01–03 | — | Hot | Fair | Clear
-04 | 04–05 | — | Hot | Storm | Sand
-05–13 | 06–12 | 01–03 | Warm | Varies | Clear
-14–17 | 13–17 | 04–05 | Warm | Varies | Rain
-18–19 | 18–19 | 06 | Warm | Varies | DwnPr
-20–21 | 20–22 | 07–08 | Warm | Storm | Clear
-22–26 | 23–28 | 09–15 | Warm | Storm | ThStrm
-27–34 | 29–35 | 16–23 | Moderate | Varies | Clear
-35–44 | 36–39 | 24–29 | Moderate | Fair | Fog
-45–54 | 40–48 | 30–37 | Moderate | Varies | Rain
-55–56 | 49–51 | 38–40 | Moderate | Varies | DwnPr
-57–58 | 52–53 | 41–43 | Moderate | Varies | Hail
-59–63 | 54–59 | 44–45 | Moderate | Storm | Clear
-64–65 | 60–61 | 46–48 | Moderate | Storm | DwnPr
-66–67 | 62–63 | 49–51 | Moderate | Storm | Hail
-68–76 | 64–73 | 52–61 | Cold | Varies | Clear
-77–84 | 74–77 | 62–66 | Cold | Fair | Fog
-85–90 | 78–84 | 67–76 | Cold | Varies | Snow
-91–92 | 85–87 | 77–79 | Cold | Varies | HSnow
-93–94 | 88–89 | 80–81 | Cold | Varies | Sleet
-95–96 | 90–92 | 82–85 | Cold | Storm | Clear
-97–98 | 93–94 | 86–88 | Cold | Storm | HSnow
-99–100 | 95–96 | 89–90 | Cold | Storm | Sleet
-— | 97–99 | 91–98 | XCold | Varies | Clear
-— | 100 | 99–100 | XCold | Varies | Snow
-
-## DEFINITIONS
-
-Results from Tables 8 through 11 are described below.
-
-Temp.: Temperature results fall into the following broad categories. Nighttime temperatures are generally 10 to 20 degrees colder and may actually fall into the next colder cat￾egory (50% chance).
-
-Hot: Between 86° and 110° F.
-
-Warm: Temperatures between 61° and 85° F.
-
-Moderate: Temperatures from 41° to 60° F.
-
-Cold: Temperatures between 0° and 40° F.
-
-Extreme Cold: Temperatures below 0° F.
-
-Wind: The strength of the prevailing wind. Periods of calm or sudden stronger gusts are possible. Wind strength de￾creases one category at night (severe to strong, for example).
-
-The three results on the Random Weather tables are fair, varies, and storm. Consult Table 12.
-
-TABLE 12: WIND STRENGTH
-
-| Fair   | Varies | Storm  | Strength       |
-| ------ | ------ | ------ | -------------- |
-| 01–70  | 01–40  | —      | Light/moderate |
-| 71–95  | 41–70  | 01–10  | Strong         |
-| 96–100 | 71–90  | 11–50  | Severe         |
-| —      | 91–100 | 51–89  | Windstorm      |
-| —      | —      | 90–100 | Hurricane      |
-
-Wind effects are summarized on Table 3–17 in the DUN￾GEON MASTER’s Guide.
-
-Precip.: The type of precipitation that falls during the day. A solid day of rain is pretty rare—even during heavy bliz￾zards, clear spells hours long may appear.
-
-Clear: No precipitation of note.
-
-Downpour: 1d3 downpours lasting 1d4 hours each occur during the day. Otherwise, the day consists of rain.
-
-Fog: There is a 75% chance that the fog burns off during the af￾ternoon, resulting in 1d4+2 hours of clear weather before sunset.
-
-Hail: 1d3 hailstorms lasting 1d6×10 minutes each occur during the day. Otherwise the day consists of rain.
-
-Heavy Snow: Heavy snow falls throughout the day, although 1d3–1 clear spells lasting 1d4 hours each break up the day.
-
-Rain: Rain falls consistently throughout the day, although 1d4–1 clear spells lasting 1d4 hours each break up the day.
-
-Sandstorm: Sandstorm conditions persist throughout the day, punctuated by 1d4–2 breaks lasting 1d4 hours each.
-
-Snow: Snow falls steadily, but 1d4–1 clear breaks of 1d4 hours each interrupt the snowfall.
-
-Sleet: Sleet falls for most of the day, broken by 1d4–2 breaks lasting 1d4 hours each.
-
-Thunderstorm: 1d3 thunderstorms lasting 2d6×10 min￾utes each occur during the day. Otherwise the day is clear (50% chance) or rainy (50% chance).
-
-# Bestiary changes
-
-## Werewolves:
-
-Damage threshold: 10
-
-Silver vulnerability. silver weapons ignores damage threshold
-
-## Ghosts:
-
-Incorporeal. Miss chance 50%
-
-## Tiny swarms:
-
-Weapon immunity: tiny swarms can be damaged only by aoe effects such as alchemist's fire, acid flask, thunderwave, burning hands etc
-
-
-# DM Roll20 Guide
-
-## Scripts
-
-## Macros
-
-## How-to
-
-## FAQ
-
-# Измерение времени - About time measurement
-
-Gary Gygax said “YOU CANNOT HAVE A MEANINGFUL CAMPAIGN IF STRICT TIME RECORDS ARE NOT KEPT.“
- 
-I almost didn’t post this for fear of it being misused. Please don’t simply look up the parties travel pace below, determine what was found, mark off the time and move on. This is a role playing game after all. The following is intended as an aid in Dungeon Mastering a game, not as a substitute for it.
- 
-Time in a dungeon is measured in minutes – switching to 6 second rounds when there is an encounter.
- 
-The following is my interpretation of the official rules and a few of my house rules mixed in, presented here as advice to Dungeon Masters. Where I refer to “you”, I mean the DM. This is specifically for a dungeon crawls, but most of it applies to all similar situations. This is intended as a guide for tracking time passage in a dungeon and also for a guide in deciding when to use a character’s passive perception score or to roll a perception check.
- 
-The Dungeon Master describes what the PCs can see, hear, etc. Most of the time you can expect that the PCs are being observant so if they could notice something, they will notice it. So don’t wait for a player to say his character is examining the floor, or looking for footprints to tell them that there’s an obvious set of footprints on the floor in front of him. Players can ask questions or tell you what their PCs are going to do (or attempt to do). Players should never have to refer to skill names to do this. You decide if they need to roll an ability or skill check and which one. To keep the game moving at a reasonable pace, I recommend that you keep the die rolling to a minimum. If a player’s character would most likely notice something or recognize something or understand something based on his abilities and background, no roll is required. Just tell him.
- 
-The DM will roll all of the PCs search checks in secret and tell the players what, if anything, their characters found. That way, if they don’t find anything, they won’t know if there wasn’t anything there or if there was something and they didn’t find it. Another advantage of rolling behind your DM screen is that you can ignore the roll when necessary. If you want them to find something (or not find it), ignore the roll and tell them what they found (or that they didn’t find anything).
- 
-***Ask them for their marching order, but don’t ask if they are moving at a “fast pace”, “normal pace” or “slow pace”. That makes it sound too much like a computer game. Instead, simply ask them what they are doing. Use their answer to determine their pace and use that to help you determine how long it will take and what they do or do not notice.***
- 
-In addition to the fast pace, normal pace and slow pace listed in the Player’s Handbook, I have added a “very fast” pace and an ”extremely slow” pace.
- 
-Overview:
- 
-1. Moving at a very fast pace they automatically fail all perception checks. If they say “We are getting out of here as fast as we can” they are obviously not going to take the time to check for traps or secret doors so they are moving at a very fast pace (600 feet per minute).
- 
-2. Moving at a fast pace uses their passive perception scores with a -5 penalty. If they say “We are going to move through here as quickly as we can and still be on the lookout for traps”, you can say to yourself that that sounds like a fast pace (400 feet per minute).
- 
-3. Moving at a normal pace uses their passive perception scores. If they don’t give you any indication of how fast or cautiously they are moving through corridors, assume that they are moving at this pace. If they say “We are going to be watching for hidden monsters and checking for traps and secret doors as we proceed cautiously down the corridor”, you know that, even though this sounds like it might be a slow pace it is actually the normal way adventurers would explore a dungeon so it is a normal pace (300 feet per minute).
- 
-4. Moving at a slow pace they can be stealthy or search for things. If they don’t give you any indication of how fast they are searching a room, assume that they are moving at this pace. They make a Dexterity (Stealth) check if they are hiding or being stealthy. Make a Wisdom (Perception) check for them if they are searching for secret doors or traps. If not actively searching, they use their passive perception scores. If they say “We are trying not to be noticed as we proceed cautiously down the corridor” they are being stealthy and can only move at a slow pace (200 feet per minute).
- 
-5. Moving at an extremely slowly pace they will automatically find anything that can be found. If they say “We know there must be a secret door in this corridor, so we are going to search until we find it”, you know that they are going to keep looking until they find it if they can, so they are traveling at a extremely slow pace (30 feet per minute).
- 
-The times listed below are the suggested minimum times required. Additional time may be required depending on circumstances and PC actions. Anything found (secret doors, traps, treasures, and especially monsters) will add to the listed times below as they take the time to deal with what they have found.
- 
-* If they find a secret door they may then attempt to find a means to open it.
- 
-* I might have the searcher make an Intelligence (Investigation) check and subtract the results form 20 minutes for low long it takes. I will never let them find a secret door and never find out how to open it!
- 
-* If they find a trap they may then attempt to disarm or avoid it.
- 
-* It takes 5 minutes to disarm traps or pick a lock if proficient with thieves tools; 10 minutes otherwise. This assumes fairly straightforward mechanisms, not complex puzzles
- 
-* If they find a treasure they may then check it for traps.
- 
- 
-Details:
- 
-Traversing corridors, stairs, and other passageways:
- 
-•When moving at a very fast pace (600 feet per minute), all attempts to notice any secret doors, hidden monsters or traps will fail. This speed is equivalent to the Dash action.
- 
-•When moving at a fast pace (400 feet per minute), passive Wisdom (Perception) scores, with a -5 penalty, will be used to see if they notice any secret doors, hidden monsters or traps.
- 
-•When moving at a normal pace (300 feet per minute), passive Wisdom (Perception) scores will be used to see if they notice any secret doors, hidden monsters or traps.
- 
-•When moving at a slow pace (200 feet per minute), the characters can attempt to hide or be stealthy. If hiding, Dexterity (Stealth) checks will be used against the Wisdom (Perception) checks of any monsters that are actively searching for them, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching. Moving at this pace they can actively search for hidden doors or traps. Roll a Wisdom (Perception) check for the searchers and let them know if they found anything in this 200 foot length of corridor. Let the single roll be for detecting hidden doors and/or traps regardless of what they say they are searching for. Note that if they say they are being stealthy, but don’t express an interest in watching out for traps or finding secret doors, only roll Dexterity (Stealth) checks and use passive Wisdom (Perception) scores. Conversely, if they say that they are looking for traps, or secret doors but don’t seem interested in being stealthy, roll Wisdom (Perception) checks only.
- 
-•If the party intends to take as much time as required to thoroughly search a section of corridor, the party will be moving at an extremely slowly pace (30 feet per minute). This represents that the character is being extremely cautious and diligent in his searching. At this pace that character will automatically succeed at finding any secret doors, hidden monsters or traps that can be found by that character. [The DMG says “In some cases, a character is free to [retry a failed ability check]; the only real cost is the time it takes[…] To speed things up, assume that a character spending ten times the normal amount of time needed to complete a task automatically succeeds at that task.” This is the 5e equivalent to the 3.5e “Taking 20” rule.]
- 
-* One character can search the walls, floor and ceiling of a 5 foot wide passage, or one side of a wider passage out to 5 feet from the wall.
- 
-* 2 characters can cover a 10 foot wide passage.
- 
-* Characters that are searching can perform no other activities.
- 
-* Characters that are not searching can be on the lookout for monsters. For large parties they may need one lookout near the front and another one in the rear. If a monster approaches the group from a direction that is being watched, the Dexterity (Stealth) check of that character will be used against the Wisdom (Perception) checks of any monsters that are actively searching for them, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching.
- 
-### Searching a Room:
- 
-If the party opens a door but doesn’t enter a room and only observes it from the doorway it doesn’t take any additional time to be able to map its location and general notes about it, but not its exact size or anything about the room that cannot be quickly seen. A detailed description will require that the party enters the room.
- 
-After they enter the room, describe what they see and ask what each character is doing. Describe the results of their activities. If they say “I am searching the room”. Don’t ask “What are you searching for?” rather say something like “What does searching the room look like? Describe exactly what your character is doing.” If they say “I am looking for secret doors.” Don’t ask which 5 foot section of wall he is searching, rather assume he will search all of the walls and use the travel paces descried below to determine his success or failure. If it makes a difference, or if you simply want him to think it might, you could ask where he is starting his search and which direction he will be searching from there. A room can be memorable and fun if you can get them to describe how they are interacting with the objects in the room.
- 
-The party may have a different travel pace for rooms than it does for corridors. Their pace may change in a room if they discover something interesting (or dangerous) but I wouldn’t normally mark off more than 10 minutes per room unless they slow to an extremely slow pace. Your players should be able to search as much as they want. Just warn them of the consequences (time passing, wandering monsters, etc.) ahead of time.
- 
-How pace of travel effects checking out rooms:
- 
-•Very fast pace (600 feet per minute – measured from entrance to exit by the shortest path). Treat these rooms like corridors. They are almost running through the rooms and won’t notice anything much more than their size and location. They automatically fail all perception checks. They will be surprised by any monsters waiting for them. They may surprise monsters that aren’t expecting them.
- 
-•Fast pace (1 minute per room). They are mostly just passing through. They can note what is in the room, its size, number and location of its exits. The Passive Wisdom (Perception) scores of the searchers, with a -5 penalty, will be used to see if they notice any secret doors, hidden monsters or traps. They are moving through the room too fast to search for any hidden treasure but will notice things that are in plain sight.
- 
-•Normal pace (5 minutes per room). Use this pace if they want to search the room but want to be quick about it. The passive Wisdom (Perception) scores of the searchers will be used to see if they notice any secret doors, hidden monsters or traps. At this pace they can make a quick search for hidden treasure at a disadvantage using their Wisdom (Perception) scores.
- 
-•Slow pace (10 minutes per room). Use this pace if they don’t give you any other indication of how fast they are searching a room. Use this pace if they want to loot the room, or if they want to be stealthy. Roll the Wisdom (Perception) checks of the searchers to see if they notice any secret doors, hidden monsters, hidden treasure or traps. If they are being stealthy, their Dexterity (Stealth) checks will be used against the Wisdom (Perception) checks of any monsters that are in the room or that enter the room and that are watching for them, and against the passive Wisdom (Perception) scores of any monsters that aren’t.
- 
-•Extremely slowly pace (1 hour per room). At this pace they can carefully examine every inch of the room. At this pace they will automatically succeed at finding any secret doors, hidden monsters, hidden treasure or traps that can be found by their characters. If there is something in the room that they wouldn’t be able to find even if they rolled a 20 on an ability check and added all of their bonuses, it is beyond their ability to find so it will remain hidden.
- 
-•The times above represent at least 2 characters searching.
- 
-•Two characters can search the walls, floor and ceiling and everything inside of a room up to 30’ x 30’. Larger rooms, or rooms with a large amount of “stuff” may take longer. Rooms smaller than 30’ x 30’ still take the indicated time to search.
- 
-•A single character searching the same room will take twice as long.
- 
-•More than two characters searching the room do not reduce the time any further unless it is a very large room.
- 
-•Characters that are searching can perform no other activities.
- 
-•Characters that are not searching can be on the lookout for monsters. One character can watch only one entrance without penalty. If a monster approaches the group through an entrance that is being watched, the Dexterity (Stealth) check of that character will be used against the Wisdom (Perception) checks of any monsters that are actively searching for you, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching.
 
 # Wilderness Adventuring
 
@@ -3851,40 +3297,39 @@ The scale of your outdoor map depends on how much detail you want. For the most 
 
 Just as you would do in a dungeon, track the characters’ movement on your outdoor map to determine what sort of terrain they encounter, monster lairs, settlements, or other noteworthy features they might stumble across. To keep things simple, assume that the characters find a noteworthy location when they enter its hex or square, unless the site is specifically hidden. The characters might not walk directly up to the front door of a ruined castle in the 1-mile-wide hex they just entered, but they can find old paths, outlying ruins, and such signs of its presence in the area with ease.
 
-Visibility. When traveling outdoors, characters can see about 2 miles in any direction on a clear day, assuming that trees, hills, and other obstructions don’t block their view. Rain cuts visibility down to 1 mile, and fog cuts it down to a few hundred feet.
+**Visibility.** When traveling outdoors, characters can see about 2 miles in any direction on a clear day, assuming that trees, hills, and other obstructions don’t block their view. Rain cuts visibility down to 1 mile, and fog cuts it down to a few hundred feet.
 Multiply the distance the characters can see by 20 if they are atop a mountain or a tall hill, or are otherwise able to look down upon the area around them from a lofty height.
 
-Terrain
+## Terrain
 
 Outdoor terrain is represented by a few general categories that describe how difficult it is to travel through an area of that terrain and (in the optional rules] find food and water.
 
-For the purpose of travel, terrain is either normal or difficult, with difficult terrain cutting the characters’ speed in half while they travel through it
+For the purpose of travel, terrain is either normal, difficult or very difficult, with difficult terrain cutting the characters’ speed by one third, and very difficult terraint - by two third while they travel through it
 
 If the characters travel by a road or path, they move at their normal speed regardless of the terrain around them.
 
-TERRAIN SUMMARY | Type	Travel
-
-Desert	| Normal
+TERRAIN SUMMARY | Type Travel
+Desert | Normal
 Forest	| Difficult
 Hills	| Normal
-Jungle	| Difficult
-Mountains	| Difficult
+Jungle	| Very Difficult
+Mountains	| Very Difficult
 Plains	| Normal
 Road/Path	| Normal
-Swamp	| Difficult
+Swamp	| Very Difficult
 Tundra	| Normal
 
 ## The Wilderness Turn
 
 This is the sequence of play for an hour of travel and exploration in a wilderness environment.
 
-1.	Direction and Pace. The players decide what direction their characters will move in and their travel pace. The players should also determine their formation: who is in the front, the middle, and the back of the group. (If you’re using the optional rules, they also decide on their exploration tasks at this time.]
+**1.	Direction and Pace.** The players decide what direction their characters will move in and their travel pace. The players should also determine their formation: who is in the front, the middle, and the back of the group. (If you’re using the optional rules, they also decide on their exploration tasks at this time.]
 
-2.	Progress on the Map. Determine the distance and the direction the characters traveled, taking into account their travel pace and chosen path.
+**2.	Progress on the Map.** Determine the distance and the direction the characters traveled, taking into account their travel pace and chosen path.
 
-3.	Random Encounters. Check for a random encounter and, if one is indicated, resolve any interaction or combat that occurs between the creatures and the characters.
+**3.	Random Encounters.** Check for a random encounter and, if one is indicated, resolve any interaction or combat that occurs between the creatures and the characters.
 
-4.	Environmental Effects. Apply effects of the environment, weather, or terrain, such as extreme cold. Some of these effects might require saving throws from the characters. In addition, if the characters attempt a forced march, resolve saving throws for that activity at this point.
+**4.	Environmental Effects.** Apply effects of the environment, weather, or terrain, such as extreme cold. Some of these effects might require saving throws from the characters. In addition, if the characters attempt a forced march, resolve saving throws for that activity at this point.
 
 If exploration continues, go back to the first step and repeat the sequence for another turn.
 
@@ -3898,6 +3343,42 @@ The travel pace of an exploring group determines its readiness. This quality is 
 
 Travel pace also determines the greatest distance a group can cover during an hour, as shown on the table. Difficult terrain, including forests, mountains, jungles, and swamps reduces travel speed by half. For example, a group moving at a moderate pace through a forest can expect to traverse no more than 1 mile every hour.
 
+Travel Pace | Distance traveled by minute | Speed per hour | Distance per day | | Pace Readiness DC | Special
+--------|--------|--------|--------|--------
+Very  Fast | tbd | tbd | tbd | tbd | tbd
+Fast | 400 f | 4 m | 30 m | 20 | -5 penalty to passive Wisdom (Perception) scores
+Normal | 300 f | 3 m | 24 m | 15 | Passive Perception 
+Slow | 200 f | 2 m | 18 m | 10 | able to use stealth, Passice Perception or roll Perception - choose max
+Very slow | tbd | 1 m | 12 m | 10| tbd
+
+**Mounts and Vehicles.** For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
+
+Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessels, and they don't suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
+
+Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a carpet of flying, allow you to travel more swiftly. The Dungeon Master's Guide contains more information on special methods of travel.
+
+**Activity While Traveling**
+
+As adventurers travel through a dungeon or the wilderness, they need to remain alert for danger, and some characters might perform other tasks to help the group's journey.
+
+### Marching Order
+
+The adventurers should establish a marching order.
+
+A marching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies when a fight breaks out.
+
+A character might occupy the front rank, one or more middle ranks, or the back rank. Characters in the front and back ranks need enough room to travel side by side with others in their rank. When space is too tight, the marching order must change, usually by moving characters to a middle rank.
+
+**Fewer Than Three Ranks.** If an adventuring party arranges its marching order with only two ranks, they are a front rank and a back rank. If there's only one rank, it's considered a front rank.
+
+**For party roster**
+
+Front rank
+
+Middle rank
+
+Rear rank
+
 ## Random Encounters
 
 You check at the end of each hour to see whether someone or something inadvertently crosses the adventurers’ path, or vice versa.
@@ -3906,11 +3387,9 @@ The population density of the region determines the likelihood of coming across 
 Note that the nature of random encounters depends on the region the characters are exploring. On a civilized road, they are more likely to encounter a wandering tinker or a caravan than a band of monsters.
  
 Region | Encounter Chance (d20)
-
+----------|--------------
 Sparsely inhabited | 20
-
 Densely inhabited | 18-20
-
 Typical region  | 18-20
 
 ## Encountering Creatures
@@ -3918,16 +3397,33 @@ Typical region  | 18-20
 If an exploring group encounters creatures (which might be wandering monsters or might be specific participants in the adventure], the characters can try to attack them, avoid them, or interact with them in some other way.
 
 Alertness	| Readiness DC
-
+--------|----------
 Low	| 20
-
 Normal	| 10
-
 High	| 5
 
 ## Encounter Distance
 
 Typically, the terrain or layout of an area determines how far the characters are from creatures when the groups become aware of each other. If this distance isn’t predetermined, roll a d20 + 20. Multiply that result by 10 if the area is in normal terrain (such as a grassy field, barren tundra, or a frozen lake] or by 5 if the terrain is difficult (such as rolling hills, or a forest]. The resulting number is the distance in feet between the two groups at the start of their encounter.
+
+
+Terrain	| Encounter Distance
+--------------|---------------------
+Arctic, desert, farmland, or grassland | 6d6 × 10 feet
+Forest, swamp, or woodland	| 2d8 × 10 feet
+Hills or wastelands	| 2d10 × 10 feet
+Jungle	| 2d6 × 10 feet
+Mountains	| 4d10 × 10 feet
+**Audible Distance**
+Trying to be quiet | 2d6 × 5 feet
+Normal noise level | 2d6 × 10 feet
+Very loud	| 2d6 × 50 feet
+**Visibility Outdoors**
+Clear day, no obstructions | 2 miles
+Rain | 1 mile
+Fog	| 100 to 300 feet
+From a height	| × 20
+
 
 ### Stealth
 
@@ -3937,19 +3433,11 @@ Before asking the players what they want to do, determine if either group notice
 
 If one group is hidden from the other, that group has surprise, as described in the combat rules. Otherwise, each creature and character makes a Wisdom saving throw against a DC that corresponds to its readiness. The readiness DC for characters is determined by their travel pace. For monsters, it depends on their degree of alertness, as shown below.
 
-TRAVEL PACE | Pace	Readiness DC
-
-Fast	| 15
-
-Moderate | 10 
-
-Slow	| 5
-
 ## Finding Locations and Objects
 
 When the characters come across a location or an object of special note during the performance of their tasks, describe the discovery to them and allow them to take actions as appropriate.
 
-# Weather
+## Weather
 
 In addition to the risk of encountering creatures or stumbling across a strange location, the characters also face mundane weather threats such as heavy rain, freezing cold, or searing heat.
 
@@ -3973,7 +3461,7 @@ No special weather Hot
 
 Storm (heavy rain)
 
-Desert
+**Desert**
 
 Hot
 
@@ -3981,7 +3469,7 @@ Hot, storm (dust)
 
 Storm (heavy rain)
 
-Tundra
+**Tundra**
 
 Cold
 
@@ -3989,13 +3477,13 @@ Cold, storm (snow)
 
 Cold, storm (heavy snow)
 
-## Cold Weather
+### Cold Weather
 
 While the temperature is below 0 degrees Fahrenheit, characters exposed to the cold must make DC 10 Constitution saves at the end of each hour. Characters without cold weather gear, such as thick coats, gloves, and so on, automatically fail this save.
 
 On a failed saving throw, a character gains a level of exhaustion.
 
-## Storm
+### Storm
 
 Bad weather, such as snow, rain, powerful winds, dust storms, and other hazards, reduces travel speeds by half, quartering speed in total when combined with difficult terrain.
 
@@ -4007,12 +3495,12 @@ In addition, specific types of storms have the following additional effects.
 
 **Heavy Snow**. Visibility is reduced to 50 feet, and creatures suffer disadvantage on saves to avoid becoming surprised. Heavy snow continues to reduce speed as described above for 1d6 days after the storm.
 
-## Hot Weather
+### Hot Weather
 
 In exceptionally hot weather (at or above 100 degrees Fahrenheit], characters exposed to the heat must make DC 10 Constitution saves at the end of each hour. Characters wearing medium or heavy armor or otherwise clad in heavy clothing suffer disadvantage on this save.
 On a failed saving throw, a character gains a level of exhaustion.
 
-## High Altitude
+### High Altitude
 
 Traveling at altitudes above 10,000 feet is particularly taxing due to the lack of oxygen in the air. Each hour spent traveling counts as two hours for purposes of determining how long characters can travel.
 
@@ -4067,7 +3555,9 @@ A character can perform up to two tasks during an exploration turn, but dividing
 
 Activities that require an action during a combat round, such as casting a spell, don’t count as exploration tasks. There’s no hard limit on the number of such activities a character can perform.
 
-### Foraging
+#### Foraging
+
+**PHB:** The character can keep an eye out for ready sources of food and water, making a Wisdom (Survival) check when the DM calls for it. (The Dungeon Master's Guide has rules for foraging.)
 
 The characters can gather food and water as they travel, especially if they are running low on supplies. When a character chooses this task, the character makes a single Wisdom (Survival] check with a DC determined by the abundance of food and water in the region. If the check succeeds, that character finds a quantity of pounds of food and gallons of water equal to the 1d6 + the character's Wisdom modifier.
 
@@ -4076,19 +3566,43 @@ If multiple characters choose this task, they each make separate ability checks.
 FORAGING DCS
 
 Terrain	| DC
-
+--------|-------
 Abundant	| 10
-
 Average	| 15
-
 Desolate	| 20
 
+**Characters who turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don't contribute their passive Wisdom (Perception) scores to the group's chance of noticing hidden threats.**
 
-### Keeping Watch
+
+Foraging DCs
+
+Food and Water Availability	DC
+Abundant food and water sources	10
+Limited food and water sources	15
+Very little, if any, food and water sources	20
+
+If multiple characters forage, each character makes a separate check. A foraging character finds nothing on a failed check. On a successful check, roll 1d6 + the character's Wisdom modifier to determine how much food (in pounds) the character finds, then repeat the roll for water (in gallons).
+
+Food and Water
+p111
+The food and water requirements noted in the Player's Handbook are for characters. Horses and other creatures require different quantities of food and water per day based on their size. Water needs are doubled if the weather is hot.
+
+Food and Water Needs
+Creature Size	Food per Day	Water per Day
+Tiny	1/4 pound	1/4 gallon
+Small	1 pound	1 gallon
+Medium	1 pound	1 gallon
+Large	4 pounds	4 gallons
+Huge	16 pounds	16 gallons
+Gargantuan	64 pounds	64 gallons
+
+#### Keeping Watch
 
 It helps to keep an eye and an ear open for danger. When a character chooses keeping watch as an exploration task, the character makes a single Wisdom (Perception] check to detect hidden creatures and an Intelligence (Search] check to detect hidden objects as the group travels during the current exploration turn. A character’s check result is used to contest the checks of any creatures that are attempting to hide from the explorers. If someone keeping watch detects a creature, it cannot surprise the group.
 
-### Mapmaking
+#### Mapmaking
+
+**PHB:** Draw a Map. The character can draw a map that records the group's progress and helps the characters get back on course if they get lost. No ability check is required.
 
 Making an accurate map is vital to ensuring that explorers have the best sense of their surroundings. It can also help keep them from becoming lost.
 
@@ -4098,16 +3612,27 @@ The map a character creates might be similar to your actual map of the area, but
 
 If more than one character chooses this task, those who do so simply create multiple maps of the area. (This strategy can prove useful if one character’s map is lost or destroyed later in the adventure.]
 
-### Navigating
+**Characters who turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don't contribute their passive Wisdom (Perception) scores to the group's chance of noticing hidden threats.**
+
+
+#### Track
+
+**PHB:** A character can follow the tracks of another creature, making a Wisdom (Survival) check when the DM calls for it. (The Dungeon Master's Guide has rules for tracking.)  
+
+#### Navigating
+
+
 
 Traveling in the wilderness or a large, unfamiliar city carries the risk of becoming lost. A character can reduce this risk by navigating for the group, keeping a careful eye out for landmarks and the position of the sun, the moon, and stars.
 When a character chooses navigating as an exploration task, the character makes a single Wisdom (Survival] check to prevent the group from losing its way during the current exploration turn. If more than one member of the group chooses this task, each navigator makes a check, and you use the best result to determine if the group becomes lost.
 
-### Sneaking
+**Characters who turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don't contribute their passive Wisdom (Perception) scores to the group's chance of noticing hidden threats.**
 
-Keeping a low profile is often the best option in a dangerous area. When a character chooses sneaking as an exploration task, the character makes a single Dexterity (Stealth] check to hide as the group travels. Anyone who chooses this task has advantage on this check if the group’s travel pace is slow. To notice a sneaking character, a creature must contest the character’s check, using Wisdom (Perception] or Intelligence (iNVESTIGATION], and win.
+#### Sneaking
 
-### Improvised Tasks
+Keeping a low profile is often the best option in a dangerous area. When a character chooses sneaking as an exploration task, the character makes a single Dexterity (Stealth] check to hide as the group travels. Anyone who chooses this task has advantage on this check if the group’s travel pace is slow. To notice a sneaking character, a creature must contest the character’s check, using Wisdom (Perception] or Intelligence (iNVESTIGATION], and win.x`
+
+#### Improvised Tasks
 
 A character might think of some way to contribute to an exploring group that isn't covered by the tasks described here. If so, you can allow the use of an improvised exploration task, but only if its performance requires no more than one-third of the time encompassed by an exploration turn. Also, as with other tasks, a character can't perform an improvised task if the group's travel pace is fast.
 
@@ -4115,11 +3640,25 @@ A character might think of some way to contribute to an exploring group that isn
 
 Characters can carry a tent to protect themselves against wind and rain, but sometimes they don't have access to that kind of gear, and in those situations they can try to find a natural shelter or build one using materials they can gather. 
 
-**Natural shelters** are divided in two types: basic and advanced Basic Shelter. Almost every natural shelter found in the wild is considered as a basic shelter. This shelter has enough space for 4 medium-sized creatures, and in general they're constructed from many small pieces of vegetation. Due to its simple design, a basic shelter protects against wind or precipitation (determined by the DM)
+**Natural shelters** are divided in two types: basic and advanced 
+
+**Basic Shelter.** Almost every natural shelter found in the wild is considered as a basic shelter. This shelter has enough space for 4 medium-sized creatures, and in general they're constructed from many small pieces of vegetation. Due to its simple design, a basic shelter protects against wind or precipitation (determined by the DM)
 
 **Advanced Shelter.** An advanced shelter have space for 6 medium-sized creatures or more and protects everyone inside against the wind rain, snow and other environmental features. Additionally, an advanced shelter helps to maintain the personal temperature and in some cases it also provides some defenses against wild creatures.
 
-### NATURAL SHELTERS
+**ЛАГЕРЬ**
+
+ОТКРЫТАЯ ИЛИ ЗАКРЫТАЯ СТОЯНКА
+
+УРОВЕНЬ КОМФОРТА ВНУТРИ СТОЯНКИ - ПРОТИВ ВЕТРА, ЛИВНЯ, СУХОСТЬ
+
+ЕСЛИ РУКОТВОРНАЯ СТОЯНКА, ТО ОНА МОЖЕТ БЫТЬ ХОРОШО ОБОРУДОВАНА ПРОТИВ НАПАДАЮЩИХ - 
+
+### Условия для нормального отдыха
+
+Базовые условия: температура от 10 до 30 град, без дождя - спальник
+
+#### NATURAL SHELTERS
 
 Terrain and time are the mayor factors that determines the chance for adventurers to be able to locate a natural shelter or construct something out of materials they find the zone.
 
@@ -4135,20 +3674,21 @@ Plains are generally flat, but not necessarily featureless. A small gully might 
 
 Swamps commonly have vegetation that can be scavenged and used as shelter, and characters can come across a fallen tree or similar feature that can help as a shelter.
 
-### FINDING NATURAL SHELTER
+#### FINDING NATURAL SHELTER
 
 Characters can make a Wisdom (Survival) check to try to find a natural shelter in the area. Depending on the terrain, the difficulty and time to find an appropriate shelter varies, as shown in the following table.
 
-Terrain	DC	Time Needed
-Arctic	25	30 minutes
-Desert	25	30 minutes
-Forest	TO	10 minutes
-Hills	TO	10 minutes
-Mountains	20	20 minutes
-Plains	20	20 minutes
-Swamps	15	1 5 minutes
+Terrain	| DC | Time Needed
+--------|--------|--------
+Arctic | 25 |	30 minutes
+Desert | 25 | 30 minutes
+Forest | 1O | 10 minutes
+Hills | 1O | 10 minutes
+Mountains | 20 | 20 minutes
+Plains | 20 | 20 minutes
+Swamps | 15 | 15 minutes
 
-#### ADDITIONAL CONDITIONS
+##$# ADDITIONAL CONDITIONS
 
 You can increase the DC and time depending on some special conditions, such as looking for a shelter in the night or while it's raining.
 
@@ -4156,38 +3696,37 @@ You can increase the DC and time depending on some special conditions, such as l
 
 *	Storm, snowfall and no visibility areas. Increase the DC by 5 and it takes twice the base time.
 
-UPGRADING A SHELTER
+### UPGRADING A SHELTER
+
 While characters can look for natural shelter, they can also gather materials and upgrade a basic shelter into an advanced shelter or add extra features, such as a palisade wall or other defensive measures.
-COLLECTING MATERIALS
+
+### COLLECTING MATERIALS
+
 A character can gather materials by making an Wisdom (Survival) check or a Strength (Athletics) check. Use the table under the Finding Natural Shelter part to determine the DC and time used for collecting materials. During this activity, the character gather branches and vegetation that is lying in the area, cut down a tree to collect wood or mine a big rock to collect stones. 
 On a success, it collects a number of units equal to 2d6 + its Constitution modifier. A character can make a number of checks per day equal to twice its Constitution modifier (minimum 1)
-UPGRADING
-For upgrading a shelter, the character must use a number of units of materials depending on which feature they want, as shown in the table below. Multiple characters can combine their efforts toward the upgrading of the shelter, reducing the time by ten times its Constitution modifier for each character working on the upgrade to a minimum of 10 minutes. For example, a character with a Constitution modifier of +2 will reduce the time it takes to finish a shelter feature by 20 minutes.
-Feature	Units Required	Time
-Advanced shelter upgrade	15	4 hours
-Basic wall	6	1 hour
-Platform	10	2 hours
-Spike barrier	5	30 minutes
-Stone wall	10	4 hours
-UPGRADING A SHELTER
-UPGRADING A SHELTER
-While characters can look for natural shelter, they can also gather materials and upgrade a basic shelter into an advanced shelter or add extra features, such as a palisade wall or other defensive measures.
-COLLECTING MATERIALS
-A character can gather materials by making an Wisdom (Survival) check or a Strength (Athletics) check. Use the table under the Finding Natural Shelter part to determine the DC and time used for collecting materials. During this activity, the character gather branches and vegetation that is lying in the area, cut down a tree to collect wood or mine a big rock to collect stones. 
-On a success, it collects a number of units equal to 2d6 + its Constitution modifier. A character can make a number of checks per day equal to twice its Constitution modifier (minimum 1)
-UPGRADING
-For upgrading a shelter, the character must use a number of units of materials depending on which feature they want, as shown in the table below. Multiple characters can combine their efforts toward the upgrading of the shelter, reducing the time by ten times its Constitution modifier for each character working on the upgrade to a minimum of 10 minutes. For example, a character with a Constitution modifier of +2 will reduce the time it takes to finish a shelter feature by 20 minutes.
-FeatureUnits RequiredTimeAdvanced shelter upgrade154 hoursBasic wall61 hourPlatform102 hoursSpike barrier530 minutesStone wall104 hoursUPGRADING A SHELTER
 
-Advanced Shelter Upgrade. Upgrading a basic shelter into an advanced shelter includes a door, simple roofing and walls made from various pieces of thatch, wood, stone or similar. Upgrading a shelter allows up to 6 medium-sized creatures to enter and protect themselves.
+### UPGRADING
 
-Basic Wall This 15-feet long, 6 feet tall fence or wall is made from wooden stakes, tree trunks, adobe or even bones, and it’s used as a defensive structure or enclosure. Each 5 feet of wall has an AC 15,15 hit points and a damage threshold of
-Platform. This 10-foot square wooden platform is attached on a large tree, or raised on piles over the soil enabling to build on it. The platform can be built up to 10 feet high and includes a simple wooden staircase to access the platform.
-Spike barrier. A 10-feet long barrier with many wooden or bone spikes. The area covered by the barrier is considered difficult terrain. Any creature that moves through the spike wall must make a Dexterity saving throw (DC 10) or take ld4 piercing damage. The barrier has an AC 15,15 hit points and a damage threshold of 5.
-Stone Wall A stone wall is a 15-feet long, 6 feet tall wall made from brick-and-mortar, used as a defensive structure or enclosure. Each 5 feet of wall has an AC 17, 30 hit points and a damage threshold of 10.
+For upgrading a shelter, the character must use a number of units of materials depending on which feature they want, as shown in the table below. Multiple characters can combine their efforts toward the upgrading of the shelter, reducing the time by ten times its Constitution modifier for each character working on the upgrade to a minimum of 10 minutes. For example, a character with a Constitution modifier of +2 will reduce the time it takes to finish a shelter feature by 20 minutes.
+
+Feature	| Units Required | Time
+--------|--------|--------
+Advanced shelter upgrade | 15 | 4 hours
+Basic wall | 6 | 1 hour
+Platform | 10 | 2 hours
+Spike barrier | 5 | 30 minutes
+Stone wall | 10 | 4 hours
+
+**Advanced Shelter Upgrade.** Upgrading a basic shelter into an advanced shelter includes a door, simple roofing and walls made from various pieces of thatch, wood, stone or similar. Upgrading a shelter allows up to 6 medium-sized creatures to enter and protect themselves.
+
+**Basic Wall** This 15-feet long, 6 feet tall fence or wall is made from wooden stakes, tree trunks, adobe or even bones, and it’s used as a defensive structure or enclosure. Each 5 feet of wall has an AC 15,15 hit points and a damage threshold of
+**Platform.** This 10-foot square wooden platform is attached on a large tree, or raised on piles over the soil enabling to build on it. The platform can be built up to 10 feet high and includes a simple wooden staircase to access the platform.
+**Spike barrier.** A 10-feet long barrier with many wooden or bone spikes. The area covered by the barrier is considered difficult terrain. Any creature that moves through the spike wall must make a Dexterity saving throw (DC 10) or take ld4 piercing damage. The barrier has an AC 15,15 hit points and a damage threshold of 5.
+**Stone Wall** A stone wall is a 15-feet long, 6 feet tall wall made from brick-and-mortar, used as a defensive structure or enclosure. Each 5 feet of wall has an AC 17, 30 hit points and a damage threshold of 10.
+
 Some of this upgrades might not available to build in certain terrains due the type of materials needed For example, a spike barrier might be hard to craft in a desert since it requires wood or large bones.
 
-ADDITIONAL FEATURES
+#### ADDITIONAL FEATURES
 While the upgrading features covers the most basic and generic ones, you can also create new ones, such as a clay oven, wooden furniture and such for creating a survival-themed campaign.
 
 
@@ -4200,19 +3739,17 @@ If the characters might become lost, make note of the Wisdom (Survival] check re
 If any character performed mapmaking as a task during the current exploration turn, the DC is reduced by 5.
 
 Terrain	| DC Modifier
-
+---------|--------------
 Forest, swamp, jungle, mountains	| +5
-
 Light forest jungle, hills, desert, tundra	| 0
-
 Plains, prairie	| -5
 
 Success. If the navigator’s Wisdom (Survival] check succeeds, the characters successfully travel the distance and in the direction they want.
 
 Failure. If the check fails, the characters inadvertently travel in the wrong direction. Halfway through their travel in the current turn, you roll a d4 to determine how the group has deviated from its intended course.
 
-d4	| Deviation
-
+d4 | Deviation
+------|------
 1	| 90 degrees left
 2	| 45 degrees left
 3	| 45 degrees right
@@ -4225,56 +3762,174 @@ This change of direction applies only to the characters’ travel during the las
 
 The characters might not realize they are lost unless they encounter an obstacle that indicates they are heading in the wrong direction. If the characters realize they have lost their way, you stop rolling for deviation in their course until they fail another check to avoid becoming lost.
 
+### Заблудились
 
-ENVIRONMENTAL HAZARDS
+There are many ways to get lost in the wilderness. Following an obvious road, trail, or feature such as a stream or lakeshore prevents any possibility of becoming lost, but trav￾elers striking off cross-country may become disoriented—es￾pecially in conditions of poor visibility or in difficult terrain.
+
+**Poor Visibility:** Any time characters cannot see at least 60 feet in the prevail￾ing conditions of visibility, they may be￾come lost. Characters traveling through fog, snow, or a downpour might easily lose the ability to see any landmarks not in their immediate vicinity. Similarly, characters travel￾ing at night may be at risk, too, de￾pending on the quality of their light sources, the amount of moonlight, and whether or not they have dark￾vision or low-light vision.
+
+**Difficult Terrain:** Any character in forest, moor, hill, or mountain terrain may become lost if he or she moves away from a trail, road, stream, or other obvious path or track.
+
+**Chance to Get Lost:** If conditions exist that make getting lost a possibility, the character leading the way must succeed at a Wilderness Lore check or become lost. The difficulty of this check varies based on the terrain, the visibility condi￾tions, and whether or not the character has a map of the area being traveled through.
+| Terrain                         | DC |
+|---------------------------------|----|
+| Moor or hill terrain, map       | 6  |
+|                                 |    |
+| Mountain terrain, map           | 8  |
+|                                 |    |
+| Moor or hill terrain, no map 10 | 10 |
+|                                 |    |
+| Poor visibility                 | 12 |
+|                                 |    |
+| Mountain terrain, no map        | 12 |
+|                                 |    |
+| Forest                          | 15 |
+
+
+Check once per hour (or portion of an hour) spent in local or overland movement to see if travelers have become lost.
+
+In the case of a party moving together, only the character leading the way makes the check. (DM Tip: Make this check in secret, since the characters may not realize that they’re lost right away.)
+
+Effects of Being Lost: If a party becomes lost, it is no longer certain of moving in the direction it intended to travel.
+
+Randomly determine the direction the party actually travels in during each hour of local or overland movement. The char￾acters’ movement continues to be random until they blunder into a landmark they can’t miss, or until they recognize that they are lost and make an effort to regain their bearings.
+
+Recognizing that You’re Lost: Once per hour of random travel, each character in the party may attempt a Wilderness Lore check (DC 20 –1 per hour of random travel) to recognize that they are no longer certain of their direction of travel. Some circumstances may make it obvious that the characters are lost; if they expected to reach a certain spot within an hour but three or four hours pass by with no sign of their destination, that’s a bad sign.
+
+Setting a New Course: A lost party is also uncertain of determin￾ing in which direction it should travel in order to reach a desired objective—even an objective such as “the point where we left the road and went off into these dratted woods.” Determining the correct direction of travel once a party has become lost re￾quires a Wilderness Lore check (DC 15 +2 per hour of random travel). If a character fails in this
+
+check, he chooses a random direction as the “correct” direction for resuming travel. (DM Tip: Again, this is a check you should make in secret. The lost characters may think they know the way to travel after regaining their bearings, but could be entirely wrong again.) Once the characters are traveling along their new course, correct or incorrect, it’s entirely possible for them to get lost again. If the conditions still make it possible for travelers to become lost, check once per hour of travel as described under Chance to Get Lost to see if the party maintains its new course, or begins to move at random again.
+
+Conflicting Directions: It’s possible that several characters may attempt to determine the right direction to proceed after becoming lost. That’s just fine. The DM makes a Wil￾derness Lore check for each character in secret, then tells the players whose characters succeeded the correct direction to travel, and tells the players whose characters failed a random direction they think is right. (DM Tip: A few extraneous die rolls behind your screen might make it less apparent which characters are right and which characters are wrong.)
+
+Regaining Your Bearings: There are several ways to be￾come un-lost. First, if the characters successfully set a new course and follow it to the destination they’re trying to reach, they’re not lost anymore. Second, the characters through random movement might run into an unmistakable landmark. Third, if conditions suddenly improve—the fog lifts, the sun comes up, or the travelers use know direction to ascertain the correct direction of north—lost characters may attempt to set a new course, as described above, with a +4 bonus on the Wilderness Lore check. Finally, more powerful magic such as find the path may make their course clear.
+
+**Extreme Cold**
+
+Whenever the temperature is at or below 0 degrees Fahrenheit, a creature exposed to the cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw and creatures naturally adapted to cold climates.
+
+*Cold weather outfit gives advantage on this check.*
+
+**Extreme Heat**
+
+When the temperature is at or above 100 degrees Fahrenheit, a creature exposed to the heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain one level of exhaustion. The DC is 5 for the first hour and increases by 1 for each additional hour.
+
+Creatures wearing medium or heavy armor, or who are clad in heavy clothing, have disadvantage on the saving throw. Creatures with resistance or immunity to fire damage automatically succeed on the saving throw, as do creatures naturally adapted to hot climates.
+
+**Strong Wind**
+A strong wind imposes disadvantage on ranged weapon attack rolls and Wisdom (Perception) checks that rely on hearing. A strong wind also extinguishes open flames, disperses fog, and makes flying by nonmagical means nearly impossible. A flying creature in a strong wind must land at the end of its turn or fall.
+
+A strong wind in a desert can create a sandstorm that imposes disadvantage on Wisdom (Perception) checks that rely on sight.
+
+**Heavy Precipitation**
+
+Everything within an area of heavy rain or heavy snowfall is lightly obscured, and creatures in the area have disadvantage on Wisdom (Perception) checks that rely on sight. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom (Perception) checks that rely on hearing.
+
+**High Altitude**
+
+Traveling at altitudes of 10,000 feet or higher above sea level is taxing for a creature that needs to breathe, because of the reduced amount of oxygen in the air. Each hour such a creature spends traveling at high altitude counts as 2 hours for the purpose of determining how long that creature can travel.
+
+Breathing creatures can become acclimated to a high altitude by spending 30 days or more at this elevation. Breathing creatures can't become acclimated to elevations above 20,000 feet unless they are native to such environments.
+
+## Wilderness Hazards
+
+This section describes a few examples of hazards that adventurers might encounter in the wilderness.
+
+Some hazards, such as slippery ice and razorvine, require no ability check to spot. Others, such as defiled ground, are undetectable by normal senses.
+
+The other hazards presented here can be identified with a successful Intelligence (Nature) check. Use the guidelines in chapter 8 to set an appropriate DC for any check made to spot or recognize a hazard.
+
+### Desecrated Ground
+
+Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a detect evil and good spell cast within range reveals its presence.
+
+Undead standing on desecrated ground have advantage on all saving throws.
+
+A vial of holy water purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a hallow spell purifies desecrated ground within its area.
+
+### Frigid Water
+
+A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in ice-cold water.
+
+### Quicksand
+
+A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks 1d4+1 feet into the quicksand and becomes restrained. At the start of each of the creature's turns, it sinks another 1d4 feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the suffocation rules in the Player's Handbook).
+
+A creature can pull another creature within its reach out of a quicksand pit by using its action and succeeding on a Strength check. The DC is 5 plus the number of feet the target creature has sunk into the quicksand.
+
+### Razorvine
+
+Razorvine is a plant that grows in wild tangles and hedges. It also clings to the sides of buildings and other surfaces as ivy does. A 10-foot-high, 10-foot-wide, 5-foot-thick wall or hedge of razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage.
+
+When a creature comes into direct contact with razorvine for the first time on a turn, the creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine's bladelike thorns.
+
+### Slippery Ice
+
+Slippery ice is difficult terrain. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a DC 10 Dexterity (Acrobatics) check or fall prone.
+
+### Thin Ice
+
+Thin ice has a weight tolerance of 3d10 × 10 pounds per 10-foot-square area. Whenever the total weight on an area of thin ice exceeds its tolerance, the ice in that area breaks. All creatures on broken ice fall through.
+
+## ENVIRONMENTAL HAZARDS
 
 In this section you can find new environmental hazards, which follows similar rules as traps or lair actions. To determine the DC and damage, use the following tables
 
 ----------------------------------------------------------------------------------
 
+Danger level | d20
+--------|---------
+Setback | 1-11
+Dangerous	| 12-15	
+Deadly | 16-20	
 
-Setback		10-11	
-Dangerous		12-1 5	
-Deadly		16-20	
-DAMAGE SEVERITY BY LEVEL
-Character Level Setback	Dangerous	Deadly
-I st-4th	IdlO	2dl 0	4dl 0
-5th-1Oth	2d10	4dl 0	lOdlO
-I "Ith-I 6th	4d10	lOdlO	18dl 0
-I 7th-20th	10d10	1 8dl 0	24dl 0
-HAZARD EXAMPLES		
+**DAMAGE SEVERITY BY LEVEL**
 
-AVALANCHES, ROCKFALLS AND MUDSLIDES
-Any Level of Hazard
+Character Level | Setback	| Dangerous	| Deadly
+1st-4th	| IdlO	2dl 0	4dl 0
+5th-1Oth|2d10|4d10|lOdlO
+I "Ith-I 6th	4d10	lOdlO|18dl 0
+I 7th-20th | 10d10 | 18dl0 | 24d19
+
+
+### AVALANCHES, ROCKFALLS AND MUDSLIDES
+*Any Level of Hazard*
+
 Any character in the area where the hazard occurs must make a Dexterity saving throw. On a failed save, a creature takes bludgeoning damage and is buried by the hazard, or half as much damage on a successful one. The area is filled with snow, rubble or mud and becomes difficult terrain.
 Any buried creature is considered suffocated, and it can dig through to free itself. To do so, the creature must succeed a number of Strength (Athletics) checks, as shown in the following table.
-Hazard Level	Number of Checks
-Setback	2
-Dangerous	3
-Deadly	4
 
-HAILSTORM
+Hazard Level | Number of Checks
+Setback	| 2
+Dangerous	| 3
+Deadly | 4
 
-Dangerous Hazard
+### HAILSTORM
+*Dangerous Hazard*
 
 Similar to a blizzard, the terrain affected by the hailstorm is considered difficult terrain. When a creature without proper shelter is in the area affected by the hailstorm for one hour, it must make a Constitution saving throw, taking cold damage on a failed save or half as much damage on a successful one.
 
 
 A cloud of swarming insects fills a 20-foot-radius sphere. The swarm moves at 20 feet on each round When a creature enters the cloud it must make a Constitution saving throw. On a failed save, it takes piercing damage, or half as much damage on a successful one. A creature that ends its turn in the cloud must roll another saving throw. A creature cannot be damaged by the insect swarm if it’s wielding a torch or if it is at least 5 feet from a fire.
 
-BLIZZARD
-Setback Hazard
+### BLIZZARD
+*Setback Hazard*
+
 The area affected by a blizzard is considered difficult terrain. When a creature without proper shelter is in the area affected by the blizzard for one hour, it must make a Constitution saving throw, taking cold damage on a failed save or half as much damage on a successful one. If a creature is wearing warm clothing, it has advantage on the saving throw.
-EARTHQUAKES
-Any Level of Hazard
+
+### EARTHQUAKES
+*Any Level of Hazard*
+
 A tremor shakes the area; each creature on the ground in that area must make a Dexterity saving throw or be knocked prone.
 The hazard level is determined by the proximity to the epicenter or the intensity of the earth tremor:
 •	Setback. Far from the epicenter or light earthquake.
 •	Dangerous. Near the epicenter or moderate earthquake.
 •	Deadly. Very close to the epicenter or severe earthquake.
-ELEMENTAL CLOUD
-Any Level of Hazard
-This cloud is made with elemental essence. When a creature enters the cloud, it must make an appropriate saving throw, taking damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the cloud must roll another saving throw.
+
+### ELEMENTAL CLOUD
+*Any Level of Hazard*
+
+This cloud is made with elemental essence. When a creature enters the cloud, it must make an appropriate saving throw, taking damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the cloud must roll another saving throw./
+
 Cloud Color	Damage Type	Saving Throw
 Black	Necrotic	Constitution
 Cyan	Cold	Constitution
@@ -4283,61 +3938,76 @@ Light Green	Acid	Constitution
 Purple	Psychic	Wisdom
 Red	Fire	Constitution
 White	Force	Intelligence
-LAVA
-Deadly Hazard
-The lava is considered difficult terrain. Any creature that enters the lava takes fire damage. A creature that ends its turn in the lava takes fire damage. 
-LIGHTNING STORMS
-Dangerous or Deadly Hazard 
 
- 
+### LAVA
+*Deadly Hazard*
+
+The lava is considered difficult terrain. Any creature that enters the lava takes fire damage. A creature that ends its turn in the lava takes fire damage. 
+
+### LIGHTNING STORMS
+*Dangerous or Deadly Hazard*
 
 The DM rolls a dlOO to determine if any creature is hit by a lightning.
 This check can be made at the beginning of each turn during a combat or in any time while the party is not in combat.
-dlOO	Number of Creatures
-1-50	0
-51-70	ld4
-71-20	1 d 6
-81-90	1 d8
-91-100	1 d 10
-
+dlOO | Number of Creatures
+-----------|--------------
+1-50 | 0
+51-70 | ld4
+71-20 | 1d6
+81-90	| 1d8
+91-100 | 1d10
 
 The creatures hit by a lightning are determined by the DM, and any creature in the area under total cover from above cannot take damage.
-MAGMA ERUPTIONS
-Dangerous Hazard
+
+### MAGMA ERUPTIONS
+*Dangerous Hazard*
+
 Magma erupts from a point on the ground, creating a 20-foot- high, 5-foot-radius geyser. Each creature in the geyser's area must make a Dexterity saving throw, taking fire damage on a failed save, or half as much on a successful one.
 
-ROGUE WAVE
-Dangerous Hazard
-POISON CLOUDS AND SPORES
+### ROGUE WAVE
+*Dangerous Hazard*
+
+### POISON CLOUDS AND SPORES
+
 Setback Hazard
 When a creature enters the cloud, it must make a Constitution saving throw, taking poison damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the cloud must make another saving throw.
 
-DANGEROUS TERRAINS
+## DANGEROUS TERRAINS
+
 In the following section you can find survival considerations and hazards for various terrains. You can combine different terrains to create a more dynamic (and probably more deadly) environment.
-ARCTIC
+
+### ARCTIC
+
 Cold and Extreme Cold The temperatures in this environment are lower than other places, and you need proper gear for resisting this temperatures. Whenever the temperature is at or below 0 degrees Fahrenheit, you must follow the rules of extreme cold
-A	k
-EXTREME COLD (DMC, P.110)
-Whenever the temperature is at or below 0 degrees Fahrenheit, a creature exposed to the cold must succeed on a DC 1 0 Constitution saving throw at the end of each hour or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
-^	r
+
 Food Scarcity. It's hard to find food like plants and creatures due the low temperatures. All the checks for foraging and hunting have a DC equal to 20.
+
 Shelter. In general, the arctic areas are vast frozen plains with big glaciers and rocks, making it difficult to find a natural shelter.
+
 ENVIRONMENTAL HAZARDS
-Hazard	Source Notes
-Avalanches	CAW, P.5 5 Only near mountains
-Blizzard	CAW, P.5 5
-Elemental Cloud	CAW. 5 5 Cyan clouds only
-Frigid Water	DMG, P.110
-Hailstorm	CAW, P.5 5
-Chasms and Ice Cracks	DMG, P.l 22 Use the pits trap
-Slippery Ice	DMG, P.110
-Thin Ice	DMG, P.lll
-CAVES
+
+Hazard  | Source | Notes
+-----------|-------------|-------------
+Avalanches	| CAW, P.5 5 | Only near mountains
+Blizzard	| CAW, P.5 5 | 
+Elemental Cloud	| CAW. 5 5 | Cyan clouds only
+Frigid Water	| DMG, P.110|
+Hailstorm	| CAW, P.5 5| 
+Chasms and Ice Cracks	| DMG, P.l 22 | Use the pits trap
+Slippery Ice	| DMG, P.110 |
+Thin Ice	| DMG, P.lll |
+
+
+
+### CAVES
 
 
 Darkness and Light. Most of the natural caves don't have light sources, so anyone who enters must bring their sources of light and fire for warmth, cooking and in some cases, defense. A caves might have some light sources, such as groups of fluorescent fungus or other dangerous light sources, like lava.
+
 Orientation and tracking. Inside a cave it's almost impossible to determine where's North: lots of caves are just tunnels connected, making it more difficult to create an accurate map of it.
+
 Flooding. Some parts of the caves might be close to a water source or any other liquid that can quickly fill a room.
+
 ENVIRONMENTAL HAZARDS
 Hazard	Source	Notes
 Earthquakes	CAW, P.5 5	Might cause rockfalls
@@ -4346,18 +4016,19 @@ Lava	CAW, P.5 5
 Pits	DMG, P.122	
 Rockfalls	CAW, P.5 5	
 Unsteady Ground	CAW, P.56	
-DESERT		
+
+
+### DESERT		
 
 
 Heat and Extreme Heat. The opposite of the arctic terrain, temperatures in this environment are higher than other places, and you need enough water supplies for resisting the heat. Whenever the temperature is at or above 100 degrees Fahrenheit, you must follow the rules of extreme heat.
-A	k
-EXTREME HEAT (DMC, P.UO)
-When the temperature is at or above 1 00 degrees Fahrenheit, a creature exposed to the heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain one level of exhaustion. The DC is 5 for the first hour and increases by 1 for each additional hour. Creatures wearing medium or heavy armor, or who are clad in heavy clothing, have disadvantage on the saving throw. Creatures with resistance or immunity to fire damage automatically succeed on the saving throw, as do creatures naturally adapted to hot climates.
-^	r
+
 Shelter. In general, the desert areas are just sand and rocks (in some areas they might be some scattered shrubs) making it difficult to find a safe campsite.
-Strong Wind A strong wind imposes disadvantage on ranged weapon attack rolls and Wisdom (Perception) checks that rely on hearing. A strong wind also extinguishes open flames, disperses fog, and makes flying by nonmagical means nearly impossible. A flying creature in a strong wind must land at the end of its turn or fall
-A strong wind in a desert can create a sandstorm that imposes disadvantage on Wisdom (Perception) checks that rely on sight.
+
+Strong Wind A strong wind imposes disadvantage on ranged weapon attack rolls and Wisdom (Perception) checks that rely on hearing. A strong wind also extinguishes open flames, disperses fog, and makes flying by nonmagical means nearly impossible. A flying creature in a strong wind must land at the end of its turn or fall A strong wind in a desert can create a sandstorm that imposes disadvantage on Wisdom (Perception) checks that rely on sight.
+
 Water Scarcity. Finding water in a desert is extremely difficult, unless you're near an Oasis. All checks made for getting water have a DC equal to 20.
+
 ENVIRONMENTAL HAZARDS	
 Hazard	Source	Notes
 Earthquakes	CAW, P.5 5	
@@ -4365,9 +4036,12 @@ Elemental Cloud	CAW, P.5 5	Mostly red clouds
 Lightning Storms	CAW, P.56	
 Sandstorms	CAW, P.56	
 
-FORESTS AND JUNGLES
+### FORESTS AND JUNGLES
+
 Density. Sometimes is hard to walk through a forest due the great number of plants, trees and vegetation. In most of the cases, you can't walk in a straight line through the forest. Orientation and tracking. Inside a forest, the trees covers the sky, making it hard to determine where's North, and depending the density of the forest it might be harder to keep a track.
+
 Sight and hearing. It might be more difficult to see or hear your surroundings because the density of the forest, the tree shadows, obstacles (such a fallen tree) and the sound of the trees and vegetation moving with the wind
+
 ENVIRONMENTAL HAZARDS
 Hazard	Source	Notes
 Earthquakes	CAW, P.5 5	Might cause trees to fall
@@ -4376,12 +4050,14 @@ Insect Swarms	CAW, P.5 5
 Lightning Storms	CAW, P.56	Might cause a forest fire
 Poison Clouds and Spores	CAW, P.56	
 Razorvine	DMG, P.110	
-LAKES, RIVERS AND OCEAN
+
+### LAKES, RIVERS AND OCEAN
 
 
 Orientation and tracking. In the middle of the ocean or under a storm, it's difficult to determine the cardinal points without the proper tools.
 Shipwrecks. In the ocean, lakes and even in rivers there're rocks, icebergs, and more that can damage or destroy a ship or boat.
 Water streams. The river streams can change drastically depending on the terrain around the rivers, like the terrain elevation, inclination and waterfalls.
+
 ENVIRONMENTAL HAZARDS
 Hazard	Source	Notes
 Elemental Cloud	CAW, P.5 5	
@@ -4390,16 +4066,19 @@ Frigid Water	DMG, P.110	Ocean only
 Lightning Storms	CAW, P.56	
 Rapids	CAW, P.56	Rivers only
 Rogue Wave	CAW, P.56	Ocean only
-MOUNTAINS		
+
+### MOUNTAINS		
 
 
-Altitude. When you're traveling at altitudes of 10,000 feet or higher above sea level, you must follow the high altitude rules. Strong wind A strong wind imposes disadvantage on ranged weapon attack rolls and Wisdom (Perception) checks that rely on hearing. A strong wind also extinguishes open flames, disperses fog, and makes flying by nonmagical means nearly impossible. A flying creature in a strong wind must land at the end of its turn or fall
-A strong wind in a desert can create a sandstorm that imposes disadvantage on Wisdom (Perception) checks that rely on sight.
-A	K.
+Altitude. When you're traveling at altitudes of 10,000 feet or higher above sea level, you must follow the high altitude rules. 
+
+Strong wind A strong wind imposes disadvantage on ranged weapon attack rolls and Wisdom (Perception) checks that rely on hearing. A strong wind also extinguishes open flames, disperses fog, and makes flying by nonmagical means nearly impossible. A flying creature in a strong wind must land at the end of its turn or fall A strong wind in a desert can create a sandstorm that imposes disadvantage on Wisdom (Perception) checks that rely on sight.
+
 HIGH ALTITUDE (DMC, P.110)
 Traveling at altitudes of 1 0,000 feet or higher above sea level is taxing for a creature that needs to breathe, because of the reduced amount of oxygen in the air. Each hour such a creature spends traveling at high altitude counts as 2 hours for the purpose of determining how long that creature can travel.
+
 Breathing creatures can become acclimated to a high altitude by spending 30 days or more at this elevation. Breathing creatures can't become acclimated to elevations above 20,000 feet unless they are native to such environments.
-^	r
+
 ENVIRONMENTAL HAZARDS
 Hazard	Source Notes
 Avalanches, rockfalls and mudslides	CAW, P.5 5
@@ -4409,11 +4088,15 @@ Lava	CAW, P.5 5 Near volcanoes
 Lightning Storms	CAW, P.5 6
 Magma Eruptions	CAW, P.56 Near Volcanoes
 Unsteady Ground	CAW, P.5 6
-SWAMPS
 
+
+
+### SWAMPS
 
 Clean water. Swamps are characterized by having slow- moving and stagnant waters, being harder to find drinkable water. Drinking stagnant water might cause diseases. Warmth. The swamps are wet and soggy, so finding dry resources for making a fire it's almost impossible.
+
 Low visibility. Mist, fog and lowlands are common in this terrain, and they reduces the visibility of any creature.
+
 ENVIRONMENTAL HAZARDS
 Hazard	Source Notes
 Elemental Cloud	CAW, P.5 5
@@ -4425,200 +4108,773 @@ Razorvine	DMG, P.110
 Unsteady Ground	CAW, P.56
 
 
-SPECIAL TERRAINS
+### SPECIAL TERRAINS
 In the wilderness, there're places that have been touched by ancient magic or energies for centuries, creating a persistent effect on those lands. Here're some ideas for creating special terrains you can add to flesh a particular zone in the wild
-BLOOD ROCK
+
+#### BLOOD ROCK
 This area was part of old and forgotten ceremonial sacrifices, a massive battle between armies that fought for centuries or the place where a powerful otherwordly creature was slain. The area is covered by stones with a red tone, bones covered by dirt and mud and dry blood Any creature standing in this area can score a critical hit on a 19 or 20.
 Long-Term Effect: A creature must succeed on a DC 10 Wisdom saving throw at the end of each hour. On a failed save, the creature must use its action each round to attack the nearest creature it sees. At the end of each of its turns, the creature can make a new Wisdom saving throw. On a success, the effect ends until another hour passes.
-DEATH CIRCLE RUINS
+
+#### DEATH CIRCLE RUINS
 This area surrounded by dark stone pillars is infused with necrotic energy. Any healing effect, such as a cure wounds spell only heals half the total amount in this area.
 Long-Term Effect: A living creature must succeed on a DC 10 Constitution saving throw at the end of each hour. On a failed save, its hit point maximum is reduced by ld6. To recover the reduced hit points, the creature must spend 1 hour outside the area covered by the death circle ruins.
-DEFILED GROUND
+
+#### DEFILED GROUND
 The dark energy fills this area, attracting undead creatures to this area. Any undead creature gains a +1 bonus on attack rolls while standing in the defiled ground Additionally, when an undead is reduced to 0 hit points, roll a d20. On a 10 or higher, the undead creature rises with 1 hit point on its next turn. If an undead is reduced to 0 hit points by radiant damage, it cannot roll for rising again.
 Long-Term Effect: A creature must succeed on a DC 10 Constitution saving throw at the end of each hour. On a failed save, it takes 5 necrotic damage.
-GRAB GRASS
+
+#### GRAB GRASS
 This thick, tough grass grows in areas constantly touched by Feywild magic that clings to characters and creatures that falls prone. An area covered by grab grass is considered difficult terrain, and any creature that falls prone in this area must make a Strength (Athletics) check to stand up (DC 10)
-LIFE CIRCLE RUINS
+
+#### LIFE CIRCLE RUINS
 This area surrounded by white stone pillars is infused with pure life energy. Every 1 minute, any living creature that begins its turn in the area regains 2 hit points.
 Long-Term Effect: Any living creature that stays in this area for 1 hour can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed or poisoned
-PLANETOUCHED
+
+#### PLANETOUCHED
 Due to planar energy, a powerful artifact or some other factor, this terrain boosts certain types of energy related to one plane. Pick one damage type from the following list: Acid Cold Fire, Force, Lightning, Necrotic, Psychic or Radiant. Any attack that deals the chosen damage type deals an extra ld6 damage of that type.
-SACRED SHRINE
+
+#### SACRED SHRINE
 A sacred shrine is dedicated to a particular deity, infusing with divine energy the area nearby. A creature that shares the deity's alignment gains a +1 bonus on attack rolls while standing in the area covered by the shrine.
 Long-Term Effect: A creature that has a different alignment to the deity's alignment must succeed on a DC 10 Wisdom saving throw at the end of each hour. On a failed save, it has disadvantage on attack rolls against creatures that shares the deity's alignment. At the end of each of its turns, the creature can make a new Wisdom saving throw. On a success, the effect ends until another hour passes.
 
 
 
-KNOWLEDGE CHECKS
-During the course of an adventure, players may encounter things that their characters may know about, but which they do not. Doing this makes heavy use of Intelligence- based skills (Arcana, History, Nature, and Religion especially).
-Usually these checks are made without much trouble. When a player wants to know about a creature during combat, however, combat can be slowed down. To make a check to recall information about a creature, an object, or anything else, a character must use their action or reaction to do so.
-A check to identify a creature and its general strengths has a DC of 10 + half the creature’s CR. This increases by 5 if the creature is not from the Material Plane. Succeeding by 5 or more also recalls some or all of the creature’s specific abilities and weaknesses.
-
-CHARISMA CHECKS
-Charisma checks and their corresponding skills can be a point of contention. Firstly, they are not a replacement for roleplaying—trying to get one’s point across and interacting with an NPC should be a precursor to any Charisma check in situations that are not simply handwaved during shopping, downtime, or other bookkeeping tasks.
-Charisma checks are often better treated as a way to see how a situation pans out, in a more meta sense. A 
-high Charisma (Persuasion) check, even with poor reasoning beforehand, can simply show that an NPC is willing to give the character the benefit of the doubt. A poor Charisma (Intimidation) roll, even if the odds are stacked against the NPC, may reveal that the NPC has a sudden boost of morale from a secret plan he or she has. And a poor Charisma (Deception) check, even if what the PC said is totally believable, may show that the NPC is simply a suspicious type who has a nose for danger.
-In this way, Charisma can be seen not just as force of will in a direct sense, but a type of social luck—the ability for things to go well for a player character. After all, luck is an important skill to have as an adventurer.
-Charisma checks with NPCs are usually contested by Wisdom (Insight) checks. To avoid undue rolling and putting the need for luck on the players’ shoulders, it is usually best to use the NPC’s passive Insight score. Depending on the situation and the actions of the character, this score can be modified. Use the Insight Modifiers table as a guideline. Try to limit the modifiers to 2 or less: one for the NPC’s attitude toward the character, and another for the situation.
-
-ACROBATICS
-Acrobatics is not a replacement for the Athletics skill. Instead, it has very specific implementations that are usually done passively or as part of some other action: keeping one’s balance, slipping out of tight spaces, and of course performing acrobatic stunts.
-ACROBATICS DCS
-Check DC	Situation
-5	Walk in a straight line with your arms out to either side.
-10	Keep one's footing on an icy surface in combat.
-15	Perform a standing backflip, or walk across a tightrope.
-20	Perform a quadruple somersault during a jump.
-25	Cartwheel across a tightrope.
-30	Walk across a frictionless surface.
-ANIMAL HANDLING
-Animal Handling sees perhaps the least use in most campaigns. If someone takes it, try to give them a few chances to use it, even if it’s only once or twice every few sessions.
- 
-ANIMAL HANDLING DCS
-Check DC	Situation
-5	Command a healthy, trained animal to do a trick it knows.
-10	Command a healthy, trained animal to do a trick it doesn't know, or to put itself in harm's way.
-15	Get an untrained animal to do what you want, for its benefit.
-20	Get an untrained animal to attack an enemy or otherwise put itself in harm's way.
-25	Get an injured and untrained animal to put itself in harm's way.
-30	Command a cat to bark.
 
 
-If the check is made under external threats, such as during combat or while avoiding an ongoing lava flow, increase the DC by 5. Having something the animal wants (especially food) can give a character advantage on the check.
-ARCANA
-The Arcana skill is not just for recalling information about magic, identifying spells and such. It can be used to figure out how a magical device functions, or to disable magical traps. Given the nature of Dungeons & Dragons’ settings, the Arcana skill should have plenty of instances to shine.
-Arcana is also the most versatile knowledge skill when it comes to monsters. It can be used to recall information about the abilities of most aberrations, celestials, most constructs, elementals, fey, fiends, monstrosities created by magic, some oozes, and most undead, as Arcana covers knowledge about spells, magic, and the planes all in one.
-ARCANA DCS
-Check DC	Situation
-Varies	Identify a spell, either as it's being cast or by its effects (DC 10 + the spell's level).
-5	Recognize that an effect is magical.
-10	Determine whether a creature or object is magical in origin, and recall information about it if it's common.
-15	Recognize the type of magic of an effect (whether it's of arcane, divine, psionic, or some other type of origin). Recall the common inhabitants of another plane of existence, or recognize the influence of another plane on an area.
-20	Recall information related to a legendary item or artifact's origin and powers, or about the state and effects of another plane of existence.
-
-ATHLETICS DCS 
-
-Check DC	Climbing Examples	Jumping Examples	Swimming Examples
-5	Climbing a steep hill or slope.	Making your normal jump distance with a running start.	Swimming through calm waters.
-10	Climbing a tree or a steep, rough incline.	Jumping 5 feet further or 2 feet higher than normal with a running start, or avoiding a low ceiling or waist-high obstacle during a long jump.	Swimming through rough waters.
-15	Climbing a tall pole or totem, or dungeon- or ruin-style stone walls.	Jumping your long jump distance without a running start, or jumping 10 feet further or 4 feet higher than normal with a running start.	Swimming through stormy waters.
-20	Climbing a brick wall or rock cliff.	Jumping 15 feet further or 6 feet higher than normal with a running start.	Swimming up a fast- moving river.
-25	Climbing a tall, sheer cliff, or a wall made of shaped stone.	Jumping twice your normal jump distance with a running start.	Swim through a giant whirlpool.
-30	Climbing a wall of force.	Jumping twice your normal jump distance without a running start, or three times as much with a running start.	Swimming up a waterfall.
-The DC for a given climbing example increases by 5 if the surface is slick with liquid but decreases by 5 if you have decent handholds or a properly-secured rope.
-
-Climbing, jumping, and swimming should remain purely in the playhouse of Strength. Dexterity and the Acrobatics skill should not be applied to these given activities, to keep Strength a relevant, obvious solution to problems these can solve.
-Example DCs can be found in the Athletics DCs table.
-Climbing. Scaling an incline is an easy task that should not require an ability check, even a steep one given generous handholds. Failure should not mean a deadly fall. A Dexterity saving throw of a lesser DC can sometimes be allowed to stay in place. In most cases, failing simply causes one to slide back down unless under immediate duress and threat of injury.
-Calling for a check at all is only really required if the situation is appropriately dangerous. An entire party could scale a steep cliff without much effort, so long as there is nothing nipping at their heels or waiting at the top for them.
-Jumping. The Athletics skill states that it can be used to jump unusually long distances. Only call for such a check if a character could not make it with their default jumping distance, detailed in the rules for movement.
- 
-DECEPTION
-Due to its situational nature, Deception is usually used in contests alone, opposed by an NPC’s Wisdom (Insight) check. Generally, it’s best to use passive Insight scores to set a DC for the check, with adjustments based on the attitude of the NPC. Insight in this case is used in its closest rules-as-written form, allowing an NPC to detect whether a PC is pulling their leg.
-The Insight Modifiers table in the previous section contains guidelines for modifying an NPC’s Insight score to set a DC for a character’s Charisma (Deception) checks.
-HISTORY
-Unlike Arcana, History is dedicated almost entirely to recalling information. Its use is quite specific as well. In a pinch, the skill can be used past its normal intentions to recall information about the local region, such as local nobles, recent battles, and local feuds or problems.
-It can also be used to recall information about particularly impactful monsters. Information about dragons, giants, and humanoids tends to fit best in the History skill. Depending on the setting, it may help recall information about other monsters, such as the role of aberrations in Eberron.
-INSIGHT
-Insight is yet another skill used in contests more often than flat checks. Unlike NPCs, PCs do not get situational bonuses to their Wisdom (Insight) checks, instead relying on the player’s own wit. However, in a pinch with no leads, a character can make a DC 15 Wisdom (Insight) check to get a hunch that something is amiss or not. If the DM so 
-decides, he or she may provide the player with some sort of hint to go along with the hunch, such as “People’s eyes keep glancing at the beautiful tapestry on the far wall” to denote that people might be hiding something.
-On a failed check to notice an NPC’s bluff, the DM should be careful not to show their hand. Too often, even a failed check can tell the player that their suspicions are at least partially correct, instead of revealing little or no information. When describing a failure to detect a bluff, try to say that a character has trouble getting a good read on the NPC, rather than saying that the character finds the NPC trustworthy.
-HISTORY DCS
-Check DC	Situation
-5	Recall common information about the recent past.
-10	Recall uncommon information about events in the last 5 years.
-15	Recall hidden information about the last century.
-20	Recall hidden information about the last millennium, or information about something purposely destroyed or wiped from most historical records.
-25	Recall hidden information about the distant past, so long as it was recorded in some way.
-30	Recall, in perfect detail, any event from the distant past.
-INTIMIDATION
-Like Deception, Intimidation is often contested by a Wisdom (Insight) check or, more smoothly, an NPC’s passive Insight score. The Insight Modifiers table in the previous section contains guidelines for modifying an NPC’s Insight score to set a DC for a character’s Charisma (Intimidation) checks.
-Many players attempt to use this skill in combat. While tempting, the DM should not use the frightened condition in this case, as it steps on the toes of many class features and spells. Instead, use Intimidation checks as a way to affect morale. A high Intimidation check accompanied by the slaying an opponent may cause weaker enemies to retreat. A low Intimidation check may make stronger enemies more aggressive. In either case, the Insight skill is used to represent not just a creature’s ability to read a situation but also to show their self-awareness, whether they can avoid being overcome by fear in the heat of battle or not.
-INVESTIGATION
-This skill is the “black sheep” of the fifth edition skill system. Often confused with Perception in its use, the difference between the two is often vague, both in rules and in various official adventures.
-The best way to illustrate this is with a common Dungeons & Dragon element: traps. Perception can be used to spot a trap. You can see the shine of torchlight on a trip 
-wire, or the slight separation between stones indicating a pressure plate. Investigation allows you to figure out how a trap works. It lets you notice that the trip wire is likely attached something that comes down from the slots in the ceiling, or that the pressure plate likely has to do with the holes in the walls.
-It may also be better to think about them in terms of scale. Perception is for things that are obvious, out in the open. You could notice them at a glance, given a high enough awareness. Investigation is for seeing smaller-scale things, such as that a single book in a bookcase is out of place, with a different subject than the others.
-Like Insight, Investigation can be used by DMs to move a campaign along. If players have found clues but aren’t connecting them, an Intelligence (Investigation) or Wisdom (Investigation) check may help them put 2 and 2 together.
-INVESTIGATION DCS
-Check DC	Situation
-5	Notice that one person in a lineup is of a different race than the others.
-10	Determine the weakest pillar holding up an aging ruin's ceiling, or notice that one person in a crowd has a limp.
-15	Determine that a letter contains a secret message, or pour over a text and find a specific passage quickly.
-20	Find the single brick in a wall that, when pushed, opens a secret door.
-25	Spot a secret message hidden in the specific wording of an ancient text.
-30	Find a needle in a haystack.
 
 
-MEDICINE
-Yet another underused skill, Medicine can have more uses than just stabilizing a dying ally in combat. Medicine can be used in place of other Intelligence-based checks to recall information and determine the nature of poisons and diseases, especially when they are affecting a creature. In many cases, Intelligence (Medicine) checks are even more apt than Wisdom (Medicine) checks, though medicine in D&D is often based on gut-feelings rather than the modern method of rote learning.
-MEDICINE DCS
-Check DC	Situation
-5	Determine that someone has a cold. Recall how to treat common ailments.
-10	Identify fresh wounds and determine how they were made in most cases.
-15	Determine the exact cause of death of the recently deceased. Determine how to treat a rare poison or disease.
-20	Identify a specific poison or disease by only cursory descriptions or symptoms.
+# Дикая местность
+
+Всякий раз, когда персонажи покидают относитель¬ную безопасность Смертельных Снегов и путешествуют на большие расстояния, они подвергаются жестоким погодным условиям и опасным чудовищам диких мест. Смертельные Снега и земли на севере рассматриваются как открытая местность с целью определения случайной погоды (смотрите Главу 2), в то время как большинство других мест в городке и вокруг него считаются альпийскими областями.
+
+С целью столкновений в дикой местности при¬нимайте Смертельные Снега и земли севернее как часть Лунных Земель, Долины Адбар и региона Холодной Долины (**Таблица 2)**. Очевидно, что любой идущий в горы, окружающие город, путешествует через Незерийские Горы (**Таблица 6**). Некоторые из случайных столкновений в дикой местности могут быть смертельными для партий среднего уровня. Шанс столкновения в течение каждого часа путешествия зависит от старания персонажей идти быстро или осторожно, смотрите Столкновения в дикой местности в Главе 2.
+
+Никаких столкновений в дикой местности не происходит в пределах 2 миль от городских стен в тече¬ние дня или в пределах 1 мили - ночью или в плохую погоду. Даже чудища обходят городок стороной, если не ищут себе неприятностей.
+
+# Natural Hazards
+
+Hungry monsters and rapacious brigands occupy the thoughts of many travelers in the North, but in truth these are not the deadliest dangers of this harsh land. Everyday oc￾currences such as a bitter cold snap in winter, an ill-timed snowfall, a forest fire, or a river in flood kill just as many travelers and homesteaders in the Silver Marches as mon￾sters do, and certainly have the potential to inflict much greater damage to property.
+
+## AVALANCHES AND LANDSLIDES
+
+The combination of high mountains and heavy snowfalls means that avalanches are a deadly peril in many areas around the North. The Lands Against the Wall, the Spine of the World, the Rauvin Mountains, and the passes through the Nether Mountains are particularly vulnerable. (Ironically, the Ice Mountains are not so dangerous, since they see less snowfall than their neighbors to the west.) If the snowpack is not high, death can still come hurtling down in the form of a landslide. The extremes of temperature common to the North fiercely weather the sides of mountains and cause many falling rocks throughout the year.
+
+The effects of avalanches and landslides are described in The Environment in Chapter 3 of the DUNGEON MASTER’s Guide. The typical avalanche or landslide has a width of 1d6×100 feet, from one edge of the slide zone to the oppo￾site edge. The bury zone in the center of the avalanche is half as wide as the avalanche’s full width. To determine the pre￾cise location of characters in the path of an avalanche, roll 1d6×20; the result is the number of feet from the center of the path taken by the bury zone to the center of the party’s location. Avalanches advance at a speed of 500 feet per round, landslides at a speed of 250 feet per round.
+
+## THE CLAWS OF THE COLD
+
+Even in the summertime, the mountain passes and high slopes plummet below freezing at night. Most old hands in the Silver Marches own a good set of winter clothing, and are wise enough to stay out of the sort of weather winter clothing won’t help against.
+
+For the effect of cold and extremely cold weather condi￾tions on characters and creatures, see Weather and Cold Dan￾gers, both in Chapter 3 of the DUNGEON MASTER’s Guide.
+
+Cold Water: Characters who become soaked or drenched in cold water (usually by immersion in a mountain stream, but marching in a downpour can do the job) are much more vulnerable to cold damage. Moderate temperatures are treated as cold conditions and cold temperatures are treated as extremely cold conditions for purposes of determining whether a soaked character is vulnerable to cold damage.
+
+This vulnerability remains for 2d4 hours or until a character changes into dry clothes. Soaked clothing provides no protec￾tion against cold damage.
+
+Characters who remain immersed in cold water take 1d6 points of subdual damage per minute of exposure from hy￾pothermia.
+
+Permafrost: North of the Sundabar Vale, permafrost con￾ditions prevail. Even in summer, the ground remains frozen hard a foot or so beneath the surface, except around sun￾warmed rocks. Buried corpses and food in contact with per￾mafrost will freeze (though stone cairns are necessary to keep scavengers away), and ready ice is always handy.
+
+Frozen Lakes and Rivers: During winter, most bodies of water in the Silver Marches freeze over. Most years, the freeze comes in the month of Marpenoth, beginning 1d10+20 days into the month. The ice lasts until the month of Ches, disappearing 1d10+20 days into the month. The thickness of the ice depends on the month and whether or not the water is flowing:
+
+| Month     | Standing Water | Flowing Water |
+|-----------|----------------|---------------|
+| Marpenoth | Thin           | —             |
+|           |                |               |
+| Uktar     | Moderate       | Thin          |
+|           |                |               |
+| Nightal   | Thick          | Moderate      |
+|           |                |               |
+| Hammer    | Thick          | Thick         |
+|           |                |               |
+| Alturiak  | Thick          | Thick         |
+|           |                |               |
+| Ches      | Thin           | Thin          |
+
+Thin ice is 1 to 2 inches thick. It supports Small creatures. Medium-size creatures that run, jump, fall, or fight on the ice may cause a break (50% chance per round of such activity).
+
+Moderate ice is 3 to 11 inches thick. It supports Large crea￾tures. Huge creatures that run, jump, fall, or fight on the ice may cause a break (50% chance per round of such activity).
+
+Thick ice may be anywhere from 1 to 4 feet thick. It sup￾ports creatures of any size. Ice has 3 hit points per inch of thickness. If a creature too heavy for the ice causes a break, the ice collapses in a circle whose radius is 5 feet larger than the face (or dimensions) of the creature causing the break. Any creature caught in the fracture area except for the creature causing the break may attempt a Reflex save (DC 15) to reach safe ice before it gives way.
+
+Thin ice is particularly dangerous, because the edges of a fractured area tend to crumble under a swimmer’s efforts to climb out. To climb out, a Small or Medium-size swimmer must succeed at an Escape Artist check (DC 15). Large crea￾tures can’t get back on top of thin ice after it fractures.
+
+Frozen rivers are dangerous, too. Creatures who fall through the ice of a frozen river may be swept away from the hole by the current and trapped under the ice. Apply the drowning rule (see Chapter 3 of the DUNGEON MASTER’s Guide) as necessary.  FOREST FIRES
+
+Most campfire sparks ignite nothing, but if conditions are dry, winds are strong, or the forest floor is dried out and flammable, a forest fire can result. Lightning strikes often set trees afire and start forest fires in this way. Luckily, the lands of the Silver Marches are almost always damp. Small “scorch-smolders” of blackened vegetation are the usual result, not conflagrations that spread for miles. Yet travelers can get caught in fires. The leading edge of a fire (the downwind side) can advance faster than a human can run (assume 120 feet per round for winds of moderate strength). Once a particular portion of the forest is ablaze, it re￾mains so for 2d4×10 minutes before dying to a smolder. Within the bounds of a forest fire, a character faces three dangers: heat damage, catching on fire, and smoke inhalation.
+
+**Heat:** Getting caught within a forest fire is even worse than being exposed to abysmal heat (see Heat Dangers in Chapter 3 of the DUNGEON MASTER’s Guide). Breathing the air causes a character to take 1d6 points of damage per round (no save). In addition, a character must make a Fortitude save every 5 rounds (DC 15, +1 per previous check) or sustain 1d4 points of subdual damage. A character who holds his breath can avoid the normal damage, but not the subdual damage.
+
+**Catching on Fire:** Characters engulfed in a forest fire are at risk of catching on fire when the leading edge of the fire overtakes them, and are then at risk once per minute thereafter. See Catch￾ing on Fire in Chapter 3 of the DUNGEON MASTER’s Guide.
+
+**Smoke:** Forest fires naturally produce a great deal of smoke. A character who breathes heavy smoke must make a Fortitude saving throw each round (DC 15, +1 per previous check) or spend that round choking and coughing. A charac￾ter who chokes for two consecutive rounds takes 1d6 points of subdual damage. Also, smoke obscures vision, giving one￾half concealment (20% miss chance) to characters within it.
+
+## FLOODS
+
+In locales throughout the Silver Marches where heavy pre￾cipitation and steep slopes prevail, floods are common.
+
+**Rivers in Flood:** In spring, the enormous snowmelt from the slopes of the Nether and Rauvin mountains engorges most of the streams and rivers in and around the Silver Marches. During spring flood, rivers become wider, deeper, and swifter. Assume that a river rises by 1d10+10 feet during the spring flood, and its width increases by a factor of 1d4×50%. Fords may disappear for days, bridges may be swept away, and even ferries might not be able to manage the crossing of a flooded river.A river in flood adds +5 to the DC of any Swim checks that characters attempt. For example, Striding Giant Rapids on the Rauvin might normally be considered rough water (see the Swim skill description in Chapter 4 of the Player’s Hand￾book), which means that Swim checks to get across the river are against DC 15. When this area is in spring flood, the DC rises to 20. (The increase in water depth may make fords too deep for most travelers to wade successfully, so swimming may be their best option if crossing the river is necessary.)
+
+**Mountain Torrent:** Innumerable swift, strong streams cascade down out of the mountains of the Silver Marches in all seasons. In general, the typical mountain torrent is 5d6 feet in width and studded with boulders. Waterfalls 1d6×10 feet in height occur every 1d4 miles. Unlucky or clumsy characters may find themselves in a fast-moving gauntlet of icy water, deadly rocks, and sudden waterfalls. Refer to Water Dangers in Chapter 3 of the DUNGEON MASTER’s Guide. Characters swept away by the torrent must attempt Swim checks (DC 15) every round to avoid going under. If a character gets a skill check result of 5 or more over the minimum necessary, he arrests his motion by catching a rock, tree limb, or bottom snag—he is no longer being carried along by the flow of the water. Escaping a torrent by reaching the bank requires three suc￾cessful Swim checks (DC 15) in a row. Characters arrested by a rock, limb, or snag can’t escape unless they strike out into the water and attempt to swim their way clear.
+
+**Flash Floods:** These sudden, short-lived torrents occur after heavy rains or ice breakups in spring. A flash flood typically lasts only 4d4 minutes before the waters recede.  Flash floods advance at a speed of 60 feet. See Flash Floods under Weather Hazards in Chapter 3 of the DUN￾GEON MASTER’s Guide.  FOG
+
+The forgotten peril of the North is its everpresent river mist and mountain fog. Characters traveling along a river by boat  can’t get too lost, of course. However, fogbound overland travel offers a real possibility of running into trees, gullies, and other hazards. A typical fog limits vision to a distance of 1d10×5 feet, completely foiling normal vision and darkvi￾sion beyond this range. Creatures closer than the absolute limit of visibility gain the benefits of one-half concealment (20% miss chance).  
+
+##  Encountering Hazards
+
+An encounter with a natural hazard in motion, such as an avalanche or a forest fire, begins in a particular way de￾pending on the type of hazard.
+
+**Avalanche/Landslide:** An avalanche or landslide can be spotted from as far away as 1d10×500 feet by a character who makes a successful Spot check (DC 20). The DC of the Spot check is modified by any of the conditions that apply from Table 3–2 in the DUNGEON MASTER’s Guide. (Con￾sider the avalanche to be a Colossal encounter, meaning that the DC is immediately reduced by 16.) If all charac￾ters fail their Spot checks to determine the encounter dis￾tance, the avalanche moves closer to them, and they automatically become aware of it when it closes to half the original distance.
+
+It’s possible to hear an avalanche coming even if you can’t see it. Under optimum conditions (no other loud noises occurring), a character who makes a successful Listen check (DC 15) can hear the avalanche or landslide when it is 1d6×500 feet away. This check might have a DC of 20, 25, or higher in conditions where hearing is difficult (such as in the middle of a thunderstorm).
+
+**Forest Fire:** A forest fire can be spotted from as far away as 2d6×100 feet by a character who makes a success￾ful Spot check (DC 20). The DC of the Spot check is modi￾fied by any of the conditions that apply from Table 3–2 in the DUNGEON MASTER’s Guide. (Consider the fire to be a Colossal encounter, meaning that the DC is immediately reduced by 16.) If all characters fail their Spot checks to determine the encounter distance, the fire moves closer to them, and they automatically see it when it closes to half the original distance.Characters who are blinded or otherwise unable to make Spot checks can feel the heat of the fire (and thus auto￾matically “spot” it) when it is 100 feet away.
+
+# Natural Hazards
+
+Hungry monsters and rapacious brigands occupy the thoughts of many travelers in the North, but in truth these are not the deadliest dangers of this harsh land. Everyday oc￾currences such as a bitter cold snap in winter, an ill-timed snowfall, a forest fire, or a river in flood kill just as many travelers and homesteaders in the Silver Marches as mon￾sters do, and certainly have the potential to inflict much
+greater damage to property.
+
+## AVALANCHES AND LANDSLIDES
+
+The combination of high mountains and heavy snowfalls means that avalanches are a deadly peril in many areas around the North. The Lands Against the Wall, the Spine of the World, the Rauvin Mountains, and the passes through the Nether Mountains are particularly vulnerable. (Ironically, the Ice Mountains are not so dangerous, since they see less snowfall than their neighbors to the west.) If the snowpack is not high, death can still come hurtling down in the form of a landslide. The extremes of temperature common to the North fiercely weather the sides of mountains and cause many falling rocks throughout the year.
+The effects of avalanches and landslides are described in The Environment in Chapter 3 of the DUNGEON MASTER’s Guide. The typical avalanche or landslide has a width of 1d6×100 feet, from one edge of the slide zone to the oppo￾site edge. The bury zone in the center of the avalanche is half
+as wide as the avalanche’s full width. To determine the pre￾cise location of characters in the path of an avalanche, roll 1d6×20; the result is the number of feet from the center of the path taken by the bury zone to the center of the party’s location. Avalanches advance at a speed of 500 feet per round, landslides at a speed of 250 feet per round. 
+
+## THE CLAWS OF THE COLD
+
+Even in the summertime, the mountain passes and high slopes plummet below freezing at night. Most old hands in the Silver Marches own a good set of winter clothing, and are wise enough to stay out of the sort of weather winter clothing won’t help against.
+
+For the effect of cold and extremely cold weather condi￾tions on characters and creatures, see Weather and Cold Dan￾gers, both in Chapter 3 of the DUNGEON MASTER’s Guide.
+**Cold Water:** Characters who become soaked or drenched in cold water (usually by immersion in a mountain stream, but marching in a downpour can do the job) are much more vulnerable to cold damage. Moderate temperatures are treated as cold conditions and cold temperatures are treated as extremely cold conditions for purposes of determining whether a soaked character is vulnerable to cold damage.
+
+This vulnerability remains for 2d4 hours or until a character changes into dry clothes. Soaked clothing provides no protec￾tion against cold damage.ake 1d6 points of subdual damage per minute of exposure from hy￾pothermia.Permafrost: North of the Sundabar Vale, permafrost con￾ditions prevail. Even in summer, the ground remains frozen hard a foot or so beneath the surface, except around sun￾warmed rocks. Buried corpses and food in contact with per￾mafrost will freeze (though stone cairns are necessary to keep scavengers away), and ready ice is always handy.
+Frozen Lakes and Rivers: During winter, most bodies of water in the Silver Marches freeze over. Most years, the freeze comes in the month of Marpenoth, beginning 1d10+20 days into the month. The ice lasts until the month of Ches, disappearing 1d10+20 days into the month. The thickness of the ice depends on the month and whether or not the water is flowing: 
 
 
-Check DC	Situation
-25	Find the cure or treatment for a magical disease.
-30	Raise a creature that has recently died not through magic but your skill alone.
-NATURE	
+Month     | Standing Water | Flowing Water
+----------|----------------|--------------
+Marpenoth | Thin           | —
+Uktar     | Moderate       | Thin
+Nightal   | Thick          | Moderate
+Hammer    | Thick          | Thick
+Alturiak  | Thick          | Thick
+Ches      | Thin           | Thin
+
+Thin ice is 1 to 2 inches thick. It supports Small creatures. Medium-size creatures that run, jump, fall, or fight on the ice may cause a break (50% chance per round of such activity).
+Moderate ice is 3 to 11 inches thick. It supports Large crea￾tures. Huge creatures that run, jump, fall, or fight on the ice may cause a break (50% chance per round of such activity).
+
+Thick ice may be anywhere from 1 to 4 feet thick. It sup￾ports creatures of any size. Ice has 3 hit points per inch of thickness. If a creature too heavy for the ice causes a break, the ice collapses in a circle whose radius is 5 feet larger than the face (or dimensions) of the creature causing the break. Any creature caught in the fracture area except for the creature causing the break may attempt a Reflex save (DC 15) to reach safe ice before it gives way. 
+
+Thin ice is particularly dangerous, because the edges of a fractured area tend to crumble under a swimmer’s efforts to climb out. To climb out, a Small or Medium-size swimmer must succeed at an Escape Artist check (DC 15). Large crea￾tures can’t get back on top of thin ice after it fractures.
+
+Frozen rivers are dangerous, too. Creatures who fall through the ice of a frozen river may be swept away from the hole by the current and trapped under the ice. Apply the drowning rule (see Chapter 3 of the DUNGEON MASTER’s Guide) as necessary.  
+
+## FOREST FIRES
+
+Most campfire sparks ignite nothing, but if conditions are dry, winds are strong, or the forest floor is dried out and flammable, a forest fire can result. Lightning strikes often set trees afire and start forest fires in this way. Luckily, the lands of the Silver Marches are almost always damp. Small “scorch-smolders” of blackened vegetation are the usual result, not conflagrations that spread for miles. Yet travelers can get caught in fires. The leading edge of a fire (the downwind side) can advance faster than a human can run (assume 120 feet per round for winds of moderate strength). Once a particular portion of the forest is ablaze, it re￾mains so for 2d4×10 minutes before dying to a smolder. Within the bounds of a forest fire, a character faces three dangers: heat damage, catching on fire, and smoke inhalation.
+
+**Heat:** Getting caught within a forest fire is even worse than being exposed to abysmal heat (see Heat Dangers in Chapter 3 of the DUNGEON MASTER’s Guide). Breathing the air causes a character to take 1d6 points of damage per round (no save). In addition, a character must make a Fortitude save every 5 rounds (DC 15, +1 per previous check) or sustain 1d4 points of subdual damage. A character who holds his breath can avoid the normal damage, but not the subdual damage. 
+Catching on Fire: Characters engulfed in a forest fire are at risk of catching on fire when the leading edge of the fire overtakes them, and are then at risk once per minute thereafter. See Catch￾ing on Fire in Chapter 3 of the DUNGEON MASTER’s Guide.
+
+**Smoke: Forest** fires naturally produce a great deal of smoke. A character who breathes heavy smoke must make a Fortitude saving throw each round (DC 15, +1 per previous check) or spend that round choking and coughing. A charac￾ter who chokes for two consecutive rounds takes 1d6 points of subdual damage. Also, smoke obscures vision, giving one￾half concealment (20% miss chance) to characters within it.
+
+## FLOODS
+
+In locales throughout the Silver Marches where heavy pre￾cipitation and steep slopes prevail, floods are common. 
+
+**Rivers in Flood:** In spring, the enormous snowmelt from the slopes of the Nether and Rauvin mountains engorges most of the streams and rivers in and around the Silver Marches. During spring flood, rivers become wider, deeper, and swifter. Assume that a river rises by 1d10+10 feet during the spring flood, and its width increases by a factor of 1d4×50%. Fords may disappear for days, bridges may be swept away, and even ferries might not be able to manage the crossing of a flooded river.A river in flood adds +5 to the DC of any Swim checks that characters attempt. For example, Striding Giant Rapids on the Rauvin might normally be considered rough water (see the Swim skill description in Chapter 4 of the Player’s Hand￾book), which means that Swim checks to get across the river are against DC 15. When this area is in spring flood, the DC rises to 20. (The increase in water depth may make fords too deep for most travelers to wade successfully, so swimming may be their best option if crossing the river is necessary.)
+
+**Mountain Torrent:** Innumerable swift, strong streams cascade down out of the mountains of the Silver Marches in all seasons. In general, the typical mountain torrent is 5d6 feet in width and studded with boulders. Waterfalls 1d6×10 feet in height occur every 1d4 miles. Unlucky or clumsy characters may find themselves in a fast-moving gauntlet of icy water, deadly rocks, and sudden waterfalls. Refer to Water Dangers in Chapter 3 of the DUNGEON MASTER’s Guide. Characters swept away by the torrent must attempt Swim checks (DC 15) every round to avoid going under. If a character gets a skill check result of 5 or more over the minimum necessary, he arrests his motion by catching a rock, tree limb, or bottom snag—he is no longer being carried along by the flow of the water. Escaping a torrent by reaching the bank requires three suc￾cessful Swim checks (DC 15) in a row. Characters arrested by a rock, limb, or snag can’t escape unless they strike out into the water and attempt to swim their way clear.
+
+**Flash Floods:** These sudden, short-lived torrents occur after heavy rains or ice breakups in spring. A flash flood typically lasts only 4d4 minutes before the waters recede.  Flash floods advance at a speed of 60 feet. See Flash Floods under Weather Hazards in Chapter 3 of the DUN￾GEON MASTER’s Guide. 
+
+## FOG
+
+The forgotten peril of the North is its everpresent river mist and mountain fog. Characters traveling along a river by boat  can’t get too lost, of course. However, fogbound overland travel offers a real possibility of running into trees, gullies, and other hazards. A typical fog limits vision to a distance of 1d10×5 feet, completely foiling normal vision and darkvi￾sion beyond this range. Creatures closer than the absolute limit of visibility gain the benefits of one-half concealment (20% miss chance).
+
+## Encountering Hazards
+
+An encounter with a natural hazard in motion, such as an avalanche or a forest fire, begins in a particular way de￾pending on the type of hazard.
+
+**Avalanche/Landslide:** An avalanche or landslide can be spotted from as far away as 1d10×500 feet by a character who makes a successful Spot check (DC 20). The DC of the Spot check is modified by any of the conditions that apply from Table 3–2 in the DUNGEON MASTER’s Guide. (Con￾sider the avalanche to be a Colossal encounter, meaning that the DC is immediately reduced by 16.) If all charac￾ters fail their Spot checks to determine the encounter dis￾tance, the avalanche moves closer to them, and they automatically become aware of it when it closes to half the original distance.
+
+It’s possible to hear an avalanche coming even if you can’t see it. Under optimum conditions (no other loud noises occurring), a character who makes a successful Listen check (DC 15) can hear the avalanche or landslide when it is 1d6×500 feet away. This check might have a DC of 20, 25, or higher in conditions where hearing is difficult (such as in the middle of a thunderstorm).
+
+**Forest Fire:** A forest fire can be spotted from as far away as 2d6×100 feet by a character who makes a success￾ful Spot check (DC 20). The DC of the Spot check is modi￾fied by any of the conditions that apply from Table 3–2 in the DUNGEON MASTER’s Guide. (Consider the fire to be a Colossal encounter, meaning that the DC is immediately reduced by 16.) If all characters fail their Spot checks to determine the encounter distance, the fire moves closer to them, and they automatically see it when it closes to half the original distance.Characters who are blinded or otherwise unable to make 
 
 
-Nature is one of the wider Intelligence skills, usable in a host of situations, especially to recall information about beasts, the wilder dragons, many fey, primal humanoids, common monstrosities, and of course plants.
-In some cases, Wisdom (Nature) checks may be appropriate. Consider allowing these for rangers and druids, who are close to nature but whose Intelligence scores are generally not all that high.
-NATURE DCS Check DC Situation
-5	Identify common plants and animals.
-10	Recall that a neighboring desert is infamous for its ice storms, or that the local forest is guarded by vengeful fey.
-15	Determine that a storm is artificial, that a cliff face is actually an unnatural façade, or that a specific animal usually isn't found in the area.
-20	Identify that a creature is one-of-a- kind or possibly a new species.
-25	Pinpoint the depth and epicenter of an earthquake from eyewitness reports.
-30	Determine that a nearby mountain is going to erupt within the next few days.
 
-PERCEPTION
-Being one of the most-used skills, Perception needs little encouragement in its use. Perception is also the one skill focused on for passive scores. For NPCs, passive Perception use is a must to speed up play, but for characters, encouraging regular active use of the Perception skill can keep play active. While some say to use passive Perception as a hard minimum for Wisdom (Perception) checks, it can be useful to completely ignore it for active checks where failure could be more interesting, exciting, or dangerous.
-PERCEPTION DCS
-Check DC	Situation
-5	Hear people talking in the next room, or see someone walking in the trees.
-10	Hear people whispering in the next room.
-15	Read the lips of someone across the room.
+## Путешествие по горам
 
-Check DC	Situation
-20	Hear and understand whispers from a
-	room over, or see the telltale signs of a
-	secret door.
-25	Hear an owl gliding in for a kill.
-30	See the outline of an invisible creature.
+High altitude can be extremely fatiguing—or sometimes deadly—to creatures that aren’t used to it. Cold becomes ex￾treme, and the lack of oxygen in the air can wear down even the most hardy of warriors.
 
-PERSUASION
-The last of the three major Charisma skills, Persuasion is also the most-used. Influencing an NPC to do what you want is an important skill to have! As such, it is often opposed by an NPC’s passive Insight score, with adjustments based on the attitude of the NPC as given in the Insight Modifiers table in the previous section.
-In this case, using the Insight score might not make sense, at first. Just like Intimidation, consider the Insight score as a way to represent not only the ability to detect lies but a sort of luck created by situational awareness. A creature with a large bonus to Wisdom (Insight) checks is more likely to foresee negative outcomes to doing what the party wants or even associating with them.
-The DM should try to only call for Charisma (Persuasion) checks when the NPC in question wouldn’t perform or refuse to perform the action in question. A close ally may already give their life for the party, but a villain will surely reject any requests the party makes that don’t fit their fell fancy.
-Finally, the Persuasion skill can be used to handwave the gathering of rumors. Searching for information or rumors on a specific subject in a town might take a few hours and a DC 10 or 15 Charisma (Persuasion) check, allowing characters to move the story forward while others shop or rest.
-RELIGION
-Religion is the narrowest of the Intelligence skills. DMs coming from older editions often use it beyond its stated scope, though this has little impact on the game itself. In truth, Intelligence (Religion) checks may rarely come up in a game not involved with cults or religious organizations.
-That’s not to say it’s completely useless. It can be used to recall information on many celestials, fiends, and some undead, as they relate to cults and deities.
-RELIGION DCS
+Acclimated Characters: Creatures accustomed to high alti￾tude generally fare better than lowlanders. Any creature nor￾mally found in mountain terrain is considered native to the area, and acclimated to the high altitude. Characters with the Endurance feat, 4 ranks of Wilderness Lore, or 7 ranks of Climb are also acclimated to high altitude.
+
+Undead, constructs, and other creatures that do not breathe are immune to altitude effects.
+
+**Altitude Bands:** In general, mountains present three possi￾ble altitude bands: low pass, low peak/high pass, and high peak.
+
+Low Pass (lower than 7,000 feet): Most travel in low mountains takes place in low passes. Travelers may find the going difficult (which is reflected in the movement modi￾fiers for traveling through mountains), but there are no un￾usual weather or altitude effects.
+
+Low Peak or High Pass (7,000 to 20,000 feet): Ascending to the highest slopes of low mountains, or most normal travel through high mountains, falls into this category. At these ele￾vations, creatures may be subject to high altitude effects (see below). Temperatures at this level are one grade colder than the prevailing weather would indicate—for example, if the day’s temperature is moderate, it’s actually cold at this altitude.
+
+High Peak (more than 20,000 feet): The highest slopes and peaks of high mountains exceed 20,000 feet in height. At these el￾evations, creatures may be subject to altitude sickness (see below).
+
+Temperatures at this level are always two grades colder than the prevailing weather indicates—for example, if the day’s tempera￾ture is moderate, it’s actually extremely cold at this altitude.
+
+High Altitude Effects: All nonacclimated creatures labor to breathe in the thin air at high altitude. See Lack of Air/High Altitude, under Other Dangers in Chapter 3 of the DUNGEON MASTER’s Guide. Acclimated characters are not subject to high altitude effects.
+
+Altitude Sickness: Any creature at an altitude higher than 20,000 feet is subject to both high altitude effects and alti￾tude sickness, as described under Lack of Air/High Altitude in Chapter 3 of the DUNGEON MASTER’s Guide. Creatures acclimated to high altitude as described above receive a +4 bonus on their saving throws to resist high altitude effects and altitude sickness, but eventually even seasoned moun￾taineers must abandon these dangerous elevations.
+
+## Зыбучие пески и топи
+
+In moors, marshes, and other examples of sodden terrain, hidden, water-filled holes await the unwary. Obvious bogs are not very dangerous—everybody can recognize a mud￾hole or a scum-covered pond. However, some of these patches present a deceptively solid appearance and may trap careless characters. A character approaching a hidden bog or patch of quicksand at a normal pace is entitled to a Wilder￾ness Lore check (DC 8) to spot the danger before stepping in, but charging or running characters don’t have a chance to detect a hidden bog before blundering in. A typical patch of quicksand or quaking bog is (1d4+1)×5 feet in diameter; the momentum of a charging or running character carries him or her 1d2×5 feet into the bog.
+
+**Effects of Quicksand:** Characters in quicksand must make a Swim check (DC 10) every round to simply tread water in place, or a Swim check (DC 15) to move 5 feet in whatever direction is desired. If a trapped character fails this check by 5 or more, he sinks below the surface and begins to drown whenever he can no longer hold his breath. Characters below the surface of a bog may swim back to the surface with a successful Swim check (DC 15 +1 per con￾secutive round of being under the surface).
+
+Rescue: Pulling out a character trapped in quicksand can be difficult. A rescuer needs a branch, spear haft, rope, or similar tool that enables him to reach the victim with one end of it. Then he must make a Strength check (DC 15) to successfully pull the victim, and the victim must make a Strength check (DC 10) to hold onto the branch, pole, or rope. If the victim fails to hold on, he must make an imme￾diate Swim check (DC 15) to stay above the surface. If both checks succeed, the victim is pulled 5 feet closer to safety.
+
+## RAIN, SNOW, SLEET, AND HAIL
+
+Precipitation is a daily occurrence in the Silver Marches most of the year. Bad weather frequently slows or halts travel and makes it virtually impossible to navigate from one spot to another.
+
+**Rain:** Rain is all too frequent in the North. Rain affects visibility, ranged attacks and Listen, Search, and Spot checks as described in Precipitation under Weather Hazards in Chapter 3 of the DUNGEON MASTER’s Guide. Characters caught out in steady rain become soaked in 2d6×10 minutes, which may make them more vulnerable to cold damage (see The Claws of the Cold earlier in this chapter).
+
+**Downpours:** These sudden, heavy rains often cause flash floods in hilly or mountainous country. Downpours have all the properties of rain, except that visibility is reduced as de￾scribed below, and characters become soaked in 10 minutes, rendering them more susceptible to cold damage.
+
+Visibility in a downpour is limited to a range of 1d10×5 feet. Creatures closer than the absolute limit of visibility gain one-half concealment (20% miss chance).
+
+**Hail:** The effects of hail are described in Precipitation under Weather Hazards in Chapter 3 of the DUNGEON MASTER’s Guide. Hail in the North can be unusually heavy and dangerous—there is a 10% chance that the hail deals 1 point of damage to all creatures caught in the open, and if this happens, there’s a 20% chance that hailstones the size of a human fist (or bigger) fall. This extra-large hail deals 1d4 points of damage to any creature caught in the open. Fallen hail reduces movement by half, just like a fall of snow. In moderate or warm temperatures, it takes 1d4 hours for fallen hail to melt. In cold temperatures, hail remains on the ground for 4d4 hours.
+
+**Sleet:** The ice storms of the North are legendary for their destructive power. Sleet has the same effects on visibility, ranged attacks, and Listen, Search, and Spot checks as rain, and reduces movement by half.
+
+Sleet hisses as it falls, and coats everything with ice, creat￾ing slippery conditions for any skill checks affected by the conditions of the surface (Balance and Climb, for example). This slippery state lasts until snowfall covers the ice, or a thaw (one day of moderate or higher temperatures) melts it. In addition, sleet soaks characters in the open over the course of 2d6×10 minutes, making them more vulnerable to cold damage.
+
+**Snow:** Falling snow has the same effects on visibility, ranged weapon attacks, and skill checks as rain, and reduces movement to half. A day of snowfall leaves 1d6 inches of snow on the ground. When the depth of the snow reaches half a creature’s height, movement is slowed to one-quarter normal, and when snow reaches a creature’s height, move￾ment is halved again.
+
+Snow melts off at the rate of 4 inches per day of moder￾ate temperatures, 8 inches per day of warm temperatures, or 12 inches per day of hot temperatures.
+
+**Heavy Snow:** Heavy snowfall has the same effects as normal snowfall, but also restricts visibility as fog does (see Fog, earlier in this section). A day of heavy snow leaves 1d3 feet of snow on the ground. Heavy snow accompanied by strong or severe winds may result in snowdrifts 1d4×5 feet in depth, especially in and around objects big enough to de￾flect the prevailing wind—a cabin or large tent, for instance. There is a 10% chance that a heavy snowfall is accompa￾nied by lightning (see below).
+
+## LIGHTNING
+
+Thunderstorms are common in the summer and early fall in the Silver Marches. A mountain thunderstorm is nothing to stand around and admire; it can be deadly. Lightning some￾times accompanies heavy snowfalls, too.
+
+**Thunderstorms:** During a day in which thunderstorms appear, creatures in the open encounter 1d3 distinct storms. Each storm lasts for 2d6×10 minutes. There is a 20% chance per storm that a bolt endangers a creature or group of creatures in the open. Each lightning bolt inflicts 1d10 8-sided dice of damage in a 10-foot radius. Roll randomly to determine which char￾acter is at the center of the strike. Any threatened character (including the character at the center) is entitled to a Reflex save (DC 15) to take only half damage.
+
+## SANDSTORMS
+
+Thanks to the dampness of the North, duststorms are un￾known in these lands, but sandstorms—heavy particles driven by furious winds from Anauroch—occur from time to time.
+
+They seldom reach west of Sundabar. Sandstorms reduce vis￾ibility to 1d10×5 feet and provide a –4 penalty on Listen, Search, and Spot checks. Sandstorms deal 1d3 points of subdual damage per hour to any creatures caught in the open, and leave a thin coating of sand (1d2 inches) in their wake.
+
+# Random Encounters
+
+**TABLE 1: RAUVIN VALE AND SUNDABAR VALE ENCOUNTERS (SETTLED)**
+
+Day   | Night | Encounter      | Number Encountered
+------|-------|----------------|-------------------
+—     | 01–02 | Abishai, white | 1
+01–07 | 03–05 | Bandits        | see Groups
+—     | 06    | Baneguardm     | 1d8+2
+— | 07–08 | Bat, | night | hunterm | 2d6
+08–11 | 09 | Bear, | brown | (animal) | 1
+12–16 | 10–11 | Brantas | 1d6+2
+17–25 | 12 | Deer | (animal)s | 2d6
+26–27 | 13 | Dire | bear | 1
+28–29 | 14 | Dire | rat | 1d10+10
+30–31 | 15–16 | Dire | wolf | 1
+— | 17–18 | Dread | warriorm | 1
+32–34 | 19 | Elk | (animal)s | 1d6+2
+35 | 20–21 | Gargoyle | 1d2
+— | 22–23 | Ghast | 1d2
+— | 24–26 | Ghoul | 1d6
+36–37 | 27–34 | Goblin | raiders | see Groups
+38–45 | 35–39 | NPCs | see Groups
+46–53 | 40 | Merchants | see Groups
+54 | 41 | Mountain torrent | SEE GROUPS
+— | 42 | Nythm | 1
+55–57 | 43–48 | Ogre | 1d2
+58–59 | 49–54 | Orc | 1d3+1
+60 | 55–58 | Orc | marauders | see Groups
+61–69 | 59–61 | Patrol | see Groups1
+70–71 | 62–63 | Perytonm | 1d2
+72 | 64–65 | Planetouched, | fey’rim | 2d4
+73 | 66–68 | Planetouched, | tanarukkm | 1d4+1
+74–78 | 69–70 | Rothé, | surfacef | 1d10+10
+— | 71 | Spectral | pantherm | 1
+— | 72–73 | Skeleton, | medium | 1d6
+79–81 | 74–75 | Red | tiger | (animal)s | 1
+82–84 | 76–79 | Troll | 1
+— | 80–81 | Vampire | spawn | 1d2
+85 | 82 | Wereboar | 1d2
+86–87 | 83–84 | Werewolf | 1d2
+— | 85–87 | Wight | 1d2
+88–96 | 88–90 | Wolf | (animal) | 1d6+10
+97–100 | 91–97 | Worg | 1d2
+— | 98–100 | Zombie, | medium | 1d4+1
+
+**TABLE 2: MOONLANDS, ADBAR VALE, AND COLD VALE ENCOUNTERS (FRONTIER)**
+
+Day| Night | Encounter | Number Encountered
+---------|----------|----------|---------
+— | 01–02 | Abishai, | whitem | 1d2
+01–05 | 03–04 | Bandits | see Groups
+— | 05–06 | Bat, night hunterm | 2d6
+06–10 | 07 | Bear, brown (animal) | 1
+11 | 08 | Behir | 1
+12–16 | 09–10 | Brantas | 1d6+2
+17–18 | 11–12 | Bugbear | 1d3+1
+19–25 | 13 | Deer (animal)s | 2d6
+26–27 | 14–15 | Dire bear | 1
+28–29 | 16–17 | Dire wolf | 1d4+4
+30 | 18–19 | Dire wolverine | 1d2
+31–34 | 20–24 | Dragon (see Table 2a) | 1
+35 | 25 | Dragonkinm | 2d4
+— | 26–27 | Dread warriorm | 1
+36–39 | 28–29 | Dwarf patrol | see Groups
+40–43 | 30 | Elk (animal)s | 1d6+2
+44 | 31–34 | Ettin | 1d3+1
+— | 35–37 | Ghast | 1d2
+— | 38–41 | Ghoul | 1d6
+45–46 | 42–47 | Goblin raiders | see Groups
+47 | 48–51 | Hill giant | 1d2
+48–49 | 52–53 | Leucrottam | 1d4
+— | 54 | Nishruum | 1
+50–53 | 55 | Merchants | see Groups
+54–55 | 56–57 | Mountain torrent | see Groups
+56–58 | 58–59 | NPCs | see Groups
+59–60 | 60–61 | Ogre | 1d2
+61–63 | 62–67 | Orc | marauders | see Groups
+64 | 68–69 | Planetouched, | tanarukkm | 1d4+1
+65–68 | 70–71 | Rothé, surfacef | 1d10+10
+69–73 | 72 | Argent Legion patrol | see Groups
+74–76 | 73 | Red tiger (animal)s | 1
+77–79 | 74–77 | Troll | 1d3+1
+80–85 | 78–79 | Uthgardt scouts | see Groups
+— | 80–81 | Vampire spawn | 1d2
+86 | 82 | Wereboar | 1d2
+87–89 | 83–84 | Werewolf | 1d6+4
+— | 85–87 | Wight | 1d4+1
+— | 88–89 | Winter | wolf | 1d4+1
+90–95 | 90–94 | Wolf (animal) | 1d6+10
+96–97 | 95 | Wolverine (animal) | 1d2
+98–100 | 96–100 | Worg | 1d2
+
+**TABLE 2A: MOONLANDS, ADBAR VALE, AND COLD VALE DRAGONS**
+
+d%     | Dragon
+-------|-------------------
+01–10  | Fangm, juvenile
+11–18  | Gold, young
+19–45  | Red, young
+46–55  | Shadowm, juvenile
+56–100 | White, young adult
+
+**TABLE 3: EVERMOORS ENCOUNTERS (WILDERNESS)**
+
+Day   | Night | Encounter             | Number Encountered
+------|-------|-----------------------|-------------------
+01–02 | 01–03 | Behir                 | 1
+—     | 04–05 | Darkenbeastm          | 1d2+2
+03–10 | 06    | Deer (animal)s        | 2d6
+11–14 | 07–09 | Dire wolf             | 1d4+4
+15–20 | 10–14 | Dragon (see Table 3a) | 1
+—     | 15–17 | Dread warriorm        | 1d4+3
+21–25 | 18–21 | Ettin                 | 1d3+1
+26–28 | 22–24 | Fog giantm            | 1d2
+—     | 25–27 | Ghast pack            | see Groups
+— | 28–30 | Ghost see Groups
+29–34 | 31–35 | Hill giant | 1d3
+35–37 | 36–37 | Ice serpentm | 1d3+1
+38–45 | 38–44 | NPCs | see Groups
+46 | 45–47 | Nishruum | 1
+47 | 48–50 | Nythm | 1
+48–53 | 51–54 | Ogre | 1d3+1
+54–61 | 55–63 | Orc marauders | see Groups
+62–66 | 64–67 | Rothé, ghostf | 1d10+10
+67–69 | 68–69 | Shambling mound | 1d2
+70–71 | 70–71 | Snowcloaks | 1d6+2
+— | 72 | Spectre | 1d6
+72–83 | 73–77 | Troll | 1d3+1
+— | 78–80 | Wight | 1d8+1
+— | 81–82 | Will-o’-wisp | 1d6
+— | 83–84 | Wraith | 1d6
+84–86 | 85–87 | Winter wolf | 1d6+5
+87–94 | 88–90 | Wolf (animal) | 1d10+6
+95–99 | 91–96 | Worg | 1d4+4
+100 | 97–100 | Yeth hound | 1d6+5
+
+**TABLE 3A: EVERMOORS DRAGONS**
+
+d%     | Dragon
+-------|-------------------------------
+01–10  | Black, young (clutch of 1d4+1)
+11–20  | Black, old
+21–45  | Red, juvenile
+46–52  | Shadowm, young
+53–61  | White, young (clutch of 1d4+1)
+62–95  | White, old
+96–98  | Dracolichf, white adult
+99–100 | Dracolichf, red young adult
+
+**TABLE 4: HIGH FOREST ENCOUNTERS (WILDERNESS)**
+
+Day   | Night | Encounter          | Number Encountered
+------|-------|--------------------|-------------------
+01    | 01–02 | Abishai, greenm    | 1d4
+—     | 03–05 | Bat, night hunterm | 2d6
+—     | 06–07 | Bat, sinisterm     | 1d6+3
+02–07 | 08–09 | Centaur            | 1d4+4
+—     | 10–11 | Crawling clawm     | 4d6
+—     | 12–14 | Darkenbeastm       | 1d2+2
+08–15 | 15    | Deer (animal)s     | 2d6
+—     | 16–17 | Dire bat           | 1d4+4
+16–17 | 18–19 | Dire bear          | 1
+18–19 | 20–21 | Dire rat           | 1d10+10
+20–22 | 22–24 | Dire wolf          | 1d4+4
+23–24 | 25    | Dire wolverine     | 1
+—     | 26–27 | Dread warriorm     | 2d6
+25–30 | 28–33 | Dragon | (see 4a) | 1
+31–34 | 34 | Elk (animal)s | 1d6+2
+35 | 35 | Forest fire | see Groups
+— | 36–37 | Ghast pack | see Groups
+36–41 | 38–40 | Gnoll hunters | see Groups
+42–43 | 41–44 | Gray render | 1
+44–45 | 45–47 | Green hag | (hag) | 1d2
+46 | 48–49 | Gulguthydram | 1
+47 | 50 | Ibrandlinm | 1d2
+48–49 | 51–54 | Kir-lananf | 1d4+1
+50–56 | 55–57 | NPCs | see Groups
+57 | 58 | Nymph | 1
+58–60 | 59–61 | Ogre | 1d3+1
+61–65 | 62–68 | Orc marauders | see Groups
+66 | 69–70 | Phase spider | 1d4
+67–68 | 71–73 | Planetouched, fey’rim | 1d2×10
+69–70 | 74–75 | Planetouched, tanarukkm | 1d6+5
+71–72 | 76 | Red tiger (animal)s | 1
+— | 77 | Shadow | 1d4+1
+73 | 78 | Shambling mound | 1d2
+71–72 | 70 | Planetouched,  fey’rim | 1d2×10
+73–74 | 71 | Planetouched,  tanarukkm | 1d6+5
+75–76 | 72 | Rock  wyrms | 1d2
+77–80 | 73 | Rothé, ghostf | 1d10+10
+81–82 | 74 | Argent  Legion  patrol | see Groups
+83–84 | 75–77 | Snowcloaks | 1d6+2
+85–86 | 78 | Uthgardt  scouts | see Groups
+— | 79–80 | Vampire | 1d2
+— | 81–82 | Vampire troupe | see Groups
+87–92 | 83–84 | Wolf  (animal) | 1d8+8
+93–96 | 85–90 | Worg | 1d4+4
+— | 91–93 | Wraith | 1d6+5
+97–99 | 94–96 | Wyvern | 1d4+2
+100 | 97–100 | Yrthak | 1d3+1
+
+**TABLE 5**
+
+**TABLE 6**
+
+**TABLE 6A: NETHER AND RAUVIN MOUNTAINS DRAGONS**
+
+d%     | Dragon
+-------|-------------------------------
+01–10  | Blue, adult
+11–19  | Copper, adult
+20–39  | Fangm, mature adult
+40–47  | Gold, young adult
+48–59  | Red, young adult
+60–69  | Silver, young adult
+70–96  | White, old
+97–98  | Dracolichf, red young adult
+99–100 | Dracolichf, white mature adult
+
+**TABLE 7: SPINE OF THE WORLD AND ICE MOUNTAINS ENCOUNTERS (DESOLATE)**
+
+Day   | Night | Encounter               | Number Encountered
+------|-------|-------------------------|-------------------
+01–02 | 01    | Arctic dwarf hunters    | see Groups
+03    | 02    | Avalanche/landslide     | see Groups
+04–05 | 03    | Bear, polar (animal)    | 1d2
+06–08 | 04    | Brantas                 | 1d6+2
+09–10 | 05–06 | Cloud giant             | 1
+11–14 | 07–08 | Dire bear               | 1d2
+15–19 | 09–12 | Dire wolf               | 1d4+4
+20–27 | 13–20 | Dragon (see Table 7a)   | 1
+28–33 | 21    | Eagle, giant            | 1d3+2
+34–38 | 22–28 | Ettin                   | 1d3+1
+39–46 | 29–37 | Frost giant             | 1d4+1
+47–48 | 38–43 | Frost worm              | 1
+49–50 | 44–49 | Goblin raiders          | see Groups
+51–53 | 50–52 | Hill giant              | 1d4+1
+54–56 | 53–54 | Mountain torrent        | see Groups
+57–58 | 55–56 | NPCs                    | see Groups
+59–62 | 57–59 | Ogre                    | 1d3+1
+63–66 | 60–66 | Orc marauders           | see Groups
+67–69 | 67–69 | Orc warband             |
+70–72 | 70–73 | Planetouched, tanarukkm | 1d6+5
+73–76 | 74–76 | Remorhaz                | 1
+77–78 | 77–78 | Rock wyrms              | 1d2
+79–82 | 79–80 | Rothé, ghostf           | 1d10+10
+83–85 | 81–84 | Snowcloaks              | 1d6+2
+86–89 | 85    | Wolf (animal)           | 1d8+8
+90–95 | 86–90 | Worg 1d4+4
+— | 91–93 | Wraith | 1d6+5
+96–98 | 94–96 | Wyvern | 1d4+2
+99–100 | 97–100 | Yrthak | 1d3+1
+
+**TABLE 7A: SPINE OF THE WORLD AND ICE MOUNTAINS DRAGONS**
+
+d%     | Dragon
+-------|----------------------------------
+01–22  | Fang, old
+23–28  | Gold, adult
+29–39  | Red, adult
+40–45  | Silver, adult
+46–60  | White, juvenile (clutch of 1d4+1)
+61–95  | White, old
+96–97  | Dracolich, red adult
+98–100 | Dracolich, white mature adult
+
+##  Группы неигровых персонажей
+
+Special groups called out in the preceding tables are described here. If the class of a humanoid is not specified, assume that it is a 1st-level warrior.
+
+**Argent Legion Patrol:** 1d4+4 **dwarven soldiers** and 1d3 leaders (level 1d4+1), mounted on **light warhorses** and armed with lances, crossbows, and longswords. To determine the leaders’ classes, roll d%: 01–20 - **priest;** 21–60, **veteran;** 61–70, **knight;** 71–80, ranger; 81–90, sorcerer; 91–100, **mage.** Argent Legion patrols are usually lawful neutral.
+
+**Avalanche/Landslide:** A natural hazard threatens the characters; see the **Encountering Natural Hazards** sidebar and **Avalanches and Landslides,** later in this chapter. Refer also to Landslides and Avalanches in Chapter 3 of the DUN￾GEON MASTER’s Guide.
+
+**Arctic Dwarf Hunters:** The hunting party consists of 1d4+2 **arctic dwarf War1**, 1d2 **arctic dwarf  berserkers**, and a leader of level 1d4+3. To determine the leader’s class, roll d%: 01–50, barbarian; 51–65, cleric; 66–75, druid; 76–80, fighter; 81–95, ranger; 96–100, rogue.
+
+**Bandits:** 1d6+1 **bandits**, 1d4+1 **thugs** and 1d2 NPC leaders of level 1d3+1. To determine the class of the leaders, roll d%: 01–15, **priest;** 16–40, **veteran;** 41–60, **bandit captain;** 61–70, **cult fanatic;** 71–100, warrior. Bandits are usually chaotic evil. For the race of the bandit group, roll d%: 01–10, dwarf; 11–70, human; 71–100, half-orc.
+
+**Bugbear Band:** 1d10+10 bugbears, 1d3 bugbear warriors (level 1d3+1), and 1 bugbear fighter (level 1d4+3).
+
+**Dwarf Patrol:** 1d4+4 1st-level shield dwarf warriors, 1d2 shield dwarf clerics (level 1d3), and 1 leader (level 1d4+2).For the leader’s class, roll d%: 01–15, barbarian; 16–35, cleric; 36–85, fighter; 86–90, paladin; 91–95, rogue; 96–100, wizard.
+
+**Forest Fire:** In summer or fall, a forest fire endangers the characters. The fire covers a front 3d10×500 feet across, centered on the location of the party at the time the encounter was generated. See the Encountering Natural Hazards sidebar and Forest Fires, later in this chapter. In winter or spring, treat this as no encounter.
+
+**Ghast Pack:** 1d3+1 **ghasts** and 1d6+1 **ghouls.**
+
+**Ghost:**This encounter consists of 1d4 ghosts of level 1d4+2. To determine the class of each ghost, roll d%: 01–05,bard; 06–20, cleric; 21–60, fighter; 61–65, ranger; 66–80, rogue; 81–90, sorcerer; 91–100, wizard. The ghosts are usu￾ally neutral evil. For the race of the ghosts, roll d%: 01–25, shield dwarf; 26–40, moon elf; 41–80, human; 81–90, half￾orc; 91–100, lightfoot halfling.
+
+**Gnoll Hunters:** 1d4+2 **gnolls,** led by 1 gnoll ranger (level 1d3+2) and 1 gnoll adept (level 1d4) and accompanied by  1d2 dire wolves.
+
+**Goblin Raiders:** 1d4+4 **goblins,** led by 1 goblin fighter (level 1d4+1) and 1 goblin adept (level 1d4). All the goblins are mounted on worgs.
+
+**Merchants:** 2d4 1st-level commoners, 2d4 1st-level warriors, and 1d2 NPC leaders (level 1d4+1). To determine the leaders’ classes, roll d%: 01–10, cleric; 11–35, fighter; 36–55, rogue; 56–60, wizard; 61–75, warrior; 76–100, expert. Merchants match the normal alignment for their race (neutral if alignment is not specified). For the race of the merchants, roll d%: 01–20, shield dwarf; 21–25, moon elf; 26–75, human; 76–85, lightfoot halfling; 86–95, half￾orc; 96–100, rock gnome.
+
+**Mountain Torrent:** The party encounters an unmarked stream in its path with no obvious means of crossing. There is a 50% chance that some kind of precarious crossing exists (a fallen log, or chain of boulders) that can be employed with a successful Balance check (DC 15). Failure on this check means that the character falls in the water and may be swept downstream; see Mountain Torrents under Floods in the following section. If the party is traveling along a road or trail, the stream is bridged in some fashion. Treat this as no encounter.
+
+**NPCs:** The NPC party consists of 1d3+2 individuals (level 2d4). To determine the alignment, race, and class of each character, consult Tables 2–28 through 2–32 in the DUN￾GEON MASTER’s Guide, or use the corresponding tables in the FORGOTTEN REALMS DUNGEON MASTER’s Screen.
+
+**Orc Marauders:** 1d10+5 **orcs,** 1d3+1 orc **berserkers** (level 1d3+1), and 1 orc **Eye of Gruumsh** accompanied by 1d2 dire boars.
+
+**Orc Warband:** 1d10+10 orcs, 1d3 orc barbarians (level 1d3+1), 1d3 orc fighters (level 1d3+1), 1 orc adept (level 1d6), and 1 orc leader (level 1d3+3), accompanied by 1d2 dire boars. To determine the leader’s class, roll d%: 01–30, barbarian; 31–45, cleric; 46–80, fighter; 81–85, ranger; 86–90, rogue; 91–100, sorcerer.
+
+**Uthgardt Scouts:** 1d4+2 tribal warriors and 1d2 leaders (level 1d6+1). For the leaders’ classes, roll d%: 01–50, barbarian; 51–65, cleric; 66–75, druid; 76–85, ranger; 86–90, rogue; 91–100, sorcerer. There is a 30% chance the group belongs to the Sky Pony tribe and is mounted. Uthgardt scouts are usually chaotic neutral.
+
+**Vampire Troupe:** 1d2 **vampires** and 1d4+1 **vampire spawn.**
+
+**Werewolf Raiders:** 1d4+1 **werewolves,** 1d4+4 **wolves,** and 1 werewolf leader (level 1d6+1). To determine the leader’s class, roll d%: 01–15, cleric; 16–25, druid; 26–60, fighter;61–75, ranger; 76–90, rogue; 91–100, sorcerer.
+
+**Wood Elf Patrol:** 1d4+4 1st-level wood elf warriors, 1d2 wood elf rogues (level 1d3+1), 1d2 wood elf sorcerers (level 1d3+1), and 1 leader (level 1d4+3). For the leader’s class, roll d%: 01–10, cleric; 11–20, druid; 21–50, fighter; 51–75, ranger; 76–80, rogue; 81–90, sorcerer; 91–100, wizard. Some of these patrols may include moon elves or sun elves
 
 
-Check DC	Situation
-5	Recognize holy symbols of common deities.
-10	Recall the rites and major traditions of common religions, enough to fit in at a church.
-15	Determine which deity or cult an ancient ruin was dedicated to, or recall information on local mythology.
-20	Recognize the secret symbols and actions of cultists hiding their dealings in plain sight.
-25	Recognize the symbols and myths of a god dead and buried for 10,000 years.
-30	Improvise the proper rites of a long- dead religion to contact its sleeping god.
+## NPCs parties for random encounters
 
-SLEIGHT OF HAND
-This skill could, in many ways, simply be combined with the Stealth skill. However, it still does have its uses and can come up in play, if not all that often. This will mostly occur through the Steal action, but Dexterity (Sleight of Hand) checks can be used for pulling magic tricks or carefully manipulating small objects.
-Like the Stealth skill, Sleight of Hand is almost always opposed by a creature’s Wisdom (Perception) check or passive Perception score, with almost no exceptions. A soft DC 10 can be used to perform some simple acts of manual trickery, such as using a fishhook and line to grab a set of keys from a jail cell.
-STEALTH
-Stealth is perhaps the most well-defined skill in Dungeons & Dragons. It is used for anything involving stealth, and it is always contested by a creature’s Wisdom (Perception) check or passive Perception score.
-To smooth play, do not call for repeated Dexterity (Stealth) checks when a character is simply moving through an area. Instead, only ask for another check if the character is spotted or performs a specific action that could break their stealth. A Dexterity (Stealth) check of 17 could get a creature past most guards and sentries, even passing across doorways or moving within a few feet of an unaware guard. However, once a character attempts to take out a guard or after a character activates a trap, a second check may be worthwhile, as the situation can change dramatically.
-SURVIVAL
-Survival is yet another well-defined skill. The guidelines in the Dungeon Master’s Guide on foraging, navigation, and tracking all give solid DCs on the skill’s use.
-When cook’s utensils aren’t available (or a character isn’t proficient in with them), Wisdom (Survival) checks can be used to determine if a proper meal is prepared by an unskilled chef. A DC of 10 is usually more than enough to produce something edible from wild game and plants, with a 15 or 20 giving a much-needed morale boost in the wilderness in the form of a delicious, if gamey, meal. This morale boost can be presented by temporary hit points, usually 1d4.
+
+
+# Random Weather
+
+Many different weather influences impact the Silver Marches.
+
+The prevailing weather patterns in this part of Faerûn tend to come from the Sea of Swords to the west, and the presence of high mountains on all sides often creates “cloud barriers” that force frequent precipitation. The presence of Anauroch nearby also influences the weather in unpredictable ways. Any particular day’s weather consists of three components: the temperature, the wind strength, and the precipitation.
+
+Tables 8 through 11 provide random weather combina￾tions based on each season, weighted toward more or less likely results. A sudden thaw in the mountains is possible in winter, but it’s not as likely as long stretches of bitter cold or heavy snow.
+
+## USING THE TABLES
+
+Any given weather condition lasts for 1d6 days before a new pattern sets in, so it’s only necessary to roll for new weather when the previous pattern ends, not every day. The weather tables are organized into three basic locations: river valleys, open country, and northern or alpine areas. Apply the same die roll to all three regions (this makes it less likely that the mountains will be experiencing a rare thaw at the same time the river valleys are suffering from a brutal cold snap).
+
+**River Valley:** The Rauvin and Sundabar vales fall into this category, as well as the eaves of the High Forest. Although plagued by heavy fogs throughout the year, these regions are more sheltered than other parts of the Silver Marches.
+
+**Open Country:** The Evermoors, Moonlands, Old Delzoun (except for Sundabar Vale), and the forests of the northern Silver Marches fall into this category.
+
+**Northern or Alpine Regions:** The Ice, Nether, and Rauvin mountains fall into this category, as well as other lands that are hard against the Spine of the World, such as the Druar￾wood and the Lands Against the Wall.
+
+**TABLE 8: WINTER (UKTAR 1–CHES 30)**
+
+River Valley | Open Country | North,Alpine | Temp.    | Wind   | Precip.
+-------------|--------------|--------------|----------|--------|--------
+01–04        | 01–02        | 01           | Warm     | Fair   | Clear
+05–09        | 03–06        | 02–03        | Moderate | Varies | Clear
+10–15        | 07–09        | 04           | Moderate | Fair   | Fog
+16–18        | 10–12        | 05–06        | Moderate | Varies | Rain
+19–23        | 13–15        | 07           | Moderate | Varies | DwnPr
+24–26        | 16–17        | 08           | Moderate | Varies | Hail
+27–39        | 18–36        | 09–20        | Cold     | Varies | Clear
+40–50        | 37–43        | 21–29        | Cold     | Fair   | Fog
+51–65        | 44–58        | 30–42        | Cold     | Varies | Snow
+66–72        | 59–65        | 43–48        | Cold     | Varies | HSnow
+73–77        | 66–71        | 49–55        | Cold     | Varies | Sleet
+78           | 72–73        | 56–59        | Cold     | Storm  | Clear
+79–83        | 74–79        | 60–65        | Cold     | Storm  | HSnow
+84–85        | 80–81        | 66–68        | Cold     | Storm  | Sleet
+86–90        | 82–88        | 69–77        | XCold    | Varies | Clear
+91–93        | 89–91        | 78–88        | XCold    | Varies | Snow
+94–98        | 92–97        | 89–95        | XCold    | Storm  | Clear
+99–100       | 98–100       | 96–100       | XCold    | Storm  | Snow
+
+**TABLE 9: SPRING (TARSAKH 1–KYTHORN 25)**
+River Valley | Open Country | North,Alpine | Temp.    | Wind   | Precip.
+-------------|--------------|--------------|----------|--------|--------
+01–04        | 01–02        | 01           | Warm     | Fair   | Clear
+01–07        | 01–06        | 01–04        | Warm     | Varies | Clear
+08–14        | 07–12        | 05–07        | Warm     | Varies | Rain
+15–19        | 13–16        | 08–09        | Warm     | Varies | DwnPr
+20–25        | 17–21        | 10–13        | Warm     | Storm  | Clear
+26–30        | 22–25        | 14–16        | Warm     | Storm  | ThStrm
+31–36        | 26–31        | 17–24        | Moderate | Varies | Clear
+37–50        | 32–38        | 25–30        | Moderate | Fair   | Fog
+51–59        | 39–51        | 31–37        | Moderate | Varies | Rain
+60–63        | 52–55        | 38–40        | Moderate | Varies | DwnPr
+64–67        | 56–59        | 41–45        | Moderate | Varies | Hail
+68–71        | 60–63        | 46–53        | Moderate | Storm  | Clear
+72–76        | 64–66        | 54–56        | Moderate | Storm  | DwnPr
+77–79        | 67–69        | 57–61        | Moderate | Storm  | Hail
+80–83        | 70–74        | 62–68        | Cold     | Varies | Clear
+84–87        | 75–77        | 69–76        | Cold     | Fair   | Fog
+88–92        | 78–86        | 77–88        | Cold     | Varies | Snow
+93–94        | 87–89        | 89–91        | Cold     | Varies | HSnow
+95           | 90–92        | 92–94        | Cold     | Varies | Sleet
+96–97        | 93–95        | 95–97        | Cold     | Storm  | Clear
+98–99        | 96–97        | 98–99        | Cold     | Storm  | HSnow
+100          | 98–100       | 100          | Cold     | Storm  | Sleet
+
+**TABLE 10: SUMMER (KYTHORN 26–ELEINT 4)**
+
+River Valley | Open Country | North,Alpine | Temp.    | Wind   | Precip.
+-------------|--------------|--------------|----------|--------|--------
+01–09        | 01–08        | —            | Hot      | Fair   | Clear
+10           | 09–10        | —            | Hot      | Storm  | Sand
+11–30        | 11–27        | 01–17        | Warm     | Fair   | Clear
+31–39        | 28–36        | 18–23        | Warm     | Fair   | Rain
+40–45        | 37–41        | 24–25        | Warm     | Fair   | DwnPr
+46–54        | 42–50        | 26–35        | Warm     | Storm  | ThStrm
+55–74        | 51–71        | 36–49        | Moderate | Varies | Clear
+75–84        | 72–76        | 50–57        | Moderate | Fair   | Fog
+85–93        | 77–86        | 58–67        | Moderate | Varies | Rain
+94–97        | 87–90        | 68–73        | Moderate | Varies | DwnPr
+98–100       | 91–93        | 74–77        | Moderate | Varies | Hail
+—            | 94–95        | 78–84        | Cold     | Varies | Clear
+—            | 96–97        | 85–90        | Cold     | Fair   | Fog
+—            | 98–99        | 91–97        | Cold     | Varies | Snow
+—            | —            | 98           | Cold     | Varies | HSnow
+—            | 100          | 99–100       | Cold     | Varies | Sleet
+
+**TABLE 11: FALL (ELEINT 5–MARPENOTH 30)**
+
+River Valley | Open Country | North,Alpine | Temp.    | Wind   | Precip.
+-------------|--------------|--------------|----------|--------|--------
+01–03        | 01–03        | —            | Hot      | Fair   | Clear
+04           | 04–05        | —            | Hot      | Storm  | Sand
+05–13        | 06–12        | 01–03        | Warm     | Varies | Clear
+14–17        | 13–17        | 04–05        | Warm     | Varies | Rain
+18–19        | 18–19        | 06           | Warm     | Varies | DwnPr
+20–21        | 20–22        | 07–08        | Warm     | Storm  | Clear
+22–26        | 23–28        | 09–15        | Warm     | Storm  | ThStrm
+27–34        | 29–35        | 16–23        | Moderate | Varies | Clear
+35–44        | 36–39        | 24–29        | Moderate | Fair   | Fog
+45–54        | 40–48        | 30–37        | Moderate | Varies | Rain
+55–56        | 49–51        | 38–40        | Moderate | Varies | DwnPr
+57–58        | 52–53        | 41–43        | Moderate | Varies | Hail
+59–63        | 54–59        | 44–45        | Moderate | Storm  | Clear
+64–65        | 60–61        | 46–48        | Moderate | Storm  | DwnPr
+66–67        | 62–63        | 49–51        | Moderate | Storm  | Hail
+68–76        | 64–73        | 52–61        | Cold     | Varies | Clear
+77–84        | 74–77        | 62–66        | Cold     | Fair   | Fog
+85–90        | 78–84        | 67–76        | Cold     | Varies | Snow
+91–92        | 85–87        | 77–79        | Cold     | Varies | HSnow
+93–94        | 88–89        | 80–81        | Cold     | Varies | Sleet
+95–96        | 90–92        | 82–85        | Cold     | Storm  | Clear
+97–98        | 93–94        | 86–88        | Cold     | Storm  | HSnow
+99–100       | 95–96        | 89–90        | Cold     | Storm  | Sleet
+—            | 97–99        | 91–98        | XCold    | Varies | Clear
+—            | 100          | 99–100       | XCold    | Varies | Snow
+
+## DEFINITIONS
+
+Results from Tables 8 through 11 are described below.
+
+**Temp.:** Temperature results fall into the following broad categories. Nighttime temperatures are generally 10 to 20 degrees colder and may actually fall into the next colder cat￾egory (50% chance).
+
+Hot: Between 30° and 44° F.
+
+Warm: Temperatures between 16° and 30° F.
+
+Moderate: Temperatures from 5° to 16° F.
+
+Cold: Temperatures between -18° and 5° F.
+
+Extreme Cold: Temperatures below -18° F.
+
+Wind: The strength of the prevailing wind. Periods of calm or sudden stronger gusts are possible. Wind strength de￾creases one category at night (severe to strong, for example).
+
+The three results on the Random Weather tables are fair, varies, and storm. Consult Table 12.
+
+**TABLE 12: WIND STRENGTH**
+
+| Fair   | Varies | Storm  | Strength       |
+|--------|--------|--------|----------------|
+| 01–70  | 01–40  | —      | Light/moderate |
+| 71–95  | 41–70  | 01–10  | Strong         |
+| 96–100 | 71–90  | 11–50  | Severe         |
+| —      | 91–100 | 51–89  | Windstorm      |
+| —      | —      | 90–100 | Hurricane      |
+
+Wind effects are summarized on Table 3–17 in the DUNGEON MASTER’s Guide.
+
+Precip.: The type of precipitation that falls during the day. A solid day of rain is pretty rare—even during heavy blizzards, clear spells hours long may appear.
+
+**Clear:** No precipitation of note.
+
+**Downpour:** 1d3 downpours lasting 1d4 hours each occur during the day. Otherwise, the day consists of rain.
+
+**Fog:** There is a 75% chance that the fog burns off during the af￾ternoon, resulting in 1d4+2 hours of clear weather before sunset.
+
+**Hail:** 1d3 hailstorms lasting 1d6×10 minutes each occur during the day. Otherwise the day consists of rain.
+
+**Heavy Snow:** Heavy snow falls throughout the day, although 1d3–1 clear spells lasting 1d4 hours each break up the day.
+
+**Rain:** Rain falls consistently throughout the day, although 1d4–1 clear spells lasting 1d4 hours each break up the day.
+
+**Sandstorm:** Sandstorm conditions persist throughout the day, punctuated by 1d4–2 breaks lasting 1d4 hours each.
+
+**Snow:** Snow falls steadily, but 1d4–1 clear breaks of 1d4 hours each interrupt the snowfall.
+
+**Sleet:** Sleet falls for most of the day, broken by 1d4–2 breaks lasting 1d4 hours each.
+
+**Thunderstorm:** 1d3 thunderstorms lasting 2d6×10 min￾utes each occur during the day. Otherwise the day is clear (50% chance) or rainy (50% chance).
+
+# Bestiary changes
+
+## Werewolves:
+
+Damage threshold: 10
+
+Silver vulnerability. silver weapons ignores damage threshold
+
+## Ghosts:
+
+Incorporeal. Miss chance 50%
+
+## Tiny swarms:
+
+Weapon immunity: tiny swarms can be damaged only by aoe effects such as alchemist's fire, acid flask, thunderwave, burning hands etc
+
+
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -4764,17 +5020,17 @@ This long cloak is fashioned from gray cloth, expertly crafted, and is half the 
 
 **An elf who sees a non-elf wearing a cloak of this sort might assume the cloak is stolen.** In some cases, however, cloaks of elvenkind are presented as gifts to the elves’ most trusted and valued allies.
 
-Property: While you wear a cloak of elvenkind with the hood up, you can attempt to hide in any natural environment, as long as no creatures are within 20 feet of you. You do not have to be obscured to make the attempt, but you must stay quiet.
+**Property:** While you wear a cloak of elvenkind with the hood up, you can attempt to hide in any natural environment, as long as no creatures are within 20 feet of you. You do not have to be obscured to make the attempt, but you must stay quiet.
 
 # Spells
 
-Barkskin
+#### **Barkskin**
 2nd-level transmutation
 Casting Time: 1 action Range: Touch
 Duration: Concentration, up to 1 hour
 Touch a willing creature. The creature’s skin takes on a rough, bark-like appearance and becomes as tough as word, giving the creature a +2 bonus to AC for the duration.
 
-Elemental Mantle
+#### **Elemental Mantle**
 3rd-level transmutation
 Casting Time: 1 action Range: Self Duration: 10 minutes
 Wrapping yourself in power from the Elemental Planes, you assume an elemental mantle for the duration. The effects of the mantle are determined by the element you choose.
@@ -4785,7 +5041,7 @@ Water: You have a swim speed equal to your land speed, and you can breathe under
 You also have fire resistance. Finally, whenever you take fire or lightning damage, choose a point within 20 feet of you. Steam fills a 20-foot radius centered on that point, heavily obscuring the area until the end of your next turn.
 
 
-Color Spray
+#### Color Spray
 1st-level illusion
 Casting Time: 1 action Range: Self Duration: 1 round
 A dazzling array of flashing, colored light springs from your hand. Each creature in a 15-foot cone must make a Wisdom saving throw, provided the creature can see. For every creature that fails its saving throw, roll a d6 to determine the spell’s effect on that creature.
@@ -4796,63 +5052,78 @@ creature's speed is halved, and it has disadvantage on attack rolls and ability 
 creature is frightened by you and must move as far away from you as possible before taking any action.
 Material Components: A pinch each of powder or sand that is colored red, yellow, and blue.
 
-Divine Power
+#### Divine Power
 4th-level transmutation
 Casting Time: Swift Range: Self
 Duration: Concentration, up to 10 minutes
 Intoning a prayer fills you with unearthly might. For the duration, you gain a +4 bonus to Strength checks and Strength-based attack rolls and damage rolls.
 
 
-Cure Wounds
+#### Cure Wounds
 1st-level evocation
 Casting Time: 1 action Range: Touch Duration: Instantaneous
 You touch a creature, channeling positive energy into it. The creature regains 2d8 + 2 hit points. This spell has no effect upon undead or constructs.
 At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 2d8 for each level above 1st.
 
-Holy Vigor
+#### Holy Vigor
 3rd-level abjuration Casting Time: 1 action
 Range: Touch Duration: 8 hours
 Your touch imbues a willing creature with blessed vigor. It gains 3d8 + 6 temporary hit points for the duration. These hit points can exceed the creature’s hit point maximum, and they cannot be regained. If the creature takes any damage, these hit points are lost first.
 At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the temporary hit points increase by 2d8 for each level above 3rd.
 
-Hunter's Veil
+#### Hunter's Veil
 2nd-level transmutation
 Casting Time: 1 action Range: 25 feet Duration: 1 hour
 A veil of shadows and silence radiates from you, masking you and your companions within 25 feet of you from detection. For the duration, each friendly creature in the area, including you, has a +10 bonus to Dexterity (Stealth] checks and cannot be tracked except by magical means.
 
-Melf's Acid Arrow
+#### Melf's Acid Arrow
 2nd-level evocation
 Casting Time: 1 action Range: 100 feet Duration: Instantaneous
 A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged attack roll against the target, with a bonus equal to your magic ability modifier + your spellcasting bonus, if any. On a hit, the target takes 3d6 acid damage immediately and 3d6 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much damage.
 At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the initial damage increases by 1d6 for each level above 2nd.
 Material Components: Powdered rhubarb leaf and an adder’s stomach.
 
-Pass without Trace
+#### Pass without Trace
 2nd-level abjuration
 Casting Time: 1 action Range: 10 feet Duration: 1 hour
 Choose up to five willing creatures within range. For the duration, the creatures can move through any type of mundane terrain—mud, snow, dust, grassland, forest, or the like—and leave no physical evidence of their passage, including footprints and scent. Tracking the creatures is impossible except by magical means.
 
 
-Prayer
+#### Prayer
 3rd-level conjuration
 Casting Time: Swift Range: 25 feet
 Duration: Concentration, up to 1 minute
 Choose any number of creatures within range. Until the spell ends, each target gains the blessing of the gods, manifested in a +1 bonus to AC, attack rolls, weapon damage rolls, ability checks, and saving throws.
 
-Spike Growth
+#### Spike Growth
 2nd-level transmutation
 Casting Time: 1 action Range: 100 feet Duration: 10 minutes
 The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves through the area, it takes 2d4 piercing damage for every 5 feet it travels.
 The transformation of the ground is camouflaged to look natural. Any creature that cannot see the area of the spell at the time the spell is cast must make a Wisdom (Perception] check against the spell’s saving throw DC to recognize the terrain as hazardous.
 
-Barkskin now no longer requires concentration and reads as follows: “You touch a willing creature. The target’s skin takes on a rough, bark-like appearance for the spell’s duration, during which its AC becomes 16, if its AC is not already higher from wearing armor. The creature can benefit from wearing a shield as normal.”
-Blade Ward now has a range of touch, granting the resistance to the creature you touch.
+#### Barkskin
+
+ now no longer requires concentration and reads as follows: “You touch a willing creature. The target’s skin takes on a rough, bark-like appearance for the spell’s duration, during which its AC becomes 16, if its AC is not already higher from wearing armor. The creature can benefit from wearing a shield as normal.”
+
+#### Blade Ward 
+
+now has a range of touch, granting the resistance to the creature you touch.
 Chromatic Orb deals 4d8 damage, instead of 3d8.
-Circle of Death now states that a creature reduced to 0 hit points by the spell’s damage is immediately killed.
+
+
+#### Circle of Death
+
+ now states that a creature reduced to 0 hit points by the spell’s damage is immediately killed.
 A creature affected by Color Spray is both blinded and incapacitated.
-Conjure Animals states that you can try to summon specific creatures, but the DM ultimately decides which creatures appear when you cast the spell. 
-Conjure Barrage deals 6d8 damage, instead of 3d8.
-Conjure Fey, Conjure Minor Elementals, and Conjure Woodland Beings state that you can try to
+
+#### Conjure Animals states that you can try to summon specific creatures, but the DM ultimately decides which creatures appear when you cast the spell. 
+
+#### Conjure Barrage deals 6d8 damage, instead of 3d8.
+
+Conjure Fey, Conjure Minor Elementals, and Conjure Woodland Beings state that you can try to > [!CAUTION]
+> content
+> 
+
 summon specific creatures, but the DM ultimately decides which creatures appear when you cast the spell.
 Contagion specifies that the effects of the disease occur immediately, instead of after three failed saving throws.
 Cordon of Arrows deals 2d6 damage, instead of 1d6.
@@ -4893,98 +5164,408 @@ Stoneskin no longer requires concentration.
 Sunbeam deals 8d8 damage, instead of 6d8.
 The fourth paragraph of True Polymorph now reads the same as the third paragraph of polymorph, as written above.
 True Strike now grants advantage to the first attack roll against the target before the end of your next turn, even if it is not made by you.
+
+
+#### Vampiric Touch
+
+
 The damage dice of Vampiric Touch are d8s, instead of d6s.
 When you cast Web using a spell slot of 3rd level or higher, the dimensions of the cube increase by 10 feet for each slot level above 2nd.
 Witch Bolt requires a bonus action, not an action, to deal damage to the target after it is initially cast. Its range is 60 feet.
 
 
-EQUIPMENT
-The following section provides new armor, weapon, and equipment types. Prices, weights, and other information are also listed on the Additional Shields, Additional Weapons, and Additional Adventuring Gear tables.
-ARMOR AND SHIELDS
-These new armor additions and shield types allow defensive characters a few more options.
-ADDITIONAL ARMOR AND SHIELDS
-Name	Cost	Weight	Properties
-Armor
-spikes	+150 gp	—	Special
-Shields
-Buckler	8 gp	2 lb.	AC +1, special
-Spiked
-shield	15 gp	5 lb.	AC +1, special
-Targe	12 gp	3 lb.	AC +1, special
-Tower shield	50 gp	45 lb.	AC +3, special
 
 
-Armor spikes. Armor spikes can be added to a set of medium or heavy armor for 150 gp, representing the price of the spikes and the expertise needed to add them to a set of armor.
-While wearing armor with spikes, wrestling with you is a dangerous proposition. If you use the Attack action to grapple a creature within 5 feet of you and successfully do so, the creature takes 1d4 piercing damage. If the creature ends its turn being grappled by you in this way and is within 5 feet of you, it takes another 1d4 piercing damage. If the suit of armor is magical, the damage dealt by the spikes is also considered magical.
-Buckler. While wielding a buckler, your Armor Class increases by 1. When you are wearing a buckler and are targeted by a melee weapon attack by a creature you can see, you can use your reaction to parry the blow, further increasing your AC by 2 against that attack. You can don or doff a buckler as though interacting with an object
+# Roll20 Player's Guide
 
-Name	Cost	Damage	Weight	Properties
-Simple melee weapons
-Cestus	2 gp	1d4 bludgeoning	1 lb.	Light
-Simple ranged weapons
-Composite
-shortbow	45 gp	1d4 piercing	3 lb.	Ammunition (range 80/320), special, two¬handed
-Repeating crossbow, light	35 gp	1d8 piercing	6 lb.	Ammunition (range 40/160), special, two¬handed
-Martial melee weapons
-Dire flail	25 gp	1d8 bludgeoning	10 lb.	Double (1d6), two-handed
-Double axe	30 gp	1d8 slashing	10 lb.	Double (1d6), two-handed
-Garrote	5 gp	—	1 lb.	Finesse, special, two-handed
-Katana	35 gp	1d10 slashing	3 lb.	Finesse, two-handed
-Kusarigama	20 gp	1d4 bludgeoning or slashing	8 lb.	Double (1d4), finesse, special, two-handed
-Parrying dagger	5 gp '	1d4 piercing	1 lb.	Finesse, light, special
-Scythe	12 gp	1d10 slashing	10 lb.	Heavy, reach, two-handed
-Spiked chain	15 gp	1d8 piercing	10 lb.	Finesse, reach, two-handed
-Two-bladed sword	30 gp	1d8 slashing	10 lb.	Double (1d6), two-handed
-Urgrosh	25 gp	1d10 piercing or slashing	12 lb.	Double (1d4), two-handed
-Martial ranged weapons
-Bola	2 gp	—	1 lb.	Special, thrown (range 30/90)
-Boomerang	5 sp	1d4 bludgeoning	1 lb.	Finesse, light, special, thrown (range 20/60)
-Composite
-longbow	70 gp	1d6 piercing	3 lb.	Ammunition (range 150/600), heavy, special, two-handed
-Repeating crossbow, heavy	75 gp	1d10 piercing	20 lb.	Ammunition (50/200), heavy, special, two¬handed
+## Default macros
 
-instead of as an action. Creatures that are proficient with light armor are proficient with bucklers.
-Spiked shield. 
-Targe. This shield is wielded in a way that leaves one’s hand open. While wearing a targe, your Armor Class increases by 1. You can use the hand you wield the targe in to manipulate objects, shove, grapple, or perform somatic spell components.
-Creatures that are proficient with regular shields are proficient with targes.
-Tower shield. While wielding a tower shield, your Armor Class increases by 3, but your speed decreases by 5 feet and you have disadvantage on Dexterity checks and saving throws. You provide three-quarters cover, instead of half cover, to other creatures. You can use your action to set the shield like a wall, giving yourself total cover against ranged attacks until the start of your next turn. Creatures that are proficient with heavy armor are proficient with tower shields.
+## How-to
 
-WEAPON PROPERTIES
-The following weapon property can be found among several entries in the Additional Weapons table.
-Double. A double weapon has two ends with which you can attack. When you take the Attack action and attack with the weapon, you can engage in two-weapon fighting with it, treating one end as the required light weapon with the specified damage die.
-SPECIAL WEAPONS
-New weapons with special properties are described here.
-Bola. When you hit a Large or smaller creature with a bola, it must make a DC 10 Dexterity saving throw or be restrained by it. A creature can end this condition by breaking free of the bola, either by making a DC 10 Strength check as an action or by dealing 5 slashing damage to the bola. In either case, the bola is destroyed. A bola has an AC of 11. Formless creatures are immune to the effect of a bolas.
-Boomerang. When you throw this weapon and miss, it returns to your hand. Creatures that are proficient with javelins are also proficient with boomerangs.
-Composite bow. These bows use a complex design with a high draw weight. You add your Strength modifier alongside your Dexterity modifier to damage rolls for composite bows.
-Garrote. When you attack with this weapon and hit, you immediately grapple the target if it is Large or smaller and is not formless. This grapple ends early if you let go of either end of the garrote. While grappled in this way, the creature is gagged, cannot breathe, and melee attacks against it are made with advantage. Rogues are proficient with garrotes.
-Kusarigama. This double weapon has very different ends, attached by a chain: a sickle, dealing slashing damage; and a weight, dealing bludgeoning damage with the reach property. You can choose which end with which to attack. Monks are proficient with the kusarigama and can treat it as a monk weapon.
-Parrying dagger. When you wield this weapon and are targeted by a melee weapon attack, you can use your reaction to increase your AC by 2 against that attack. Rogues are proficient with parrying daggers.
-Repeating crossbows. These crossbows are fitted with cartridges that can hold up to six crossbow bolts. A repeating crossbow automatically reloads after firing until it runs out of ammunition. You can reload the cartridge as an action.
-ADVENTURING GEAR
-This section describes the special properties of this document’s new adventuring gear.
-ADDITIONAL ADVENTURING GEAR
-Name	Cost	Weight
-Adventuring Gear
-Smoke Pellet	15 gp	—
-Smokestick	25 gp	1/2 lb.
-Tanglefoot bag	50 gp	4 lb.
-Thunderstone	30 gp	1 lb.
-Tindertwig	15 gp	—
-Ammunition
-Arrow, Barbed	i gp	—
-Arrow, Smoldering	2 gp	—
-Arrow, Smoking	3 gp	—
-Arrow, Splintering	2 gp	—
 
-Arrow, Barbed. This piece of ammunition causes bleeding wounds. A creature hit with a barbed arrow or bolt takes 1 point of piercing damage at the beginning of
-its turn until it uses its action to pull the arrow free. Once pulled free of the wound, the ammunition is destroyed.
-Arrow, Smoldering. This piece of ammunition has a hollow point containing alchemist’s fire and a simple ignition mechanism. A creature you hit with a smoldering arrow or bolt takes 1d4 fire damage at the beginning of its next turn. Once ignited, the ammunition is destroyed.
-Arrow, Smoking. This piece of ammunition lets out a blast of smoke on contact. A 5-foot radius sphere centered on the creature or point you hit is heavily obscured until the end of your next turn. Once ignited, the ammunition is destroyed.
-Arrow, Splintering. When you hit a creature with a splintering arrow or bolt, it explodes into wooden or bone shards. Each creature within 5 feet of the target must make a DC 12 Dexterity saving throw or take 1d4 piercing damage. Once it explodes, the ammunition is destroyed.
-Smoke pellet. As an action or bonus action, you can throw a smoke pellet at a point within 10 feet of you. The smoke pellet then detonates and is destroyed, creating a 10-foot cube filled with smoke. This area is heavily obscured until the end of your next turn.
-Smokestick. As an action, you can ignite a smokestick using a torch, tinderbox, or other source of fire or intense heat. Once ignited, the smokestick continually fills the area within 5 f eet of it with thick, black smoke. An area filled with the smoke is heavily obscured. This smoke disperses at the end of your next turn, but the smokestick continues to burn for 1 minute, allowing it to be thrown or moved around with to form large areas of smoke.
-Tanglefoot bag. As an action, you can throw this bag of alchemic goo at a creature within 30 feet of you. Make a ranged attack against a creature, treating the bag as an improvised weapon. On a hit, the creature is restrained for 1 minute if it is Large or smaller. Hit or miss, the tanglefoot bag is then destroyed. A creature restrained by the goo can free itself by using its action to make a DC 13 Strength check or by dealing 10 points of slashing damage to the goo. The goo has an AC of 13. In either case, the effect ends early.
-Thunderstone. As an action, you can throw a thunderstone up to 30 feet. When it strikes a hard surface or is struck hard, it creates a deafening bang and is destroyed. Creatures within 10 feet of the stone must make a DC 11 Constitution saving throw or be deafened for 1 hour. If a creature deafened in this way casts a spell with verbal components, it must make a DC 11 Charisma saving throw or fail to cast the spell.
-Tindertwig. You can strike the end of this small, wooden stick on a flammable object, requiring no action. The object immediately ignites and the tindertwig is destroyed.
+# Измерение времени - About time measurement
 
+Gary Gygax said “YOU CANNOT HAVE A MEANINGFUL CAMPAIGN IF STRICT TIME RECORDS ARE NOT KEPT.“
+ 
+I almost didn’t post this for fear of it being misused. Please don’t simply look up the parties travel pace below, determine what was found, mark off the time and move on. This is a role playing game after all. The following is intended as an aid in Dungeon Mastering a game, not as a substitute for it.
+ 
+Time in a dungeon is measured in minutes – switching to 6 second rounds when there is an encounter.
+ 
+The following is my interpretation of the official rules and a few of my house rules mixed in, presented here as advice to Dungeon Masters. Where I refer to “you”, I mean the DM. This is specifically for a dungeon crawls, but most of it applies to all similar situations. This is intended as a guide for tracking time passage in a dungeon and also for a guide in deciding when to use a character’s passive perception score or to roll a perception check.
+ 
+The Dungeon Master describes what the PCs can see, hear, etc. Most of the time you can expect that the PCs are being observant so if they could notice something, they will notice it. So don’t wait for a player to say his character is examining the floor, or looking for footprints to tell them that there’s an obvious set of footprints on the floor in front of him. Players can ask questions or tell you what their PCs are going to do (or attempt to do). Players should never have to refer to skill names to do this. You decide if they need to roll an ability or skill check and which one. To keep the game moving at a reasonable pace, I recommend that you keep the die rolling to a minimum. If a player’s character would most likely notice something or recognize something or understand something based on his abilities and background, no roll is required. Just tell him.
+ 
+The DM will roll all of the PCs search checks in secret and tell the players what, if anything, their characters found. That way, if they don’t find anything, they won’t know if there wasn’t anything there or if there was something and they didn’t find it. Another advantage of rolling behind your DM screen is that you can ignore the roll when necessary. If you want them to find something (or not find it), ignore the roll and tell them what they found (or that they didn’t find anything).
+ 
+***Ask them for their marching order, but don’t ask if they are moving at a “fast pace”, “normal pace” or “slow pace”. That makes it sound too much like a computer game. Instead, simply ask them what they are doing. Use their answer to determine their pace and use that to help you determine how long it will take and what they do or do not notice.***
+ 
+In addition to the fast pace, normal pace and slow pace listed in the Player’s Handbook, I have added a “very fast” pace and an ”extremely slow” pace.
+ 
+Overview:
+ 
+1. Moving at a very fast pace they automatically fail all perception checks. If they say “We are getting out of here as fast as we can” they are obviously not going to take the time to check for traps or secret doors so they are moving at a very fast pace (600 feet per minute).
+ 
+2. Moving at a fast pace uses their passive perception scores with a -5 penalty. If they say “We are going to move through here as quickly as we can and still be on the lookout for traps”, you can say to yourself that that sounds like a fast pace (400 feet per minute).
+ 
+3. Moving at a normal pace uses their passive perception scores. If they don’t give you any indication of how fast or cautiously they are moving through corridors, assume that they are moving at this pace. If they say “We are going to be watching for hidden monsters and checking for traps and secret doors as we proceed cautiously down the corridor”, you know that, even though this sounds like it might be a slow pace it is actually the normal way adventurers would explore a dungeon so it is a normal pace (300 feet per minute).
+ 
+4. Moving at a slow pace they can be stealthy or search for things. If they don’t give you any indication of how fast they are searching a room, assume that they are moving at this pace. They make a Dexterity (Stealth) check if they are hiding or being stealthy. Make a Wisdom (Perception) check for them if they are searching for secret doors or traps. If not actively searching, they use their passive perception scores. If they say “We are trying not to be noticed as we proceed cautiously down the corridor” they are being stealthy and can only move at a slow pace (200 feet per minute).
+ 
+5. Moving at an extremely slowly pace they will automatically find anything that can be found. If they say “We know there must be a secret door in this corridor, so we are going to search until we find it”, you know that they are going to keep looking until they find it if they can, so they are traveling at a extremely slow pace (30 feet per minute).
+ 
+The times listed below are the suggested minimum times required. Additional time may be required depending on circumstances and PC actions. Anything found (secret doors, traps, treasures, and especially monsters) will add to the listed times below as they take the time to deal with what they have found.
+ 
+* If they find a secret door they may then attempt to find a means to open it.
+ 
+* I might have the searcher make an Intelligence (Investigation) check and subtract the results form 20 minutes for low long it takes. I will never let them find a secret door and never find out how to open it!
+ 
+* If they find a trap they may then attempt to disarm or avoid it.
+ 
+* It takes 5 minutes to disarm traps or pick a lock if proficient with thieves tools; 10 minutes otherwise. This assumes fairly straightforward mechanisms, not complex puzzles
+ 
+* If they find a treasure they may then check it for traps.
+ 
+ 
+Details:
+ 
+Traversing corridors, stairs, and other passageways:
+ 
+•When moving at a very fast pace (600 feet per minute), all attempts to notice any secret doors, hidden monsters or traps will fail. This speed is equivalent to the Dash action.
+ 
+•When moving at a fast pace (400 feet per minute), passive Wisdom (Perception) scores, with a -5 penalty, will be used to see if they notice any secret doors, hidden monsters or traps.
+ 
+•When moving at a normal pace (300 feet per minute), passive Wisdom (Perception) scores will be used to see if they notice any secret doors, hidden monsters or traps.
+ 
+•When moving at a slow pace (200 feet per minute), the characters can attempt to hide or be stealthy. If hiding, Dexterity (Stealth) checks will be used against the Wisdom (Perception) checks of any monsters that are actively searching for them, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching. Moving at this pace they can actively search for hidden doors or traps. Roll a Wisdom (Perception) check for the searchers and let them know if they found anything in this 200 foot length of corridor. Let the single roll be for detecting hidden doors and/or traps regardless of what they say they are searching for. Note that if they say they are being stealthy, but don’t express an interest in watching out for traps or finding secret doors, only roll Dexterity (Stealth) checks and use passive Wisdom (Perception) scores. Conversely, if they say that they are looking for traps, or secret doors but don’t seem interested in being stealthy, roll Wisdom (Perception) checks only.
+ 
+•If the party intends to take as much time as required to thoroughly search a section of corridor, the party will be moving at an extremely slowly pace (30 feet per minute). This represents that the character is being extremely cautious and diligent in his searching. At this pace that character will automatically succeed at finding any secret doors, hidden monsters or traps that can be found by that character. [The DMG says “In some cases, a character is free to [retry a failed ability check]; the only real cost is the time it takes[…] To speed things up, assume that a character spending ten times the normal amount of time needed to complete a task automatically succeeds at that task.” This is the 5e equivalent to the 3.5e “Taking 20” rule.]
+ 
+* One character can search the walls, floor and ceiling of a 5 foot wide passage, or one side of a wider passage out to 5 feet from the wall.
+ 
+* 2 characters can cover a 10 foot wide passage.
+ 
+* Characters that are searching can perform no other activities.
+ 
+* Characters that are not searching can be on the lookout for monsters. For large parties they may need one lookout near the front and another one in the rear. If a monster approaches the group from a direction that is being watched, the Dexterity (Stealth) check of that character will be used against the Wisdom (Perception) checks of any monsters that are actively searching for them, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching.
+ 
+### Searching a Room:
+ 
+If the party opens a door but doesn’t enter a room and only observes it from the doorway it doesn’t take any additional time to be able to map its location and general notes about it, but not its exact size or anything about the room that cannot be quickly seen. A detailed description will require that the party enters the room.
+ 
+After they enter the room, describe what they see and ask what each character is doing. Describe the results of their activities. If they say “I am searching the room”. Don’t ask “What are you searching for?” rather say something like “What does searching the room look like? Describe exactly what your character is doing.” If they say “I am looking for secret doors.” Don’t ask which 5 foot section of wall he is searching, rather assume he will search all of the walls and use the travel paces descried below to determine his success or failure. If it makes a difference, or if you simply want him to think it might, you could ask where he is starting his search and which direction he will be searching from there. A room can be memorable and fun if you can get them to describe how they are interacting with the objects in the room.
+ 
+The party may have a different travel pace for rooms than it does for corridors. Their pace may change in a room if they discover something interesting (or dangerous) but I wouldn’t normally mark off more than 10 minutes per room unless they slow to an extremely slow pace. Your players should be able to search as much as they want. Just warn them of the consequences (time passing, wandering monsters, etc.) ahead of time.
+ 
+How pace of travel effects checking out rooms:
+ 
+•Very fast pace (600 feet per minute – measured from entrance to exit by the shortest path). Treat these rooms like corridors. They are almost running through the rooms and won’t notice anything much more than their size and location. They automatically fail all perception checks. They will be surprised by any monsters waiting for them. They may surprise monsters that aren’t expecting them.
+ 
+•Fast pace (1 minute per room). They are mostly just passing through. They can note what is in the room, its size, number and location of its exits. The Passive Wisdom (Perception) scores of the searchers, with a -5 penalty, will be used to see if they notice any secret doors, hidden monsters or traps. They are moving through the room too fast to search for any hidden treasure but will notice things that are in plain sight.
+ 
+•Normal pace (5 minutes per room). Use this pace if they want to search the room but want to be quick about it. The passive Wisdom (Perception) scores of the searchers will be used to see if they notice any secret doors, hidden monsters or traps. At this pace they can make a quick search for hidden treasure at a disadvantage using their Wisdom (Perception) scores.
+ 
+•Slow pace (10 minutes per room). Use this pace if they don’t give you any other indication of how fast they are searching a room. Use this pace if they want to loot the room, or if they want to be stealthy. Roll the Wisdom (Perception) checks of the searchers to see if they notice any secret doors, hidden monsters, hidden treasure or traps. If they are being stealthy, their Dexterity (Stealth) checks will be used against the Wisdom (Perception) checks of any monsters that are in the room or that enter the room and that are watching for them, and against the passive Wisdom (Perception) scores of any monsters that aren’t.
+ 
+•Extremely slowly pace (1 hour per room). At this pace they can carefully examine every inch of the room. At this pace they will automatically succeed at finding any secret doors, hidden monsters, hidden treasure or traps that can be found by their characters. If there is something in the room that they wouldn’t be able to find even if they rolled a 20 on an ability check and added all of their bonuses, it is beyond their ability to find so it will remain hidden.
+ 
+•The times above represent at least 2 characters searching.
+ 
+•Two characters can search the walls, floor and ceiling and everything inside of a room up to 30’ x 30’. Larger rooms, or rooms with a large amount of “stuff” may take longer. Rooms smaller than 30’ x 30’ still take the indicated time to search.
+ 
+•A single character searching the same room will take twice as long.
+ 
+•More than two characters searching the room do not reduce the time any further unless it is a very large room.
+ 
+•Characters that are searching can perform no other activities.
+ 
+•Characters that are not searching can be on the lookout for monsters. One character can watch only one entrance without penalty. If a monster approaches the group through an entrance that is being watched, the Dexterity (Stealth) check of that character will be used against the Wisdom (Perception) checks of any monsters that are actively searching for you, and against the passive Wisdom (Perception) scores of any monsters that aren’t searching.
+
+# TRAPS
+MAGICAL TRAPS
+These traps are arcane in nature, radiating an aura that is perceivable by those trained in it. Be careful with these, as most of them are invisible to the naked eye. Magical traps can be further broken down into various classes - glyphs, proximity, or situational
+Glyphs are written with a special ink or are magically carved into an object, as that upon facing closely to the glyph will activate it. Proximity magical traps activate only when a creature, or perhaps certain creatures get within range of it, like an elf getting too close to a sword. Situational magical traps activate whenever you do something specific, such as opening a chest.
+GLYPH TRAPS
+Detecting one of these types of traps is difficult, but you can sense them with a find trap spell or enhancing your eyes to truesight. If a special ink is used, wiping it away will not deactivate it. Some sort of residue remover will work wonders, but again it depends on the type of ink.
+ 
+Engraved glyphs are a little harder to work with.
+Depending on the type, simply slicing through the glyph will be enough to destroy it. I've seen some where it was carved into an adamantine door!
+ATTRACTION GLYPH
+Now I know what you're thinking. How can falling in love be a trap? Well have you ever heard of marriage? Exactly. Well, this has nothing to do with love at all, but rather metallic items being stuck to the glyph itself. Its a bit of a problem when the key you need gets pulled out of your hands onto the other side of a lava pit!
+Whenever this activates, any metallic items within 15 feet of it is pulled toward the center of the glyph, at a speed of 30 feet per turn. A Strength saving throw is required to hold onto the items. If a creature is wearing armor that mostly consists of metal and weighs under 200 pounds fails their saving throw, they are attracted to the glyph. Once on it, the creature is prone and restricted.
+FLASH GLYPH
+One of the many glyphs that can be found is the Flash glyph. Whenever this activates, any creature within 10 feet of it has their vision disoriented. A Constitution saving throw must be made, with creatures that fail being blinded for 1 minute.
+No damage is done from this type of trap, but it sure is annoying when you find an ancient grimoire and this is in the middle of the book!
+LEECH GLYPH
+Oh, this is a bugger! Ever had your magical ability removed from you before? Don't ever do it. This is one of the few things that can take it from you. Whenever this activates, any creature within 10 feet of it must make a Wisdom saving throw. On a failure, the creature cannot use any magical spells or spell-like abilities for 1 minute. Magical items within this radius are also considered nonmagical for the duration.
+One time, we were trying to run from this pack of owlbears in an abandoned dungeon, right? Well I won't point out any names, but someone (Aoth Rein) stepped on this which was on the ground. Well we got trapped in a dead end, cornered by these beasts. Let me tell you, that was not fun! 
+PARANOIA GLYPH
+How could I forget this one? Oh, I messed up big time when I touched this. I became afraid of mice! Mice! Do you know how embarrassing it is, when you've delved deeper than any person before, have talked dragons out of burning villages, and conversed with unfathomable horrors?
+Whenever this activates, all creatures within 10 feet of it must make a Wisdom saving throw. On a failure, the creature becomes afraid of harmless things around it, overthinking any possible situation, and grows untrust among the party. This effect lasts for ldlO minutes.
+STASIS GLYPH
+This one is a pain! Being affected by this can certainly cause many problems, as once you're caught, you can't move! Whenever this activates, any creature within 5 feet of it must make a Constitution saving throw. On a failure, the creature is paralyzed for 1 minute.
+This is another glyph that doesn't do any damage by itself, but I have heard about these being used with falling ceilings that slowly make their way down. People go splat under pressure; did you know that?
+PROXIMITY TRAPS
+How can someone deactivate a trap that triggers when you get too close? The answer is that you don't, honestly. What you should do is instead cause some motion to activate it, such as throwing some pebbles or letting loose a live rat. Or, you can make the big, bully guy go in first to activate it. I'm not judging! Without doing so, well.. You can say good-bye to the world
+These traps are very difficult to find and not for the faint of heart either. They activate whenever a creature gets within sight or within range. Some examples of this the arcane eye which sees out in a line, or the clairvoyance spell in which someone gets within a certain distance. On top of that, darkvision placed on a trap can sense creatures in the dark, out to 60 feet in order to trigger the spell Lastly, a see invisibility spell can be cast, or a true sight spell so they can see if you are hidden, or if you're on a different plane of existence!
+ALARM
+Widely known as a spell already, this is famous for protecting objects that you want out of other people's hands. The alarm spell is casted on an object, and when you do cast it, you can select a number of people that can interact with the object without setting off the alarm. In addition, you can make the alarm heard to all, or just the people you select in their mind!
+Salazar Basha and I went into a crypt of ooze covered skeletons, and found a sword that had not rusted throughout the ages. It was in the hand of a king on a throne, now entirely skeleton. As soon as we touched it, the skeletons made a dead sprint towards us! Get it? Dead sprint9 Hey, I never said my jokes were funny.
+ 
+COMBUSTING SUCK SPIKES
+This, this one is a mighty danger. It starts off just as a simple ascension or descension on a stone floor. All of a sudden, the stone is covered in a thick layer of grease, risking you fall prone and slide to the bottom. As if that wasn't bad enough, a flame lights the grease, so if you aren't falling, you'll be caught on fire! Additionally, if you are sliding, there are spikes that form at the bottom of the hallway! If I had to recall on it, I would say the spells are grease, produce flame and perhaps spike growth...
+Stay away from this one!
+HUNGRY ARMS
+As soon as you enter the area, tentacles of unknown horror tear through the air, lashing out at anyone unfortunate enough to be near. Upon further inspection, I have found that the spell must be arms ofhadar, an unfathomable beast from the Far Realms.
+ILLUMINATING PRESENCE
+This one is not so much a trap, but can startle you at first! Whenever you come within range of an object, it brightens a few torches so that you may see! I have identified what actually activates, and it seems to be the dancing lights cantrip. The first time I saw this, I was walking into an ancient keep of a lost civilization, where the torches would emit light along the hallway.
+MISSILES IN THE DARK
+With the ability of seeing out in darkness, this magical trap will fire 3 magic missiles, automatically hitting any creature it sees fit. This is quite dangerous, as I've lost many an ally when we were first travelling out in search of fortune.
+MOLTEN METAL
+Quite an awful trick, I will admit. As soon as you enter the room, the walls and floor are made of metal But after a few seconds, the metal changes from a cold, dark color to a heated yellow and red! You will realize that the room is going to bum you alive if you don't get out! That must have been a heat metal spell..
+RADIATING WEAPONS
+Have you seen a bright flash of light, only to realize that it is a weapon? Some traps will conjure one of these weapons. I've seen swords, spears and even maces become real! It must have been a spiritual weapon spell that was cast, I'm confident that it was. That reminds me of the time I went into the burial grounds full of heroes, where we were searching for Dothan Sabrina, a famous paladin...
+SITUATIONAL TRAPS
+These traps are triggered by really specific conditions, such as being an elf and walking into the room, or being the age of 347. Another trigger can be that you simply interacting with something, which is veiy complicated unless you know exactly what you are doing. Stay safe! 
+COMPACT HALLWAY
+Imagine that the hall you are walking down gets closer and tighter, to the point that you can't budge forward How would you get through? Corporal Redbloom found out the hard way...
+In order to truly disable this magical hallway, you have to keep travelling in, to the point that you are stuck and cannot even back out. Once you do, you will soon realize that the hallway was just an illusion! It was really just as big as normal!
+FORGE OF GEMS
+Can you believe that Father Time actually exists? If you don't believe me, well I have news for you. I met him! Actually, that is sort of why I am mentioning this trap now...
+An efreeti forge, crafted in the City of Brass, made out of the very same metaL In it is a fire that flickers softly, but gives no heat. Upon further investigation, the charcoal is actually small rubies. Simply taking from the forge is what leads to your demise, though... Attempting to take a gem will require a Dexterity saving throw, as a fireball centered from the mouth of the forge is released
+If you instead drop a gem into the forge, the spirits of the efreeti manifest, blessing you with resistance to fire damage.
+MANIFESTED MIRROR
+I wouldn't call this one a trap, but rather a difficult one to process. So mirrors reflect things back into out eyes, correct? Well, this mirror reflects the semi-truth into the gazer. Objects that are hidden in the room, such as secret doors are revealed in the room, but may not be interacted with.
+So how do you use that mirror then? Well, you have to go through it. The only difficulty is that your reflection blacks your path. Creatures that don't have a reflect, such as vampires, can freely enter and exit at their will
+ROGUE'S BANE
+Some traps are designed for certain... Professions. A small gearbox often is connected to a mechanical trap, and the trap disabler will do their job. But what happens when they do their job, but that is what causes the activation?
+In times like this, the disabled device actually triggers the magic to take effect. I've seen it where doors lock because of this, or poisonous gas clouds the room.
+TELEPORTATION ROOM
+Entering this room will lead you to different chambers, in which you will be unfamiliar with. As soon as the magically rigged item is interacted with, all doors slam shut, and once opened will reveal that the halls outside look much different. Why? Because the characters themselves had their entire room teleport over to a new location.
+I remember one time, we were exploring this location called the Tomb of Vrouk'zous the Foul in the Underdark. We slipped into one room, where a chest lay in the center. Well, the rogue searched it in it's entirely for traps, but couldn't find any! As soon as it was opened, we all lurched backwards, landed on our butts and the doors locked shut! As soon as I felt I was done spinning, I opened the door to get out and I didn't recognize anything!
+ 
+MECHANICAL TRAPS
+Mechanical traps vary widely, being able to controlled from an input device, such as a pressure plate or trip wire, all the way to being carved into something such as a pit trap. As such, I have organized these into input devices, as most pit traps are common knowledge.
+INPUT DEVICES
+Input devices are what needs to be tampered with in order to activate the trap itself. Things such as a trip wire being broken or a light source having a shadow casted are examples.
+What is great about these traps is that they are easily created, requiring minimal set up time and can be taken down for transport. On the other hand, being taken down is a way to lose the trap itself from sticky fingers.
+DOOR HINGE
+Simply opening a door will trigger a trap. You can do so by having objects attached to the top of the door to tip, or place a trip wire in the hinge so that it will be cut when opened
+LIGHT INTERRUPTION
+A light source that is constant may look like an ordinary torch, but having a small sensor that picks up the light across the room is a wonderous little item. Whenever the light no longer shines on the sensor, its switch will activate, releasing the trap. These are near impossible to detect, as getting close to it may cast your shadow on it, and the trap will trigger.
+NOISE MAKER
+This isn't so much an input device but more to keep you aware of their presence. Simply hanging many chains in a hallway can do so, as it will be difficult to pass without bumping into them. Another way to do so is have a bell attached to a door, so that when it opens, it will ring out.
+PRESSURE PLATE
+A weight sensitive tile or plate has a switch underneath, which can snip a long trip wire or the like. Simply pushing on the pressure plate with a pole will click the switch, which can activate the trap.
+TRIPWIRE
+Made of fishing line or even heavy duty hempen rope, whenever the line is broken or pulled tight, the release will occur. Unfortunately, these can be simply cut from far away, as long as you can spot them!
+NATURE TRAPS
+Finally, the wilderness has many, many harmful plants and such that exploring may prove more dangerous than you can handle. Jungles are filled with poisonous plants, rivers may be flooded with sinking mud, boulders may fall from cliff sides. 
+Be aware of your surroundings! Always pay attention to what is around you. Don't try to be a hero, and don't be a fool You cannot save anyone or get treasure if you don't even make it to your destination!
+ARCANE STORM
+Arcane weather tampering is an impressive feat, but also a costly one. With the arcane power still infused with the clouds, the storm will eventually head away, only to bring a different destruction. When this storm occurs, the rain causes damage. Anyone caught in its rain must make a DC 16 Dexterity saving throw. On a failure, the creature takes ld6 force damage. This saving throw must be repeated at the start of every round On a successful saving throw, the creature takes half damage.
+This location that the storm is in is considered a pocket of wild magic. Any spell casted within this area must have a percentile dice roll, following the Wild Surge Table on page 104 in the Player's Handbook.
+This storm lasts for ld4 hours.
+HOT PIT
+Sometimes, the world around us is full wonder and danger, which captivates me. Once such instance is what I call the hot pit, where massive ponds and lakes instantly heat to the point that they boil When this occurs, you need to get out right away, as many people who wander into a hot pit receive bums, if they make it at all!
+With a successful DC 15 Intelligence (Nature) or Wisdom (Survival) check, you can tell the symptoms of a hot pit about to heat up. Roughly 30 seconds before the heat starts, the water clouds to a deep gray, with the heavy smell of salt that hangs in the air. 15 seconds before the heat begins, the water slowly shakes, rippling on the surface.
+All those caught in the water must make a Constitution saving throw, with the DC set at 16. On a failure, the creature takes 4d6 fire damage as the water scalds you, and a level of exhaustion. At the start of every turn, any creature in the water receives an additional 4d6 fire damage. On a successful save, the creature takes half damage for the round that the saving throw occurs.
+Flying creatures within 80 feet above the hot pit must also make the Constitution saving throw. On a failure, the creature takes 4d6 fire damage, one level of exhaustion and are falling at a rate of 60 feet per turn.
+Once 5 rounds have occurred, the water settles down, and instantly cools.
+JAWS OF DOOM
+We all know the little tiny plants that eat common pests, correct? Jaws of Doom are similar plants, but on a much more massive scale. Their aroma entices many, where it smells of cooking meat with garlic spice. They look like wide, flat bushes with brown fur on top that takes up a 10 foot space, appearing like mold Because of this, many lost adventurers looking for food will wander over, stepping on top of the plant, and be swallowed up, slowly dissolved
+Whenever a creature steps on the plant, they must make a DC 15 Dexterity saving throw. On a failure, the plant springs up and swallows the creature. The creature is grappled and can make a Strength (Athletics) or Dexterity (Acrobatics) check to break free at the end of its turn. A grappled creature takes 2d6 acid damage at the start of their turn.
+ 
+A creature can recognize the plant with a DC 15 Wisdom (Survival) or Intelligence (Nature) check.
+SWAMP ROT
+Deep in the swamps, a mist consumes the land during the night. For some strange reason, the mist stays around 10 feet away from any fire source, but will spread around it. If a creature breathes in the mist at any moment, the creature must make a DC 14 Constitution saving throw. The symptoms do not show up until ld8 hours later.
+On a failure, the creature's hit point maximum is reduced by their Constitution modifier per day. If the saving throw is failed by 5 or more, the creature also gains a level of exhaustion. This level of exhaustion does not reduce by taking a long rest. On a successful saving throw, the creature cannot be affected by swamp rot for 24 hours.
+Being affected by another cause of swamp rot will require another Constitution saving throw. Additional failures have their penalties stack.
+After ld4 days, the symptoms go away and are no longer affected by swamp rot. A lesser restoration or similar spell will remove this disease.
+VINE FLOORING
+The floor of a jungle has winding layer of vines, but sometimes that is the only thing for flooring, giving a false sense of security. A successful DC 17 Intelligence (Nature) or Wisdom (Survival) check will allow the person to notice that there is no ground underneath. Any creature over 50 pounds that steps on the vines must make a Dexterity saving throw, with the DC set at 15. On a failure, the creature falls 10 feet but is restrained, hanging over the pit or cliffside below them. On a success, the creature holds their footing.
+INKTABLE
+Ink	Application DC
+Rust Powder	10
+Squid Ink	11
+Coodberry Juice	12
+Oak Tree Water	1 3
+Humanoid Blood	14
+Basilisk Venom	1 5
+Crushed White Scale Paste	16
+Wyvern Poison	17
+Purple Worm Poison	18
+
+SPECIAL INKS
+Special inks can be harvested and used for different glyphs. Each special ink has difficulty being wiped and cleaned away, unless a specific remover is applied to it, or a procedure happens.
+It seems the rarer and more valuable the ink used, the riskier the ink is, as it may decay or fall apart. Down below is an Ink Table that tells the cost of the ink and the DC of creating the glyph. Whenever you apply the ink, you must make a Dexterity (Painter's Tools) check.
+BASIUSK VENOM
+How could you possibly harvest this at all? It is incredibly difficult to survive a basilisk attack, but to render it unable to fight and then get the venom without getting cut at all? That is some serious talent. The only thing that I know of that would get rid of basilisk venom is goat milk. Basilisk venom costs 500 gp per vial
+CRUSHED WHITE SCALE PASTE
+The process of grinding white dragon scales is a labor intensive one, where many hours can be spent. At the end of it, you have a substance that seems as a mixture between chalk and flour. Stirring this powder into a small vial of water creates a paste that can be applied One of the few things that removes white scale paste is an open flame applied to it. One vial of this paste costs as much as 300 gp.
+GOODBERRY JUICE
+Made from goodberries that have been pulverized in a pestle and mortar, this can easy be applied but dries veiy quickly. Because of its rich red color, it is also often used to dye clothing. Goodberry juice seems to wash away with oil, oddly enough. You can get a flask of goodberry juice for 5 gp.
+HUMANOID BLOOD
+If you are in desperate need, you can slice open your own hand and draw with the blood if need be. I won't judge, I have also been put into that same position! A simple wash rag can wipe away the blood though.
+OAK TREE WATER
+Water that is found in the trunk of a mighty oak can be gathered easily, if you tap into it. Unfortunately, mighty oaks are usually in groves, protected by druid circles to prevent harm. This clear liquid applies just like any other water, and dries with a clear, wax-like residue. The only way to really get rid of oak tree water is with anything that has a high alcohol content. A vial of oak tree water goes for around the price of 30 gp.
+PURPLE WORM POISON
+Purple worms are massive, burrowing earth worms that of course, are the purple variety. Their poison is so deadly that single drops can kill a humanoid instantly. To gather any of this poison, now that is an adventure in itself! Being that it burrows, it only makes sense that rock will absorb and neutralize this poison. A single vial of purple worm poison goes as high as 2,000 gp!
+ 
+RUST POWDER
+Old swords and armor are usually junk, as their rusted dull edge is in too bad of a condition. If this rust is gathered and suspended in water, it can easily be applied to a surface. To get rid of use, it seems that a splash of acid will remove it, but the acid might also eat away at the surface. Rust powder can be purchased for about 5 gp, but most smiths will give it away for free.
+SQ,UID INK
+Squid ink is plentiful in the world without much trouble to get, especially on the coast! Head to your nearest fish market in port, and I'm sure you can gather quite a bit! Squid ink can easily be removed by wiping it away with a wet cloth. Ajar of ink which is one ounce, costs only 10 gp. What a steal!
+WYVERN POISON
+An incredible feat in itself is to survive seeing a wyvern. It is another to gather the poison of a wyvern and apply it. Personally, I have only heard tales of such, and never personally done it. One of the few things that neutralize wyvern poison is the plant called Wyvern's Bane, which grows on certain mountain ranges. Wyvern venom costs 1,200 gp per vial
+CREATING TRAPS
+So you want to learn the art of trapmaking, huh? It is an interesting topic, but I can teach you. Down below are some notes I have jotted down in order to further your knowledge!
+MAGICAL TRAP CREATION
+In order to create a magical trap, you need to come up with the way that the device will activate, either from glyphs or proximity. Use the following Arcane Spell Activation table in order to find the cost of the activation. If it is a spell, you must spend the spell slot and any additional material component costs.
+The Perception DC is to check against a creature that is hidden from a Dexterity (Stealth) check. If a creature is not hiding, the spell automatically succeeds in finding the creature.
+If it is a glyph, use the Glyph Spell Activation table below in order to find the difficulty in creating it on certain objects. This difficulty is represented by a DC, which is made by a Dexterity (Woodcarver's Tools) Dexterity (Mason's Tools) or Dexterity (Smith's Tools) If the glyph is made of ink, you must pay the cost of the ink, found in the Special Inks section.
+ARCANE SPELL ACTIVATION
+Activation	Perception DC
+Arcane Eye	1 5
+Clairvoyance	17
+Darkvision	15
+See Invisibility	20
+True Sight	2 5 
+0
+SPELL SLOT TABLE Spell Slot	Save DC	Arcana Disarm DC
+Cantrip (0-level)	11	10
+1 st-level	12	10
+2nd-level	13	11
+3rd-level	14	11
+4th-level	15	12
+5th-level	16	13
+6th-level	17	14
+7th-level	18	15
+8th-level	19	16
+9th-level	20	17
+
+DC FOR SAVES AND DISARMING
+Once you have established the activation requirements or drawn or carved the glyph, you can now imbue some magic into the object.
+The requirements to do so are shown by spell slots, giving a DC for the trap to save against the spell or glyph. Glyphs themselves require a spell slot to infuse the arcane energy into it, which you can select in order to get the appropriate DC.
+GLYPH SPELL ACTIVATION
+Material	DC	Time
+Wood	10	1 Minute
+Stone	14	10 minutes
+Iron	16	1 Hour
+Another Metal	18	2 Hours
+Adamantine	20	4 Hours
+
+
+When you use a spell slot, you can select a spell that you wish the trap to cast when activated. When doing so, you must expend material component costs if the spell requires to. Spells that have a range will be firing at the creature that triggers the trap. If a spell is touch based, then the spell triggers whenever a creature touches the object. If the spell requires a saving throw and has an area, treat the object like the center of the spell for calculating the spell
+In addition, there is a DC to disarm the arcane trap or glyph without setting it off, which can be done with an Intelligence (Arcana) check.
+
+
+MECHANICAL TRAP CREATION
+Not everyone can cast spells which is just as fine, but with some simple ingenuity, a person with some time on their hands can be a valuable assett when it comes to this. There are a few steps that must be taken, but be warned that most traps may need reset.
+The input device is often hidden, which is shown by the Stealth DC on the Mechanical Input Device table. This is contested by a character's Wisdom (Perception) check.
+Next to that is the Disable DC column, where it is the DC required to disable the input device with a Dexterity (Thieves’ Tools) check.
+After that is the Set Up Time column. This is the amount of time it takes to put together one of these traps that use this input device.
+Lastly is the Reset column. Whenever your trap activates, it may be possible for the trap to automatically reset itself, or you may need to manually set it again
+
+
+
+MECHANICAL INPUT DEVICE
+Activation	Stealth DC	Disable DC	Set Up Time	Reset
+Noise Maker	10	10	1 Minute	Automatic
+Trip Wire	14	12	1 Minute	Manual
+Door Hinge	16	1 5	3 Minutes	Depends
+Pressure Plate	19	1 5	10 Minutes	Depends
+Light Interruption	25	20	30 Minutes	Depends
+
+
+
+LANGUAGE BARRIERS
+Sometimes, a character does not know a language that is spoken in front of them. A character might attempt to understand the language, or recall a few words that they might have heard before. The creature must make an Intelligence (History) check. The DC is 15 for a standard language, or 20 for an exotic language.
+On a success, the creature can understand one or two key words that the creature had said
+LONG REST TO LEVEL UP
+Whenever a character has enough experience to increase their level, the character must finish a long rest to increase their level This will prevent the level increase in a hostile environment.
+LICHDOM ASCENSION 
+
+ 
+
+o live forever is the dream of many people. You would never worry about the ever present threat of death. The closest that most mortals can be to immortal is being an elf, as they have the ability to live a long life of near 750 years. Another way is through powerful artifacts, one of which is the Ring of Winter, rumored to be on Artus Cimber. Lastly, you could live forever by dying, and coming back as an undead monstrosity. Two forms of this undeath can be found - lichdom or vampirism. In this chapter, I will go over how to become the undead spellcaster, known as a lich.
+LICHES AND THEIR LICHDOM
+A lich is a supremely powerful arcane spellcaster, and are almost always eviL An exception to this is the baelnom, which are elves that undergo this transformation in order to protect their community.
+Liches don't exactly live, but merely exist. This occurs when a wizard or sorcerer seal their soul into an object known as a phylactery. This is no easy task - binding your soul to an object takes a heavy toll on the body, and has a risk of permanently destroying the item, or worse.
+After the phylactery has received the soul, the phylactery will require additional souls to consume. Without a consistent source of souls to feed off of, the phylactery will eventually consume the liches soul, then destroy itself. Without their soul, a lich will be destroyed
+To be a lich is almost a certain malignant fate. What makes a person humane is their soul Without that, they are merely a selfish husk of a body, free to do whatever they please. With an eternity to live forever, a liches scheme may take centuries to come into fruition. What you choose to do with your time and research is up to you, but be aware that those who side with goodness may hunt you down.
+LICHDOM PREREQUISITES
+To begin the path of lichdom, the aspiring spellcaster must be able to cast at least 6th level spells. The source of magic does not matter, although clerics of righteous deities may find their ability to cast magic taken.
+ 
+After the spellcaster has gained the ability to cast a 6th level spell or higher, they must find the dark ritual The knowledge is a well-guarded secret, where only those worthy may find it. Perhaps the ritual must be bargained for by Orcus, or a warlock may receive it from their ancient patron.
+This ritual is split into multiple parts. It is incredibly rare to find all components to the ritual at once in one central location, although it is possible. Without all parts, it is impossible to complete the ritual
+After completion of the ritual it is not a guarantee that the spellcaster becomes a lich. Permanent death is always a possibility, or even a loss of a sense. If successful the spellcaster will awaken a few days later, enjoying their new unlife, as long as they continuously supply the phylactery with souls, and keep it safe.
+CREATING THE PHYLACTERY
+The phylactery is the object that holds the soul allowing the body to progress in age, but not die. If a liches body is destroyed, the phylactery will emit a wafting dark smoke, reforming the liches body over the course of a few days.
+A spellcaster cannot purchase an item to use as a phylactery. Instead, they must craft an item of their choice. The cost of creating this phylactery must be at least 50,000 gp worth of materials, and must use one drop of their fresh blood every day in the process. Doing do will allow the phylactery to know which soul to preserve.
+In order to craft the phylactery, the spellcaster must succeed on a DC 25 Smith's Tools or Tinker's Tools check.
+On a failure of 21 to 24, the crafting of the phylactery will take an additional year for every number the check had failed by. If the check failure is by 5 or greater, the phylactery crafting is unsuccessful
+After the phylactery has been successfully created, it must be inscribed with arcane sigils. To do so, the spellcaster must mark the phylactery with at least 5,000 gp of silver.
+Upon completion of the arcane sigils, the spellcaster is mentally linked to their phylactery. In addition, they can see their phylactery as if they had cast scrying, without expending a spell slot. 
+Your phylactery has the following statistics:
+•	The phylactery has an AC of 10.
+•	The phylactery has 25 HP.
+•	The phylactery has resistance to all damage except force damage.
+•	The phylactery loses one hit point per day that it does not have a soul to feed on. If its hit points reaches 0, it will be destroyed, along with the soul of the lich.
+As long as the liches phylactery remains, the lich can have their body reform after ldlO days. If a lich does not have a phylactery, they can spend their time performing the same ritual to create their phylactery. If the lich does not have a phylactery whenever their body is destroyed, both their body and soul are consumed by the ShadowfelL Only divine intervention can restore a lich in this way.
+SOUL ACQUISITION
+After the phylactery has been created, and the silver sigils have been inscribed, it is ready to receive the spellcasters soul The phylactery will remain open for 10 days. Without acquiring a soul, it will close off and must be reattempted again.
+In order to allow the phylactery to receive your soul you must make a DC 20 Intelligence (Arcana) check. On a success, the soul is open to receive the soul
+On a failure of 16 to 19, the phylactery remains closed and will not accept a soul and must be attempted after one day has passed On a failure of 11 to 15, the phylactery will remain closed off from accepting souls for ten days. On a failure of 10 or lower, the phylactery is destroyed
+THE FOUL POTION
+Once the phylactery has been completed the next step is to create the vile poison that the spellcaster will consume. This poison is an unholy matrimony of life and death - the physical representation of undeath.
+This concoction is made of numerous abominations. It must be consumed during the ritual in order to convert into a lich. This process is almost certain to kill whoever drinks it, and is the likely cause of loss in a liches senses.
+In order to create this poison, you must use at least five of the following ingredients below:
+A vial of wyvem blood A vial of manticore venom A vial of an elder brain's brine A vial of roper saliva A vial of gorgon blood A vial of purple wurm poison A gram of crushed and dried belladonna A gram of rot grub eggs A gram of unicorn horn powder A drop of gelatinous cube acid A ghoul's finger nail A couatl's feather
+The heart of a good-aligned humanoid The humanoid must have been sacrificed within the past day. The heart is used as the container of the poison, and must be consumed after drinking the poison in order to be used as an ingredient.
+ 
+THE ASCENSION RITUAL
+Finally, when the phylactery is able to receive souls, and the potion is consumed can the ritual begin. The ritual consists of an area that is high in magical concentration. Examples of this may be in a wizard's tower, or an area of faerzress in the Underdark.
+This area must be prepared with sigils of binding, written in your blood To do so, you must succeed on a DC 20 Intelligence (Arcana) check. On a failure, the sigils must be removed and reapplied the next day. In the center of the arcane sigils must be the phylactery.
+Once the sigils are complete and the check is a success, the runes will begin to glow with an eerie green. The glowing will continue for one minute, afterwards it will require another application of blood on the next day.
+During the glowing, the thick, black ooze of the poison will also glow the same green. The poison must be consumed within the minute of the arcane markings beginning to glow. Failure to consume all of the poison before the glowing ends will result in a 50% chance of entering a coma for ld6+l days, or immediate death without transforming into a lich.
+If the spellcaster successfully consumes the poison within the minute, roll on the Success to Drink Table. If the ritual was under the light of a full moon, or during a new moon, add 10 to the roll For each additional ingredient in the poison after the first five, add an additional 5 to the roll
+SUCCESS TO DRINK TABLE
+dl 00 Roll	Outcome
+01-20	Immediate death, failure
+21-40	Coma, failure
+41-60	Permanent handicap
+61-80	Coma, success
+81-00+	Immediate death, success
+
+
+S'
+ 
+
+-Vwvf.. 
+IMMEDIATE DEATH
+Upon consumption of the poison, the drinker is immediately killed within 5 rounds. During this time, the phylactery will attempt to retrieve the soul before it goes to the afterlife.
+If the roll determined that it was a failure, the soul passes onto the afterlife, determined by the spellcaster's alignment. Due to the horrendous acts that the spellcaster did during the ritual, they are most likely not of good-alignment.
+If the roll determined that the death led to a successful retrieval of the soul, the spellcaster awakens as a light at the next dawn.
+COMA
+Upon consumption of the poison, the drinker falls into a coma within 5 rounds. During this time, the phylactery will attempt to steal the soul of the spellcaster, ripping it from the unconscious body.
+The spellcaster is unconscious for ld6+l days. No magical spells can reverse this effect. If the roll determined a failure, the spellcaster will awaken without being transformed into a lich.
+If the roll determined a success, then the spellcaster will awaken, transformed into a lich.
+PERMANENT HANDICAP
+Upon consumption of the poison, the drinker falls into a coma within 5 rounds. During this time, the phylactery will attempt to steal the soul of the the spellcaster. The combination of ripping the soul out of the body and the foul nature of the poison will permanently affect the lich.
+The spellcaster will awaken within Ы6+1 days. In addition, roll on the Permanent Handicap Table.
+PERMANENT HANDICAP
+ld4 Outcome
+1	The lich is mute
+2	The lich is paralyzed in their hands
+3	The lich is deafened
+4	The lich is blinded
+ 
+BEING A LICH
+As a lich, you gain the following properties:
+•	You are an Undead humanoid
+•	You have advantage against any effect that turns undead
+•	Your phylactery will create another body for you within ldlO days if your body is destroyed
+•	You can make one melee spell attack against a creature. The creature must succeed on a Constitution saving throw, or be paralyzed for one minute. The creature can repeat this saving throw at end of each of its turns, ending the effect.
+During your time as a lich, you must feed your phylactery souls in order to maintain its state. To do this, the phylactery will automatically retrieve souls by any creature that has died within 300 feet of it. The phylactery will feed on the soul for a number of weeks, equal to the creature's CR.
+LEGENDARY AND LAIR ACTIONS
+Normally, liches found elsewhere would have lair actions and legendary actions. This takes many decades at the very least to obtain the ability to do this! Due the becoming a lich recently, you do not have the ability to use lair or legendary actions at this time.
