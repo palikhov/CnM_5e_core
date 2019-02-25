@@ -110,8 +110,9 @@ DM is rolling
 
 **Standard languages** Common, Dwarvish, Elvish, Giant, Gnomish, Goblin, Halfling
 
-**Exotic languages** Abyssal,  Celestial, Draconic, D
+**Exotic languages** Abyssal,  Celestial, Draconic, Deep Speech, 
 
+**Secret Languages** Thieves' Cant, Druidic
 
 
 # Flow of Time
@@ -346,7 +347,10 @@ This version of three pillar experience rewards players for exploration and soci
 
 Instead of rewarding a fixed amount, for Exploration and Social Interaction players receive a percentage of the XP required for them to get from their current level to the next \(calculated from the base XP of their level to the next, not including XP they've earned in between.\)
 
-They may receive a higher or lower percentage depending on the their tier of play compared to the magnitude of their accomplishment.   
+They may receive a higher or lower percentage depending on the their tier of play compared to the magnitude of their accomplishment.
+
+Main goals for receiving experience points: exploring, get friends and allies and survive in combats.
+
 
 ## Gaining Levels
 
@@ -457,6 +461,8 @@ The party agrees to take a quest from an NPC in need.
 
 Players gain 85% of the encounter XP, rounding decimals down, divided between them and any NPCs that contributed. This is used for combats, traps, and puzzles which award XP.
 
+TBD
+
 # Pregenerated characters
 
 # Rumors and bonds - class and background specific
@@ -469,7 +475,7 @@ Disfavor with a faction imposes disadvantage on all Charisma (Persuasion) and Ch
 
 * You may spend a Favor with a given faction/group/individual (at GM’s discussion) to gain the benefits of a one-time expenditure of 3 fame with that faction/group/individual. You may spend two favors with the same factionBto gain the benefits of a 5-point fame expenditure.
 
-## Faction
+## Factions
 
 1. Lord's Alliance
 2. Knights in Silver
@@ -693,6 +699,19 @@ NATURE DCS Check DC Situation
 
 A character might make an Intelligence (Religion] #check to recall lore about deities, rites and prayers, ecclesiastical hierarchies, holy symbols, or the practices of secret cults.
 
+Religion is the narrowest of the Intelligence skills. DMs coming from older editions often use it beyond its stated scope, though this has little impact on the game itself. In truth, Intelligence (Religion) checks may rarely come up in a game not involved with cults or religious organizations.
+That’s not to say it’s completely useless. It can be used to recall information on many celestials, fiends, and some undead, as they relate to cults and deities.
+RELIGION DCS
+
+
+Check DC	Situation
+5	Recognize holy symbols of common deities.
+10	Recall the rites and major traditions of common religions, enough to fit in at a church.
+15	Determine which deity or cult an ancient ruin was dedicated to, or recall information on local mythology.
+20	Recognize the secret symbols and actions of cultists hiding their dealings in plain sight.
+25	Recognize the symbols and myths of a god dead and buried for 10,000 years.
+30	Improvise the proper rites of a long- dead religion to contact its sleeping god.
+
 ### Invvestigation
 
 When you look around for clues that point to a hidden object, such as a trap or secret door, or hints of a creature’s passage through an area, you make an Intelligence (Search] check.
@@ -800,39 +819,33 @@ The DM might call for a Wisdom check when a character tries to accomplish one of
 •	Sense the true direction of an echoing sound
 
 ## Charisma
+
 Charisma checks and their corresponding skills can be a point of contention. Firstly, they are not a replacement for roleplaying—trying to get one’s point across and interacting with an NPC should be a precursor to any Charisma check in situations that are not simply handwaved during shopping, downtime, or other bookkeeping tasks.
+
 Charisma checks are often better treated as a way to see how a situation pans out, in a more meta sense. A 
 high Charisma (Persuasion) check, even with poor reasoning beforehand, can simply show that an NPC is willing to give the character the benefit of the doubt. A poor Charisma (Intimidation) roll, even if the odds are stacked against the NPC, may reveal that the NPC has a sudden boost of morale from a secret plan he or she has. And a poor Charisma (Deception) check, even if what the PC said is totally believable, may show that the NPC is simply a suspicious type who has a nose for danger.
 In this way, Charisma can be seen not just as force of will in a direct sense, but a type of social luck—the ability for things to go well for a player character. After all, luck is an important skill to have as an adventurer.
+
 Charisma checks with NPCs are usually contested by Wisdom (Insight) checks. To avoid undue rolling and putting the need for luck on the players’ shoulders, it is usually best to use the NPC’s passive Insight score. Depending on the situation and the actions of the character, this score can be modified. Use the Insight Modifiers table as a guideline. Try to limit the modifiers to 2 or less: one for the NPC’s attitude toward the character, and another for the situation.
+
 ### Persuassion
 
 When you attempt to influence someone or a group of people with your tact, social graces, or good nature, make a Charisma (Persuasion] check. Typically, you attempt to persuade someone when you are acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let you see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.
 
 The last of the three major Charisma skills, Persuasion is also the most-used. Influencing an NPC to do what you want is an important skill to have! As such, it is often opposed by an NPC’s passive Insight score, with adjustments based on the attitude of the NPC as given in the Insight Modifiers table in the previous section.
+
 In this case, using the Insight score might not make sense, at first. Just like Intimidation, consider the Insight score as a way to represent not only the ability to detect lies but a sort of luck created by situational awareness. A creature with a large bonus to Wisdom (Insight) checks is more likely to foresee negative outcomes to doing what the party wants or even associating with them.
+
 The DM should try to only call for Charisma (Persuasion) checks when the NPC in question wouldn’t perform or refuse to perform the action in question. A close ally may already give their life for the party, but a villain will surely reject any requests the party makes that don’t fit their fell fancy.
+
 Finally, the Persuasion skill can be used to handwave the gathering of rumors. Searching for information or rumors on a specific subject in a town might take a few hours and a DC 10 or 15 Charisma (Persuasion) check, allowing characters to move the story forward while others shop or rest.
-RELIGION
-Religion is the narrowest of the Intelligence skills. DMs coming from older editions often use it beyond its stated scope, though this has little impact on the game itself. In truth, Intelligence (Religion) checks may rarely come up in a game not involved with cults or religious organizations.
-That’s not to say it’s completely useless. It can be used to recall information on many celestials, fiends, and some undead, as they relate to cults and deities.
-RELIGION DCS
-
-
-Check DC	Situation
-5	Recognize holy symbols of common deities.
-10	Recall the rites and major traditions of common religions, enough to fit in at a church.
-15	Determine which deity or cult an ancient ruin was dedicated to, or recall information on local mythology.
-20	Recognize the secret symbols and actions of cultists hiding their dealings in plain sight.
-25	Recognize the symbols and myths of a god dead and buried for 10,000 years.
-30	Improvise the proper rites of a long- dead religion to contact its sleeping god.
-
 
 ### Deception
 
 When you make a Charisma (Deception] check, you are attempting to deceive someone, either verbally or through your actions, which can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass off a disguise, dull someone’s suspicions with false assurances, or maintain a straight face while telling a blatant lie.
 
 Due to its situational nature, Deception is usually used in contests alone, opposed by an NPC’s Wisdom (Insight) check. Generally, it’s best to use passive Insight scores to set a DC for the check, with adjustments based on the attitude of the NPC. Insight in this case is used in its closest rules-as-written form, allowing an NPC to detect whether a PC is pulling their leg.
+
 The Insight Modifiers table in the previous section contains guidelines for modifying an NPC’s Insight score to set a DC for a character’s Charisma (Deception) checks.
 
 
@@ -841,6 +854,7 @@ The Insight Modifiers table in the previous section contains guidelines for modi
 When you attempt to influence someone through overt threats, hostile actions, and physical violence, make a Charisma (Intimidation] check. Examples of when you would intimidate another include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
 
 Like Deception, Intimidation is often contested by a Wisdom (Insight) check or, more smoothly, an NPC’s passive Insight score. The Insight Modifiers table in the previous section contains guidelines for modifying an NPC’s Insight score to set a DC for a character’s Charisma (Intimidation) checks.
+
 Many players attempt to use this skill in combat. While tempting, the DM should not use the frightened condition in this case, as it steps on the toes of many class features and spells. Instead, use Intimidation checks as a way to affect morale. A high Intimidation check accompanied by the slaying an opponent may cause weaker enemies to retreat. A low Intimidation check may make stronger enemies more aggressive. In either case, the Insight skill is used to represent not just a creature’s ability to read a situation but also to show their self-awareness, whether they can avoid being overcome by fear in the heat of battle or not.
 
 
@@ -853,6 +867,26 @@ You make a Charisma (Performance] check to perform before an audience with music
 The DM might call for a Charisma check when a character tries to accomplish one of these tasks:
 •	Find the best person to talk to for news, rumors, and gossip
 •	Blend into a crowd to get the sense of key topics of conversation
+
+## Hazards
+Is there a chance that failing a task might lead to a disastrous outcome for the character? You decide whether a hazard applies to a particular ability check and when the hazard applies.
+
+A hazard might affect a character who fails an ability check. For example, a character who attempts and fails a Strength (Athletics] check to jump across a pit that he or she couldn’t normally clear probably falls into the pit. Sometimes, though, a hazard kicks in only if the character misses the ability check’s DC (or loses a contest] by a significant margin, such as 5 or 10. 
+
+## Requirements
+
+A task might require a specific tool or circumstance for a character to have any chance of success. For example, you might need a magnifying glass to accurately appraise a gem.
+
+A character who cannot meet the requirements for a task automatically fails. One who meets them can attempt an ability check as normal for the task.
+
+## Synergy bonuses
+
+Some tool proficiencies can give synergy bonus to specific skill use - granting advantage or negating disadvantage.
+
+tbd
+
+
+
 
 ## Disguise Kit
 
