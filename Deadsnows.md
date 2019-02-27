@@ -4,6 +4,45 @@
 
 праймер по кампании Смертельные Рубежи
 
+d%	Town Size	Population*	GP Limit
+01–10	Thorp	20–80	40 gp
+11–30	Hamlet	81–400	100 gp
+31–50	Village	401–900	200 gp
+51–70	Small town	901–2,000	800 gp
+71–85	Large town	2,001–5,000	3,000 gp
+86–95	Small city	5,001–12,000	15,000 gp
+96–99	Large city	12,001–25,000	40,000 gp
+100	Metropolis	25,001 or more	100,000 gp
+
+
+Adult population. Depending on the dominant race of the community, the number of nonadults will range from 10% to 40% of this figure.
+
+Deadsnows
+
+[MEDIEVAL DENOGRAPHICS](https://donjon.bin.sh/fantasy/demographics/)
+
+[Demographics generation - donjon](https://donjon.bin.sh/d20/demographics/)
+
+[Calendar](https://donjon.bin.sh/fantasy/calendar/)
+
+```
+{"year_len":364,"events":1,"n_months":16,"months":["Hammer","Midwinter","Alturiak","cHES","Tarsakh","Greengrass","Mirtul","Kythorn","Flamerule","Midsummer","Eleasis","Eleint","Harvenstide","Marpenoth","Uktar","Nightal"],"month_len":{"Hammer":30,"Midwinter":1,"Alturiak":30,"cHES":30,"Tarsakh":30,"Greengrass":1,"Mirtul":30,"Kythorn":30,"Flamerule":30,"Midsummer":1,"Eleasis":30,"Eleint":30,"Harvenstide":1,"Marpenoth":30,"Uktar":30,"Nightal":30},"week_len":10,"weekdays":["1","2","3","4","5","6","7","8","9","10"],"n_moons":1,"moons":["Selune"],"lunar_cyc":{"Selune":30},"lunar_shf":{"Selune":0},"year":1064,"first_day":0,"notes":{}}
+```
+
+**GP LIMIT:**
+
+**ASSETS** = GP LIMIT * 1/2 * POPULATION / 10 = 
+
+[RANDOM ENCOUNTER GENERATOR](https://donjon.bin.sh/5e/random/#type=encounter)
+
+[NPC GENERATOR](https://www.kassoon.com/dnd/npc-generator/)
+
+[Random Plot Hook Generator](https://www.kassoon.com/dnd/random-plot-hooks-generator/)
+
+[WILDERNESS TRAVEL](https://www.kassoon.com/dnd/wilderness-travel/) (SIMPLIFIED, 5E)
+
+[TRAP GENERATION](https://www.kassoon.com/dnd/trap-generator/) AND [MAGIC ITEM GENERATOR](https://www.kassoon.com/dnd/magic-item-generator/)
+
 # Code of Conduct
 
 # Character Generation
