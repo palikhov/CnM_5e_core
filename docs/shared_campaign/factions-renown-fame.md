@@ -6,6 +6,26 @@ Disfavor with a faction imposes disadvantage on all Charisma (Persuasion) and Ch
 
 * You may spend a Favor with a given faction/group/individual (at GM’s discussion) to gain the benefits of a one-time expenditure of 3 fame with that faction/group/individual. You may spend two favors with the same factionBto gain the benefits of a 5-point fame expenditure.
 
+## Faction template
+
+**Motto**
+
+Beliefs.
+
+Goals.
+
+Typical Quests.
+
+Faction ranks.
+
+Attitudes of Organization Members. 
+
+Perks.
+
+Downtime Activities.
+
+
+
 ## Faction
 
 1. Lord's Alliance
