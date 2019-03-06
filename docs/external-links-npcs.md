@@ -24,4 +24,4 @@
 
 -------------------------------------
 
-[Links](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/external-links.md)
+[Вернуться к общему списку полезных ссылок](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/external-links.md)
