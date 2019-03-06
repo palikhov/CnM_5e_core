@@ -68,6 +68,8 @@ Redkat&#39;s 5E D&amp;D Tools - http://redkatart.com/dnd5tools/
 
 [**RedKatart Character Ability Score Roller**](http://redkatart.com/dnd5tools/#charBox)
 
+[Names on 5etools](https://5etools.com/names.html#dragonborn_xge_female)
+
 ## Roll20 resources and links
 
 [Roll20 Resources by Modnar](https://github.com/DMsGuild201/Roll20_resources)
