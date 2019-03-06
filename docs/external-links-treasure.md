@@ -1,5 +1,7 @@
 # Создание сокровищ и наград
 
+[Lootgen on 5etools](https://5etools.com/lootgen.html)
+
 [5e Random Generator - Treasure](https://donjon.bin.sh/5e/random/#type=treasure)
 
 [Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
