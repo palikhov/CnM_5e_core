@@ -1,4 +1,3 @@
-# Chapter (force) name
 
 [name of monster or npc](link to critter compendium) - link to critter compendium, 5etools or general source
 
