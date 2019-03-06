@@ -12,11 +12,10 @@
 
 [NPC Generators](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/external-links-npcs.md)
 
-[NPC Character Generator by Profession](http://miniworlds.online/generators/generateNPC.html)
-
-[Treasure Generators]
+[Treasure Generators]()
 
 [5e Random Generator - Treasure](https://donjon.bin.sh/5e/random/#type=treasure)
+
 [Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
 
 [Treasure Generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fredkatart.com%252fdnd5tools%252f)
@@ -28,26 +27,29 @@
 [Mithril And Mages Treasure](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.mithrilandmages.com%252fRPG.php%2523dd5e)
 
 [Quick Store](https://drive.google.com/file/d/0B8mF8uNMRN_mX3otSG9vMUpSREE/view)
-- [**RedKatart Random Treasure Generator**](http://redkatart.com/dnd5tools/#treasureBox)
+
+[**RedKatart Random Treasure Generator**](http://redkatart.com/dnd5tools/#treasureBox)
 
 [Spellbook Generators]
-- [**RedKatart Random Spellbook Generator**](http://redkatart.com/dnd5tools/#spellbox)
+
+[**RedKatart Random Spellbook Generator**](http://redkatart.com/dnd5tools/#spellbox)
+
 [Encounters Generators]
 
 
-15.    [Encounter and Initiative](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.improved-initiative.com%252fe%252fr6p75n00)
+[Encounter and Initiative](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.improved-initiative.com%252fe%252fr6p75n00)
 
-16.    [http://kobold.club/fight/\#/encounter-builder](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fkobold.club%252ffight%252f%2523%252fencounter-builder)
+[http://kobold.club/fight/\#/encounter-builder](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fkobold.club%252ffight%252f%2523%252fencounter-builder)
 
-17.    [http://rpgtinker.com/bestiary.php](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252frpgtinker.com%252fbestiary.php)
+[http://rpgtinker.com/bestiary.php](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252frpgtinker.com%252fbestiary.php)
 
-18.    [5E GM Egaanon](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252f5egmegaanon.github.io%252f5etools%252fbestiary.html%2523Apprentice%2bWizard)
+[5E GM Egaanon](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252f5egmegaanon.github.io%252f5etools%252fbestiary.html%2523Apprentice%2bWizard)
 
-19.    [Poison generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252forteil.dashnet.org%252frandomgen%252f%253fgen%253dvMMEtKRA)
+[Poison generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252forteil.dashnet.org%252frandomgen%252f%253fgen%253dvMMEtKRA)
 
-20.    [Monsters by Challenge Rating 1.0](http://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
+[Monsters by Challenge Rating 1.0](http://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
 
-21.    [Monsters by Type 1.0](http://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
+[Monsters by Type 1.0](http://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
 
 
 [Town Generators]
@@ -81,6 +83,14 @@ Redkat&#39;s 5E D&amp;D Tools - http://redkatart.com/dnd5tools/
 [**RedKatart Random Dungeon Room Dressing**](http://redkatart.com/dnd5tools/#roomBox)
 
 [**RedKatart Character Ability Score Roller**](http://redkatart.com/dnd5tools/#charBox)
+
+## Roll20 resources and links
+
+[Roll20 Resources by Modnar](https://github.com/DMsGuild201/Roll20_resources)
+
+[Stupid hints and tricks]()
+
+[VTT enhancement suite]()
 
 ## Links
 
