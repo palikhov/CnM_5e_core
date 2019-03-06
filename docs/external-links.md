@@ -6,7 +6,11 @@
 * [Киборги и Чародеи](https://discord.gg/r3tDdWm)
 * [Adventurers League Russian](https://adventurersleague.wordpress.com/)
 * [**World Anvil**](https://worldanvil.com/)
-* [**D&D 5e Resource List**](https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources/)\
+* [**D&D 5e Resource List**](https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources/)
+
+## Links on my github
+
+[NPC Generators](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/external-links-npcs.md)
 
 ## Links
 
