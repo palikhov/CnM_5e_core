@@ -12,6 +12,76 @@
 
 [NPC Generators](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/external-links-npcs.md)
 
+[NPC Character Generator by Profession](http://miniworlds.online/generators/generateNPC.html)
+
+[Treasure Generators]
+
+[5e Random Generator - Treasure](https://donjon.bin.sh/5e/random/#type=treasure)
+[Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
+
+[Treasure Generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fredkatart.com%252fdnd5tools%252f)
+
+[Prices Guide](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
+
+[Weak Magic Items](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.lordbyng.net%252finspiration%252fresults.php)
+
+[Mithril And Mages Treasure](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.mithrilandmages.com%252fRPG.php%2523dd5e)
+
+[Quick Store](https://drive.google.com/file/d/0B8mF8uNMRN_mX3otSG9vMUpSREE/view)
+- [**RedKatart Random Treasure Generator**](http://redkatart.com/dnd5tools/#treasureBox)
+
+[Spellbook Generators]
+- [**RedKatart Random Spellbook Generator**](http://redkatart.com/dnd5tools/#spellbox)
+[Encounters Generators]
+
+
+15.    [Encounter and Initiative](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.improved-initiative.com%252fe%252fr6p75n00)
+
+16.    [http://kobold.club/fight/\#/encounter-builder](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fkobold.club%252ffight%252f%2523%252fencounter-builder)
+
+17.    [http://rpgtinker.com/bestiary.php](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252frpgtinker.com%252fbestiary.php)
+
+18.    [5E GM Egaanon](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252f5egmegaanon.github.io%252f5etools%252fbestiary.html%2523Apprentice%2bWizard)
+
+19.    [Poison generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252forteil.dashnet.org%252frandomgen%252f%253fgen%253dvMMEtKRA)
+
+20.    [Monsters by Challenge Rating 1.0](http://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
+
+21.    [Monsters by Type 1.0](http://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
+
+
+[Town Generators]
+
+[Random Town Generator - Kassoon](https://www.kassoon.com/dnd/town-generator/)
+
+[Magic item generators]
+
+[Magic Item Genetor - Kassoon](https://www.kassoon.com/dnd/magic-item-generator)
+
+- [**RedKatart Quick Random Magic Item**](http://redkatart.com/dnd5tools/#itemBox)
+
+
+[Plot Hook Generators]
+
+[Random Plot Hook Generator - Kassoon](https://www.kassoon.com/dnd/random-plot-hooks-generator)
+
+[Misc Generators]
+
+[5e Random Generator - donjon](https://donjon.bin.sh/5e/random)
+
+[5e Random Dungeon Generator](https://donjon.bin.sh/5e/dungeon/)
+
+[e Random Magic Shop Generator](https://donjon.bin.sh/5e/magic/shop.html) 
+
+Tons of random generators all in one place: [http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/](http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/)
+
+Redkat&#39;s 5E D&amp;D Tools - http://redkatart.com/dnd5tools/
+[**RedKatart Better Random Quests!**](http://redkatart.com/dnd5tools/#questBox2)
+
+[**RedKatart Random Dungeon Room Dressing**](http://redkatart.com/dnd5tools/#roomBox)
+
+[**RedKatart Character Ability Score Roller**](http://redkatart.com/dnd5tools/#charBox)
+
 ## Links
 
 [Table of Tables](https://www.reddit.com/r/BehindTheTables/wiki/index)
@@ -20,21 +90,16 @@
 
 ### Kassoon
 
-[Random Plot Hook Generator - Kassoon](https://www.kassoon.com/dnd/random-plot-hooks-generator)
 
-[Random Town Generator - Kassoon](https://www.kassoon.com/dnd/town-generator/)
 
-[Magic Item Genetor - Kassoon](https://www.kassoon.com/dnd/magic-item-generator)
+
 
 ### donjon
 
-[5e Random Generator - donjon](https://donjon.bin.sh/5e/random)
 
-[5e Random Dungeon Generator](https://donjon.bin.sh/5e/dungeon/)
 
-[e Random Magic Shop Generator](https://donjon.bin.sh/5e/magic/shop.html) 
 
-[5e Random Generator - Treasure](https://donjon.bin.sh/5e/random/#type=treasure)
+
 
 ### OTHER
 
@@ -44,14 +109,13 @@
 
 [Fantasy Town Map Generator](https://watabou.itch.io/medieval-fantasy-city-generator)
 
-[NPC Character Generator by Profession](http://miniworlds.online/generators/generateNPC.html)
+
 
 [5E D&D Character Sheet (Tintagel)](v2.4https://docs.google.com/spreadsheets/d/1ojyz199p_sk1QC9pPctld9g2E1KO5mJPmGFKHQTycHQ/edit#gid=1538485300)
 
 5eToolsRoll20ImageList
 
-DnD 5e Layout and Format Template
-https://docs.google.com/document/d/1huB-66vOkFWU3bjw_oE8CRLB4EDVajGB22VFGwTC-4s/ed
+[DnD 5e Layout and Format Template](https://docs.google.com/document/d/1huB-66vOkFWU3bjw_oE8CRLB4EDVajGB22VFGwTC-4s/ed)
 
 ## Campaign Log Template
 
@@ -129,7 +193,7 @@ Random Tables:
 
 ·         You want names for things? We've got names for things: [http://donjon.bin.sh/](http://donjon.bin.sh/)
 
-·         Tons of random generators all in one place: [http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/](http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/)
+
 
 ·         Crazy magic fuck-up results: [http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/](http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/)
 
@@ -213,17 +277,6 @@ And if you had to only read 5 things from the above to build a sandbox game of y
 
 ## Treasure
 
-[Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
-
-[Treasure Generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fredkatart.com%252fdnd5tools%252f)
-
-[Prices Guide](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
-
-[Weak Magic Items](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.lordbyng.net%252finspiration%252fresults.php)
-
-7.     [Mithril And Mages Treasure](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.mithrilandmages.com%252fRPG.php%2523dd5e)
-
-8.     [Quick Store](https://drive.google.com/file/d/0B8mF8uNMRN_mX3otSG9vMUpSREE/view)
 
 ## NPC:
 
@@ -236,20 +289,6 @@ And if you had to only read 5 things from the above to build a sandbox game of y
 13.    [Drive: NPC Generator](https://docs.google.com/spreadsheets/d/1uyre7jYpD1fQG4U9rqJdwUkga6sjCUmJovFzo6gxLUQ/edit#gid=553603978)
 
 ##  Encounter
-
-15.    [Encounter and Initiative](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.improved-initiative.com%252fe%252fr6p75n00)
-
-16.    [http://kobold.club/fight/\#/encounter-builder](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fkobold.club%252ffight%252f%2523%252fencounter-builder)
-
-17.    [http://rpgtinker.com/bestiary.php](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252frpgtinker.com%252fbestiary.php)
-
-18.    [5E GM Egaanon](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252f5egmegaanon.github.io%252f5etools%252fbestiary.html%2523Apprentice%2bWizard)
-
-19.    [Poison generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252forteil.dashnet.org%252frandomgen%252f%253fgen%253dvMMEtKRA)
-
-20.    [Monsters by Challenge Rating 1.0](http://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
-
-21.    [Monsters by Type 1.0](http://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
 
 ##  Names
 
@@ -313,53 +352,6 @@ Android [eRPG Tools Plus](https://play.google.com/store/apps/details?id=com.ment
 
 Флибустьеры не сдаются: https://5e.tools/
 
-Содержание
-
-ДОПОЛНЕНИЯНАРУССКОМЯЗЫКЕ        1
-
-Другиеполезныеонлайнссылкиноуженаанглийскомязыке        1
-
-Offline software        3
-
-SYSTEM REFERENCE DOCUMENTATION        3
-
-A COLLECTION OF GUIDES AND TIPS FROM THE MASTERS        3
-
-Free Tools        4
-
-Paid Tools        5
-
-Compilations of Multiple Generators        5
-
-Map Collections        8
-
-Random Generators        8
-
-Map-Making Tools        9
-
-Map Assets        9
-
-Extra Content        10
-
-SHEETS FOR PRINTING        10
-
-DIGITAL SHEETS        11
-
-DM Screens        11
-
-TRAPS        12
-
-ENCOUNTER DESIGN        13
-
-COMMUNITIES        14
-
-HOMEBREW TOOLS        14
-
-HOMEBREW CONTENT EXAMPLES        15
-
-PLAYLISTS        16
-
-VIRTUAL TABLETOPS        17
 
 
 ## ДОПОЛНЕНИЯ НА РУССКОМ ЯЗЫКЕ
@@ -445,14 +437,7 @@ PC Point-Buy Calculator
 
 Trinket Generator
 
-Redkat&#39;s 5E D&amp;D Tools - http://redkatart.com/dnd5tools/
 
-- [**Random Treasure Generator**](http://redkatart.com/dnd5tools/#treasureBox)
-- [**Quick Random Magic Item**](http://redkatart.com/dnd5tools/#itemBox)
-- [**Better Random Quests!**](http://redkatart.com/dnd5tools/#questBox2)
-- [**Random Dungeon Room Dressing**](http://redkatart.com/dnd5tools/#roomBox)
-- [**Character Ability Score Roller**](http://redkatart.com/dnd5tools/#charBox)
-- [**Random Spellbook Generator**](http://redkatart.com/dnd5tools/#spellbox)
 
 https://dungeonchannel.com/
 
