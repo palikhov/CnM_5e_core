@@ -22,4 +22,6 @@
 
 [Last Gasp Grimoire NPC](https://www.lastgaspgrimoire.com/generators/npc-birthing-sacs/) - 
 
+-------------------------------------
 
+[Links](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/external-links.md)
