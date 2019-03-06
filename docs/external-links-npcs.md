@@ -22,6 +22,8 @@
 
 [Last Gasp Grimoire NPC](https://www.lastgaspgrimoire.com/generators/npc-birthing-sacs/) - 
 
+[NPC Character Generator by Profession](http://miniworlds.online/generators/generateNPC.html) - 
+
 -------------------------------------
 
 [Вернуться к общему списку полезных ссылок](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/external-links.md)
