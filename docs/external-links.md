@@ -1440,3 +1440,7 @@ https://docs.google.com/document/d/1q-dQg6mPioy_XKTqr-0cFaQ1hmLn0yS03QkprttXXJ8/
 https://dnd.inkyquill.net/calculator
 
 https://drive.google.com/file/d/0B33fZPHSH2gXZlhnc0hMWGlUWWM/view?ths=true
+
+# Music
+
+https://open.spotify.com/user/bezoing?si=Ep_TB3ULStuw04KXSOsLew
