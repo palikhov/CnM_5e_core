@@ -51,6 +51,8 @@
 
 [Misc Generators]
 
+[XGE It's my life generators for PC](https://5etools.com/lifegen.html) - 
+
 [5e Random Generator - donjon](https://donjon.bin.sh/5e/random)
 
 [5e Random Dungeon Generator](https://donjon.bin.sh/5e/dungeon/)
@@ -79,18 +81,6 @@ Redkat&#39;s 5E D&amp;D Tools - http://redkatart.com/dnd5tools/
 [Table of Tables](https://www.reddit.com/r/BehindTheTables/wiki/index)
 [On war i](https://www.reddit.com/r/DnDBehindTheScreen/comments/4tz8ho/on_war_in_dungeons_and_dragons/)
 ## Отличные генераторы
-
-### Kassoon
-
-
-
-
-
-### donjon
-
-
-
-
 
 
 ### OTHER
