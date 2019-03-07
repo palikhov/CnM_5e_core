@@ -1,11 +1,14 @@
 [Смертельные Рубежи](#Смертельные-Рубежи)  
-[Code of Conduct](#code-of-conduct)
-[Character Generation](#character-generation)
-[Allowed Races](#allowed-races)
-[Starting Gear](#starting-gear)
-[It's my life](#its-my-life)
-[Отдых и восстановление](#отдых-и-восстановление)
-[Crafting](#crafting)
+[Code of Conduct](#code-of-conduct)  
+[Character Generation](#character-generation)  
+[Allowed Races](#allowed-races)  
+[Starting Gear](#starting-gear)  
+[It's my life](#its-my-life)  
+[Отдых и восстановление](#отдых-и-восстановление)  
+[Crafting](#crafting)  
+[Revised Mounted Combat](#измененные-правила-верхового-боя-боя-верхом)  
+[DM Guidelines](#dm-guidelines)
+[Древние руины ](#создание-приключения-на-основе-древних-руин)
 # СМЕРТЕЛЬНЫЕ РУБЕЖИ
 
 праймер по кампании Смертельные Рубежи
