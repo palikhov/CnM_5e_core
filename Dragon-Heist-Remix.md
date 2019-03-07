@@ -1,4 +1,4 @@
-[](Modified Dragon Heist by Alexandrian and restructured by me
+Modified Dragon Heist by Alexandrian and restructured by me
 
 # Cassalanthers
 A PLEA FOR HELP: After the explosion, during the time that they’re investigating the nimblewrights, the PCs are contacted by the Cassalanters, who request an audience. The Cassalanters’ own agents were in Trollskull Alley that day because they, too, were tracking the Stone, so they know that Dalakhar was trying to bring the Stone to the PCs.
