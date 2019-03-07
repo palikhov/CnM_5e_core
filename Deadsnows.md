@@ -1,5 +1,11 @@
-[Смертельные Рубежи](#Смертельные-Рубежи)
-
+[Смертельные Рубежи](#Смертельные-Рубежи)  
+[Code of Conduct](#code-of-conduct)
+[Character Generation](#character-generation)
+[Allowed Races](#allowed-races)
+[Starting Gear](#starting-gear)
+[It's my life](#its-my-life)
+[Отдых и восстановление](#отдых-и-восстановление)
+[Crafting](#crafting)
 # СМЕРТЕЛЬНЫЕ РУБЕЖИ
 
 праймер по кампании Смертельные Рубежи
