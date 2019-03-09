@@ -111,6 +111,9 @@ Agorn is friends with Amath Seccent (see Yellowspire in Part 3B: Faction Outpost
 
 Agorn carries a Report to Agorn Fuoco. 
 
+Win	Yuven	LE	female	Shou	human	bandit	captain).	This	woman	in	her	thirties	works	for	Manshoon’s	Zhentarim.	
+
+
 * **Grator** [Half-dragon warrior](https://5etools.com/bestiary.html#langdedrosa%20cyanwrath_hotdq)
 
 * [Black viper](https://5etools.com/bestiary.html#black%20viper_wdh)
@@ -219,6 +222,13 @@ Autumn version of the Cellar Complex. Maintainer - **Korgstrod Uxgulm**
 
 # Unseen
 
+## lieutenants
+
+Bonnie
+Mariana - doppleganger
+Galen Redwine - NE Tethyrian male master thief
+Brasid Vashar - LE	female	Calishite	human	illusionist
+
 ## Unseen response team 
 
 * 2 [illusionists](https://5etools.com/bestiary.html#illusionist_saf%203pp) - Aila and Dallia (illusionists)
@@ -237,7 +247,9 @@ Autumn version of the Cellar Complex. Maintainer - **Korgstrod Uxgulm**
 
 ### Outpost # 2
 
-## Lair
+## Lair: Lacer's Mercery
+
+new tailor's shop on Sea's Ward
 
 # Bregan D'aerth
 
@@ -435,3 +447,97 @@ The most likely avenue for that to change — and potentially change rapidly —
 * Court records from the time period indicate that a large number of the brotherhood’s members were part of the Brandath family.
 * The rituals of the brotherhood largely remained secret even after – or perhaps because – their end was so precipitous. It is clear, however, that the brotherhood had accumulated any number of arcane rituals, symbols, and the like. These included the namesake pins of alexandrite, dwarven compasses (often hidden within works of art), a serpent’s forked tongue (representing the telling of secrets), scarab beetles, and the like. They seemed particularly fond of appropriating imagery from ancient or exotic civilizations. 
 * One example of this, found beneath the picture of a broken arrow, is the enigmatic phrase: “In beam of sun, strike dragon’s scale with mithral true upon the anvil sun.” Mid-14th century scholars exhausted great amounts of work trying to puzzle out what the imagery of “anvil sun” alluded to, with most concluding it must refer cryptically to a site somewhere within Calimshan, possibly dating back to the lost empire of Coramshan. Debates raged endlessly about exactly which site (or sites) the passage might refer to, until Maroon Brotherood conspiracy scholarship faded away by the end of the 14th
+
+# Masked Lords
+
+ Dorgar	Adarbrent	(LG	male	Tethyrian	human),	“the	Walking	Corpse	of	Waterdeep,”	the	venerable	lord	of	House	Adarbrent.	
+• Lammakh	Heirlarpost	(N	male	Tethyrian	human),	a	petty	man	and	the	owner	of	an	importation	business.	
+• Gruthgar	Hrimmel	(NE	male	Tethyrian	human),	a	wealthy,	unscrupulous	landlord	who	murders	dis- agreeable	tenants	and	is	being	blackmailed	by	the	Zhentarim.	
+• Halark	Tarncrown	(N	male	Chondathan	human),	a	wealthy	investor	and	gem	merchant	who	prefers	animals	to	people.	
+
+Writing	Gem	
+Wondrous	item,	uncommon	(requires	attunement)	
+Writing	gems	are	psionic	journals	created	by	mind	flayers	for	recording	information.	While	attuned	to	one	of	these	6-inch-diameter	gems,	you	share	a	mental	connection	with	the	item,	and	while	you	hold	the	gem:	
+
+* You	can	record	information	to	the	gem.  
+* You	can	access	any	information	recorded	in	the	gem.  
+* You	can	share	all	or	some	of	the	recorded	information	in	the	gem	with	any	willing	creature	you	can	see	within	10	feet	of	you.  
+
+If	the	gem	is	attuned	to	another	creature	when	you	touch	it,	you	must	succeed	on	a	DC	15	Charisma	saving	throw.	On	a	failed	save	you	take	6d6	psychic	damage	and	drop	the	gem.	On	a	successful	save,	you	assert	your	will	over	the	gem	and	can	attune	the	item	yourself,	accessing	any	recorded	information	within	the	item.
+
+Amnar	Vergoba	(LG	male	Rashemi	human	veteran).	This	man	in	his	fifties	is	a	captain	in	the	City	Watch.	
+
+
+Hlaavin	
+Medium	aberration,	neutral	evil	
+Armor	Class	16	(natural	armor)	
+Hit	Points	162	(25d8	+	50)	
+Speed	30	ft.	
+
+	
+
+	STR	DEX	CON	INT	WIS	CHA	
+	11	(+0)	18	(+4)	14	(+2)	19	(+4)	17	(+3)	18	(+4)	
+
+	
+
+Saving	Throws	Int	+9,	Wis	+8,	Cha	+9	
+Skills	Deception	+14,	Intimidation	+9,	Insight	+8,	
+Perception	+8,	Persuasion	+9,	Stealth	+9	
+Damage	Resistances	bludgeoning,	piercing,	and	
+slashing	damage	from	nonmagical	attacks	
+Condition	Immunities	charmed	
+Senses	darkvision	120	ft.,	passive	Perception	18	
+Languages	Common,	Deep	Speech,	Dwarvish,	Elvish,	
+Undercommon,	telepathy	120	ft.	
+Challenge	13	(100	XP)	
+Shapechanger.	Hlaavin	can	use	its	action	to	polymorph	
+into	a	Small	or	Medium	humanoid	it	has	seen,	or	back	
+into	its	true	form.	Its	statistics,	other	than	its	size,	are	
+the	same	in	each	form.	Any	equipment	it	is	wearing	or	
+carrying	isn't	transformed.	It	reverts	to	its	true	form	if	
+it	dies.	
+Ambusher.	Hlaavin	has	advantage	on	attack	rolls	
+against	any	creature	it	has	surprised.	
+Innate	Spellcasting	(Psionics).	Hlaavin’s	innate	
+spellcasting	ability	is	Intelligence	(spell	save	DC	19).	It	
+can	innately	cast	the	following	spells,	requiring	no	
+components:	
+At	will:	hold	person,	levitate	
+1/day	each:	dominate	monster,	polymorph	
+Magic	Resistance.	Hlaavin	has	advantage	on	saving	
+throws	against	spells	and	other	magical	effects.	
+Mimicry.	Hlaavin	can	mimic	simple	sounds	of	speech	it	
+has	heard,	in	any	language.	A	creature	that	hears	the	
+sounds	can	tell	they	are	imitations	with	a	successful	DC	
+19	Wisdom	(Insight)	check.	
+Regeneration.	Hlaavin	regains	10	hit	points	at	the	start	
+of	its	turn.	If	Hlaavin	starts	its	turn	with	0	hit	points,	it	
+does	not	regenerate	(and	likely	dies).	
+Surprise	Attack.	If	Hlaavin	surprises	a	creature	and	hits	
+it	with	an	attack	during	the	first	round	of	combat	or	if	it	
+hits	a	stunned	creature,	the	target	takes	an	extra	20	
+(6d6)	damage	from	the	attack.	
+
+Actions	
+Multiattack.	Hlaavin	makes	three	melee	attacks.	
+Slam.	Melee	Weapon	Attack:	+9	to	hit,	reach	5	ft.,	one	
+target.	Hit:	11	(2d6	+	4)	bludgeoning	damage.	
+Mind	Blast	(Recharge	5–6).	Hlaavin	magically	emits	
+psychic	energy	in	a	60-foot	cone.	Each	creature	in	that	
+area	must	succeed	on	a	DC	19	Intelligence	saving	throw	
+or	take	31	(6d8	+	4)	psychic	damage	and	be	stunned	for	
+1	minute.	A	creature	can	repeat	the	saving	throw	at	
+the	end	of	each	of	its	turns,	ending	the	effect	on	itself	
+on	a	success.	
+Read	Thoughts.	Hlaavin	magically	reads	the	surface	
+thoughts	of	one	creature	within	60	feet	of	it.	The	effect	
+can	penetrate	barriers,	but	3	feet	of	wood	or	dirt,	2	
+feet	of	stone,	2	inches	of	metal,	or	a	thin	sheet	of	lead	
+blocks	it.	While	the	target	is	in	range,	Hlaavin	can	
+continue	reading	its	thoughts,	as	long	as	Hlaavin’s	
+concentration	isn't	broken	(as	if	concentrating	on	a	
+spell).	While	reading	the	target's	mind,	Hlaavin	has	
+advantage	on	Wisdom	(Insight)	and	Charisma	
+(Deception,	Intimidation,	and	Persuasion)	checks	
+against	the	target.	
