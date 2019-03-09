@@ -19,15 +19,15 @@ Commander of personal guard - [Black knight commander](https://5etools.com/besti
 
 One of cultist - [Captain](https://5etools.com/bestiary.html#captain%20othelstan_hotdq)
 
-## Response team
+## Response team 1  - DECEASED
 
-* Seffia Naelryke (~~cult fanatic~~ [warlock of the fiend](https://5etools.com/bestiary.html#warlock%20of%20the%20fiend_vgm))
+* DECEASED - Seffia Naelryke (~~cult fanatic~~ [warlock of the fiend](https://5etools.com/bestiary.html#warlock%20of%20the%20fiend_vgm))
 
-* 2 spies
+* DECEASED - 2 spies
 
-* 1 veteran or [cult caster](https://5etools.com/bestiary.html#azbara%20jos_hotdq)
+* DECEASED - 1 veteran or [cult caster](https://5etools.com/bestiary.html#azbara%20jos_hotdq)
 
-* 1 invisible imp
+* DECEASED = 1 invisible imp
 
 ## Strike team
 
@@ -45,7 +45,7 @@ One of cultist - [Captain](https://5etools.com/bestiary.html#captain%20othelstan
 
 ### Shrine
 
-* Arn’s Meeting Notification (Converted Windmill)
+* DONE - Arn’s Meeting Notification (Converted Windmill)
 
 * Report on the Cultists of Asmodeus (Sea Maiden’s Faire)
 
@@ -53,9 +53,9 @@ One of cultist - [Captain](https://5etools.com/bestiary.html#captain%20othelstan
 
 ### Windmill
 
-* Seffia Naelryke’s Visiting Card (Response Team: Vevette Blackwater)
+* DONE seffia Naelryke’s Visiting Card (Response Team: Vevette Blackwater)
 
-* Arn’s Book of Worship (Asmodean Shrine)
+* lost -Arn’s Book of Worship (Asmodean Shrine)
 
 * Injury Report (Terasse Estate)
 
