@@ -1,5 +1,11 @@
 # DM RESOURCES
 
+## Team resources
+
+[TRELLO Shared Campaign](https://trello.com/b/VLHezVEQ/shared-campaign)
+
+## Books
+
 * [Critter Compendium](https://www.dmsguild.com/product/210151/Critter-Compendium)
 
 * [Gem Dragons of Faerun](https://www.dmsguild.com/product/180402/Gem-Dragons-of-Faerun?term=Gem+Drago&test_epoch=0)
@@ -23,6 +29,16 @@
 * [Adaptable NPCs](https://www.dmsguild.com/product/262588/Adaptable-NPCs?affiliate_id=18983)
 
 * [Versatile NPCs II](https://www.dmsguild.com/product/250621/Versatile-NPCs-II)
+
+## MUST HAVE
+
+[5e tools](https://5etools.com/)
+
+[NPC generator](https://rpgtinker.com/)
+
+[fantasy calendar creator](https://fantasy-calendar.com/)
+
+[AutoRollTables Github](http://autorolltables.github.io/)
 
 ## For further inspiration
 

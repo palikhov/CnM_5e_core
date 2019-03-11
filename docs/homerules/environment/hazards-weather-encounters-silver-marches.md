@@ -1,5 +1,7 @@
 <!-- TOC -->autoauto- [Дикая местность](#дикая-местность)auto- [Natural Hazards](#natural-hazards)auto    - [AVALANCHES AND LANDSLIDES](#avalanches-and-landslides)auto    - [THE CLAWS OF THE COLD](#the-claws-of-the-cold)auto    - [FLOODS](#floods)auto    - [Encountering Hazards](#encountering-hazards)auto    - [AVALANCHES AND LANDSLIDES](#avalanches-and-landslides-1)auto    - [FLOODS](#floods-1)auto    - [FOG](#fog)auto    - [Encountering Hazards](#encountering-hazards-1)auto    - [Заблудились](#заблудились)auto    - [Путешествие по горам](#путешествие-по-горам)auto    - [Зыбучие пески и топи](#зыбучие-пески-и-топи)auto    - [RAIN, SNOW, SLEET, AND HAIL](#rain-snow-sleet-and-hail)auto    - [LIGHTNING](#lightning)auto    - [SANDSTORMS](#sandstorms)auto- [Random Encounters](#random-encounters)auto    - [Группы неигровых персонажей](#группы-неигровых-персонажей)auto- [Random Weather](#random-weather)auto    - [USING THE TABLES](#using-the-tables)auto    - [DEFINITIONS](#definitions)autoauto<!-- /TOC -->
 
+
+
 #  Дикая местность
 
 Всякий раз, когда персонажи покидают относитель¬ную безопасность Смертельных Снегов и путешествуют на большие расстояния, они подвергаются жестоким погодным условиям и опасным чудовищам диких мест. Смертельные Снега и земли на севере рассматриваются как открытая местность с целью определения случайной погоды (смотрите Главу 2), в то время как большинство других мест в городке и вокруг него считаются альпийскими областями.

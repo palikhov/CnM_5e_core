@@ -6,7 +6,7 @@
 * [Киборги и Чародеи](https://discord.gg/r3tDdWm)
 * [Adventurers League Russian](https://adventurersleague.wordpress.com/)
 * [**World Anvil**](https://worldanvil.com/)
-* [**D&D 5e Resource List**](https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources/)\
+* [**D&D 5e Resource List**](https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources)
 
 ## Links
 
@@ -46,8 +46,8 @@
 
 5eToolsRoll20ImageList
 
-DnD 5e Layout and Format Template
-https://docs.google.com/document/d/1huB-66vOkFWU3bjw_oE8CRLB4EDVajGB22VFGwTC-4s/ed
+[DnD 5e Layout and Format Templa](https://docs.google.com/document/d/1huB-66vOkFWU3bjw_oE8CRLB4EDVajGB22VFGwTC-4s/ed)
+
 
 ## Campaign Log Template
 
@@ -93,7 +93,8 @@ https://docs.google.com/document/d/1huB-66vOkFWU3bjw_oE8CRLB4EDVajGB22VFGwTC-4s/
 Hey all! Some people have asked what resources I'm using for the sandbox game The West Marches, so here's a list of all the blog posts, random generators, and supplements I've found most useful so far!
 
 Blog Posts:
-Where it all came from: [http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/](http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/)
+Where it all came from: 
+[http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/](http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/)
 
 ·         Why you should make your hexes 6 miles: [http://steamtunnel.blogspot.ca/2009/12/in-praise-of-6-mile-hex.html](http://steamtunnel.blogspot.ca/2009/12/in-praise-of-6-mile-hex.html)
 

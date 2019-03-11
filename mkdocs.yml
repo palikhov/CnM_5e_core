@@ -11,75 +11,74 @@ copyright: 'Copyright &copy; 2019 Palant и команда Киборгов и �
 
 nav:
     - Главная: index.md
-    - Домашние правила:
-      - Правила по созданию персонажей: homerules/character-creation.md
-      - Расы:
-        - Шейд: homerules/races/shade.md
-        - Фейри (демонфеи): homerules/races/feyri.md
-      - Изменения системы классов и самих классов:
-        - Общее: homerules/classes/index.md
-        - Классы: homerules/classes/classes.md
-        - Классы из Арканиса: homerules/classes/arcanis-work.md
-        - Варвар: homerules/classes/barbarian.md
-        - Древние колдуны: homerules/classes/elder-sorcerer.md
-        - Боец (воин): homerules/classes/fighter.md
-        - Мистик: homerules/classes/mystic.md
-        - Паладин: homerules/classes/paladin.md
-        - Рейнджер: homerules/classes/ranger-rework.md
-        - Специалист (авантюрист): homerules/classes/rogue.md
-        - Шаман: homerules/classes/shaman.md
-        - Чародей (Sorcerer): homerules/classes/sorcerer.md
-        - Волшебник (маг): homerules/classes/wizard.md
-        - Колдун (Warlock): homerules/classes/warlock.md
+    - Правила по созданию персонажей: homerules/character-creation.md
+    - Расы:
+      - Шейд: homerules/races/shade.md
+      - Фейри (демонфеи): homerules/races/feyri.md
+    - Изменения системы классов и самих классов:
+      - Общее: homerules/classes/index.md
+      - Классы: homerules/classes/classes.md
+      - Классы из Арканиса: homerules/classes/arcanis-work.md
+      - Варвар: homerules/classes/barbarian.md
+      - Древние колдуны: homerules/classes/elder-sorcerer.md
+      - Боец (воин): homerules/classes/fighter.md
+      - Мистик: homerules/classes/mystic.md
+      - Паладин: homerules/classes/paladin.md
+      - Рейнджер: homerules/classes/ranger-rework.md
+      - Специалист (авантюрист): homerules/classes/rogue.md
+      - Шаман: homerules/classes/shaman.md
+      - Чародей (Sorcerer): homerules/classes/sorcerer.md
+      - Волшебник (маг): homerules/classes/wizard.md
+      - Колдун (Warlock): homerules/classes/warlock.md
     - Настраивая персонажа:
       - Боевые стили: homerules/customizing/fighting-styles.md
-      - Языки: homerules/customizing/languages.md
       - Навыки (feats): homerules/customizing/feats.md
       - Боевые маневры: homerules/customizing/combat-maneuvers.md
-      - Заклинания: 
-         - Зачарование предметов: homerules/spells/item-enchanting-spells.md
-         - Кантрипы: homerules/spells/cantrips.md
-         - 3й круг заклинаний: homerules/spells/spells-3rd-lvl.md
-         - Общий список: homerules/spells.md
-     - Снаряжение: 
-        - Снаряжение: homerules/equipment.md
-        - Наркотики: homerules/equipment/drugs.md
-        - Травы и гербализм: homerules/equipment/herbalism.md
-        - Использование частей тел чудовищ: homerules/equipment/monster-parts-harvesting.md
-      - Волшебные предметы: homerules/magic-items.md
-      - Ловушки: homerules/traps.md
-      - Дикая природа:
-        - Случайные встречи и погода в Серебрянных пределах: homerules/environment/hazards-weather-encounters-silver-marches.md
+    - Заклинания: 
+      - Зачарование предметов: homerules/spells/item-enchanting-spells.md
+      - Кантрипы: homerules/spells/cantrips.md
+      - 3й круг заклинаний: homerules/spells/spells-3rd-lvl.md
+      - Общий список: homerules/spells/spells.md
+    - Снаряжение: 
+      - Снаряжение: homerules/equipment/new-equipment.md
+      - Наркотики: homerules/equipment/drugs.md
+      - Травы и гербализм: homerules/equipment/herbalism.md
+      - Использование частей тел чудовищ: homerules/equipment/monster-parts-harvesting.md
+    - Волшебные предметы: homerules/magic-items/magic-items.md
+    - Ловушки: homerules/traps.md
+    - Дикая природа:
+      - Случайные встречи и погода в Серебрянных пределах: homerules/environment/hazards-weather-encounters-silver-marches.md
       - Время между приключениями (XGE+):
-        - Покупка волшебных вещей: homerules/downtime-revisited/buying-a-magic-item.md
-        - Исследования: homerules/downtime-revisited/research.md
-        - Создание предмета: homerules/downtime-revisited/crafting-an-item.md
-        - Преступления: homerules/downtime-revisited/crime.md
-        - Азартные игры: homerules/downtime-revisited/gambling.md
-        - Подпольные бои: homerules/downtime-revisited/pit-fighting.md
-        - Отдых-отдых-отдых: homerules/downtime-revisited/relaxation.md
-        - Религиозная служба: homerules/downtime-revisited/religious-service.md
-        - Написание свитка заклинаний: homerules/downtime-revisited/scribing-a-spell-scroll.md
-        - Продажа волшебного предмета: homerules/downtime-revisited/selling-a-magic-item.md
-        - Training: homerules/downtime-revisited/training.md
-        - Work: homerules/downtime-revisited/work.md
-        - Новые возможности в простое: homerules/downtime-activities.md
+            - Покупка волшебных вещей: homerules/downtime-revisited/buying-a-magic-item.md
+            - Исследования: homerules/downtime-revisited/research.md
+            - Создание предмета: homerules/downtime-revisited/crafting-an-item.md
+            - Преступления: homerules/downtime-revisited/crime.md
+            - Азартные игры: homerules/downtime-revisited/gambling.md
+            - Подпольные бои: homerules/downtime-revisited/pit-fighting.md
+            - Отдых-отдых-отдых: homerules/downtime-revisited/relaxation.md
+            - Религиозная служба: homerules/downtime-revisited/religious-service.md
+            - Написание свитка заклинаний: homerules/downtime-revisited/scribing-a-spell-scroll.md
+            - Продажа волшебного предмета: homerules/downtime-revisited/selling-a-magic-item.md
+            - Training: homerules/downtime-revisited/training.md
+            - Work: homerules/downtime-revisited/work.md
+            - Новые возможности в простое: homerules/downtime-activities.md
     - Расширенные правила:
-        - Расширенные правила: homerules/expanded_rules.md
-        - Бой верхом: homerules/mounted-combat-expanded.md
+      - Расширенные правила: homerules/expanded-rules/expanded_rules.md
+      - Бой верхом: homerules/expanded-rules/mounted-combat-expanded.md
+      - Умение читать и писать: homerules/expanded-rules/literacy-language-expanded.md
     - Дополнительные правила: homerules/additional-rules/additional_rules.md
     - Разное: homerules/misc.md
     - Расширенные правила по инструментам из XGE: 
-          - Набор алхимика: homerules/tool-proficiencies/alchemists-supplies.md
-          - Набор травника: homerules/tool-proficiencies/herbalism-kit.md
-          - Набор отравителя: homerules/tool-proficiencies/poisoners-kit.md
+      - Набор алхимика: homerules/tool-proficiencies/alchemists-supplies.md
+      - Набор травника: homerules/tool-proficiencies/herbalism-kit.md
+      - Набор отравителя: homerules/tool-proficiencies/poisoners-kit.md
     - Разное: homerules/misc.md
     - Правила для общей кампании:
-        - Общее: shared_campaign/index.md
-        - Потребность в игротеке: shared_campaign/needs_organized_play.md
-        - Правила общей кампании: shared_campaign/shared_rules.md
-        - Фракции, известность, слава: shared_campaign\factions-renown-fame.md
-        - Модифицированные правила трех столбов: shared_campaign\three-pillars-modified.md
+      - Общее: shared_campaign/index.md
+      - Потребность в игротеке: shared_campaign/needs_organized_play.md
+      - Правила общей кампании: shared_campaign/shared_rules.md
+      - Фракции, известность, слава: shared_campaign\factions-renown-fame.md
+      - Модифицированные правила трех столбов: shared_campaign\three-pillars-modified.md
   # Link as comment before release 
 
 # Configuration
