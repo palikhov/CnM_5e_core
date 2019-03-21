@@ -6,23 +6,56 @@
 * [Киборги и Чародеи](https://discord.gg/r3tDdWm)
 * [Adventurers League Russian](https://adventurersleague.wordpress.com/)
 * [**World Anvil**](https://worldanvil.com/)
+<<<<<<< HEAD
 * [**D&D 5e Resource List**](https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources)
+=======
+* [**D&D 5e Resource List**](https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources/)
+>>>>>>> c08fea3ea0ac48526c611e6095541895a5070526
 
-## Links
+## Links on my github
 
-[Table of Tables](https://www.reddit.com/r/BehindTheTables/wiki/index)
-[On war i](https://www.reddit.com/r/DnDBehindTheScreen/comments/4tz8ho/on_war_in_dungeons_and_dragons/)
-## Отличные генераторы
+[NPC Generators](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/external-links-npcs.md)
 
-### Kassoon
+[Treasure Generators](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/external-links-treasure.md)
 
-[Random Plot Hook Generator - Kassoon](https://www.kassoon.com/dnd/random-plot-hooks-generator)
+
+
+[Encounters Generators]
+
+
+[Encounter and Initiative](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.improved-initiative.com%252fe%252fr6p75n00)
+
+[http://kobold.club/fight/\#/encounter-builder](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fkobold.club%252ffight%252f%2523%252fencounter-builder)
+
+[http://rpgtinker.com/bestiary.php](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252frpgtinker.com%252fbestiary.php)
+
+[5E GM Egaanon](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252f5egmegaanon.github.io%252f5etools%252fbestiary.html%2523Apprentice%2bWizard)
+
+[Poison generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252forteil.dashnet.org%252frandomgen%252f%253fgen%253dvMMEtKRA)
+
+[Monsters by Challenge Rating 1.0](http://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
+
+[Monsters by Type 1.0](http://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
+
+
+[Town Generators]
 
 [Random Town Generator - Kassoon](https://www.kassoon.com/dnd/town-generator/)
 
+[Magic item generators]
+
 [Magic Item Genetor - Kassoon](https://www.kassoon.com/dnd/magic-item-generator)
 
-### donjon
+- [**RedKatart Quick Random Magic Item**](http://redkatart.com/dnd5tools/#itemBox)
+
+
+[Plot Hook Generators]
+
+[Random Plot Hook Generator - Kassoon](https://www.kassoon.com/dnd/random-plot-hooks-generator)
+
+[Misc Generators]
+
+[XGE It's my life generators for PC](https://5etools.com/lifegen.html) - 
 
 [5e Random Generator - donjon](https://donjon.bin.sh/5e/random)
 
@@ -30,7 +63,31 @@
 
 [e Random Magic Shop Generator](https://donjon.bin.sh/5e/magic/shop.html) 
 
-[5e Random Generator - Treasure](https://donjon.bin.sh/5e/random/#type=treasure)
+Tons of random generators all in one place: [http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/](http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/)
+
+Redkat&#39;s 5E D&amp;D Tools - http://redkatart.com/dnd5tools/
+[**RedKatart Better Random Quests!**](http://redkatart.com/dnd5tools/#questBox2)
+
+[**RedKatart Random Dungeon Room Dressing**](http://redkatart.com/dnd5tools/#roomBox)
+
+[**RedKatart Character Ability Score Roller**](http://redkatart.com/dnd5tools/#charBox)
+
+[Names on 5etools](https://5etools.com/names.html#dragonborn_xge_female)
+
+## Roll20 resources and links
+
+[Roll20 Resources by Modnar](https://github.com/DMsGuild201/Roll20_resources)
+
+[Stupid hints and tricks]()
+
+[VTT enhancement suite]()
+
+## Links
+
+[Table of Tables](https://www.reddit.com/r/BehindTheTables/wiki/index)
+[On war i](https://www.reddit.com/r/DnDBehindTheScreen/comments/4tz8ho/on_war_in_dungeons_and_dragons/)
+## Отличные генераторы
+
 
 ### OTHER
 
@@ -40,14 +97,18 @@
 
 [Fantasy Town Map Generator](https://watabou.itch.io/medieval-fantasy-city-generator)
 
-[NPC Character Generator by Profession](http://miniworlds.online/generators/generateNPC.html)
+
 
 [5E D&D Character Sheet (Tintagel)](v2.4https://docs.google.com/spreadsheets/d/1ojyz199p_sk1QC9pPctld9g2E1KO5mJPmGFKHQTycHQ/edit#gid=1538485300)
 
 5eToolsRoll20ImageList
 
+<<<<<<< HEAD
 [DnD 5e Layout and Format Templa](https://docs.google.com/document/d/1huB-66vOkFWU3bjw_oE8CRLB4EDVajGB22VFGwTC-4s/ed)
 
+=======
+[DnD 5e Layout and Format Template](https://docs.google.com/document/d/1huB-66vOkFWU3bjw_oE8CRLB4EDVajGB22VFGwTC-4s/ed)
+>>>>>>> c08fea3ea0ac48526c611e6095541895a5070526
 
 ## Campaign Log Template
 
@@ -126,7 +187,7 @@ Random Tables:
 
 ·         You want names for things? We've got names for things: [http://donjon.bin.sh/](http://donjon.bin.sh/)
 
-·         Tons of random generators all in one place: [http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/](http://www.lastgaspgrimoire.com/generators/the-seventh-order-of-the-random-generator/)
+
 
 ·         Crazy magic fuck-up results: [http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/](http://www.lastgaspgrimoire.com/do-not-take-me-for-some-turner-of-cheap-tricks/)
 
@@ -210,17 +271,6 @@ And if you had to only read 5 things from the above to build a sandbox game of y
 
 ## Treasure
 
-[Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
-
-[Treasure Generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fredkatart.com%252fdnd5tools%252f)
-
-[Prices Guide](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
-
-[Weak Magic Items](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.lordbyng.net%252finspiration%252fresults.php)
-
-7.     [Mithril And Mages Treasure](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.mithrilandmages.com%252fRPG.php%2523dd5e)
-
-8.     [Quick Store](https://drive.google.com/file/d/0B8mF8uNMRN_mX3otSG9vMUpSREE/view)
 
 ## NPC:
 
@@ -233,20 +283,6 @@ And if you had to only read 5 things from the above to build a sandbox game of y
 13.    [Drive: NPC Generator](https://docs.google.com/spreadsheets/d/1uyre7jYpD1fQG4U9rqJdwUkga6sjCUmJovFzo6gxLUQ/edit#gid=553603978)
 
 ##  Encounter
-
-15.    [Encounter and Initiative](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fwww.improved-initiative.com%252fe%252fr6p75n00)
-
-16.    [http://kobold.club/fight/\#/encounter-builder](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252fkobold.club%252ffight%252f%2523%252fencounter-builder)
-
-17.    [http://rpgtinker.com/bestiary.php](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252frpgtinker.com%252fbestiary.php)
-
-18.    [5E GM Egaanon](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252f5egmegaanon.github.io%252f5etools%252fbestiary.html%2523Apprentice%2bWizard)
-
-19.    [Poison generator](https://www.dndbeyond.com/linkout?remoteUrl=http%253a%252f%252forteil.dashnet.org%252frandomgen%252f%253fgen%253dvMMEtKRA)
-
-20.    [Monsters by Challenge Rating 1.0](http://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
-
-21.    [Monsters by Type 1.0](http://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
 
 ##  Names
 
@@ -310,53 +346,6 @@ Android [eRPG Tools Plus](https://play.google.com/store/apps/details?id=com.ment
 
 Флибустьеры не сдаются: https://5e.tools/
 
-Содержание
-
-ДОПОЛНЕНИЯНАРУССКОМЯЗЫКЕ        1
-
-Другиеполезныеонлайнссылкиноуженаанглийскомязыке        1
-
-Offline software        3
-
-SYSTEM REFERENCE DOCUMENTATION        3
-
-A COLLECTION OF GUIDES AND TIPS FROM THE MASTERS        3
-
-Free Tools        4
-
-Paid Tools        5
-
-Compilations of Multiple Generators        5
-
-Map Collections        8
-
-Random Generators        8
-
-Map-Making Tools        9
-
-Map Assets        9
-
-Extra Content        10
-
-SHEETS FOR PRINTING        10
-
-DIGITAL SHEETS        11
-
-DM Screens        11
-
-TRAPS        12
-
-ENCOUNTER DESIGN        13
-
-COMMUNITIES        14
-
-HOMEBREW TOOLS        14
-
-HOMEBREW CONTENT EXAMPLES        15
-
-PLAYLISTS        16
-
-VIRTUAL TABLETOPS        17
 
 
 ## ДОПОЛНЕНИЯ НА РУССКОМ ЯЗЫКЕ
@@ -442,14 +431,7 @@ PC Point-Buy Calculator
 
 Trinket Generator
 
-Redkat&#39;s 5E D&amp;D Tools - http://redkatart.com/dnd5tools/
 
-- [**Random Treasure Generator**](http://redkatart.com/dnd5tools/#treasureBox)
-- [**Quick Random Magic Item**](http://redkatart.com/dnd5tools/#itemBox)
-- [**Better Random Quests!**](http://redkatart.com/dnd5tools/#questBox2)
-- [**Random Dungeon Room Dressing**](http://redkatart.com/dnd5tools/#roomBox)
-- [**Character Ability Score Roller**](http://redkatart.com/dnd5tools/#charBox)
-- [**Random Spellbook Generator**](http://redkatart.com/dnd5tools/#spellbox)
 
 https://dungeonchannel.com/
 
@@ -1294,3 +1276,181 @@ https://docs.google.com/document/d/1q-dQg6mPioy_XKTqr-0cFaQ1hmLn0yS03QkprttXXJ8/
 https://dnd.inkyquill.net/calculator
 
 https://drive.google.com/file/d/0B33fZPHSH2gXZlhnc0hMWGlUWWM/view?ths=true
+
+# dnd5e-links
+
+[Dungeons & Dragons 5th Edition Dungeon Master’s Resource List](http://bit.ly/DnD5resources)
+
+https://docs.google.com/document/u/1/d/e/2PACX-1vQEpl6dvZJjMvSypR0jEdH8UQNGhH8l_WIfpyvVpdB8fSLqZLVNc8_I-ScULcb0M4bJ37_8Ls8AVudt/pub
+
+https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources/?st=jl4qix5a&sh=afecb11f
+
+
+## Классификаторы
+
+[Seredhras Magic Item Tiers](https://docs.google.com/spreadsheets/d/1AKSoBpW_akx5XsCveUOWDR8aZ7sORkFdHRV-ODH-fQM/edit#gid=145049871)
+
+https://docs.google.com/document/d/1q-dQg6mPioy_XKTqr-0cFaQ1hmLn0yS03QkprttXXJ8/edit
+##
+
+https://docs.google.com/document/d/13Ov9ItJiZ_gUPP08wt-gR3EFPOCTnKBMTXRpaW8nqHQ/edit#heading=h.35wztzvsxkmz
+
+http://homebrewery.naturalcrit.com/print/SyZd2fjns-?dialog=true
+
+##
+
+https://www.reddit.com/r/Imaginaria/comments/7pfs5b/список_ссылок/
+
+https://docs.google.com/spreadsheets/d/1p3lxOQ02uC9vC1Cq2RN-U1mRjG25dRzSxx3C2LgWosM/copy
+
+https://www.mirf.ru/games/boards/karta-syuzheta
+
+https://docs.google.com/document/d/1Y_sr3UOABGHP7TO1XOwGJaDxwVzu1wTPH6ObVkXcjcE/edit
+
+http://stormtower.ru/sovetyi-vedushhemu-i-igroku-nri/konstruktor-blagorodnyih-semeystv-i-vliyatelnyih-domov-dlya-vashego-korolevstva.html
+
+
+##
+
+http://blogofholding.com/spellbook.php
+
+https://dnd.inkyquill.net/calculator
+
+##
+
+https://cormyr.nethouse.ru/
+
+http://dungeon.su/
+
+https://tentaculus.ru/tavern/index.html
+
+##
+
+https://drive.google.com/drive/folders/0BwIF2cSb1tRebENpRFVQVmlvelE
+
+https://drive.google.com/drive/folders/1jNlzDa0JsXPJ8ZXdWgh2DGMfycJa3ez3
+
+##
+
+https://pastebin.com/GB5tHKHZ
+
+##
+
+https://github.com/Syndaryl/DFRPGRandomDungeonGenerator
+
+https://drive.google.com/file/d/1Yrw0KYYndfheQkRzyYRbuRhMsY7ABOrW/view
+
+## 
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+##
+
+http://slyflourish.com/fronts_in_dnd.html
+
+## 
+
+https://www.archdaily.com/888649/this-medieval-walled-town-with-a-storied-history-shows-how-traditional-urbanism-can-support-high-density/5a7c7db5f197cc441a000041-this-medieval-walled-town-with-a-storied-history-shows-how-traditional-urbanism-can-support-high-density-image
+
+https://pxhere.com/en/photo/998683
+
+https://pxhere.com/en/photo/1039303
+
+
+##
+
+https://www.tavern-keeper.com/home
+
+https://dmbinder.com/
+
+https://www.scabard.com/pbs/
+
+https://www.worldanvil.com/
+
+##
+
+https://adventurersleague.wordpress.com/2018/07/20/many-useful-links-01/
+
+##
+
+https://mega.nz/#F!sMYDyDTa!ZMMJJ2nV0oPZ8zFmcfZLrw!tdhkCLYK
+
+
+##
+
+https://www.fodey.com/generators/newspaper/snippet.asp
+
+##
+https://tetra-cube.github.io/dnd/dnd-char-gen.html
+
+
+https://www.reddit.com/r/DnD/comments/4y0wsq/dm_using_onenote_for_your_campaign/
+
+https://www.reddit.com/r/DnD/comments/4y0wsq/dm_using_onenote_for_your_campaign/
+
+https://thegeniusinc.com/dd-monster-maker-download/
+
+https://drive.google.com/file/d/1V_udNPxlTk_ufSyLsZ4caIO5LqFmE5LO/view
+
+https://docs.google.com/spreadsheets/d/1IpDxUoj10wvVvoNF1eiTFw_tzvVQLyz_68iEv-TQqCU/edit#gid=1116151046
+
+https://www.reddit.com/r/DnDBehindTheScreen/comments/8y4r14/big_update_on_dm_and_player_tools/
+
+https://www.reddit.com/r/DnDBehindTheScreen/comments/912b0g/the_druidic_language_a_comprehensive_guide_to/
+
+https://www.reddit.com/r/DnDBehindTheScreen/comments/91v490/your_homestead_in_stats_discover_your_homestead/
+
+http://www.gozzys.com/
+
+https://freenpcpatreon.wixsite.com/freenpc
+
+https://docs.google.com/spreadsheets/d/1ZhJaBdM2ikwLuC9kjWtpg2hCLKGMc2Odj5NWGs_0YZY/edit#gid=0
+
+https://www.mathemagician.net/Town.html
+
+http://donjon.bin.sh/
+
+https://thecoppersanctum.github.io/thecoppersanctum/taverns.html
+
+https://www.reddit.com/r/DnD/comments/5vjah6/my_excel_sheet_for_randomly_generating_almost/
+
+
+https://old.reddit.com/r/wonderdraft/
+
+ https://www.mirf.ru/boards/karta-syuzheta
+http://v3p.org/ptolus/
+https://d20.pub/resources/daggerford/
+https://d20.pub/resources/the-way-inn/
+https://d20.pub/resources/random-wilderness-dungeon-and-cave-map-generator/
+http://www.giantitp.com/forums/showthread.php?540370-Red-Hand-of-Doom-5e-Conversion-Guide-Spoilers-WIP-PEACH
+http://www.giantitp.com/forums/showthread.php?525127-Converting-Red-Hand-of-Doom-to-5e
+http://www.giantitp.com/forums/showthread.php?171284-The-3-5-Red-Hand-Of-Doom-Handbook-for-DMs-Major-spoilers!-WIP-PEACH!
+http://imaginaria.ru/p/srazhenie-kak-sport-vs-srazhenie-kak-voyna-chastichnyy-perevod.html
+https://docs.google.com/document/d/1q-dQg6mPioy_XKTqr-0cFaQ1hmLn0yS03QkprttXXJ8/edit
+http://www.rpginspiration.com/tables/NPContheStreet.ipt
+
+http://www.nbos.com/products/inspiration-pad-pro
+http://www.theroguecollective.net/scrolls-o-info/forged-anvil-sheets/
+https://www.reddit.com/r/DnD/comments/5vjah6/my_excel_sheet_for_randomly_generating_almost/
+http://theworstdm.com/spelljammer-5e/
+https://docs.google.com/spreadsheets/d/1qw3DMBK4OgF0jai8GDRtKKXZ8oZmzwwO8phXRD5nC1k/edit#gid=1538485300
+http://www.theroguecollective.net/scrolls-o-info/forged-anvil-sheets/
+http://dmheroes.com/
+https://docs.google.com/spreadsheets/d/1p3lxOQ02uC9vC1Cq2RN-U1mRjG25dRzSxx3C2LgWosM/copy
+http://blogofholding.com/spellbook.php
+http://theworstdm.com/spelljammer-5e/
+http://theworstdm.com/spelljamming-spelljammer-5e-conversion/
+https://cormyr.nethouse.ru/
+https://drive.google.com/open?id=0BwIF2cSb1tRebENpRFVQVmlvelE
+https://drive.google.com/open?id=1jNlzDa0JsXPJ8ZXdWgh2DGMfycJa3ez3
+https://docs.google.com/document/d/13Ov9ItJiZ_gUPP08wt-gR3EFPOCTnKBMTXRpaW8nqHQ/edit#heading=h.35wztzvsxkmz
+https://www.reddit.com/r/DnDBehindTheScreen/comments/8k8g8k/oh_yes_thieves_can_cant/
+http://bit.ly/DnD5resources
+https://docs.google.com/document/d/1q-dQg6mPioy_XKTqr-0cFaQ1hmLn0yS03QkprttXXJ8/edit
+https://dnd.inkyquill.net/calculator
+
+https://drive.google.com/file/d/0B33fZPHSH2gXZlhnc0hMWGlUWWM/view?ths=true
+
+# Music
+
+https://open.spotify.com/user/bezoing?si=Ep_TB3ULStuw04KXSOsLew
