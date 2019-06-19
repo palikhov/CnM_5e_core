@@ -1,5 +1,5 @@
 
-# Litercay and languages
+# Literacy and languages
 
 **Literacy:** Among the human populace literacy is not a given. In fact, for the majority of the populace “knowing your letters” is a rarity. It is not uncommon for someone to be able to speak many languages and simply be unable to read or write in any of them. As such literacy has become a soft social meter which displays either tutoring or noble blood.
 
