@@ -1,4 +1,4 @@
-[Dungeon Map Generator](https://www.kassoon.com/dnd/dungeon-map/)
+[Dungeon Map Generator](https://www.kassoon.com/dnd/dungeon-map/) and [Random Dungeon Generator](https://www.kassoon.com/dnd/5e/dungeon-generator/)
 
 [wilderness travel](https://www.kassoon.com/dnd/wilderness-travel/)
 
