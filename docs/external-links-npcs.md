@@ -1,18 +1,20 @@
 # Useful links for DM to creating NPC
 
-[RPGTinker - NPC GENERATOR](http://rpgtinker.com/) - 
+*** [RPGTinker - NPC GENERATOR](http://rpgtinker.com/) - 
 
-[RPGTinker - NPC Army](https://rpgtinker.com/bestiary.php) - CITY ARMY / PIRATE SHIP / GOBLIN TRIBE / Monstruous Army
+**** [RPGTinker - NPC Army](https://rpgtinker.com/bestiary.php) - CITY ARMY / PIRATE SHIP / GOBLIN TRIBE / Monstruous Army
 
-[NPC generator](http://www.npcgenerator.com/) - 
+**** [NPC generator](http://www.npcgenerator.com/) - 
 
-[Tetra cube](https://tetra-cube.github.io/dnd/dnd-char-gen.html) - 
+**** [KASOON NPC GENERATOR](https://www.kassoon.com/dnd/npc-generator/)
 
-[Character TPK](http://character.totalpartykill.ca/5e) - 
+**** [Tetra cube](https://tetra-cube.github.io/dnd/dnd-char-gen.html) - 
+
+*** [Character TPK](http://character.totalpartykill.ca/5e) - 
 
 [Drive: NPC Generator]() - 
 
-[Donjon NPC 5e generator](https://donjon.bin.sh/5e/random/#type=npc) - 
+*** [Donjon NPC 5e generator](https://donjon.bin.sh/5e/random/#type=npc) - 
 
 [DM Heroes](http://dmheroes.com/) - 
 
