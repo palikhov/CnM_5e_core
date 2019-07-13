@@ -1,16 +1,18 @@
 # Useful links for DM to creating NPC
 
-[RPGTinker - ](http://rpgtinker.com/) - 
+[RPGTinker - NPC GENERATOR](http://rpgtinker.com/) - 
 
-[NPC generator azurewebsites](http://npcgenerator.azurewebsites.net) - 
+[RPGTinker - NPC Army](https://rpgtinker.com/bestiary.php)
+
+[NPC generator](http://www.npcgenerator.com/) - 
+
+[Tetra cube](https://tetra-cube.github.io/dnd/dnd-char-gen.html) - 
 
 [Character TPK](http://character.totalpartykill.ca/5e) - 
 
 [Drive: NPC Generator]() - 
 
 [Donjon NPC 5e generator](https://donjon.bin.sh/5e/random/#type=npc) - 
-
-[Tetra cube](https://tetra-cube.github.io/dnd/dnd-char-gen.html) - 
 
 [DM Heroes](http://dmheroes.com/) - 
 
