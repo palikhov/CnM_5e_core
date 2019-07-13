@@ -1,4 +1,23 @@
 [kasoon town generator](https://www.kassoon.com/dnd/town-generator/)
+Town Generator
+http://rpgmarketgenerator.com/
+https://5emagic.shop/generate
+http://dndstores.azurewebsites.net/
+
+https://eigengrausgenerator.com/
+
+City Builders
+http://cityographer.com/download/
+http://inkwellideas.com/free-tools/random-city-map-generator/
+https://watabou.itch.io/medieval-fantasy-city-generator
+http://wizardawn.and-mag.com/tool_ftown.php
+http://nairb.net/pathfindertools/settlement_creator.php
+https://www.kassoon.com/dnd/town-generator
+http://rpgmarketgenerator.com/
+https://www.masterthedungeon.com/dd-town-generator/
+Inn Generator
+http://inkwellideas.com/free-tools/random-inn-generator-floorplan/
+https://thecoppersanctum.github.io/thecoppersanctum/taverns.html
 
 ## Free Tools inkwelll ideas
 Inkwell Ideas has made many free tools in addition to our flagship products.  Below is a list:
