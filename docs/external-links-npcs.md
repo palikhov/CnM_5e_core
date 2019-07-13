@@ -2,7 +2,7 @@
 
 [RPGTinker - NPC GENERATOR](http://rpgtinker.com/) - 
 
-[RPGTinker - NPC Army](https://rpgtinker.com/bestiary.php)
+[RPGTinker - NPC Army](https://rpgtinker.com/bestiary.php) - CITY ARMY / PIRATE SHIP / GOBLIN TRIBE / Monstruous Army
 
 [NPC generator](http://www.npcgenerator.com/) - 
 
