@@ -30,4 +30,8 @@
 
 -------------------------------------
 
+[NAME GENERATOR](https://www.kassoon.com/dnd/name-generator/)
+
+[BACKSTORY GENERATOR](https://www.kassoon.com/dnd/backstory-generator/)
+
 [Вернуться к общему списку полезных ссылок](https://github.com/palikhov/DnD_Palant_edition/blob/master/docs/external-links.md)
