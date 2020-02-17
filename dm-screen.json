@@ -1,0 +1,414 @@
+{
+	"w": 15,
+	"h": 1,
+	"ctc": true,
+	"fs": false,
+	"lk": false,
+	"ps": [
+		{
+			"x": 6,
+			"y": 0,
+			"w": 9,
+			"h": 1,
+			"t": 14,
+			"c": {
+				"b": "RoL",
+				"c": 0
+			},
+			"a": [
+				{
+					"t": 2
+				},
+				{
+					"t": 8,
+					"s": {
+						"state": {
+							"time": 144002,
+							"browseTime": null,
+							"isBrowseMode": false,
+							"hoursPerDay": 24,
+							"minutesPerHour": 60,
+							"secondsPerMinute": 60,
+							"hoursPerLongRest": 8,
+							"minutesPerShortRest": 60,
+							"secondsPerRound": 6,
+							"offsetYears": 0,
+							"offsetMonthStartDay": 0,
+							"days": {
+								"c046723f-91ff-4a95-9c83-dd0108a2fd24": {
+									"name": "Oneday",
+									"isDeleted": false,
+									"id": "c046723f-91ff-4a95-9c83-dd0108a2fd24",
+									"pos": 0
+								},
+								"5e404937-71fd-461e-8e2e-7d640a7e39ff": {
+									"name": "Twoday",
+									"isDeleted": false,
+									"id": "5e404937-71fd-461e-8e2e-7d640a7e39ff",
+									"pos": 1
+								},
+								"e887ec21-644a-4e8d-ac5d-9d13b9e43bdc": {
+									"name": "Threeday",
+									"isDeleted": false,
+									"id": "e887ec21-644a-4e8d-ac5d-9d13b9e43bdc",
+									"pos": 2
+								},
+								"82e1c5d9-e19b-4744-a13c-010b35c00fef": {
+									"name": "Fourday",
+									"isDeleted": false,
+									"id": "82e1c5d9-e19b-4744-a13c-010b35c00fef",
+									"pos": 3
+								},
+								"36278134-8fdf-460c-8442-23afb69384c5": {
+									"name": "Fiveday",
+									"isDeleted": false,
+									"id": "36278134-8fdf-460c-8442-23afb69384c5",
+									"pos": 4
+								},
+								"a89c045f-efdc-4566-b33b-20ceb1040899": {
+									"name": "Sixday",
+									"isDeleted": false,
+									"id": "a89c045f-efdc-4566-b33b-20ceb1040899",
+									"pos": 5
+								},
+								"c90772a0-796a-4b6f-ac42-8b6b6bff9a0c": {
+									"name": "Sevenday",
+									"isDeleted": false,
+									"id": "c90772a0-796a-4b6f-ac42-8b6b6bff9a0c",
+									"pos": 6
+								}
+							},
+							"months": {
+								"16aacb2f-a824-4af8-b2ce-9780559fcb49": {
+									"name": "Oneuary",
+									"days": 30,
+									"isDeleted": false,
+									"id": "16aacb2f-a824-4af8-b2ce-9780559fcb49",
+									"pos": 0
+								},
+								"213f4377-a715-45af-b3a8-5240336c9513": {
+									"name": "Twouary",
+									"days": 30,
+									"isDeleted": false,
+									"id": "213f4377-a715-45af-b3a8-5240336c9513",
+									"pos": 1
+								},
+								"d1885be7-5423-4e77-8da5-90fab7f9341a": {
+									"name": "Threeuary",
+									"days": 30,
+									"isDeleted": false,
+									"id": "d1885be7-5423-4e77-8da5-90fab7f9341a",
+									"pos": 2
+								},
+								"0ad0e168-5456-45eb-a1d9-1c765c742d7a": {
+									"name": "Fouruary",
+									"days": 30,
+									"isDeleted": false,
+									"id": "0ad0e168-5456-45eb-a1d9-1c765c742d7a",
+									"pos": 3
+								},
+								"1aa59236-7872-4c2c-8520-299e8f037d37": {
+									"name": "Fiveuary",
+									"days": 30,
+									"isDeleted": false,
+									"id": "1aa59236-7872-4c2c-8520-299e8f037d37",
+									"pos": 4
+								},
+								"aa98a7b2-cae4-4743-bee4-4c5c3582009b": {
+									"name": "Sixuary",
+									"days": 30,
+									"isDeleted": false,
+									"id": "aa98a7b2-cae4-4743-bee4-4c5c3582009b",
+									"pos": 5
+								},
+								"14938409-8b90-48e8-a1c2-965cc08c0bc7": {
+									"name": "Sevenuary",
+									"days": 30,
+									"isDeleted": false,
+									"id": "14938409-8b90-48e8-a1c2-965cc08c0bc7",
+									"pos": 6
+								},
+								"bb8cefc7-4e39-409f-a5e2-5cc014d2f68f": {
+									"name": "Eightuary",
+									"days": 30,
+									"isDeleted": false,
+									"id": "bb8cefc7-4e39-409f-a5e2-5cc014d2f68f",
+									"pos": 7
+								},
+								"403cb977-8b80-4877-a400-790ec623076a": {
+									"name": "Nineuary",
+									"days": 30,
+									"isDeleted": false,
+									"id": "403cb977-8b80-4877-a400-790ec623076a",
+									"pos": 8
+								},
+								"fb18a97b-6f50-428c-a642-5f65caa2149a": {
+									"name": "Tenuary",
+									"days": 30,
+									"isDeleted": false,
+									"id": "fb18a97b-6f50-428c-a642-5f65caa2149a",
+									"pos": 9
+								},
+								"0e72a3b3-f327-422a-aa01-b2f5ceeb8f42": {
+									"name": "Elevenuary",
+									"days": 30,
+									"isDeleted": false,
+									"id": "0e72a3b3-f327-422a-aa01-b2f5ceeb8f42",
+									"pos": 10
+								},
+								"4e3aa98a-e180-4c08-92d9-7deeb5b58089": {
+									"name": "Twelveuary",
+									"days": 30,
+									"isDeleted": false,
+									"id": "4e3aa98a-e180-4c08-92d9-7deeb5b58089",
+									"pos": 11
+								}
+							},
+							"events": {},
+							"encounters": {},
+							"seasons": {
+								"b6b274e1-bd47-4f4e-8b2e-7726a5d3f6b3": {
+									"name": "Season 1",
+									"startDay": 0,
+									"endDay": 89,
+									"sunriseHour": 6,
+									"sunsetHour": 22,
+									"isDeleted": false,
+									"id": "b6b274e1-bd47-4f4e-8b2e-7726a5d3f6b3"
+								},
+								"28d0ed42-db1a-423b-a858-108f26e568e6": {
+									"name": "Season 2",
+									"startDay": 90,
+									"endDay": 179,
+									"sunriseHour": 6,
+									"sunsetHour": 22,
+									"isDeleted": false,
+									"id": "28d0ed42-db1a-423b-a858-108f26e568e6"
+								},
+								"0fa5785e-17be-45db-a216-dcb113d2b4cb": {
+									"name": "Season 3",
+									"startDay": 180,
+									"endDay": 269,
+									"sunriseHour": 6,
+									"sunsetHour": 22,
+									"isDeleted": false,
+									"id": "0fa5785e-17be-45db-a216-dcb113d2b4cb"
+								},
+								"0fc50459-e982-4276-b13d-d7cb0b247a03": {
+									"name": "Season 4",
+									"startDay": 270,
+									"endDay": 359,
+									"sunriseHour": 6,
+									"sunsetHour": 22,
+									"isDeleted": false,
+									"id": "0fc50459-e982-4276-b13d-d7cb0b247a03"
+								}
+							},
+							"years": {},
+							"eras": {},
+							"moons": {
+								"61b137d8-cf60-4b88-8943-730803a0a389": {
+									"name": "Moon 1",
+									"color": "#ffffff",
+									"phaseOffset": 0,
+									"period": 24,
+									"isDeleted": false,
+									"id": "61b137d8-cf60-4b88-8943-730803a0a389"
+								}
+							},
+							"tab": 0,
+							"isPaused": false,
+							"isAutoPaused": false,
+							"hasCalendarLabelsColumns": true,
+							"hasCalendarLabelsRows": false,
+							"unitsWindSpeed": "mph",
+							"isClockSectionHidden": false,
+							"isCalendarSectionHidden": false,
+							"isMechanicsSectionHidden": false,
+							"isOffsetsSectionHidden": false,
+							"isDaysSectionHidden": false,
+							"isMonthsSectionHidden": false,
+							"isSeasonsSectionHidden": false,
+							"isYearsSectionHidden": false,
+							"isErasSectionHidden": false,
+							"isMoonsSectionHidden": false
+						},
+						"compClockState": {
+							"state": {},
+							"compWeatherState": {
+								"state": {
+									"temperature": "mild",
+									"precipitation": "sunny",
+									"windDirection": 0,
+									"windSpeed": "calm"
+								}
+							}
+						},
+						"compCalendarState": {
+							"state": {}
+						},
+						"compSettingsState": {
+							"state": {}
+						}
+					}
+				},
+				{},
+				{
+					"t": 4,
+					"c": {
+						"b": "bookref-quick",
+						"c": 2,
+						"h": "Vision and Light"
+					}
+				},
+				{
+					"t": 14,
+					"c": {
+						"b": "VGM",
+						"c": 0
+					}
+				},
+				{
+					"t": 14,
+					"c": {
+						"b": "XGE",
+						"c": 2
+					}
+				},
+				{
+					"t": 14,
+					"c": {
+						"b": "Screen",
+						"c": 0
+					}
+				},
+				{
+					"t": 14,
+					"c": {
+						"b": "GMT:Skull",
+						"c": 0
+					}
+				},
+				{
+					"t": 14,
+					"r": "Feats",
+					"c": {
+						"b": "RoL",
+						"c": 0
+					}
+				}
+			],
+			"b": 8
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"w": 6,
+			"h": 1,
+			"t": 3,
+			"s": {
+				"x": ""
+			},
+			"a": [
+				{
+					"t": 3,
+					"s": {
+						"x": ""
+					}
+				},
+				{
+					"t": 90,
+					"r": "REF",
+					"c": {
+						"u": "https://crobi.github.io/dnd5e-quickref/preview/quickref.html"
+					}
+				},
+				{
+					"t": 90,
+					"r": "NOTES",
+					"c": {
+						"u": "https://www.calmlywriter.com/online/"
+					}
+				},
+				{
+					"t": 90,
+					"r": "RND Treasure",
+					"c": {
+						"u": "https://hackmd.io/@palikhov/random-treasure"
+					}
+				},
+				{
+					"t": 90,
+					"r": "RND NPC",
+					"c": {
+						"u": "https://hackmd.io/@palikhov/random-npc"
+					}
+				},
+				{
+					"t": 9,
+					"s": {
+						"c": "5",
+						"s": "",
+						"r": [
+							{
+								"c": "3",
+								"n": ""
+							}
+						],
+						"d": {}
+					}
+				},
+				{
+					"t": 14,
+					"c": {
+						"b": "Screen",
+						"c": 0
+					}
+				},
+				{
+					"t": 16,
+					"s": {
+						"state": {},
+						"rowState": [
+							{
+								"state": {
+									"name": "",
+									"current": 1,
+									"max": 1
+								}
+							},
+							{
+								"state": {
+									"name": "",
+									"current": 0,
+									"max": 1
+								}
+							}
+						]
+					}
+				},
+				{
+					"t": 3,
+					"s": {
+						"x": ""
+					}
+				}
+			],
+			"b": 8
+		}
+	],
+	"ex": [
+		{
+			"x": 6,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-quick",
+				"c": 0,
+				"h": "Languages"
+			}
+		}
+	]
+}
