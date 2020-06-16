@@ -1,3 +1,1271 @@
+# Spells I
+
+###### tags: `DEADLY MARCHES`, `SPELLS`, `RULES`
+
+[Spells and Spellbooks - Houserules](https://www.worldanvil.com/w/not-forgotten-realms-palant/a/spells-and-spellbooks---houserules-article)
+
+[SPELLS EXCEL BOOK]()
+
+[toc]
+
+
+## ТИПЫ ЗАКЛИНАНИЙ
+
+### УНИКАЛЬНЫЕ
+
+Уникальные заклинания могут существовать только у одного класса, не взирая на Arcane Secrets или другие возможности получить заклинание другого класса.
+
+#### Уникальные заклинания барда
+Vicious Mockery 0
+#### Уникальные заклинания жреца
+
+Holy Weapon 5
+Planar Ally 6
+
+#### Уникальные заклинания друида (рейнджера)
+Goodberry 1
+Healing Spirit 2
+Spirit of Healing 2
+#### Уникальные заклинания паладина
+Find Steed 2
+Find Greater Steed 4
+Holy Weapon 5
+Circle of Power 5
+#### Уникальные заклинания рейнджера
+Hunter's Mark 1
+Hail of Thorns 1
+Ensnaring Strike 1
+Guardian of Nature 4
+Swift Quiver 5
+
+
+
+#### Уникальные заклинания колдуна
+Hagar
+
+#### Уникальные заклинания чародея
+none
+#### Уникальные заклинания волшебника
+none
+
+### ИМЕННЫЕ ЗАКЛИНАНИЯ
+
+Именные заклинаиня по умолчанию существуют только у волшебников
+
+### ДОМЕННЫЕ ЗАКЛИНАНИЯ
+
+Некоторые доменные заклинания недоступны для всех клериков
+
+### Длительность заклинаний
+
+Если длительность указана больше чем 1 действие, то заклинатель считается концентрирующимся на сотворении этого закланиня и оно будет сотворено в тот момент, когда заклинатель потратит все необходимые действия.
+
+
+
+## CANTRIPS 
+### Empowered Strike
+Evocation cantrip
+Casting Time: 1 action
+Component: V, M (a weapon) Range: 5 feet
+Duration: Instantaneous
+
+You envelop your weapon with energy that empowers your strike and it slams into an adjacent foe. As part of casting this spell, make a melee weapon attack against one creature within range, otherwise the spell fails. On a hit, the target suffers the attack's normal effects, and crackling black force leaps from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes force damage equal to your spellcasting ability modifier.
+This spell's damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d8 force damage to the target, and the force damage to the second creature increases to 1d8 + your spellcasting ability modifier. Both damage rolls increase by 1d8 at 11th level and 17th level.
+
+Classes: Domain War, Wizard, Warlock, Sorcerer, Priests of Red Knight, Tempus, Helm, Torm, Tyr, Gruumsh
+### Resonant Blade Strike
+Evocation cantrip
+Casting Time: 1 action 
+Components: V, M (a weapon) Range: 5 feet
+Duration: Instantaneous
+You sheath your blade in humming energy that is violently released when you strike. As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails. On a hit, the target suffers the attack's normal effects, and all other creatures within 5 feet of you must make a Dexterity saving throw or take thunder damage equal to your spellcasting ability modifier.
+This spell's damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d6 thunder damage to the target, and the thunder damage to the other creatures increases to 1d6 + your spellcasting ability modifier. Both damage rolls increase by 1d6 at 11th level and 17th level.
+
+### Elemental Bolt
+Evocation cantrip
+Casting Time: 1 action Range: 90 feet Components: V, S, M (a gem for earth, a feather for air, a shell for water, or a coal for fire)
+Duration: Instantaneous
+You create a bolt infused with elemental energy that you hurl at a creature you can see within range. You choose bludgeoning (earth), lightning (air), fire, or slashing (water) damage for the bolt you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 1d8 damage of the type you chose. The damage of your bolt is magical.
+This spell creates more than one bolt when you reach higher levels: two bolts at 5th level, three bolts at 11th level, and four bolts at 17th level. You must choose the same element for all your bolts. You can direct the bolts at the same target or at different ones. Make a separate attack roll for each bolt.
+### Sword Burst
+The damage dice for Sword Burst are d8s, instead of d6s.
+### Lightning Lure
+The damage dice for Lightning Lure are d10s, instead of d8s.
+
+### True Strike
+now grants advantage to the first attack roll against the target before the end of your next turn, even if it is not made by you. It no longer requires concentration
+
+### GUST
+
+Transmutation cantrip
+
+Casting Time: 1 action
+
+Range: 30 feet
+
+Components: V, S
+
+Duration: Instantaneous
+
+You seize the air and compel it to create one of the fol-lowing effects at a point you can see within range:
+
+* One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
+* You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. This object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.
+* You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters closed, or your clothing to billow impressively in a breeze
+
+### HURL ROCKS
+
+Conjuration cantrip
+
+Casting Time: 1 action
+
+Range: 60 feet
+
+Components: V, S, M (a handful of pebbles)
+
+Duration: Instantaneous
+
+You hurl a handful of pebbles at one creature within range, or choose two creatures within range that are within 5 feet of each other A target must succeed on a Dexterity saving throw or take 1d6 bludgeoning damage.
+
+This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+## 1ST LEVEL
+### Ensnaring Strike
+ 
+1st-level conjuration
+ 
+Casting Time: 1 bonus action
+ 
+Range: Self
+ 
+Components: V
+ 
+Duration: up to 1 minute
+ 
+The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength saving throw or be restrained by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away.
+ 
+While restrained by this spell, the target takes 2d6 piercing damage at the start of each of its turns. A creature restrained by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed.
+ 
+At Higher Levels. If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d6 for each slot level above 1st.
+### Force Bolt
+1st-level evocation
+Casting Time: 1 action Range: 120 feet Components: V, S
+Duration: Instantaneous
+
+You fire a bolt of pure force at a creature you can see within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 force damage. Your target must then make a successful Strength saving throw or be shoved back 10 feet.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+
+
+Classes: Wizard, Sorcerer
+
+### His Blade Shall Not Harm Me
+1st-level abjuration
+Secret Spell: Faithful of Hurrian
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 1 hour
+Secret spell
+
+God's blessing enfolds you. For the duration, you have resistance to slashing damage.
+
+Classes: Cleric
+
+### ЧУДО-ЯГОДЫ 1
+1 уровень, преобразование
+
+Время накладывания: 1 действие
+Дистанция: Касание
+Компоненты: В, С, М (ветка омелы)
+Длительность: Мгновенная
+
+В вашей руке появляются до десяти ягод, наполненных магией. Любое существо может действием съесть одну ягоду. Это восстанавливает 1 хит.~~,~~~~ и ягода настолько питательна, что насыщает существо на весь день.~~
+Ягоды теряют силу, если их не съесть через 24 часа после создания.
+### Ensnaring Strike 1
+ 
+1st-level conjuration
+ 
+Casting Time: 1 bonus action
+ 
+Range: Self
+ 
+Components: V
+ 
+Duration: up to 1 minute
+ 
+The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength saving throw or be restrained by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away.
+ 
+While restrained by this spell, the target takes 2d6 piercing damage at the start of each of its turns. A creature restrained by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed.
+ 
+**At Higher Levels.** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d6 for each slot level above 1st.
+
+**CLASSES:** 
+
+****
+ 
+### Hunter's Mark 1
+
+
+
+### Hail of Thorns 1
+ 
+1st-level conjuration
+ 
+Casting Time: 1 bonus action
+ 
+Range: Self
+ 
+Components: V
+ 
+Duration: up to 1 minute
+ 
+The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d12 piercing damage on a failed save, or half as much damage on a successful one.
+ 
+At Higher Levels. If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d12 for each slot level above 1st (to a maximum of 6d12).
+ 
+**CLASSES:** 
+
+****
+### Cure Wounds 1
+ 
+1st-level evocation
+ 
+Casting Time: 1 action
+ 
+Range: Touch
+ 
+Components: V, S
+ 
+Duration: Instantaneous
+ 
+A creature you touch regains a number of hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+ 
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 2d8 for each slot level above 1st.
+
+**CLASSES:** 
+
+****
+### HOVERING FIRE 1
+1st-level evocation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (a twig dipped in pitch which is consumed in the casting) 
+Duration: 1 hour
+
+You create a flickering flame that appears above your head and sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The flame moves with you and follows you for the duration. The spell ends if you dismiss it as an action or if you cast it again.
+You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can have the flame attack a creature within 40 feet of you. The target must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much on a successful one.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+
+**CLASSES:** 
+
+
+### ПОИСК ФАМИЛЬЯРА 1
+1 уровень, вызов (ритуал)
+
+Время накладывания: 10 часов
+Дистанция: 10 футов
+Компоненты: В, С, М (стоящие 10 зм уголь, благовония и травы, сжигаемые в огне или латунной жаровне)
+Длительность: Мгновенная
+
+Вы получаете в услужение фамильяра — духа, принимающего облик выбранного вами животного: ворона, кошки, краба, крысы, летучей мыши, лягушки (жабы), морского конька, осьминога, паука, рыбы (пиранья), совы, хорька, ядовитой змеи, ястреба или ящерицы. Появившись в свободном пространстве в пределах дистанции, фамильяр приобретает характеристики выбранной формы, хотя он не зверь, а небожитель, фея или исчадие (на ваш выбор).
+Ваш фамильяр действует независимо от вас, но всегда повинуется вашим командам. В сражении оно определяет свою инициативу и действует в свой ход. Фамильяр не может атаковать, но может совершать другие действия как обычно.
+Когда хиты фамильяра опускаются до 0, он исчезает, не оставляя физического тела. Он возвращается, когда вы используете это заклинание ещё раз.
+Пока фамильяр находится в пределах 100 футов, вы можете общаться с ним телепатически. Кроме того, вы можете действием начать смотреть глазами фамильяра и слушать его ушами до начала своего следующего хода, получая преимущество от особых чувств, которыми может обладать фамильяр. В это время для своих собственных чувств вы слепы и глухи.
+Вы можете действием временно отпустить своего фамильяра. Тот исчезает в карманном измерении, где будет ждать, пока вы его не призовёте. В качестве альтернативы, вы можете отпустить его насовсем. Пока фамильяр временно отпущен, вы можете действием вернуть его в свободное пространство в пределах 30 футов от себя.
+У вас не может быть больше одного фамильяра одновременно. Если вы накладываете это заклинание, уже имея фамильяра, вы заставляете принять его новый облик. Выберите один из описанных выше обликов. Ваш фамильяр становится этим существом.
+Если вы накладываете заклинание с дистанцией «касание», его может передать фамильяр, как если бы это он его накладывал. Ваш фамильяр должен при этом находиться в пределах 100 футов от вас, и он использует свою реакцию, когда вы накладываете его. Если заклинание требует броска атаки, вы используете свой модификатор атаки.
+#### Find Familiar
+В заклинание внесены следующие изменения:
+1.     Длительность призыва: 10 часов, при этом ритуал должен начинаться на рассвете.
+2.    Вы определяете одну форму в которой воплотится фамильяр – этот фамильяр не сможет принимать любую другую форму (если конечно его форма на это не способна самостоятельно).
+3.    Если вы захотите сменить фамильяра, то после разрыва связи с первым – второго вы сможете призвать через 10 дней.
+4.    Фамильяр развивается вместе с вашим даром заклинателя:
+- фамильяр получает +1 хп за каждый уровень заклинателя
+-  начальное значение Интеллекта фамильяра – 6 или значение Интеллекта выбраннй формы, если оно выше
+- Интеллект фамильяра развивается с уровнем заклинателя –  Интеллект фамильяра равен 6+(уровень заклинателя-2)/2 (округляется в меньшую сторону, но не меньше 0).
+- Начиная с 6 уровня заклинателя фамильяр получает возможность полноценно разговаривать телепатически с заклинателем), а с 11 уровня заклинателя – просто получает дар речи
+5. В случае если призванный фамильяр погибает, а заклинатель еще жив то заклинатель получает урон в размере Уровень к4 (т.е. на 5ом уровне заклинателя – 5к4). Фамильяр может быть возвращен к жизни повторным ритуалом призыва заклинателем с полным количеством хитов
+
+### HOVERING FIRE 1
+1st-level evocation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (a twig dipped in pitch which is consumed in the casting) 
+Duration: 1 hour
+
+You create a flickering flame that appears above your head and sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The flame moves with you and follows you for the duration. The spell ends if you dismiss it as an action or if you cast it again.
+You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can have the flame attack a creature within 40 feet of you. The target must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much on a successful one.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+ 
+
+
+### IDENTIFY 1
+
+Whenever a spellcaster attempts to cast the identify spell, you can use these rules as an alternative. These rules try to solve the problem with how the spell might reveal any mystery that could have been. Instead, it works with a set DC for how well the attempt is. This reinforces that more powerful spellcasters can properly identify the properties of an artifact, whereas a new wizard or sorcerer would not be able to.
+Whenever the identify spell is cast, the caster must make an ability check using their spellcasting ability. The DC can be found below on the Identify Item table. On a success, the creature learns the properties of the magic item. On a failure, the creature cannot cast identify on the item for the next 24 hours.
+IDENTIFY ITEM
+DC | Magic Item Rarity
+--|--
+5 | Common 
+10 | Uncommon
+15 | Rare
+20 | Very Rare
+25 |Legendary
+30 |Sentient Items or Artifacts
+
++2 per additional traits or feature of item
+### COMPREHEND LANGUAGES 1 NERF
+
+Не помогает с записями.
+
+
+****
+## 2ND LEVEL
+### BLADEWEAVE
+2nd-level illusion
+Casting Ti me: 1 bonus action
+Range: Self Components: V
+Duration: Concentration, up to 1 minute
+Every movement you make with your weapon is beautiful and full of flourish for the spell's duration. Once per turn when you hit a creature with a melee weapon attack during the spell's duration, you can force the target to make a Wisdom saving throw. On a failed save, the creature is incapacitated until the end of its next turn or until it takes damage. Creatures immune to being charmed automatically succeed on this saving throw.
+
+### Primal Senses
+2nd-level transmutation
+Casting Time: 1 bonus action Range: Self
+Components: V Duration: 1 hour
+You gain the keen hearing and smell of a wild beast. 
+For the duration, you have advantage on Wisdom (Perception) and Wisdom (Survival) checks to track. You also gain a +5 bonus to your passive Perception.
+
+Classes: **Druid**, **Ranger**
+### Call to Arms
+2nd-level transmutation (ritual)
+Casting Time: 20 minutes
+Range: Touch
+Components: V, S, M (a suit of armor or a weapon) Duration: Until dispelled
+You enchant a chosen weapon (ranged weapons include 20 arrows/bolts in their quiver, or 10 packs of shot for flintlocks), or a suit of armor (including a shield) of your choice.
+As a bonus action, you can call forth the item you enchanted, ending this spell. The item teleports to you, over a distance of up to 50 miles. It will pass through any barriers, except an effect that would block teleportation.
+A weapon summoned with this spell appears in hand ready to be used, while a suit of armor and a shield appear strapped and buckled onto you, ready for action.
+### Whirling Blade
+2nd-level transmutation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (a melee weapon you are proficient with)
+Duration: Instantaneous
+You throw your weapon, using your magic to guide it to your chosen targets and back to your hand. You can make 3 attacks with your weapon, striking creatures you can see within range. You can strike a target more than once.
+For each attack with your weapon, make a ranged spell attack. On a successful attack, your weapon deals damage as normal plus an additional 1d8 damage of the same type as your weapon. Your weapon returns to your outstretched hand once all this spell's attacks are completed.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the additional damage dealt by your weapon increases by 1d8 for each slot level above 2nd.
+
+### Tellsong
+
+2nd level abjuration (ritual)
+Casting Time: 1 minute
+Range: Area 10x10x10 fts
+Components: V, S, M (small silver chime cost at least 5 gp)
+Duration: 8 hours
+
+A tellsong is an alarm spell, triggered under specific conditions (like those governing a magic mouth), that is invisible, and its "alarm" is a chiming tune, audible only to the caster (unless the caster desires otherwise and sets it so during casting), that sounds whenever the caster comes within range. It either chimes one way, to signal its continued presence and active status, or another way, to tell the caster whatever it was set to detect has happened. If touched by detection magic or by any powerful unleashed magical effect, the tellsong is instantly and tracelessly destroyed (i.e. the person detecting magic wouldn't detect it, because their attempt to detect it would destroy it).
+> Meaning, in this particular case, the Lord Warder knows that someone or something destroyed this tellsong of his, without "setting it off." Which in turn usually means a spellcaster of some skills, who was alert for traps or alarms, has been in a tellsong-guarded area. The name of the spell came from its earliest form, devised long ago, when Myth Drannan casters (usually elves, but this was the [[first]]time of the City of Song open to all races) sang something or magically "recorded" someone else singing something, and used it as the audible alarm part of the spell.
+ 
+### HAMMER OF MORADIN 2
+2nd-level evocation
+Casting Time: 1 action
+Range: 80 feet
+Components: V, S, M (a small hammer made of gold)
+Duration: 1 round
+
+You create a glowing, hammer-shaped field of force that hits a creature of your choice that you can see within range. The hammer deals 1d4 +1 points of force damage. Additionally, the creature must succeed on a Constitution saving throw or be stunned until the spell ends.
+At Higher Levels. When you cast this spell using a spell slot of 3rd-level or higher, the force damage increases by 1d4 +1 for each slot level above 2nd.
+### GLOWGLORY 2
+
+2nd-level evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (diamond dust worth 50 gp, which the spell consumes)
+Duration: Until dispelled
+
+This spell operates identically to the spell continual flame.
+If you cast this spell upon a glowstone (see the DMs Guild article “Bazaar of the Bizarre - From the Forge”) using a 4th level spell slot you can cause the glowstone to emit a blinding ray of energy that shoots out toward a creature within 60 feet. Make a ranged spell attack against the target. On a hit, it takes 6d6 force damage and must make a Constitution saving throw. On a failed save, it is also blinded until the start of your next turn.
+At Higher Levels. When you cast this spell on a glowstone using a spell slot of 5th level or higher, the damage increases by 1d6 for each slot above 4th.
+
+### Melfs Acid Arrow 2
+ 
+2nd-level evocation
+ 
+Casting Time: 1 action
+ 
+Range: 90 feet
+ 
+Components: V, S, M (powdered rhubarb leaf and an adder's stomach)
+ 
+Duration: Instantaneous
+ 
+A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 6d4 acid damage immediately and 3d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
+ 
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 2d4 for each slot level above 2nd.
+
+**CLASSES:** 
+
+****
+### Hold Person 2
+ 
+2-level Enchantment
+
+**Casting Time** 1 action
+
+**Range:** 60 feet
+
+**Duration:** up to 1 minute
+
+**Components:** V, S, M (a small, straight piece of iron)
+
+Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+ 
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
+
+**CLASSES:** Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
+
+**** 
+### Barkskin 2
+ 
+2nd-level transmutation
+ 
+**Casting Time:** 1 bonus action or 1 action
+ 
+**Range:** Touch
+ 
+**Components:** V, S, M (a handful of oak bark)
+ 
+**Duration:** 1 hour
+ 
+You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
+
+**CLASSES:** Druid, Ranger
+
+**** 
+### CIRCLE OF FLAME  2
+2nd-level evocation
+Casting Time: 1 action
+Range: Self (10-foot radius)
+Components: V, S, M (a pinch of sulfur)
+Duration: Concentration, up to 1 minute
+
+You create a ring of fire centered on you in a 10-foot radius. The ring of fire is as high as you desire up to maximum of 20 feet, but cannot be made to close at the top, into a sphere. A creature takes 4d4 fire damage when it enters the spell's area for the first time on a turn or starts its turn there. You can pass through the ring of fire repeatedly without harm.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above second.
+
+**CLASSES:** 
+
+**** 
+### Scorching Spear 2
+
+2nd-level evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S, M (a charcoal twig) Duration: Concentration, up to 10 minutes
+
+You evoke a fiery weapon in your free hand, similar in size and shape to a spear, which lasts for the duration. If you let go of the spear, it disappears, but you can evoke the spear again as a bonus action.
+You can use your action to make a melee spell attack with the spear. On a hit, the target takes 3d6 fire damage. The scorching spear sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+You can also hurl the spear, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you make a ranged spell attack at a creature within 60 feet of you. On a hit, the target takes 3d6 fire damage on a failed save, or half as much on a successful one.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slots above 2nd.
+
+**CLASSES:** 
+
+**** 
+### Reveal Magic 2
+ 
+2nd-level divination (ritual)
+ 
+Casting Time: 1 action
+ 
+Range: Self
+ 
+Components: V, S
+ 
+Duration: Concentration, up to 10 minutes
+ 
+You can make the hidden auras of magical spells and items visible to all, rather than personally viewing them with detect magic. When cast, the spell reveals all magic within a 20 foot radius as radiance, and you may move around an area while the spell is active, as it remains centered on you. The magic does not differentiate between different intensities or types of magic when used thus.
+ 
+Anyone may choose to study a source of magic within the revealed area in order to learn more about it. This requires an Intelligence (Arcana) check, DC 14, with success revealing a rough idea of the intensity of the magic (as determined by spell level or magical item rarity), and the primary color of the studied radiance revealing to what school of magic that effect belongs.
+ 
+Like detect magic, this spell is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+ 
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the area affected by the spell increases by 10 feet in radius per spell level above 2nd.
+ 
+**CLASSES:** 
+
+**** 
+### Wound Bind 2
+ 
+2nd-level necromancy
+ 
+Casting Time: 1 action
+ 
+Range: Touch
+ 
+Components: V, S
+ 
+Duration: Instantaneous
+ 
+You can cause wounds to stop bleeding and being knitting immediately, drawing on the body's own natural vitality to do so. The target you touch with this spell may immediately spend hit dices up to spellcasting modifier of caster as a Reaction, rolling it and adding his Constitution bonus to the result, gaining that many hit points.
+ 
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the target may spend one additional hit die for every spell level above 2nd.
+
+~~### Lesser Fabricate 2
+ 
+~~2nd-level transmutation~~
+ 
+~~Casting Time: 10 minutes~~
+ 
+~~Range: 120 feet~~
+ 
+~~Components: V, S~~
+ 
+~~Duration: Instantaneous~~
+ 
+~~You convert raw materials into products of the same material. For example, you could fabricate an oar from a wooden limb, or a shirt from a clump of wool.~~
+ 
+~~Choose raw materials that you can see within range. You can fabricate a Medium or smaller object (contained within a 5-foot cube, or eight connected 2.5-foot cubes), given sufficient quantity of raw material. If you are working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Small (contained within a single 2.5-foot cube). The quality of objects created by this spell is commensurate with the quality of the raw materials.~~
+ 
+~~Creatures or magic items can’t be created by this spell. You also can’t use it to create items that require a high-degree of craftmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan’s tools used to craft such objects.~~
+
+
+### Wieldskull 2 
+ 
+2nd-level divination
+ 
+Casting Time: 1 action
+ 
+Range:Touch
+ 
+Components: V, S
+ 
+Duration: Concentration, up to 10 minutes
+ 
+You touch a creature and imbue it with the ability to wield one set of tools with which you are already proficient. For the duration, the target can add its proficiency bonus to any ability checks it makes with the chosen set of tools.
+ 
+Alternatively, if you choose yourself as a target while touching a creature that is proficient with a set of tools that you aren't proficient with—you gain proficiency with the chosen set of tools for the duration.
+
+
+
+
+### ПОИСК СКАКУНА 2
+2 уровень, вызов
+
+Время накладывания: 10 минут
+Дистанция: 30 футов
+Компоненты: В, С
+Длительность: Мгновенная
+
+Вы вызываете дух, принимающий облик невероятно умного, сильного и верного скакуна, создавая долгосрочную связь с ним. Появляясь в свободном пространстве в пределах дистанции, скакун принимает выбранный вами облик, такой как боевой конь, пони, верблюд, лось или мастифф (Мастер может позволить призывать в качестве скакунов других животных). Скакун приобретает характеристики выбранной формы, хотя на самом деле он является небожителем, феей или исчадием (на ваш выбор). Кроме того, если у вашего скакуна Интеллект 5 или меньше, его Интеллект становится равен 6, и он получает способность понимать один язык на ваш выбор, на котором вы разговариваете.
+Ваш скакун служит вам как в бою, так и вне его, и у вас с ним есть инстинктивная связь, позволяющая сражаться как единое целое. Находясь верхом на скакуне, вы можете делать так, что наложенные вами заклинания, нацеливающиеся только на вас, будут нацелены ещё и на скакуна.
+Когда хиты скакуна опускаются до 0, он исчезает, не оставляя физического тела. Вы можете также в любое время отпустить скакуна действием, заставляя его исчезнуть. В любом случае, повторное использование этого заклинания призывает этого же скакуна, восстанавливая хиты до максимума.
+Пока скакун находится в пределах 1 мили от вас, вы можете общаться с ним телепатически.
+У вас не может быть больше одного скакуна, призванного этим заклинанием, одновременно. Вы можете действием навсегда отпустить скакуна, освободив его от уз и заставляя исчезнуть.
+В случае смерти скакуна, вы не можете призвать его (или любого другого скакуна) в течении 10 дней.
+
+
+
+## 3RD LEVEL
+
+### Precognition
+3rd-level divination
+
+Secret Spell: 
+
+Casting Time: 1 minute
+Range: Self
+Components: V, S, M (incense worth at least 10 gp, which the spell consumes)
+Duration: 24 hours
+
+You can sense future. During the duration, you can choose to end this spell and receive one of the following boons. If you have not chosen a boon at the end of the duration, the spell ends with no effect.
+• **Avoid Ambush**: If you fail a Wisdom (Perception) check, as a reaction you can end this spell to re-roll the check with advantage.
+• **Avoid the Blow**: If you are attacked, as a reaction you can end this spell to force your attacker to re-roll their attack with disadvantage.
+• **Avoid Disaster**: If you fail a saving throw, as a reaction you can end this spell to re-roll your saving throw with advantage.
+• **Avoid Surprise**: If you roll initiative and are surprised, you can end this spell to not be surprised.
+### Righteous Strike
+3rd-level evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 1 minute
+You call upon the righteousness of your god to strike down those who stand against you. Until the spell ends, your weapon is infused with energy from your deity. Whenever you successfully hit a creature with a melee weapon attack, you deal an additional 1d8 with the damage type based on your patron deity.
+The creature you hit must also make a Charisma saving throw or suffer additional effect, based on your patron deity. If a creature succeeds on their saving throw to resist the additional effect, that creature does not need to make any more saving throws to resist the additional effect of this spell until the next dawn.
+Consult the Righteous Strike table for the damage you deal with this spell and the additional effect.
+At Higher Levels: When you cast this spell using a spell slot of 5th or 6th level, the additional damage dealt by this spell extra damage increases to 2d8. When you use a spell slot of 7th level or higher, the additional damage dealt by this spell extra damage increases to 3d8.
+
+
+Righteous Strike
+Deity | Damage | Additional Effect
+--|--|--
+Talos | Thunder | You target is stunned until the end of your next turn.
+xxx | Psychic	| You target is stunned until the end of your next turn.
+xxx	| Radiant |	Your target is restrained until the end of your next turn.
+Bane | Psychic |	Your target is frightened of you until the end of your next turn.
+Talona | Poison	| Your target is blinded until the end of their next turn.
+Kossuth | Fire	| You target is stunned until the end of your next turn.
+Talos | Lightning | Your target is stunned until the end of your next turn.
+Torm | Radiiant |	Your target is stunned until the end of your next turn.
+xxx |Poison	|Your target is poisoned until the end of your next turn.
+xxx |Fire	|You target is stunned until the end of your next turn.
+Sune |Psychic	|Your target is charmed by you until the end of your next turn.
+xxx |Fire	|You target is stunned until the end of your next turn.
+Bane, Baal, Myrkul	|Necrotic	|Your target is frightened of you until the end of your next turn.
+xxx |Acid	|Your target is restrained until the end of your next turn.
+Mystra |Force	|Your target is frightened of you until the end of your next turn.
+xxx |Acid|	Your target is frightened of you until the end of your next turn.
+xxx |Cold|	Your target is restrained until the end of your next turn.
+
+### Blade Storm
+3rd-level evocation
+Casting Time: 1 action Range: 150 feet
+Components: V, S, M (a small chain with tiny blades shaped like lightning bolts as charms)
+Duration: Instantaneous
+A location within range that you can see erupts in a cloud of flashing blades, cutting those within it to ribbons. The cloud of blades flares up in a 10-foot radius, 40-foot high cylinder. All creatures within the cylinder must make a Dexterity saving throw. A target takes 6d6 slashing damage on a failed save, or half as much damage on a successful one.
+The blades spread around corners and will destroy small, delicate, unattended objects.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+### Prayer
+ 
+3rd-level conjuration
+ 
+Casting Time: Bonus action
+ 
+Range: 25 feet
+ 
+Duration: Concentration, up to 1 minute
+ 
+Choose number of creatures within range up to your spellcasting ability modifier. Until the spell ends, each target gains the blessing of the gods, manifested in a +1 bonus to AC, attack rolls, weapon damage rolls, ability checks, and saving throws.
+ 
+ 
+### Minor Creation~~
+3rd-level illusion 
+Casting Time: 1 minute 
+Range: 30 feet 
+**Components:** V, S, M (a tiny piece of matter of the same type of the item you plan to create) 
+**Duration:** Special 
+
+You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects from :, crystal, or metal. The object created must be no larger than a 2.5-foot cube and it must be of a form that you have seen before.The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.~~
+ 
+### Holy Vigor
+ 
+3rd-level abjuration
+ 
+Casting Time: 1 action
+ 
+Range: Touch
+ 
+Duration: 8 hours
+ 
+Your touch imbues a willing creature with blessed vigor. It gains **3d8 + 9 temporary hit points** for the duration. These hit points can exceed the creature’s hit point maximum, and they cannot be regained. If the creature takes any damage, these hit points are lost first.
+ 
+**At Higher Levels:** When you cast this spell using a spell slot of 4th level or higher, the temporary hit points increase by 2d8 for each level above 3rd.
+
+### Elemental Mantle
+ 
+3rd-level transmutation
+ 
+Casting Time: 1 action
+ 
+Range: Self
+ 
+Duration: 10 minutes
+ 
+Wrapping yourself in power from the Elemental Planes, you assume an elemental mantle for the duration. The effects of the mantle are determined by the element you choose.
+ 
+Air: You are unaffected by difficult terrain on the ground. The range of all your weapon attacks is doubled, and ranged weapon attacks have disadvantage against you or targets within 5 feet of you.
+ 
+Earth: You are unaffected by difficult terrain that results from rock or rubble, and the ground within 20 feet of you is difficult terrain to others. Additionally, when you take bludgeoning, piercing, or slashing damage, you can use your reaction to halve that damage.
+ 
+Fire: You are immune to fire damage. When a creature within 5 feet of you hits or misses you with a melee attack, or otherwise makes physical contact with you, that creature takes 1d6 fire damage. In addition, your melee attacks deal 1d6 extra fire damage.
+ 
+Water: You have a swim speed equal to your land speed, and you can breathe underwater. You also have fire resistance. Finally, whenever you take fire or lightning damage, choose a point within 20 feet of you. Steam fills a 20-foot radius centered on that point, heavily obscuring the area until the end of your next turn.
+ 
+### GLYPH OF BATTLE 3
+3rd-level evocation
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M (gold dust worth at least 200 gp, which the spell consumes)
+Duration: Until dispelled or triggered
+
+When you cast this spell, you inscribe a glyph upon **a nonmagical melee or ranged weapon**. A creature can use its reaction to trigger the glyph of battle and must be in direct physical contact with the weapon for this to occur. The most commonly encountered glyphs of battle are named after the dwarven priests and warriors who first devised and/or made them famous among the dwarves of the North. These glyphs are:
+**XXX's glyph.** This glyph causes the weapon to glow with a pale, green radiance. On a hit, the attack deals an extra 2d6 acid damage to the target. The pale, green radiance lasts for 10 minutes.
+**XXX's glyph.** This glyph causes the weapon to glow with a fiery, red radiance. On a hit, the attack deals an extra 2d6 fire damage to the target. The fiery, red radiance lasts for 10 minutes.
+**XXX's glyph.** This glyph causes the weapon to glow with a constant, golden radiance and gives proficiency with that weapon to the creature wielding it for 8 hours.
+**XXX's glyph.** This glyph causes the weapon to glow with a bright, white radiance. On a hit, the attack deals an extra 2d6 cold damage to the target. The bright, white radiance lasts for 10 minutes.
+**XXX's glyph.** This glyph causes the weapon to shimmer with a faint silver radiance and gives a +1 bonus to attack rolls and damage rolls for 2 hours.
+**XXX's glyph.** This glyph causes the weapon to glow with a flickering, yellow radiance. On a hit, the attack deals an extra 2d6 lightning damage to the target. The flickering, yellow radiance lasts for 10 minutes.
+**XXX's glyph.** This glyph causes the weapon to glow with an iridescent, black radiance. On a hit, the attack deals an extra 2d6 poison damage to the target. The iridescent, black radiance lasts for 10 minutes.
+**XXX's glyph.** This glyph causes the weapon to glow with a fiery, red radiance. On a hit, the attack deals an extra 2d6 fire damage to the target. The fiery, red radiance lasts for 10 minutes.
+**XXX's glyph.** This glyph causes the weapon to glow with a swirling, grey radiance. On a hit, the attack deals an extra 2d6 thunder damage to the target. The swirling, grey radiance lasts for 10 minutes.
+Weapons that are enhanced by a glyph of battle become magic weapons for the durations noted above, and ranged weapons impart the effects of the various glyphs on their ammunition as applicable.
+
+
+
+### BRIGHTFIRE 3
+3rd-level evocation
+Casting Time: 1 action
+Range: 150 feet
+Components: V, S, M (a pinch of magnesium filings)
+Duration: Instantaneous
+A bright streak flashes from your pointing finger to a point you choose within range and then flares into a burst of brilliant light. Each creature in a 20-foot radius sphere centered on that point must make a Constitution saving throw. A target takes 3d6 fire damage and 3d6 radiant radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this saving throw.
+A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.
+This spell dispels any darkness in its area that was created by a spell.
+
+### WALL OF SMOKE 3
+3rd-level evocation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (a green twig that is set alight and consumed in the casting) Duration: Concentration, up to 10 minutes
+You create a wall of smoke on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.
+When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 2d8 fire damage and 2d8 poison damage, or half as much on a successful save.
+A creature can move through the wall, but the first time a creature enters the wall on a turn or ends its turn there, the creature takes 2d8 fire damage and 2d8 poison damage, or half as much on a successful save.
+At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d4 fire damage and 1d4 poison damage for each slot above 3rd.
+ 
+
+
+### Analyze Contraption 3
+ 
+3rd-level divination (ritual)
+ 
+Casting Time: 1 minute
+ 
+Range: 10 feet
+ 
+Components: V, S Duration: Concentration, up to 10 minutes
+ 
+For the duration, you gain advantage on Intelligence (Investigation) checks to figure out how a device, trap, or mechanism works. If you are successful on your Investigation check when analyzing a device, you gain advantage on any ability checks used to disarm or operate the object's mechanisms for the duration.
+### Beacon of Hope
+ 
+3rd-level abjuration
+ 
+Casting Time: 1 action
+ 
+Range: 30 feet
+ 
+Duration: 1 minute
+ 
+Choose any number of creatures within range. Your prayer fills these creatures with hope, vitality, and the will to push through the most trying circumstances. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and a target regains the maximum number of hit points possible from any healing.
+
+
+### GLYPH OF PROTECTION 3
+
+3rd-level abjuration
+
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M (gold dust worth at least 200 gp, which the spell consumes)
+Duration: Until dispelled or triggered
+
+When you cast this spell, you inscribe a glyph upon nonmagical armor or a nonmagical shield. A creature can use its reaction to trigger the glyph of protection and must be in direct physical contact with the armor or shield for this to occur. The most commonly encountered glyphs of protection are named after the dwarven priests and warriors who first devised and/or made them famous among the dwarves of the North. These glyphs are:
+**Arn's glyph.** You have resistance to fire damage for 1 hour while wearing the armor or wielding the shield this glyph is inscribed on.
+**Bran's glyph.** You have resistance to cold damage for 1 hour while wearing the armor or wielding the shield this glyph is inscribed on.
+Erden's glyph. You can end either one disease or one condition afflicting you while wearing the armor or wielding the shield this glyph is inscribed on. The condition can be blinded, deafened, paralyzed or poisoned.
+**Isilar's glyph.** You have resistance to necrotic damage for 1 hour while wearing the armor or wielding the shield this glyph is inscribed on.
+Jessra's glyph. You can cause your armor or shield to erupt with blinding light, causing 5d8 radiant damage to any creature within 10 feet of you.
+**Obryn's glyph.** You have resistance to bludgeoning, piercing and slashing damage for 10 minutes while wearing the armor or wielding the shield this glyph is inscribed on.
+**Rindol's glyph. **You have advantage on Strength and Constitution checks for 1 hour while wearing the armor or wielding the shield this glyph is inscribed on.
+**Snorogh's glyph.** You have advantage on saving throws against spells and magical effects for 10 minutes while wearing the armor or wielding the shield this glyph is inscribed on.
+**Tornar's glyph.** You have resistance to lightning damage for 1 hour while wearing the armor or wielding the shield this glyph is inscribed on.
+Uldred's glyph. You have a +2 bonus to AC for 1 hour while wearing the armor or wielding the shield this glyph is inscribed on.
+**Valdyr's glyph.** You can take the Dash action as a bonus action on each of your turns for 10 minutes while wearing the armor or wielding the shield this glyph is inscribed on.
+When the glyph is triggered your armor or shield is considered to be magic armor or a magic shield for the duration of the glyph's effect.
+
+### STONESIGHT 3
+
+3rd-level transmutation
+
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (ointment of stone and diamond dust worth 1 gp)
+Duration: Concentration, up to 10 minutes
+
+You gain the ability to see into or through solid rock or stone. This vision has a radius of 30 feet. Objects or barriers of stone or rock appear transparent and don't prevent light from passing through them. The vision can penetrate up to 3 feet of stone or rock and thicker objects or barriers block the vision.
+If this spell is used more than once before taking a short or long rest, you must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion.
+
+
+### ЛЕОМУНДОВА ХИЖИНА
+3 уровень, воплощение (ритуал)
+
+Время накладывания: 1 минута
+Дистанция: На себя (полусфера с радиусом 10 футов)
+Компоненты: В, С, М (маленькая кристаллическая бусина)
+Длительность: 8 часов
+
+Над вами и вокруг вас появляется неподвижный купол из силового поля с радиусом 10 футов, остающийся неподвижным всё время существования. Заклинание оканчивается, если вы покидаете его область.
+Под куполом вместе с вами могут поместиться девять существ с размером не больше Среднего. Заклинание срывается, если в его область попадает существо большего размера или более девяти существ. Существа и предметы, находившиеся под куполом, когда вы наложили это заклинание, могут свободно проходить сквозь него. Все остальные существа и предметы не могут пройти сквозь него. Заклинания и прочие магические эффекты не могут простираться под купол и не могут быть наложены сквозь него. Атмосфера под ним сухая и комфортная, какой бы ни была погода снаружи.
+Пока заклинание активно, вы можете сделать пространство под ним тускло освещённым или погружённым во тьму. Купол снаружи матовый, любого цвета, но изнутри он прозрачный.
+### ОЧИЩЕНИЕ ПИЩИ И ПИТЬЯ 3
+3 уровень, преобразование (ритуал)
+
+Время накладывания: 1 действие
+Дистанция: 10 футов
+Компоненты: В, С
+Длительность: Мгновенная
+
+Вся немагическая еда и питьё в пределах сферы с радиусом 5 футов с центром на точке, выбранной вами в пределах дистанции, очищается и избавляется от ядов и болезней
+## 4TH LEVEL
+### Phantasmal Lover 4
+4th-level illusion
+Casting Time: 1 minute 
+Range: Touch Components: V, S
+Duration: Concentration, 10 minutes
+
+Tapping into the subconscious mind of a willing creature, you call upon the seductive powers of your goddess to create a phantasmal image of what the target finds most alluring. Only the target can see the image.
+The image hovers over the target, writhing enticingly and whispering promises of physical fulfillment. The target is unconscious until the spell ends, at which point a surge of euphoria goes through the creature, causing it to regain 70 hit points. This surge of euphoria also ends blindness, deafness and any diseases affecting the creature. This spell has no effect on constructs, oozes, plants, or undead. 
+
+Classes: Bard
+### CREATE OR DESTROY WATER 4
+### RUNEWORD 4
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+
+You trace a rune with your holy symbol in mid-air while praying to your deity and affect a target or area within range. Choose one of the following runes; the target or area is affected as specified in the rune description.
+**xxxx.** The target gains the benefits of the blur spell for 1 minute. Corsimmyr. You cast a passwall spell at a point of your choice within range.
+The opening can be up to 5 feet wide, 5 feet tall and 10 feet deep and lasts for 10 minutes.
+**xxxx.** You cast the shatter spell at a point of your choice within range and each creature within the 10-foot-radius sphere must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
+**xxxx.** The target gains the benefits of the invisibility spell for 10 minutes. 
+**xxxx.** The target gains the benefits of the *mirror image* spell for 1 minute. 
+**xxxx.** You cast the knock spell on an object of your choice within range. **xxxx.** The target gains the benefits of the haste spell for 1 minute but gains only a +1 bonus to AC.
+**xxxx.** The target gains the benefits of the *stoneskin* spell for 1 minute.
+
+### Guardian of Nature
+4th-level transmutation
+
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, up to 10 minute
+
+A nature spirit answers your call and transforms you into a powerful guardian. The transformation lasts until the spell ends. You choose one of the following forms to assume: Primal Hunter or Warden. Primal Hunter Your walking speed increases by 10 feet. You gain darkvision with a range of 120 feet. You make ranged attack rolls with advantage. Your ranged weapon attacks deal an extra 1d6 force damage on a hit. Warden. You gain 10 temporary hit points. You make Constitution saving throws with advantage. You make melee attack rolls with advantage. Your melee attacks deal an extra 1d6 force damage on a hit. While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies.
+
+Classes: Druid, Ranger
+### Enchant an Item
+4th-level Enchantment (Invocation)
+
+Casting Time: Special
+
+Range: Touch
+
+Components: V, S, M (components for enchanting costs min 200 gp)
+
+Duration: Special
+
+This is a spell that must be used by a wizard planning to create a magical item. The enchant an item spell prepares the object to accept the magic. The item must meet the following tests:
+
+it must be in sound and undamaged condition;
+
+the item must be the finest possible, considering its nature, i.e., crafted of the highest quality material and with the finest workmanship; its cost or value must reflect the second test, and in most cases the item must have a raw-materials cost in excess of 200 gp.
+
+It is not possible to apply this test to items such as ropes, leather goods, cloth, and pottery not normally embroidered, bejeweled, tooled, carved, or engraved. If such work or materials can be added to an item without weakening or harming its normal func¬tions, however, these are required for the item to be enchanted.
+
+The wizard must have access to a workshop or laboratory, properly equipped and from which contaminating magic can be screened. Any magical item not related to the fabrication process (such as most protective devices) and within 30 feet of the materials is a source of contaminating magic and will spoil the process.
+
+The item to be prepared must be touched by the spellcaster. This touching must be constant and continual during the casting time, which is a base 16 hours plus an additional 1d8 hours per level of spell which will be casted after Enchant an Item(as the wizard may never work more than eight hours per day, and any other spells will not alter the time required in any way, this effectively means that casting time for this spell is two days + level of desired spell days). All work must be uninterrupted, and during rest periods the item being enchanted must never be more than 1 foot distant from the spellcaster; if it is, the whole spell is spoiled and must be begun again. (Note that during rest periods absolutely no other form of magic can be performed, and the wizard must remain quiet and in isolation or the enchantment is ruined.)
+
+Each spell subsequently cast upon an object bearing an enchant an item spell requires 2d4 hours per spell level of the magic being cast. Again, during casting the item must be touched by the wizard, and during the rest periods it must always be within 1 foot of his person. This procedure holds true for any additional spells placed upon the item, and each successive spell must be begun within 24 hours of the last, even if the prior spell failed.
+
+No magic placed on an item is permanent unless a Permanency spell is used as a finishing touch. This always runs a 5% risk of draining 1 point of Constitution from the wizard casting the spell which can’t be restored by any means but Wish. Also, while it is possible to tell when the basic spell (enchant an item) succeeds, it is not possible to tell if successive castings actually work, for each must make the same sort of Intelligence check. Naturally, an item that is charged-a rod, staff, wand, javelin of lightning, ring of wishes, etc — can never be made permanent — only rechargable. Magical devices cannot be used to enchant an item or cast magic upon an object so prepared, but scrolls can be used for this purpose.
+
+The materials needed for this spell vary according to both the nature of the item being enchanted and the magic to be cast upon it. For example, a cloak of displacement might require the hides of one or more displacer beasts, a sword meant to slay dragons could require the blood and some other part of the dragon(s) it will be effective against, and a ring of shooting stars might require pieces of meteorites and the horn of ki-rin. These specifics, as well as other information pertaining to this spell, are decided by the DM and must be discovered or researched in play.
+
+Основной нюанс длительности заклинания, в том что для высокоуровневых заклинаний и сложных предметов период создания волшебником должен равняться месяцам, а для коммоновых вещей максимум дням.
+
+### Obar's Lesser Purification 4
+
+(Wiz 4; Abjuration)
+ 
+Range:3 yards
+ 
+Components:V, S, M
+ 
+Duration:Permanent
+ 
+Casting Time:4
+ 
+Area of Effect:One item or a volume of liquid or raw materials
+ 
+no greater than the caster's body volume Saving Throw:None
+ 
+This spell destroys any curses, magical tracers linked to other spells or magics, and remnants of previous magics from a single nonliving item (which may be composed of any number of materi¬als) or a single body of liquid (in puddle form or filling a con¬tainer). The spell causes its target material to glow to indicate the presence of active or not-yet-unleashed magics in the item or sub-stances the spell is applied to, but it does not trigger, alter, or iden¬tify such dweomers. Obar's lesser purification affects dry or powdered materials of the same volume as a liquid if they are gathered into a heap or continuous volume (for example, filling a cup or coffer), but does not affect recently living materials, such as the bodies of beings who have been dead for less than a month or who are now undead. Obar's lesser purification also serves to purge liquids —such as those used in the making of potions or magic-related unguents, baths, or tinctures —of impurities, either natural or magical in origin. It performs this secondary function simultaneously with its major dweomer-related purging.
+ 
+The material components are a pinch of limestone dust, a pinch of salt, and three drops from a potion of sweet water.
+
+
+ 
+### Stoneskin
+ 
+*4th-level abjuration*
+ 
+Casting Time: 1 action
+ 
+Range: Touch
+ 
+Components: V, S, M (diamond dust worth 100 gp, which the spell consumes)
+ 
+Duration: up to 1 hour
+ 
+This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to bludgeoning, piercing, and slashing damage.
+
+### RUNEWORD 4
+
+*4th-level evocation*
+
+Casting Time: 1 action
+
+Range: 30 feet
+
+Components: V, S
+
+Duration: Instantaneous
+
+You trace a rune with your holy symbol in mid-air while praying to your deity and affect a target or area within range. Choose one of the following runes; the target or area is affected as specified in the rune description.
+**Bhelaerak.** The target gains the benefits of the blur spell for 1 minute. Corsimmyr. You cast a passwall spell at a point of your choice within range.
+The opening can be up to 5 feet wide, 5 feet tall and 10 feet deep and lasts for 10 minutes.
+**Delhaubrin.** You cast the shatter spell at a point of your choice within range and each creature within the 10-foot-radius sphere must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
+**Elemsyr.** The target gains the benefits of the invisibility spell for 10 minutes. Faelryn. The target gains the benefits of the *mirror image* spell for 1 minute. Herudryl. You cast the knock spell on an object of your choice within range. **Jessramyr.** The target gains the benefits of the haste spell for 1 minute but gains only a +1 bonus to AC.
+**Kharnas.** The target gains the benefits of the *stoneskin* spell for 1 minute.
+ 
+### ASH CLOUD 4
+4th-level evocation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (a pinch of ash)
+Duration: Concentration, up to 10 minutes
+You create a 20-foot radius sphere of billowing ash centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+When a creature enters the spell's area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 4d6 fire damage on a failed save, or half as much on a successful one. Creature are affected even if they hold their breath or don't need to breathe.
+The cloud moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground.
+At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d6 for every slot level above 4th.
+
+
+### Captivating Melody aka Song of Siren
+4th level enchantment
+Casting Time: 1 action
+Range: 60 feet Components: V, S
+Duration: Concentration, up to 1 minute
+With this spell you create a haunting melody that fascinates all those who hear it. Choose a point within range; each creature in a 30-foot- radius sphere centered on that point must make a Wisdom saving throw. On a failed save, a creature becomes charmed for the duration, quietly listening to the song. While charmed by this spell, a creature is incapacitated, and their speed is reduced to 0.
+A deaf creature or a creature within the area of a silence spell or similar effect automatically succeeds on their saving throw.
+The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
+
+### Righteous Shield
+ 
+4nd-level abjuration
+ 
+Casting Time: 1 action
+ 
+Range: 10 feet
+ 
+Duration: Concentration, up to 1 minute
+ 
+Holy power radiates from you, protecting friendly creatures within 10 feet of you. For the duration, each friendly creature in the area, including you, gains resistance to bludgeoning, piercing, and slashing damage.
+
+
+### Holy Power 4
+ 
+4th level
+ 
+Conjuration
+ 
+Casting time: 1 bonus action
+ 
+Range: self
+ 
+Duration: 10 min
+ 
+You gain +4 to hit, +4 to damage to Strength-based weapon attacks and ability checks. Also you can spent your bonus action to make additional weapon attack.
+
+## 5TH LEVEL
+### Lightning Armor 5
+5th-level evocation
+Secret Spell: Faithful of Hurrian
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (a small sliver of iron) Duration: 10 minutes 
+Crackling tendrils of lightning wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. The lightning gives you resistance to lightning and thunder damage; if you already have resistance you gain immunity instead.
+In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with lightning and your attacker takes 2d8 lightning damage.
+You can end the spell early by using an action to dismiss it. 
+
+Classes: Sorcerer, Warlock, Wizard
+
+### Reanimate Construct 5
+5th-level transmutation
+Casting Time: 1 hour 
+Range: 30 feet 
+Components: V, S, M (A gemstone worth 50 gp that the spell consumes)
+Duration: Concentration, up to 24 hours
+
+This spell reanimates a construct that has been reduced to 0 hit points. The target must be within range and visible and it must be relatively intact. It can be missing limbs or a head, but it must still be possible for the target to move under its own power.
+This spell cannot reanimate disintegrated constructs, iron golems destroyed by rust, or constructs reduced to a limbless torso. If the construct is destroyed a second time, further attempts at reanimation are hopeless.
+The target construct is recreated and placed under your control as if you had created it. It retains only half of its maximum hit points while all its damage immunities become resistances instead. It also loses both the berserk and magic resistance abilities. If you cast this spell on a shield guardian or any other construct that utilizes a control amulet or similar device, you are considered to be in possession of this device for the spells duration.
+On each of your turns, you can use a bonus action to mentally command any construct you reanimated with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a chamber or corridor. If you do not issue any commands, the creature will only defend itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
+The target construct is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control on one construct you have reanimated with this spell, rather than reanimating a new one.
+
+Classes: Priest of Gond, Artificer
+### Focal Stone 5
+5th-level transmutation
+Range:Touch 
+Components:V, S, M 
+Duration:Permanent 
+Casting Time:1 action 
+Area of Effect: 1 clear or translucent gemstone of crystalline structure no larger in size than the caster's balled fist Saving Throw:Special This spell transforms the internal structure of a clear or translucent gemstone of crystalline structure no larger in size than the caster's balled fist to enable it to receive and hold a spell dweomer (usually cast into it by use of a dweomerflow spell). At the time the spell is cast, roll an item saving throw for the gem¬stone vs. magical fire (rock, crystal vs. magical fire). Success means that the spell is successful; failure destroys the gemstone. Gemstones of above-normal quality may receive a bonus to the saving throw at the DM's discretion (usually from +1 to up to +3 for flawless or otherwise extremely exceptional quality stones). The gemstone glows with a soft internal radiance once focal stone is cast (which in some markets raises its value), and it emits a faint dweomer. If immersed in a poisonous liquid, the focal stone turns a vivid purple and can be commanded by touch and will to neutralize poison. If so commanded, the focal stone dissolves and is destroyed, but it leaves the liquid safe to drink or touch. A focal stone otherwise has no special properties; contrary to popular belief, it cannot reach out and trap spells cast near it or suck in passing enchanted creatures, though it is an ideal recepta-  cle for the life force of a being using a magic jar spell. The focal stone spell does not prevent the focal stone from being shattered by deliberate attack (a crushing blow, for instance), but does pre¬vent it from being damaged by natural and magical heat, flame, lava, extreme cold, or mineral contamination. Shattering a focal stone immediately unleashes the full effects of any spell stored in it in a manner determined by the DM. A dispel magic cast on such a stone does not affect it or any stored magics. The material component is a pinch of any sort of opal dust.
+
+
+### Blood Storm 5
+5th-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (the corpse of a creature that died no more than 1 minute ago)
+Duration: Instantaneous
+With a touch and a few arcane words, you rip the lifeblood from a freshly fallen foe, forming it into a torrent of crystallized blood that slices through those around you.
+All creatures within 20-feet of you must make a Dexterity saving throw. On a failed save they suffer 10d6 magical slashing damage, or half as much on a successful one.
+The effect of this spell is so unnerving that any living, intelligent creature within 60 feet that can see the spell's effect must make a Wisdom saving throw or be frightened until the end of their next turn.
+Undead or constructs automatically succeed on their Wisdom saving throw.
+At Higher Levels: When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d6 for each slot level above 5th.
+
+
+ 
+
+ 
+### Disintegrating Smite 5
+ 
+5th-level transmutation
+ 
+Casting Time: Swift
+ 
+Range: Self
+ 
+Duration: 1 minute
+ 
+You can cast this spell when you hit with a melee weapon attack on your turn. A pulse of green light flashes from your weapon, and the attack deals 5d10 extra force damage to the target. Additionally, the target must make a Constitution saving throw or take 2d10 force damage at the start of each of its turns until the spell ends. The spell ends when the target makes a successful saving throw against it. If the target is reduced to 0 hit points by this spell, the target is disintegrated.
+ 
+ 
+
+
+### FIRE STRIDE 5
+5th-level evocation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (a pinch of soot)
+Duration: Concentration, up to 1 minute
+You gain the ability to enter a fire and move from inside it to inside another fire within 500 feet. Both fires must be at least the same size as you and you must use 5 feet of movement to enter a fire. You instantly know the location of all other fires within 500 feet and, as part of the move used to enter the fire, can either pass into one of those fires, or step out of the fire you're in. You appear in a spot of your choice within 5 feet of the destination fire, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the fire you entered.
+You can use this transportation ability once per round for the duration and have immunity to fire damage during transportation. You must end each turn outside a fire.
+
+### CIRCLE OF MIGHT 5
+
+5th-level abjuration
+
+Casting Time: 1 minute
+Range: 20 feet
+Components: V, S, M (powdered mithral worth at least 10 gp, which the spell consumes)
+Duration: 1 hour
+
+You create a 20-foot radius, 20-foot tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
+For the duration, each friendly creature in the area (including you) has advantage on attack rolls, resistance to one damage type of your choice: acid, cold, fire, lightning or thunder, and can roll a d4 and add the number rolled to any saving throw.
+
+
+## 6TH LEVEL
+### Permanency
+6th-level Transmutation
+
+Casting Time: 1 min
+
+Range: Touch
+
+Components: V, S
+
+Duration: Permanent
+
+This spell affects the duration of certain other spells, making the duration permanent. The personal spells upon which a permanent is known to be effective are as follows:
+
+* Detect magic
+* Longstrider
+* Unseen servant
+* Comprehend languages
+* Alter Self
+* Darkvision
+* See Invisibility
+* Tongues
+*
+The wizard casts the desired spell and then follows it with the Permanency spell. Each Permanency spell lowers the wizard’s Constitution by 1 point for duration of Permanency spell. The wizard cannot cast these spells upon other creatures. This application of Permanency can be dispelled only by a wizard of greater level than the spellcaster was when he cast the spell.
+
+In addition to personal use, the Permanency (also with lowering of wizard’s Constitution) spell can be used to make the following object/creature or area-effect spells permanent:
+
+* Web
+* Enlarge/Reduce
+* Invisibility (Note that any action that break Invisibility will also break Permanency)
+* Fear
+* Gust of Wind
+* Magic Mouth
+* Stinking cloud
+* Wall of fire
+* Wall of force
+* Tiny Servant (if tiny servant will be destroyed Permanency will end)
+
+Additionally, the following spells can be cast upon objects or areas only and rendered permanent (without lowering of caster’s Constitution):
+
+* Dancing lights
+* Alarm
+* Illusory Script
+* Fog Cloud
+* Grease
+* Snare (only affecting duration of Snare before triggering — after triggering Permanency will end)
+* Magic Circle
+* Scrying (only if Scrying is targeting location and not creature)
+* Teleportation Circle
+* Programmed Illusion
+* 
+These applications to other spells allow it to be cast simultaneously with any of the latter when no living creature is the target, but the entire spell complex then can be dispelled normally, and thus negated.
+
+The Permanency spell is also used in the fabrication of magical items (see the 4th-level spell Enchant an Item). At the DM’s option, Permanency might become unstable or fail after a long period of at least 1000 years. Unstable effects might operate intermittently or fail altogeth
+### RUNE OF POWER 6
+
+6th-level abjuration (ritual)
+
+Casting Time: 2 hours
+Range: Touch
+Components: V, S, M (incense, gold dust and powdered granite worth at least 400 gp, which the spell consumes)
+Duration: Until dispelled or triggered
+
+When you cast this spell, you inscribe a rune either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the rune. If you choose a surface, the rune can cover an area of the surface no larger than 20 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the rune is broken, and the spell ends without being triggered.
+The rune is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found.
+You decide what triggers the rune when you cast the spell. For runes inscribed on a surface, the most typical triggers include touching or standing on the rune, removing another object covering the rune, approaching within a certain distance of the rune, or manipulating the object on which the rune is inscribed. For runes inscribed within an object, the most common triggers include opening the object, approaching within a certain distance of the object, or seeing or reading the rune. Once a rune is triggered, this spell ends.
+You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect undead or orcs), or alignment. You can also set conditions for creatures that don't trigger the rune, such as those who say a certain password.
+Most runes duplicate or resemble the effects of certain wizard spells and unless specified, any target must make a save against your spell save DC t determine how and if they are affected. These runes are:
+**Alhalbrin.** This rune acts as a sunburst spell and any creature or creatures activating it in a 60 foot radius centered on the rune must make a Constitution saving throw. On a failed save, a creature takes 8d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded by the rune. Undead and oozes have disadvantage on this saving throw.
+**Dhelearak.** This rune acts as a disintegrate spell on creatures activating it. Unlike the wizard spell of the same name, more than one living creature may be affected by the rune.
+**Faerindyl.** This rune acts as a flaming sphere spell doing 6d6 fire damage of a failed save, or half as much damage on a successful one. The sphere will move to contact the triggering creature or any triggering creature (if more than one the DM can choose or determine randomly) and can move up to 30 feet in any turn for up to 1 minute. If there are no triggering creatures within 30 feet of the sphere it does not move that turn.
+**Kharramsyr.** This rune acts as a flesh to stone spell on creatures activating it. Unlike the wizard spell of the same name, more than one living creature may be affected by the rune.
+Sabras. This rune acts as a circle of death spell doing 8d6 necrotic damage on a failed save, or half as much damage on a successful one on any creature or creatures activating it in a 60 foot radius centered on the rune.
+**Saerindyl.** This rune acts as a chain lightning spell doing 10d8 lightning damage on a failed save, or half as much damage on a successful one on a creature activating it (if more than one the DM can choose or determine randomly).
+**Thundaril.** This rune acts as a polymorph spell on creatures activating it for up to one hour. Unlike the wizard spell of the same name, more than one living creature may be affected by the rune. This rune typically transforms affected creatures into snails, slugs, or toads.
+**Ulthabrin.** This rune acts as a confusion spell on any creature or creatures activating it in a 20 foot radius centered on the rune for 1 minute.
+Velurndyn. This rune acts as a reverse gravity spell on creatures activating it in a 40-foot radius, 80-foot high cylinder centered on the rune for 1 minute.
+
+### SEARING BRAND 6
+6th-level evocation
+Casting Time: 1 action
+Range: 80 feet
+Components: V, S, M (a small metal rod)
+Duration: Instantaneous
+You choose a creature you can see within range and mark it with fiery rune. The target must make a Constitution saving throw. On a failed save, a creature takes 8d6 fire damage and is stunned for one minute.
+A creature stunned by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer stunned.
+
+
+### FLAME LASH 6 
+6th-level evocation
+Casting Time: 1 action Range: 60 feet Components: V, S, M (a burning cord that is consumed in the casting) Duration: Concentration, up to 1 minute
+You create a long, ever-coiling whip of fire that hovers within range. It lasts for the duration.
+When the whip appears, you make a melee spell attack against a target of your choice within 5 feet of the whip. On a hit, the target must succeed on a Dexterity saving throw or take 4d6 fire damage and be restrained by the whip until the spell ends. A creature that starts its turn restrained by the whip takes 4d6 fire damage.
+A creature retrained by the whip can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
+Until the spell ends, you can use a bonus action on each of your turns to move the whip up to 20 feet to a spot you can see and repeat the attack against the same target or a different one.
+
+
+## 7TH LEVEL
+### Resurgence 7
+7th-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (gems or art objects that total to a value of 500gp, which the spell consumes)
+Duration: Instantaneous
+You return a dead creature you touch to life if it has been dead for no less than 1 minute. If the creature's soul is both willing and at liberty to rejoin the body, the creature painfully returns to life with all its hit points.
+This spell also neutralizes any poisons and cures diseases that affected the creature at the time it died. This spell doesn't, however, remove magical diseases, curses, or similar effects; if these aren't first removed prior to casting the spell, they take effect when the creature returns to life. The spell can't return an undead creature to life.
+This spell closes all mortal wounds and restores any missing body parts.
+Classes: Wizard, Sorcerer
+### Awakening
+
+7th-level Enchantment or Invocation
+
+Range:Touch
+ 
+Components:V, S, M
+ 
+Duration:Permanent
+ 
+Casting Time:2 rounds
+ 
+Area of Effect:One item
+ 
+Saving Throw:Special
+ 
+This spell is used to activate a touched magical item bearing mul¬tiple enchantments or exhibiting multiple functions. It is an alterna¬tive to the better-known enchant an item spell, but accomplishes less. To create a magical item with an awakening spell, several other spells must be used first, including eternal flame and usually wondrous web or holy vesting and various dweomerflow castings. Awakening can be used on a magical item that has been created with an enchant an item spell if additional powers are added to the item after its initial creation and enough use of the item has occurred to call upon all of the original powers at least once.
+ 
+When the spell is cast, the item must make a saving throw to determine if the awakening has been successful. The item's base saving throw is the same as the caster's saving throw vs. spell, modified as follows: a -1 penalty per being other than the spell- caster who cast spells on the item during preparation or con¬tributed magics that were put into the item before the awakening attempt, a +1 bonus per meld and crown meld spell existing on the item, and a +1 bonus if both an eternal flame and a Veladar's
+ 
+vambrace, Nulathoe's ninemen, or holy might spell were cast on the item before the awakening attempt. These bonuses are cumu¬lative, but a roll of 1 is always a failure.
+ 
+The failure of an awakening attempt means either the item crumbles to worthless dust or explodes violently. Roll 1d6; a result of 1 or 2 means an explosion occurs similar to a fireball centered on the item that deals 1d6 points of damage per level of the awak¬ening caster and in addition destroys the item utterly. A roll of 4-6 means that the item collapses into dust. A wind will rise from nowhere to carry this dust away, and even if some dust is some¬how retained, it is magically inert and worthless.
+ 
+Success of the awakening attempt means the item is awakened instantly into operation. It functions perfectly, though if the creator has been careless or inattentive in his or her preparations, the item's performance may involve some surprises. A successful awak¬ening may be heralded by a flash of light from the item, but this effect is never a harmful discharge of wild magic or item powers.
+ 
+The material components for this spell are a single wizard spell scroll bearing at least as many spells as the item has functions, a gem of any sort of not less than 2,500 gp value each for each item function, and a living plant that has been altered by magic. Some sages believe an awakening is more likely to succeed (an additional +l bonus to the item's saving throw at the DM's discretion) if a random dweomer-bearing component is also present in the spell¬casting components.
+
+ 
+## 8TH LEVEL
+
+### RUNE CHANT 8
+*8th-level evocation*
+
+Casting Time: 1 action
+
+Range: 60 feet
+
+Components: V, S
+
+Duration: Instantaneous
+
+You cause a rune of power (see above) to form anywhere within range in mid-air without inscribing it on a surface or object. The rune takes immediate effect against a target or area centered on the rune.
+
+### BURNING WIND 8
+*8th-level evocation*
+
+**Casting Time:** 1 action
+
+**Range:** Self (120-foot line)
+
+**Components:** V, S, M (a feather that is set alight and consumed in the casting) 
+
+**Duration:** Concentration, up to 1 minute
+
+
+
+A line of searing wind 100 feet long and 10 feet wide blasts out from you in a direction you choose for the spell's duration. Each creature that starts its turn in the line takes 6d8 fire damage and must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the line.
+
+Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to you.
+
+The wind disperses gas or vapour, and it extinguishes candles, torches, and similar unprotected flames. It causes protected flames, such as those of lanterns, to dance wildly and has a 75 percent chance to extinguish them, while fanning larger fires in the area. The wind has a 50 percent chance every turn to ignite flammable objects in the area that aren't being worn or carried.
+As a bonus action on each of your turns before the spell ends, you can change the direction in which the line emanates from you.
+
+### RUNE CHANT 8 
+8th-level evocation
+
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+
+You cause a rune of power (see above) to form anywhere within range in mid-air without inscribing it on a surface or object. The rune takes immediate effect against a target or area centered on the rune.
+ 
+
+
+
+
+
+
+
+
+
+## 9TH LEVEL
+## EPIC SPELLS
+## Work in progress
+
+
+
+
+
+
+
+[Spells II](/UTm25sqRR_qo9FIKF2pBIw?edit)
+[Spells III](/R2noCWeeRZKfsQXOhE0ljQ?both)
+
 # Cantrips
 
 ## Shifting Shadow
