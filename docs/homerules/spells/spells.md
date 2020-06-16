@@ -1,4 +1,4 @@
-# Spells I
+# Spells
 
 ###### tags: `DEADLY MARCHES`, `SPELLS`, `RULES`
 
