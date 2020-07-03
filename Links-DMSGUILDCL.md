@@ -8,6 +8,8 @@ another Faerun map:
 
 :three: https://www.dndcombat.com/toril/
 
+:four: http://htmlpreview.github.io/?https://github.com/perlmugp/FR_Map/blob/master/Faerun.html
+
 **also**
 
 Zakhara https://atlasoficeandfireblog.wordpress.com/2020/06/21/a-map-of-zakhara/
