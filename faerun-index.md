@@ -4,6 +4,181 @@ Index
 =====
 
 Also look on https://www.enworld.org/threads/forgotten-realms-collectors-guide.332823/
+
+Abbreviations
+-------------
+Спойлер
+Скрыть
+FRA = Forgotten Realms Adventures
+GToR = A Grand Tour of the Realms (Forgotten Realms Campaign Setting)
+RtR = Running the Realms (Forgotten Realms Campaign Setting)
+Sh = Shadowdale (Forgotten Realms Campaign Setting)
+FRCSMC = Forgotten Realms Campaign Setting: Monstrous Compendium
+sheets
+FRCSmap = Forgotten Realms Campaign Setting: maps
+FRCS3e = Forgotten Realms Campaign Setting (3rd Edition)
+FRAtl = Forgotten Realms Atlas
+F&A = Faiths & Avatars
+P&P = Powers & Pantheons
+DD = Demihuman Deities
+F&P = Faiths & Pantheons
+RoF = Races of Faerun
+MC11 = MC11: Monstrous Compendium Forgotten Realms Appendix II
+CitySys = City System
+CitySysMap = City System maps
+RoUM = Campaign Guide to Undermountain
+UMA = Undermountain Adventures
+RoUMMC = Ruins of Undermountain: Monstrous Compendium sheets
+RoUMc = Ruins of Undermountain: DM cards
+RoUMmap = Ruins of Undermountain: maps
+MZ1 = Menzoberranzan, Book One: The City
+MZ2 = Menzoberranzan, Book Two: The Houses
+MZ3 = Menzoberranzan, Book Three: The Adventure
+MZ4 = Menzoberranzan, Book Four: The House Do'Urden Retrospective
+MZc = Menzoberranzan: DM cards
+MZmap = Menzoberranzan: maps
+RoMD = Ruins of Myth Drannor: Campaign Guide
+MDA = Myth Drannor Adventures
+RoMDMC = Ruins of Myth Drannor: Monstrous Compendium sheets
+RoMDc = Ruins of Myth Drannor: DM cards
+RoMDmap = Ruins of Myth Drannor: maps
+RoUM2 = Ruins of Undermountain II: Campaign Guide
+RoUM2:A = Ruins of Undermountain II: Adventures
+RoUM2:MC = Ruins of Undermountain II: Monstrous Compendium booklet
+RoUM2c = Ruins of Undermountain II: DM cards
+RoUM2map = Ruins of Undermountain II: maps
+CoS = City of Splendours: Campaign Guide
+CoS:WW = City of Splendours: Who's Who in Waterdeep
+CoS:AG = City of Splendours: Adventurer's Guide to the City
+CoS:SoC = City of Splendours: Secrets of the City
+CoS:MC = City of Splendours: Monstrous Compendium sheets
+CoSmap = City of Splendours: maps
+RoZK = Ruins of Zhentil Keep: Campaign Guide
+RoZK:A = Ruins of Zhentil Keep: Adventure Book
+RoZKc = Ruins of Zhentil Keep: DM cards
+RoZK:MC = Ruins of Zhentil Keep: Monstrous Compendium booklet
+RoZKm = Ruins of Zhentil Keep: maps
+SB = Spellbound: Campaign Guide
+SB:ToD = Spellbound: Throne of Deceit
+SB:RoC = Spellbound: The Runes of Chaos
+SBMC = Spellbound: Monstrous Compendium booklet
+SBc = Spellbound: DM Cards
+SBm# = Spellbound: Map no.#
+N:W = The North: The Wilderness
+N:C = The North: Cities
+N:D = The North: Daggerford
+Nmap# = The North: Map no.#
+LoI1 = Lands of Intrigue, Book One: Tethyr
+LoI2 = Lands of Intrigue, Book Two: Amn
+LoI3 = Lands of Intrigue, Book Three: Erlkazar & Folk of Intrigue
+LoIm# = Lands of Intrigue, map no.#
+EoSS = Empires of the Shining Sea
+EoSSm = Empires of the Shining Sea: Maps
+THc = The Horde: DM cards
+Neth:WoN = Netheril: Empire of Magic, The Winds of Netheril
+EE:EM = Elminster's Ecologies: Explorer's Manual
+EE:C = Elminster's Ecologies: Cormanthor
+EE:A = Elminster's Ecologies: Anauroch
+EE:TP+SH = Elminster's Ecologies: The Thunder Peaks and the Storm
+Horns
+EE:CM = Elminster's Ecologies: The Cormyrean Marshes
+EE:SL+GM = Elminster's Ecologies: The Stonelands and the Goblin
+Marches
+EE:GGLT = Elminster's Ecologies: The Great Gray Land of Thar
+EE:SoFS = Elminster's Ecologies: Coastal Aquatic Lands - The Sea of
+Fallen Stars
+EE:SL = Elminster's Ecologies: The Settled Lands
+FR2 = FR2: Moonshae
+FR5 = FR5: The Savage Frontier
+FR10 = FR10: Old Empires
+FR11 = FR11: Dwarves Deep
+FR13 = FR13: Anauroch
+FR15 = FR15: Gold & Glory
+FR16 = FR16: The Shining South
+FOR1 = FOR1: Draconomicon
+FOR2 = FOR2: The Drow of the Underdark
+FOR3 = FOR3: Pirates of the Fallen Stars
+FOR4 = FOR4: The Code of the Harpers
+EoE = Elves of Evermeet
+7S = The Seven Sisters
+GC = Giantcraft
+CotD = Cult of the Dragon
+SotM = Secrets of the Magister
+Cor = Cormyr
+MS = The Moonsea: Reference Guide
+MS:PG = The Moonsea: Player's Guide
+MSmap = The Moonsea - map
+VR = Vilhon Reach: Dungeon Master's Reference
+VR:PG = Vilhon Reach: Player's Guide
+VRmap = Vilhon Reach - map
+CoRB = The City of Ravens Bluff
+Cp = Calimport
+C:EoE = Cormanthyr: Empire of the Elves
+SoFS = Sea of Fallen Stars
+Skp = Skullport
+C&D = Cloak & Dagger
+VGtW = Volo's Guide to Waterdeep
+VGtN = Volo's Guide to the North
+VGtSC = Volo's Guide to the Sword Coast
+VGtC = Volo's Guide to Cormyr
+VGtD = Volo's Guide to the Dalelands
+VGtATM = Volo's Guide to All Things Magical
+DDGtU = Drizzt Do'Urden's Guide to the Underdark
+EE1:HoLS = Elminster's Ecologies Appendix One: The Hill of Lost Souls
+EE1:BoB = Elminster's Ecologies Appendix One: The Battle of Bones
+EE1:Enc = Elminster's Ecologies Appendix One: Encounter Tables
+EE2:HM = Elminster's Ecologies Appendix Two: The High Moor
+EE2:SH = Elminster's Ecologies Appendix Two: The Serpent Hills
+EE2:Enc = Elminster's Ecologies Appendix Two: Encounter Tables
+W+RoR = Wizards and Rogues of the Realms
+W+PoR = Warriors and Priests of the Realms
+DHoR = Demihumans of the Realms
+PftM = Pages from the Mages
+PftF = Prayers from the Faithful
+Au = Aurora's Whole Realms Catalogue
+HL = Heroes' Lorebook
+VL = Villains' Lorebook
+FRC1 = Ruins of Adventure
+FRE1 = FRE1: Shadowdale
+FRE2 = FRE2: Tantras
+FRE3 = FRE3: Waterdeep
+MVD = Marco Volo: Departure
+MVA = Marco Volo: Arrival
+MVJ = Marco Volo: Journey
+SotD = Sword of the Dales
+SoS = The Secret of Spiderhaunt
+RoRM = The Return of Randal Morn
+UM-LL = Undermountain: The Lost Level
+UM-MC = Undermountain: Maddgoth's Castle
+UM-SD = Undermountain: Stardock
+FfC = Four from Cormyr
+CS = Castle Spulzeer
+FD&D = For Duty & Deity
+HK = Hellgate Keep
+AT = The Accursed Tower
+PoR:AoMD = Pool of Radiance: Attack on Myth Drannor
+HtMAF = How the Mighty Are Fallen
+FoMD = Fall of Myth Drannor
+Dr[xxx] = Dragon [xxx]
+DrA[x] = Dragon Annual [x]
+Du[xx] = Dungeon [xx]
+Poly[xxx] = Polyhedron [xxx]
+PS:S+B = Planescape Campaign Setting: Sigil and Beyond
+PS:DMG = Planescape Campaign Setting: A DM Guide to the Planes
+PS:MS = Planescape Campaign Setting: Monstrous Supplement
+PSmap = Planescape Campaign Setting maps
+PSMC = Planescape Monstrous Compendium Appendix
+PSMC2 = Planescape Monstrous Compendium Appendix II
+IP = The Inner Planes
+DMGR4 = DMGR4: Monster Mythology
+BoA = Book of Artifacts
+IT = I, Tyrant
+SD = The Sea Devils
+Ill = The Illithiad
+MM = Monstrous Manual
+MCA[x] = Monstrous Compendium, Annual Volume [x]
+PsiH = Psionics Handbook (3e)
+MotP = Manual of the Planes (3e)
 -----
 A Discussion of Aquatic Monsters: see "Tym's Monstrous Book"
 * A Dissertation of Law and Morality as Seen by Tyr's Church: FfC13
@@ -13765,3 +13940,4 @@ First Strikes: see Northern Massacres
 * First Tethirift: LoI1:19
 * First Trader: EoSS8,9
 * First Transmuter: 
+
