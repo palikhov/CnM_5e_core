@@ -5,10 +5,12 @@ Index
 
 Also look on https://www.enworld.org/threads/forgotten-realms-collectors-guide.332823/
 
+[index in archive](https://github.com/palikhov/DnD_Palant_edition/raw/master/FRindex.rar)
+
+
 Abbreviations
 -------------
-Спойлер
-Скрыть
+
 FRA = Forgotten Realms Adventures
 GToR = A Grand Tour of the Realms (Forgotten Realms Campaign Setting)
 RtR = Running the Realms (Forgotten Realms Campaign Setting)
