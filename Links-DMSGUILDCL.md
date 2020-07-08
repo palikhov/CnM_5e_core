@@ -18,6 +18,12 @@ Maztica https://atlasoficeandfireblog.wordpress.com/2020/06/14/a-map-of-maztica/
 
 Faerun https://atlasoficeandfireblog.wordpress.com/2020/06/10/a-new-map-of-faerun/
 
+Kara-tur: https://atlasoficeandfireblog.wordpress.com/2020/07/04/a-map-of-kara-tur/
+
+https://atlasoficeandfireblog.files.wordpress.com/2020/07/kara-tur.png
+
+https://atlasoficeandfireblog.files.wordpress.com/2020/07/faerun-kara-tur-trade-routes.png
+
 Nations of FR https://atlasoficeandfireblog.wordpress.com/2020/05/17/nations-of-the-forgotten-realms/
 
 and amazing map of cuiiv - North Central Map of Faerun (need to download - 36 Mb svg file) https://www.deviantart.com/cuiilv/art/North-Central-Faerun-map-804876202
