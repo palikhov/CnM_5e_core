@@ -146,3 +146,108 @@ https://commons.wikimedia.org/wiki/File:Environments-06-Ishtar-2.png
 https://commons.wikimedia.org/wiki/File:Environments-08-Ishtar-alley.png
 all public domain offerings from artist David Revoy
 His webcomic is also CC0 https://www.peppercarrot.com/ which you are free to use (I used a pepper and carrot image for my cover here: https://www.dmsguild.com/product/264230/Feats-of-the-Forgotten-Realms?affiliate_id=702354)
+
+
+==============
+https://www.behindthename.com/random/
+https://theangrygm.com/save-vs-lawsuit-how-to-publish-dd-content/
+https://www.moma.co.uk/public-domain-images/#collections
+D&D Map Sketcher is a tool for playing tabletop RPGs online where the DM can easily draw maps while playing.
+
+The project is being developed by Daniel F. Marqués (@daniFMdev). Right now it only has the minimum features to be able to show its potential. You are invited to tell your friends and try it out. In its current state, it should be able to hold your session's dungeon exploration and combat. I recommend using Discord for voice, text chat and dice rolling (through bots).
+
+I highly recommend you to go through the controls section before you start using the tool. 
+
+https://danifm.itch.io/dnd-map-sketcher
+
+Lamentations of the Flame princess SRD - реструктуризированная, гораздо лучше оригинала https://buzzardb.nobbscorp.ca/lotfp/index.php
+
+https://handwritter.ru/
+
+Сайт: https://www.imgonline.com.ua/impose-picture-on-another-picture.php
+Возможности: Наложить одну картинку на другую онлайн
+Зачем: В обычных лиговских приключениях могут быть карты и эти карты просто план на белом листе. Сайт позволяет просто и быстро наложить текстуру на карту для "комфортного" просмотра.
+Настройка: 
+1) Укажите 2 изображения в формате BMP, GIF, JPEG, PNG, TIFF:
+ 1-й файл - текстура, 2-й - карта. 
+2) Настройки наложения картинок
+Автоматическая подгонка размера 2-й (накладываемой) картинки под размер 1-й указанной картинки:  включена, но наоборот, 1-ю картинку подогнать под размер 2-й
+Остальное можно без изменений
+
+3
+[10:21]
+Результат
+
+Обновился https://eigengrausgenerator.com/ и стал еще круче
+
+https://dysonlogos.blog/maps/
+Один из лучших инструментов для работы с таблицами случайных значений Inspiration Pad Pro
+Есть версия под андроид
+есть веб версия
+http://www.rpginspiration.com/tables/autoblurb-classic.ipt
+
+
+
+Home
+Random Generators
+Names
+Elf Names
+Dwarf Names
+Fantasy Names 1
+Orc Names
+Ratmen Names
+Tavern Names
+Orc Clan Names
+Latin-like Names
+Harn-Style Names
+
+Modern Names
+All Names
+Chinese, Female
+Chinese, Male
+French, Female
+French, Male
+Japanese, Female
+Japanese, Male
+Spanish, Female
+Spanish, Male
+Western, Female
+Western, Male
+Company Names
+
+Treasure
+Random Books
+Spell Books
+Orc Hoard
+
+Encounters
+Orc Hunting Party
+Orc Raiding Party
+Demons (High-level)
+Bar Encounters
+
+NPCs
+NPC on the Street
+Orc Formal Introduction
+Sci-Fi Soldier
+NPC Appearance
+Adult Civillian (w/ stats)
+Gladiator Generator
+Horse Generator
+
+Misc
+Adventure Hooks
+Alchemist Cookbook #2
+Alchemist Cookbook
+Bazaar Contents
+Cocktails
+Critical Hits
+Fortune Teller
+Framed!
+Fumbles
+Plot Generator
+Plot Generator - Sci-Fi
+Random Incantation
+Megacorporations
+Tabloid Headlines
+Weather
