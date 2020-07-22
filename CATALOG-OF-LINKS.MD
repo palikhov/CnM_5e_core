@@ -251,3 +251,10 @@ Random Incantation
 Megacorporations
 Tabloid Headlines
 Weather
+Поиск символов для карты - https://www.flaticon.com/
+
+https://www.deviantart.com/myegaimes/favourites/73429588/mapper-repository @Essendi#2979
+
+https://dungeonmapdoodler.com/
+
+Русскоязычный создатель НРИ контентаhttps://silverhoofgames.ru/
