@@ -258,3 +258,7 @@ https://www.deviantart.com/myegaimes/favourites/73429588/mapper-repository @Esse
 https://dungeonmapdoodler.com/
 
 Русскоязычный создатель НРИ контентаhttps://silverhoofgames.ru/
+
+Emblem creator
+This emblem creator will allow you to create a custom emblem, logo or other type of icon. The end result is fairly basic in the sense it's in black and white only, but you can get some really great results with a little bit of creativity, as shown further down below.
+https://rollforfantasy.com/tools/emblem-creator.php
