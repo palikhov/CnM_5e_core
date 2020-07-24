@@ -48,7 +48,8 @@ nav:
     - Ловушки: homerules/traps.md
     - Дикая природа:
       - Случайные встречи и погода в Серебрянных пределах: homerules/environment/hazards-weather-encounters-silver-marches.md
-      - Время между приключениями (XGE+):
+    - Downtime:
+            - Downtime Completed: homerules/downtime-revisited/DOWNTIME-COMPLETE-LIST.MD
             - Покупка волшебных вещей: homerules/downtime-revisited/buying-a-magic-item.md
             - Исследования: homerules/downtime-revisited/research.md
             - Создание предмета: homerules/downtime-revisited/crafting-an-item.md
