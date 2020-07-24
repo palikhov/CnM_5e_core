@@ -18,7 +18,7 @@ d%	Town Size	Population*	GP Limit
 11–30	Hamlet	81–400	100 gp
 31–50	Village	401–900	200 gp
 51–70	Small town	901–2,000	800 gp
-71–85	Large town	2,001–5,000	3,000 gp
+      71–85	Large town	2,001–5,000	3,000 gp
 86–95	Small city	5,001–12,000	15,000 gp
 96–99	Large city	12,001–25,000	40,000 gp
 100	Metropolis	25,001 or more	100,000 gp
