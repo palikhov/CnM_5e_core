@@ -11,6 +11,21 @@ copyright: 'Copyright &copy; 2019 Palant и команда Киборгов и �
 
 nav:
     - Главная: index.md
+    - Downtime:
+            - Downtime Completed: homerules/downtime-revisited/DOWNTIME-COMPLETE-LIST.MD
+            - Покупка волшебных вещей: homerules/downtime-revisited/buying-a-magic-item.md
+            - Исследования: homerules/downtime-revisited/research.md
+            - Создание предмета: homerules/downtime-revisited/crafting-an-item.md
+            - Преступления: homerules/downtime-revisited/crime.md
+            - Азартные игры: homerules/downtime-revisited/gambling.md
+            - Подпольные бои: homerules/downtime-revisited/pit-fighting.md
+            - Отдых-отдых-отдых: homerules/downtime-revisited/relaxation.md
+            - Религиозная служба: homerules/downtime-revisited/religious-service.md
+            - Написание свитка заклинаний: homerules/downtime-revisited/scribing-a-spell-scroll.md
+            - Продажа волшебного предмета: homerules/downtime-revisited/selling-a-magic-item.md
+            - Training: homerules/downtime-revisited/training.md
+            - Work: homerules/downtime-revisited/work.md
+            - Новые возможности в простое: homerules/downtime-activities.md
     - Правила по созданию персонажей: homerules/character-creation.md
     - Расы:
       - Шейд: homerules/races/shade.md
@@ -48,22 +63,7 @@ nav:
     - Ловушки: homerules/traps.md
     - Дикая природа:
       - Случайные встречи и погода в Серебрянных пределах: homerules/environment/hazards-weather-encounters-silver-marches.md
-    - Downtime:
-            - Downtime Completed: homerules/downtime-revisited/DOWNTIME-COMPLETE-LIST.MD
-            - Покупка волшебных вещей: homerules/downtime-revisited/buying-a-magic-item.md
-            - Исследования: homerules/downtime-revisited/research.md
-            - Создание предмета: homerules/downtime-revisited/crafting-an-item.md
-            - Преступления: homerules/downtime-revisited/crime.md
-            - Азартные игры: homerules/downtime-revisited/gambling.md
-            - Подпольные бои: homerules/downtime-revisited/pit-fighting.md
-            - Отдых-отдых-отдых: homerules/downtime-revisited/relaxation.md
-            - Религиозная служба: homerules/downtime-revisited/religious-service.md
-            - Написание свитка заклинаний: homerules/downtime-revisited/scribing-a-spell-scroll.md
-            - Продажа волшебного предмета: homerules/downtime-revisited/selling-a-magic-item.md
-            - Training: homerules/downtime-revisited/training.md
-            - Work: homerules/downtime-revisited/work.md
-            - Новые возможности в простое: homerules/downtime-activities.md
-    - Расширенные правила:
+        - Расширенные правила:
       - Расширенные правила: homerules/expanded-rules/expanded_rules.md
       - Бой верхом: homerules/expanded-rules/mounted-combat-expanded.md
       - Умение читать и писать: homerules/expanded-rules/literacy-language-expanded.md
