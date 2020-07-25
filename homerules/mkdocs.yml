@@ -41,62 +41,31 @@ nav:
         - Твердыни по типам: homerules\stronghold_and_followers\strongholds-by-type.md
         - Злодеи: homerules/stronghold_and_followers/villains.md
         - Военное дело: homerules/stronghold_and_followers/warfare.md
-      - Боевые маневры: homerules/combat-maneuvers.md
-      - Боевые стили: homerules/fighting-styles.md
-      - Языки: homerules/languages.md
-      - Навыки (feats): homerules/feats.md
-      - Заклинания: 
+      - Test: 
+        - Боевые маневры: homerules/combat-maneuvers.md
+        - Боевые стили: homerules/fighting-styles.md
+        - Языки: homerules/languages.md
+        - Навыки (feats): homerules/feats.md
+        - Заклинания: 
           - Зачарование предметов: homerules\spells\item-enchanting-spells.md
           - Кантрипы: homerules\spells\cantrips.md
           - 3й круг заклинаний: homerules\spells\spells-3rd-lvl.md
           - Общий список: homerules/spells.md
-      - Снаряжение: 
+        - Снаряжение: 
         - Снаряжение: homerules/equipment.md
         - Наркотики: homerules\equipment\drugs.md
         - Травы и гербализм: homerules\equipment\herbalism.md
         - Использование частей тел чудовищ: homerules\equipment\monster-parts-harvesting.md
-      - Волшебные предметы: homerules/magic-items.md
-      - Ловушки: homerules/traps.md
-      - Дикая природа:
-        - Случайные встречи и погода в Серебрянных пределах: homerules/environment/silver-marches.md
-      - Расширенные правила по простою из XGE:
+        - Волшебные предметы: homerules/magic-items.md
+          - Downtime:
           - Исследования: homerules\downtime-revisited\research.md
       - Новые возможности в простое: homerules\downtime-activities.md
-      - Измененные и расширенные правила:
-        - Дополнительные правила: homerules/additional_rules.md
-        - Расширенные правила: homerules/expanded_rules.md
-        - Бой верхом: homerules/mounted-combat-expanded.md
-      - Разное: homerules\misc.md
-      - Расширенные правила по инструментам из XGE: 
-          - Набор алхимика: homerules\tool-proficiencies\alchemists-supplies.md
-      - Советы из старых редакци:
-          - Приключения в городах:
-          - Таблица встреч:
-          - Как придумать оборонительные силы города:
-          - Как держать партию вместе:
-          - Работа для авантюристов:
-      
-      
-      
-    - Мультикампания:
-        - Общее: shared_campaign/index.md
-        - Потребность в игротеке: shared_campaign/needs_organized_play.md
-        - Правила общей кампании: shared_campaign/shared_rules.md
-        - Фракции, известность, слава: shared_campaign\factions-renown-fame.md
-        - Модифицированные правила трех столбов: shared_campaign\three-pillars-modified.md
-    - Шаблон персонажа: character-template.md
-    - Шаблон местности, места: location-template.md
-    - Внешние ссылки: external-links.md
-    - Играя магом: homerules/playing-as-mage.md
-    - Противники:
-        - Дроу: drow-units.md
-        - Культы стихийного зла: elemental-evil-cults.md
-    - Файлы:
-        - Руководство игрока по Вестмаршам Коллвила: files\Collvile's Player's Guide _ GM Binder.pdf
-        - Руководство по настройке персонажа в Dicecloud: files\Advanced Dicecloud Character Construction.pdf    
-        - Помощник для Dicecloud: files\DiceCloud Helper.xlsx
-        - Руководство Жнеца Чудовищ: files\The Monster Harvester Handbook.pdf
-        - Путешествующие торговцы: files\Travelling Merchants.xlsx
+        - Файлы:
+          - Руководство игрока по Вестмаршам Коллвила: files\Collvile's Player's Guide _ GM Binder.pdf
+          - Руководство по настройке персонажа в Dicecloud: files\Advanced Dicecloud Character Construction.pdf    
+          - Помощник для Dicecloud: files\DiceCloud Helper.xlsx
+          - Руководство Жнеца Чудовищ: files\The Monster Harvester Handbook.pdf
+          - Путешествующие торговцы: files\Travelling Merchants.xlsx
 # Link as comment before release 
 
 # Configuration
