@@ -1,6 +1,5 @@
 # DOWNTIME. COMPLETE LIST
 
-###### tags: `DOWNTIME`
 
 It’s possible for the characters to start a campaign at 1st level, dive into an epic story, and reach 10th level and beyond in a short amount of game time. Although that pace works fine for many campaigns, some DMs prefer a campaign story with pauses built into it — times when adventurers are not going on adventures. The downtime rules given in this section can be used as alternatives to the approach in the Player’s Handbook and the Dungeon Master’s Guide, or you can use the material here to inspire the creation of your own options.
 

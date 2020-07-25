@@ -1,7 +1,5 @@
 # DOWNTIME. COMPLETE LIST
 
-###### tags: `DOWNTIME`
-
 It’s possible for the characters to start a campaign at 1st level, dive into an epic story, and reach 10th level and beyond in a short amount of game time. Although that pace works fine for many campaigns, some DMs prefer a campaign story with pauses built into it — times when adventurers are not going on adventures. The downtime rules given in this section can be used as alternatives to the approach in the Player’s Handbook and the Dungeon Master’s Guide, or you can use the material here to inspire the creation of your own options.
 
 By engaging the characters in downtime activities that take weeks or even months to complete, you can give your campaign a longer time line — one in which events in the world play out over years. Wars begin and end, tyrants come and go, and royal lines rise and fall over the course of the story that you and the characters tell.
@@ -11,9 +9,9 @@ Downtime rules also provide ways for characters to spend — or be relieved of �
 The system presented here consists of two elements. First, it introduces the concept of rivals. Second, it details a number of downtime activities that characters can undertake.
 
 > When minions come back from a mission, sometimes I send them shopping.
-> 
+>
 > Shopping is this thing where minions give away their stuff to other people, and other people give them different stuff.
-> 
+>
 > [![](https://media-waterdeep.cursecdn.com/attachments/thumbnails/3/95/50/50/eyesymbol.png)](https://media-waterdeep.cursecdn.com/attachments/3/95/eyesymbol.png)It’s so strange.
 
 Rivals  
@@ -1429,7 +1427,7 @@ Creation. Once you have your schema and any rare components, you’re ready to b
 
 Magic Item Crafting Time and Cost
 
-| Item Rarity | Work weeks* | Cost* |
+| Item Rarity | Work weeks*| Cost* |
 | --- | --- | --- |
 | Common | 1 | 50 gp |
 | Uncommon | 2 | 200 gp |
@@ -1453,7 +1451,6 @@ Crafting Complications
 | 4 | The shifting balance of the planes interferes with your work; you must wait for the current planar alignment to change. |
 | 5 | Your efforts draw the attention of one of the conspiracies of Eberron—such as the Chamber, the Aurum, the Emerald Claw, or the Lords of Dust. |
 | 6 | Your item unexpectedly becomes sentient. |
-
 
 ## Crafting Rules: Crafting
 When players have downtime between, or even in the middle of campaigns, it will be the case from time to time that they will want to use their skills to create something, either for themselves, or to sell and turn a profit while they wait out their next big adventure. The rules developed here are designed to provide a more comprehensive method for crafting items, be they magical or mundane, as well as provide the DM with some ability to more precisely gage the value of certain magical items they might provide to their players within their adventures.
@@ -1510,7 +1507,7 @@ Average	Quality	Value Multiplier
 4.01 - 12	Shoddy	0.1x
 12.01 - 14	Poor	0.5x
 14.01 - 17	Standard	1x
-17.01 - 19	Superior	1.2x
+17.01 - 19	Superior 1.2x
 19.01 - 21	Exceptional	1.5x
 21+	Masterwork	2x
 Players can get an approximate feel for the Quality of their item during work to decide if they wish to continue working or finish the crafting process; however, the final Quality and Properties are unknown until after the crafting is complete.
