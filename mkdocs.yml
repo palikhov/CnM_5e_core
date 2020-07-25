@@ -26,7 +26,7 @@ nav:
             - Training: homerules/downtime-revisited/training.md
             - Work: homerules/downtime-revisited/work.md
             - Новые возможности в простое: homerules/downtime-activities.md
-    - Правила по созданию персонажей: homerules/character-creation.md
+  #  - Правила по созданию персонажей: homerules/character-creation.md
     - Расы:
       - Шейд: homerules/races/shade.md
       - Фейри (демонфеи): homerules/races/feyri.md
@@ -45,7 +45,7 @@ nav:
       - Чародей (Sorcerer): homerules/classes/sorcerer.md
       - Волшебник (маг): homerules/classes/wizard.md
       - Колдун (Warlock): homerules/classes/warlock.md
-    - Настраивая персонажа:
+    - Опции персонажей:
       - Боевые стили: homerules/customizing/fighting-styles.md
       - Навыки (feats): homerules/customizing/feats.md
       - Боевые маневры: homerules/customizing/combat-maneuvers.md
@@ -58,15 +58,13 @@ nav:
       - Снаряжение: homerules/equipment/new-equipment.md
       - Наркотики: homerules/equipment/drugs.md
       - Травы и гербализм: homerules/equipment/herbalism.md
-      - Использование частей тел чудовищ: homerules/equipment/monster-parts-harvesting.md
- #   - Волшебные предметы: homerules/magic-items/magic-items.md
- #   - Ловушки: homerules/traps.md
- #   - Дикая природа:
-      - Случайные встречи и погода в Серебрянных пределах: homerules/environment/hazards-weather-encounters-silver-marches.md
+  #   - Использование частей тел чудовищ: homerules/equipment/monster-parts-harvesting.md
+
+  #    - Случайные встречи и погода в Серебрянных пределах: homerules/environment/hazards-weather-encounters-silver-marches.md
         - Расширенные правила:
-      - Расширенные правила: homerules/expanded-rules/expanded_rules.md
-      - Бой верхом: homerules/expanded-rules/mounted-combat-expanded.md
-      - Умение читать и писать: homerules/expanded-rules/literacy-language-expanded.md
+  #    - Расширенные правила: homerules/expanded-rules/expanded_rules.md
+  #    - Бой верхом: homerules/expanded-rules/mounted-combat-expanded.md
+  #    - Умение читать и писать: homerules/expanded-rules/literacy-language-expanded.md
   #  - Дополнительные правила: homerules/additional-rules/additional_rules.md
   #   - Разное: homerules/misc.md
   #   - Расширенные правила по инструментам из XGE: 
