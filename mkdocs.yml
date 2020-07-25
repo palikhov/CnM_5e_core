@@ -30,7 +30,7 @@ nav:
     - Расы:
       - Шейд: homerules/races/shade.md
       - Фейри (демонфеи): homerules/races/feyri.md
-    - Изменения системы классов и самих классов:
+    - Классы:
       - Общее: homerules/classes/index.md
       - Классы: homerules/classes/classes.md
       - Классы из Арканиса: homerules/classes/arcanis-work.md
@@ -59,27 +59,27 @@ nav:
       - Наркотики: homerules/equipment/drugs.md
       - Травы и гербализм: homerules/equipment/herbalism.md
       - Использование частей тел чудовищ: homerules/equipment/monster-parts-harvesting.md
-    - Волшебные предметы: homerules/magic-items/magic-items.md
-    - Ловушки: homerules/traps.md
-    - Дикая природа:
+ #   - Волшебные предметы: homerules/magic-items/magic-items.md
+ #   - Ловушки: homerules/traps.md
+ #   - Дикая природа:
       - Случайные встречи и погода в Серебрянных пределах: homerules/environment/hazards-weather-encounters-silver-marches.md
         - Расширенные правила:
       - Расширенные правила: homerules/expanded-rules/expanded_rules.md
       - Бой верхом: homerules/expanded-rules/mounted-combat-expanded.md
       - Умение читать и писать: homerules/expanded-rules/literacy-language-expanded.md
-    - Дополнительные правила: homerules/additional-rules/additional_rules.md
-    - Разное: homerules/misc.md
-    - Расширенные правила по инструментам из XGE: 
-      - Набор алхимика: homerules/tool-proficiencies/alchemists-supplies.md
-      - Набор травника: homerules/tool-proficiencies/herbalism-kit.md
-      - Набор отравителя: homerules/tool-proficiencies/poisoners-kit.md
-    - Разное: homerules/misc.md
-    - Правила для общей кампании:
-      - Общее: shared_campaign/index.md
-      - Потребность в игротеке: shared_campaign/needs_organized_play.md
-      - Правила общей кампании: shared_campaign/shared_rules.md
-      - Фракции, известность, слава: shared_campaign\factions-renown-fame.md
-      - Модифицированные правила трех столбов: shared_campaign\three-pillars-modified.md
+  #  - Дополнительные правила: homerules/additional-rules/additional_rules.md
+  #   - Разное: homerules/misc.md
+  #   - Расширенные правила по инструментам из XGE: 
+  #     - Набор алхимика: homerules/tool-proficiencies/alchemists-supplies.md
+  #     - Набор травника: homerules/tool-proficiencies/herbalism-kit.md
+  #     - Набор отравителя: homerules/tool-proficiencies/poisoners-kit.md
+  #   - Разное: homerules/misc.md
+  #   - Правила для общей кампании:
+  #     - Общее: shared_campaign/index.md
+  #     - Потребность в игротеке: shared_campaign/needs_organized_play.md
+  #     - Правила общей кампании: shared_campaign/shared_rules.md
+  #     - Фракции, известность, слава: shared_campaign\factions-renown-fame.md
+  #     - Модифицированные правила трех столбов: shared_campaign\three-pillars-modified.md
   # Link as comment before release 
 
 # Configuration
