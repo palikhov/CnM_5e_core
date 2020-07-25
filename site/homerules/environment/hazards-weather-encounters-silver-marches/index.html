@@ -1,0 +1,3316 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.">
+      
+      
+      
+        <meta name="author" content="Антон Палихов aka Palant">
+      
+      
+        <meta name="lang:clipboard.copy" content="Копировать в буфер">
+      
+        <meta name="lang:clipboard.copied" content="Скопировано в буфер">
+      
+        <meta name="lang:search.language" content="en, ru, uk">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Совпадений не найдено">
+      
+        <meta name="lang:search.result.one" content="Найдено 1 совпадение">
+      
+        <meta name="lang:search.result.other" content="Найдено # совпадений">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Hazards weather encounters silver marches - D&D "Palant edition"</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../../../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#_1" tabindex="1" class="md-skip">
+        Перейти к содержанию
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../../.." title="D&D "Palant edition"" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">library_books</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                D&D "Palant edition"
+              </span>
+              <span class="md-header-nav__topic">
+                Hazards weather encounters silver marches
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Начните печатать для поиска
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../../.." title="Главная" class="md-tabs__link md-tabs__link--active">
+        Главная
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../downtime-revisited/DOWNTIME-COMPLETE-LIST.MD" title="Downtime" class="md-tabs__link">
+          Downtime
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../races/shade/" title="Расы" class="md-tabs__link">
+          Расы
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../classes/" title="Классы" class="md-tabs__link">
+          Классы
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../customizing/fighting-styles/" title="Опции персонажей" class="md-tabs__link">
+          Опции персонажей
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../spells/item-enchanting-spells/" title="Заклинания" class="md-tabs__link">
+          Заклинания
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../equipment/new-equipment/" title="Снаряжение" class="md-tabs__link">
+          Снаряжение
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../../.." title="D&D "Palant edition"" class="md-nav__button md-logo">
+      
+        <i class="md-icon">library_books</i>
+      
+    </a>
+    D&D "Palant edition"
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../.." title="Главная" class="md-nav__link">
+      Главная
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      Downtime
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Downtime
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/DOWNTIME-COMPLETE-LIST.MD" title="Downtime Completed" class="md-nav__link">
+      Downtime Completed
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/buying-a-magic-item/" title="Покупка волшебных вещей" class="md-nav__link">
+      Покупка волшебных вещей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/research/" title="Исследования" class="md-nav__link">
+      Исследования
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/crafting-an-item/" title="Создание предмета" class="md-nav__link">
+      Создание предмета
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/crime/" title="Преступления" class="md-nav__link">
+      Преступления
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/gambling/" title="Азартные игры" class="md-nav__link">
+      Азартные игры
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/pit-fighting/" title="Подпольные бои" class="md-nav__link">
+      Подпольные бои
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/relaxation/" title="Отдых-отдых-отдых" class="md-nav__link">
+      Отдых-отдых-отдых
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/religious-service/" title="Религиозная служба" class="md-nav__link">
+      Религиозная служба
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/scribing-a-spell-scroll/" title="Написание свитка заклинаний" class="md-nav__link">
+      Написание свитка заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/selling-a-magic-item/" title="Продажа волшебного предмета" class="md-nav__link">
+      Продажа волшебного предмета
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/training/" title="Training" class="md-nav__link">
+      Training
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/work/" title="Work" class="md-nav__link">
+      Work
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-activities.md" title="Новые возможности в простое" class="md-nav__link">
+      Новые возможности в простое
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Расы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Расы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../races/shade/" title="Шейд" class="md-nav__link">
+      Шейд
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../races/feyri/" title="Фейри (демонфеи)" class="md-nav__link">
+      Фейри (демонфеи)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+    
+    <label class="md-nav__link" for="nav-4">
+      Классы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        Классы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/classes/" title="Классы" class="md-nav__link">
+      Классы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/arcanis-work/" title="Классы из Арканиса" class="md-nav__link">
+      Классы из Арканиса
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/barbarian/" title="Варвар" class="md-nav__link">
+      Варвар
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/elder-sorcerer/" title="Древние колдуны" class="md-nav__link">
+      Древние колдуны
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/fighter/" title="Боец (воин)" class="md-nav__link">
+      Боец (воин)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/mystic/" title="Мистик" class="md-nav__link">
+      Мистик
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/paladin/" title="Паладин" class="md-nav__link">
+      Паладин
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/ranger-rework/" title="Рейнджер" class="md-nav__link">
+      Рейнджер
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/rogue/" title="Специалист (авантюрист)" class="md-nav__link">
+      Специалист (авантюрист)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/shaman/" title="Шаман" class="md-nav__link">
+      Шаман
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/sorcerer/" title="Чародей (Sorcerer)" class="md-nav__link">
+      Чародей (Sorcerer)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/wizard/" title="Волшебник (маг)" class="md-nav__link">
+      Волшебник (маг)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/warlock/" title="Колдун (Warlock)" class="md-nav__link">
+      Колдун (Warlock)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+    
+    <label class="md-nav__link" for="nav-5">
+      Опции персонажей
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        Опции персонажей
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/fighting-styles/" title="Боевые стили" class="md-nav__link">
+      Боевые стили
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/feats/" title="Навыки (feats)" class="md-nav__link">
+      Навыки (feats)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/combat-maneuvers/" title="Боевые маневры" class="md-nav__link">
+      Боевые маневры
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6">
+    
+    <label class="md-nav__link" for="nav-6">
+      Заклинания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-6">
+        Заклинания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/item-enchanting-spells/" title="Зачарование предметов" class="md-nav__link">
+      Зачарование предметов
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/cantrips/" title="Кантрипы" class="md-nav__link">
+      Кантрипы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/spells-3rd-lvl/" title="3й круг заклинаний" class="md-nav__link">
+      3й круг заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/spells/" title="Общий список" class="md-nav__link">
+      Общий список
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7">
+    
+    <label class="md-nav__link" for="nav-7">
+      Снаряжение
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        Снаряжение
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/new-equipment/" title="Снаряжение" class="md-nav__link">
+      Снаряжение
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/drugs/" title="Наркотики" class="md-nav__link">
+      Наркотики
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/herbalism/" title="Травы и гербализм" class="md-nav__link">
+      Травы и гербализм
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/homerules/environment/hazards-weather-encounters-silver-marches.md" title="Редактировать страницу" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <!-- TOC -->
+
+<p>autoauto- <a href="#дикая-местность">Дикая местность</a>auto- <a href="#natural-hazards">Natural Hazards</a>auto    - <a href="#avalanches-and-landslides">AVALANCHES AND LANDSLIDES</a>auto    - <a href="#the-claws-of-the-cold">THE CLAWS OF THE COLD</a>auto    - <a href="#floods">FLOODS</a>auto    - <a href="#encountering-hazards">Encountering Hazards</a>auto    - <a href="#avalanches-and-landslides-1">AVALANCHES AND LANDSLIDES</a>auto    - <a href="#floods-1">FLOODS</a>auto    - <a href="#fog">FOG</a>auto    - <a href="#encountering-hazards-1">Encountering Hazards</a>auto    - <a href="#заблудились">Заблудились</a>auto    - <a href="#путешествие-по-горам">Путешествие по горам</a>auto    - <a href="#зыбучие-пески-и-топи">Зыбучие пески и топи</a>auto    - <a href="#rain-snow-sleet-and-hail">RAIN, SNOW, SLEET, AND HAIL</a>auto    - <a href="#lightning">LIGHTNING</a>auto    - <a href="#sandstorms">SANDSTORMS</a>auto- <a href="#random-encounters">Random Encounters</a>auto    - <a href="#группы-неигровых-персонажей">Группы неигровых персонажей</a>auto- <a href="#random-weather">Random Weather</a>auto    - <a href="#using-the-tables">USING THE TABLES</a>auto    - <a href="#definitions">DEFINITIONS</a>autoauto<!-- /TOC --></p>
+<h1 id="_1">Дикая местность<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
+<p>Всякий раз, когда персонажи покидают относитель¬ную безопасность Смертельных Снегов и путешествуют на большие расстояния, они подвергаются жестоким погодным условиям и опасным чудовищам диких мест. Смертельные Снега и земли на севере рассматриваются как открытая местность с целью определения случайной погоды (смотрите Главу 2), в то время как большинство других мест в городке и вокруг него считаются альпийскими областями.</p>
+<p>С целью столкновений в дикой местности при¬нимайте Смертельные Снега и земли севернее как часть Лунных Земель, Долины Адбар и региона Холодной Долины (<strong>Таблица 2)</strong>. Очевидно, что любой идущий в горы, окружающие город, путешествует через Незерийские Горы (<strong>Таблица 6</strong>). Некоторые из случайных столкновений в дикой местности могут быть смертельными для партий среднего уровня. Шанс столкновения в течение каждого часа путешествия зависит от старания персонажей идти быстро или осторожно, смотрите Столкновения в дикой местности в Главе 2.</p>
+<p>Никаких столкновений в дикой местности не происходит в пределах 2 миль от городских стен в тече¬ние дня или в пределах 1 мили - ночью или в плохую погоду. Даже чудища обходят городок стороной, если не ищут себе неприятностей.</p>
+<h1 id="natural-hazards">Natural Hazards<a class="headerlink" href="#natural-hazards" title="Permanent link">&para;</a></h1>
+<p>Hungry monsters and rapacious brigands occupy the thoughts of many travelers in the North, but in truth these are not the deadliest dangers of this harsh land. Everyday oc￾currences such as a bitter cold snap in winter, an ill-timed snowfall, a forest fire, or a river in flood kill just as many travelers and homesteaders in the Silver Marches as mon￾sters do, and certainly have the potential to inflict much greater damage to property.</p>
+<h2 id="avalanches-and-landslides">AVALANCHES AND LANDSLIDES<a class="headerlink" href="#avalanches-and-landslides" title="Permanent link">&para;</a></h2>
+<p>The combination of high mountains and heavy snowfalls means that avalanches are a deadly peril in many areas around the North. The Lands Against the Wall, the Spine of the World, the Rauvin Mountains, and the passes through the Nether Mountains are particularly vulnerable. (Ironically, the Ice Mountains are not so dangerous, since they see less snowfall than their neighbors to the west.) If the snowpack is not high, death can still come hurtling down in the form of a landslide. The extremes of temperature common to the North fiercely weather the sides of mountains and cause many falling rocks throughout the year.</p>
+<p>The effects of avalanches and landslides are described in The Environment in Chapter 3 of the DUNGEON MASTER’s Guide. The typical avalanche or landslide has a width of 1d6×100 feet, from one edge of the slide zone to the oppo￾site edge. The bury zone in the center of the avalanche is half as wide as the avalanche’s full width. To determine the pre￾cise location of characters in the path of an avalanche, roll 1d6×20; the result is the number of feet from the center of the path taken by the bury zone to the center of the party’s location. Avalanches advance at a speed of 500 feet per round, landslides at a speed of 250 feet per round.</p>
+<h2 id="the-claws-of-the-cold">THE CLAWS OF THE COLD<a class="headerlink" href="#the-claws-of-the-cold" title="Permanent link">&para;</a></h2>
+<p>Even in the summertime, the mountain passes and high slopes plummet below freezing at night. Most old hands in the Silver Marches own a good set of winter clothing, and are wise enough to stay out of the sort of weather winter clothing won’t help against.</p>
+<p>For the effect of cold and extremely cold weather condi￾tions on characters and creatures, see Weather and Cold Dan￾gers, both in Chapter 3 of the DUNGEON MASTER’s Guide.</p>
+<p>Cold Water: Characters who become soaked or drenched in cold water (usually by immersion in a mountain stream, but marching in a downpour can do the job) are much more vulnerable to cold damage. Moderate temperatures are treated as cold conditions and cold temperatures are treated as extremely cold conditions for purposes of determining whether a soaked character is vulnerable to cold damage.</p>
+<p>This vulnerability remains for 2d4 hours or until a character changes into dry clothes. Soaked clothing provides no protec￾tion against cold damage.</p>
+<p>Characters who remain immersed in cold water take 1d6 points of subdual damage per minute of exposure from hy￾pothermia.</p>
+<p>Permafrost: North of the Sundabar Vale, permafrost con￾ditions prevail. Even in summer, the ground remains frozen hard a foot or so beneath the surface, except around sun￾warmed rocks. Buried corpses and food in contact with per￾mafrost will freeze (though stone cairns are necessary to keep scavengers away), and ready ice is always handy.</p>
+<p>Frozen Lakes and Rivers: During winter, most bodies of water in the Silver Marches freeze over. Most years, the freeze comes in the month of Marpenoth, beginning 1d10+20 days into the month. The ice lasts until the month of Ches, disappearing 1d10+20 days into the month. The thickness of the ice depends on the month and whether or not the water is flowing:</p>
+<table>
+<thead>
+<tr>
+<th>Month</th>
+<th>Standing Water</th>
+<th>Flowing Water</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Marpenoth</td>
+<td>Thin</td>
+<td>—</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Uktar</td>
+<td>Moderate</td>
+<td>Thin</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nightal</td>
+<td>Thick</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Hammer</td>
+<td>Thick</td>
+<td>Thick</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Alturiak</td>
+<td>Thick</td>
+<td>Thick</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ches</td>
+<td>Thin</td>
+<td>Thin</td>
+</tr>
+</tbody>
+</table>
+<p>Thin ice is 1 to 2 inches thick. It supports Small creatures. Medium-size creatures that run, jump, fall, or fight on the ice may cause a break (50% chance per round of such activity).</p>
+<p>Moderate ice is 3 to 11 inches thick. It supports Large crea￾tures. Huge creatures that run, jump, fall, or fight on the ice may cause a break (50% chance per round of such activity).</p>
+<p>Thick ice may be anywhere from 1 to 4 feet thick. It sup￾ports creatures of any size. Ice has 3 hit points per inch of thickness. If a creature too heavy for the ice causes a break, the ice collapses in a circle whose radius is 5 feet larger than the face (or dimensions) of the creature causing the break. Any creature caught in the fracture area except for the creature causing the break may attempt a Reflex save (DC 15) to reach safe ice before it gives way.</p>
+<p>Thin ice is particularly dangerous, because the edges of a fractured area tend to crumble under a swimmer’s efforts to climb out. To climb out, a Small or Medium-size swimmer must succeed at an Escape Artist check (DC 15). Large crea￾tures can’t get back on top of thin ice after it fractures.</p>
+<p>Frozen rivers are dangerous, too. Creatures who fall through the ice of a frozen river may be swept away from the hole by the current and trapped under the ice. Apply the drowning rule (see Chapter 3 of the DUNGEON MASTER’s Guide) as necessary.  FOREST FIRES</p>
+<p>Most campfire sparks ignite nothing, but if conditions are dry, winds are strong, or the forest floor is dried out and flammable, a forest fire can result. Lightning strikes often set trees afire and start forest fires in this way. Luckily, the lands of the Silver Marches are almost always damp. Small “scorch-smolders” of blackened vegetation are the usual result, not conflagrations that spread for miles. Yet travelers can get caught in fires. The leading edge of a fire (the downwind side) can advance faster than a human can run (assume 120 feet per round for winds of moderate strength). Once a particular portion of the forest is ablaze, it re￾mains so for 2d4×10 minutes before dying to a smolder. Within the bounds of a forest fire, a character faces three dangers: heat damage, catching on fire, and smoke inhalation.</p>
+<p>Heat: Getting caught within a forest fire is even worse than being exposed to abysmal heat (see Heat Dangers in Chapter 3 of the DUNGEON MASTER’s Guide). Breathing the air causes a character to take 1d6 points of damage per round (no save). In addition, a character must make a Fortitude save every 5 rounds (DC 15, +1 per previous check) or sustain 1d4 points of subdual damage. A character who holds his breath can avoid the normal damage, but not the subdual damage.</p>
+<p>Catching on Fire: Characters engulfed in a forest fire are at risk of catching on fire when the leading edge of the fire overtakes them, and are then at risk once per minute thereafter. See Catch￾ing on Fire in Chapter 3 of the DUNGEON MASTER’s Guide.</p>
+<p>Smoke: Forest fires naturally produce a great deal of smoke. A character who breathes heavy smoke must make a Fortitude saving throw each round (DC 15, +1 per previous check) or spend that round choking and coughing. A charac￾ter who chokes for two consecutive rounds takes 1d6 points of subdual damage. Also, smoke obscures vision, giving one￾half concealment (20% miss chance) to characters within it.</p>
+<h2 id="floods">FLOODS<a class="headerlink" href="#floods" title="Permanent link">&para;</a></h2>
+<p>In locales throughout the Silver Marches where heavy pre￾cipitation and steep slopes prevail, floods are common.</p>
+<p>Rivers in Flood: In spring, the enormous snowmelt from the slopes of the Nether and Rauvin mountains engorges most of the streams and rivers in and around the Silver Marches. During spring flood, rivers become wider, deeper, and swifter. Assume that a river rises by 1d10+10 feet during the spring flood, and its width increases by a factor of 1d4×50%. Fords may disappear for days, bridges may be swept away, and even ferries might not be able to manage the crossing of a flooded river.A river in flood adds +5 to the DC of any Swim checks that characters attempt. For example, Striding Giant Rapids on the Rauvin might normally be considered rough water (see the Swim skill description in Chapter 4 of the Player’s Hand￾book), which means that Swim checks to get across the river are against DC 15. When this area is in spring flood, the DC rises to 20. (The increase in water depth may make fords too deep for most travelers to wade successfully, so swimming may be their best option if crossing the river is necessary.)</p>
+<p>Mountain Torrent: Innumerable swift, strong streams cascade down out of the mountains of the Silver Marches in all seasons. In general, the typical mountain torrent is 5d6 feet in width and studded with boulders. Waterfalls 1d6×10 feet in height occur every 1d4 miles. Unlucky or clumsy characters may find themselves in a fast-moving gauntlet of icy water, deadly rocks, and sudden waterfalls. Refer to Water Dangers in Chapter 3 of the DUNGEON MASTER’s Guide. Characters swept away by the torrent must attempt Swim checks (DC 15) every round to avoid going under. If a character gets a skill check result of 5 or more over the minimum necessary, he arrests his motion by catching a rock, tree limb, or bottom snag—he is no longer being carried along by the flow of the water. Escaping a torrent by reaching the bank requires three suc￾cessful Swim checks (DC 15) in a row. Characters arrested by a rock, limb, or snag can’t escape unless they strike out into the water and attempt to swim their way clear.</p>
+<p>Flash Floods: These sudden, short-lived torrents occur after heavy rains or ice breakups in spring. A flash flood typically lasts only 4d4 minutes before the waters recede.  Flash floods advance at a speed of 60 feet. See Flash Floods under Weather Hazards in Chapter 3 of the DUN￾GEON MASTER’s Guide.  FOG</p>
+<p>The forgotten peril of the North is its everpresent river mist and mountain fog. Characters traveling along a river by boat  can’t get too lost, of course. However, fogbound overland travel offers a real possibility of running into trees, gullies, and other hazards. A typical fog limits vision to a distance of 1d10×5 feet, completely foiling normal vision and darkvi￾sion beyond this range. Creatures closer than the absolute limit of visibility gain the benefits of one-half concealment (20% miss chance).  </p>
+<h2 id="encountering-hazards">Encountering Hazards<a class="headerlink" href="#encountering-hazards" title="Permanent link">&para;</a></h2>
+<p>An encounter with a natural hazard in motion, such as an avalanche or a forest fire, begins in a particular way de￾pending on the type of hazard.</p>
+<p><strong>Avalanche/Landslide:</strong> An avalanche or landslide can be spotted from as far away as 1d10×500 feet by a character who makes a successful Spot check (DC 20). The DC of the Spot check is modified by any of the conditions that apply from Table 3–2 in the DUNGEON MASTER’s Guide. (Con￾sider the avalanche to be a Colossal encounter, meaning that the DC is immediately reduced by 16.) If all charac￾ters fail their Spot checks to determine the encounter dis￾tance, the avalanche moves closer to them, and they automatically become aware of it when it closes to half the original distance.</p>
+<p>It’s possible to hear an avalanche coming even if you can’t see it. Under optimum conditions (no other loud noises occurring), a character who makes a successful Listen check (DC 15) can hear the avalanche or landslide when it is 1d6×500 feet away. This check might have a DC of 20, 25, or higher in conditions where hearing is difficult (such as in the middle of a thunderstorm).</p>
+<p><strong>Forest Fire:</strong> A forest fire can be spotted from as far away as 2d6×100 feet by a character who makes a success￾ful Spot check (DC 20). The DC of the Spot check is modi￾fied by any of the conditions that apply from Table 3–2 in the DUNGEON MASTER’s Guide. (Consider the fire to be a Colossal encounter, meaning that the DC is immediately reduced by 16.) If all characters fail their Spot checks to determine the encounter distance, the fire moves closer to them, and they automatically see it when it closes to half the original distance.Characters who are blinded or otherwise unable to make Spot checks can feel the heat of the fire (and thus auto￾matically “spot” it) when it is 100 feet away.</p>
+<p>Natural Hazards</p>
+<p>Hungry monsters and rapacious brigands occupy the thoughts of many travelers in the North, but in truth these are not the deadliest dangers of this harsh land. Everyday oc￾currences such as a bitter cold snap in winter, an ill-timed snowfall, a forest fire, or a river in flood kill just as many travelers and homesteaders in the Silver Marches as mon￾sters do, and certainly have the potential to inflict much
+greater damage to property.</p>
+<h2 id="avalanches-and-landslides_1">AVALANCHES AND LANDSLIDES<a class="headerlink" href="#avalanches-and-landslides_1" title="Permanent link">&para;</a></h2>
+<p>The combination of high mountains and heavy snowfalls means that avalanches are a deadly peril in many areas around the North. The Lands Against the Wall, the Spine of the World, the Rauvin Mountains, and the passes through the Nether Mountains are particularly vulnerable. (Ironically, the Ice Mountains are not so dangerous, since they see less snowfall than their neighbors to the west.) If the snowpack is not high, death can still come hurtling down in the form of a landslide. The extremes of temperature common to the North fiercely weather the sides of mountains and cause many falling rocks throughout the year.
+The effects of avalanches and landslides are described in The Environment in Chapter 3 of the DUNGEON MASTER’s Guide. The typical avalanche or landslide has a width of 1d6×100 feet, from one edge of the slide zone to the oppo￾site edge. The bury zone in the center of the avalanche is half
+as wide as the avalanche’s full width. To determine the pre￾cise location of characters in the path of an avalanche, roll 1d6×20; the result is the number of feet from the center of the path taken by the bury zone to the center of the party’s location. Avalanches advance at a speed of 500 feet per round, landslides at a speed of 250 feet per round. </p>
+<p>THE CLAWS OF THE COLD</p>
+<p>Even in the summertime, the mountain passes and high slopes plummet below freezing at night. Most old hands in the Silver Marches own a good set of winter clothing, and are wise enough to stay out of the sort of weather winter clothing won’t help against.</p>
+<p>For the effect of cold and extremely cold weather condi￾tions on characters and creatures, see Weather and Cold Dan￾gers, both in Chapter 3 of the DUNGEON MASTER’s Guide.
+Cold Water: Characters who become soaked or drenched in cold water (usually by immersion in a mountain stream, but marching in a downpour can do the job) are much more vulnerable to cold damage. Moderate temperatures are treated as cold conditions and cold temperatures are treated as extremely cold conditions for purposes of determining whether a soaked character is vulnerable to cold damage.</p>
+<p>This vulnerability remains for 2d4 hours or until a character changes into dry clothes. Soaked clothing provides no protec￾tion against cold damage.ake 1d6 points of subdual damage per minute of exposure from hy￾pothermia.Permafrost: North of the Sundabar Vale, permafrost con￾ditions prevail. Even in summer, the ground remains frozen hard a foot or so beneath the surface, except around sun￾warmed rocks. Buried corpses and food in contact with per￾mafrost will freeze (though stone cairns are necessary to keep scavengers away), and ready ice is always handy.
+Frozen Lakes and Rivers: During winter, most bodies of water in the Silver Marches freeze over. Most years, the freeze comes in the month of Marpenoth, beginning 1d10+20 days into the month. The ice lasts until the month of Ches, disappearing 1d10+20 days into the month. The thickness of the ice depends on the month and whether or not the water is flowing: </p>
+<table>
+<thead>
+<tr>
+<th>Month</th>
+<th>Standing Water</th>
+<th>Flowing Water</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Marpenoth</td>
+<td>Thin</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Uktar</td>
+<td>Moderate</td>
+<td>Thin</td>
+</tr>
+<tr>
+<td>Nightal</td>
+<td>Thick</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Hammer</td>
+<td>Thick</td>
+<td>Thick</td>
+</tr>
+<tr>
+<td>Alturiak</td>
+<td>Thick</td>
+<td>Thick</td>
+</tr>
+<tr>
+<td>Ches</td>
+<td>Thin</td>
+<td>Thin</td>
+</tr>
+</tbody>
+</table>
+<p>Thin ice is 1 to 2 inches thick. It supports Small creatures. Medium-size creatures that run, jump, fall, or fight on the ice may cause a break (50% chance per round of such activity).
+Moderate ice is 3 to 11 inches thick. It supports Large crea￾tures. Huge creatures that run, jump, fall, or fight on the ice may cause a break (50% chance per round of such activity).</p>
+<p>Thick ice may be anywhere from 1 to 4 feet thick. It sup￾ports creatures of any size. Ice has 3 hit points per inch of thickness. If a creature too heavy for the ice causes a break, the ice collapses in a circle whose radius is 5 feet larger than the face (or dimensions) of the creature causing the break. Any creature caught in the fracture area except for the creature causing the break may attempt a Reflex save (DC 15) to reach safe ice before it gives way. </p>
+<p>Thin ice is particularly dangerous, because the edges of a fractured area tend to crumble under a swimmer’s efforts to climb out. To climb out, a Small or Medium-size swimmer must succeed at an Escape Artist check (DC 15). Large crea￾tures can’t get back on top of thin ice after it fractures.</p>
+<p>Frozen rivers are dangerous, too. Creatures who fall through the ice of a frozen river may be swept away from the hole by the current and trapped under the ice. Apply the drowning rule (see Chapter 3 of the DUNGEON MASTER’s Guide) as necessary.  </p>
+<p>FOREST FIRES</p>
+<p>Most campfire sparks ignite nothing, but if conditions are dry, winds are strong, or the forest floor is dried out and flammable, a forest fire can result. Lightning strikes often set trees afire and start forest fires in this way. Luckily, the lands of the Silver Marches are almost always damp. Small “scorch-smolders” of blackened vegetation are the usual result, not conflagrations that spread for miles. Yet travelers can get caught in fires. The leading edge of a fire (the downwind side) can advance faster than a human can run (assume 120 feet per round for winds of moderate strength). Once a particular portion of the forest is ablaze, it re￾mains so for 2d4×10 minutes before dying to a smolder. Within the bounds of a forest fire, a character faces three dangers: heat damage, catching on fire, and smoke inhalation.</p>
+<p><strong>Heat:</strong> Getting caught within a forest fire is even worse than being exposed to abysmal heat (see Heat Dangers in Chapter 3 of the DUNGEON MASTER’s Guide). Breathing the air causes a character to take 1d6 points of damage per round (no save). In addition, a character must make a Fortitude save every 5 rounds (DC 15, +1 per previous check) or sustain 1d4 points of subdual damage. A character who holds his breath can avoid the normal damage, but not the subdual damage. 
+Catching on Fire: Characters engulfed in a forest fire are at risk of catching on fire when the leading edge of the fire overtakes them, and are then at risk once per minute thereafter. See Catch￾ing on Fire in Chapter 3 of the DUNGEON MASTER’s Guide.</p>
+<p><strong>Smoke: Forest</strong> fires naturally produce a great deal of smoke. A character who breathes heavy smoke must make a Fortitude saving throw each round (DC 15, +1 per previous check) or spend that round choking and coughing. A charac￾ter who chokes for two consecutive rounds takes 1d6 points of subdual damage. Also, smoke obscures vision, giving one￾half concealment (20% miss chance) to characters within it.</p>
+<h2 id="floods_1">FLOODS<a class="headerlink" href="#floods_1" title="Permanent link">&para;</a></h2>
+<p>In locales throughout the Silver Marches where heavy pre￾cipitation and steep slopes prevail, floods are common. </p>
+<p><strong>Rivers in Flood:</strong> In spring, the enormous snowmelt from the slopes of the Nether and Rauvin mountains engorges most of the streams and rivers in and around the Silver Marches. During spring flood, rivers become wider, deeper, and swifter. Assume that a river rises by 1d10+10 feet during the spring flood, and its width increases by a factor of 1d4×50%. Fords may disappear for days, bridges may be swept away, and even ferries might not be able to manage the crossing of a flooded river.A river in flood adds +5 to the DC of any Swim checks that characters attempt. For example, Striding Giant Rapids on the Rauvin might normally be considered rough water (see the Swim skill description in Chapter 4 of the Player’s Hand￾book), which means that Swim checks to get across the river are against DC 15. When this area is in spring flood, the DC rises to 20. (The increase in water depth may make fords too deep for most travelers to wade successfully, so swimming may be their best option if crossing the river is necessary.)</p>
+<p><strong>Mountain Torrent:</strong> Innumerable swift, strong streams cascade down out of the mountains of the Silver Marches in all seasons. In general, the typical mountain torrent is 5d6 feet in width and studded with boulders. Waterfalls 1d6×10 feet in height occur every 1d4 miles. Unlucky or clumsy characters may find themselves in a fast-moving gauntlet of icy water, deadly rocks, and sudden waterfalls. Refer to Water Dangers in Chapter 3 of the DUNGEON MASTER’s Guide. Characters swept away by the torrent must attempt Swim checks (DC 15) every round to avoid going under. If a character gets a skill check result of 5 or more over the minimum necessary, he arrests his motion by catching a rock, tree limb, or bottom snag—he is no longer being carried along by the flow of the water. Escaping a torrent by reaching the bank requires three suc￾cessful Swim checks (DC 15) in a row. Characters arrested by a rock, limb, or snag can’t escape unless they strike out into the water and attempt to swim their way clear.</p>
+<p><strong>Flash Floods:</strong> These sudden, short-lived torrents occur after heavy rains or ice breakups in spring. A flash flood typically lasts only 4d4 minutes before the waters recede.  Flash floods advance at a speed of 60 feet. See Flash Floods under Weather Hazards in Chapter 3 of the DUN￾GEON MASTER’s Guide. </p>
+<h2 id="fog">FOG<a class="headerlink" href="#fog" title="Permanent link">&para;</a></h2>
+<p>The forgotten peril of the North is its everpresent river mist and mountain fog. Characters traveling along a river by boat  can’t get too lost, of course. However, fogbound overland travel offers a real possibility of running into trees, gullies, and other hazards. A typical fog limits vision to a distance of 1d10×5 feet, completely foiling normal vision and darkvi￾sion beyond this range. Creatures closer than the absolute limit of visibility gain the benefits of one-half concealment (20% miss chance).</p>
+<h2 id="encountering-hazards_1">Encountering Hazards<a class="headerlink" href="#encountering-hazards_1" title="Permanent link">&para;</a></h2>
+<p>An encounter with a natural hazard in motion, such as an avalanche or a forest fire, begins in a particular way de￾pending on the type of hazard.</p>
+<p><strong>Avalanche/Landslide:</strong> An avalanche or landslide can be spotted from as far away as 1d10×500 feet by a character who makes a successful Spot check (DC 20). The DC of the Spot check is modified by any of the conditions that apply from Table 3–2 in the DUNGEON MASTER’s Guide. (Con￾sider the avalanche to be a Colossal encounter, meaning that the DC is immediately reduced by 16.) If all charac￾ters fail their Spot checks to determine the encounter dis￾tance, the avalanche moves closer to them, and they automatically become aware of it when it closes to half the original distance.</p>
+<p>It’s possible to hear an avalanche coming even if you can’t see it. Under optimum conditions (no other loud noises occurring), a character who makes a successful Listen check (DC 15) can hear the avalanche or landslide when it is 1d6×500 feet away. This check might have a DC of 20, 25, or higher in conditions where hearing is difficult (such as in the middle of a thunderstorm).</p>
+<p><strong>Forest Fire:</strong> A forest fire can be spotted from as far away as 2d6×100 feet by a character who makes a success￾ful Spot check (DC 20). The DC of the Spot check is modi￾fied by any of the conditions that apply from Table 3–2 in the DUNGEON MASTER’s Guide. (Consider the fire to be a Colossal encounter, meaning that the DC is immediately reduced by 16.) If all characters fail their Spot checks to determine the encounter distance, the fire moves closer to them, and they automatically see it when it closes to half the original distance.Characters who are blinded or otherwise unable to make </p>
+<h2 id="_2">Заблудились<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<p>There are many ways to get lost in the wilderness. Following an obvious road, trail, or feature such as a stream or lakeshore prevents any possibility of becoming lost, but trav￾elers striking off cross-country may become disoriented—es￾pecially in conditions of poor visibility or in difficult terrain.</p>
+<p><strong>Poor Visibility:</strong> Any time characters cannot see at least 60 feet in the prevail￾ing conditions of visibility, they may be￾come lost. Characters traveling through fog, snow, or a downpour might easily lose the ability to see any landmarks not in their immediate vicinity. Similarly, characters travel￾ing at night may be at risk, too, de￾pending on the quality of their light sources, the amount of moonlight, and whether or not they have dark￾vision or low-light vision.</p>
+<p><strong>Difficult Terrain:</strong> Any character in forest, moor, hill, or mountain terrain may become lost if he or she moves away from a trail, road, stream, or other obvious path or track.</p>
+<p><strong>Chance to Get Lost:</strong> If conditions exist that make getting lost a possibility, the character leading the way must succeed at a Wilderness Lore check or become lost. The difficulty of this check varies based on the terrain, the visibility condi￾tions, and whether or not the character has a map of the area being traveled through.
+| Terrain                         | DC
+| ------------------------------- | ------------------------------- 
+| Moor or hill terrain, map       | 6 
+|                                 |
+| Mountain terrain, map           | 8
+|                                 |
+| Moor or hill terrain, no map 10 | 10 
+|                                 |
+| Poor visibility                 | 12
+|                                 |
+| Mountain terrain, no map        | 12
+|                                 |
+| Forest                          | 15</p>
+<p>Check once per hour (or portion of an hour) spent in local or overland movement to see if travelers have become lost.</p>
+<p>In the case of a party moving together, only the character leading the way makes the check. (DM Tip: Make this check in secret, since the characters may not realize that they’re lost right away.)</p>
+<p>Effects of Being Lost: If a party becomes lost, it is no longer certain of moving in the direction it intended to travel.</p>
+<p>Randomly determine the direction the party actually travels in during each hour of local or overland movement. The char￾acters’ movement continues to be random until they blunder into a landmark they can’t miss, or until they recognize that they are lost and make an effort to regain their bearings.</p>
+<p>Recognizing that You’re Lost: Once per hour of random travel, each character in the party may attempt a Wilderness Lore check (DC 20 –1 per hour of random travel) to recognize that they are no longer certain of their direction of travel. Some circumstances may make it obvious that the characters are lost; if they expected to reach a certain spot within an hour but three or four hours pass by with no sign of their destination, that’s a bad sign.</p>
+<p>Setting a New Course: A lost party is also uncertain of determin￾ing in which direction it should travel in order to reach a desired objective—even an objective such as “the point where we left the road and went off into these dratted woods.” Determining the correct direction of travel once a party has become lost re￾quires a Wilderness Lore check (DC 15 +2 per hour of random travel). If a character fails in this</p>
+<p>check, he chooses a random direction as the “correct” direction for resuming travel. (DM Tip: Again, this is a check you should make in secret. The lost characters may think they know the way to travel after regaining their bearings, but could be entirely wrong again.) Once the characters are traveling along their new course, correct or incorrect, it’s entirely possible for them to get lost again. If the conditions still make it possible for travelers to become lost, check once per hour of travel as described under Chance to Get Lost to see if the party maintains its new course, or begins to move at random again.</p>
+<p>Conflicting Directions: It’s possible that several characters may attempt to determine the right direction to proceed after becoming lost. That’s just fine. The DM makes a Wil￾derness Lore check for each character in secret, then tells the players whose characters succeeded the correct direction to travel, and tells the players whose characters failed a random direction they think is right. (DM Tip: A few extraneous die rolls behind your screen might make it less apparent which characters are right and which characters are wrong.)</p>
+<p>Regaining Your Bearings: There are several ways to be￾come un-lost. First, if the characters successfully set a new course and follow it to the destination they’re trying to reach, they’re not lost anymore. Second, the characters through random movement might run into an unmistakable landmark. Third, if conditions suddenly improve—the fog lifts, the sun comes up, or the travelers use know direction to ascertain the correct direction of north—lost characters may attempt to set a new course, as described above, with a +4 bonus on the Wilderness Lore check. Finally, more powerful magic such as find the path may make their course clear.</p>
+<h2 id="_3">Путешествие по горам<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
+<p>High altitude can be extremely fatiguing—or sometimes deadly—to creatures that aren’t used to it. Cold becomes ex￾treme, and the lack of oxygen in the air can wear down even the most hardy of warriors.</p>
+<p>Acclimated Characters: Creatures accustomed to high alti￾tude generally fare better than lowlanders. Any creature nor￾mally found in mountain terrain is considered native to the area, and acclimated to the high altitude. Characters with the Endurance feat, 4 ranks of Wilderness Lore, or 7 ranks of Climb are also acclimated to high altitude.</p>
+<p>Undead, constructs, and other creatures that do not breathe are immune to altitude effects.</p>
+<p>Altitude Bands: In general, mountains present three possi￾ble altitude bands: low pass, low peak/high pass, and high peak.</p>
+<p>Low Pass (lower than 7,000 feet): Most travel in low mountains takes place in low passes. Travelers may find the going difficult (which is reflected in the movement modi￾fiers for traveling through mountains), but there are no un￾usual weather or altitude effects.</p>
+<p>Low Peak or High Pass (7,000 to 20,000 feet): Ascending to the highest slopes of low mountains, or most normal travel through high mountains, falls into this category. At these ele￾vations, creatures may be subject to high altitude effects (see below). Temperatures at this level are one grade colder than the prevailing weather would indicate—for example, if the day’s temperature is moderate, it’s actually cold at this altitude.</p>
+<p>High Peak (more than 20,000 feet): The highest slopes and peaks of high mountains exceed 20,000 feet in height. At these el￾evations, creatures may be subject to altitude sickness (see below).</p>
+<p>Temperatures at this level are always two grades colder than the prevailing weather indicates—for example, if the day’s tempera￾ture is moderate, it’s actually extremely cold at this altitude.</p>
+<p>High Altitude Effects: All nonacclimated creatures labor to breathe in the thin air at high altitude. See Lack of Air/High Altitude, under Other Dangers in Chapter 3 of the DUNGEON MASTER’s Guide. Acclimated characters are not subject to high altitude effects.</p>
+<p>Altitude Sickness: Any creature at an altitude higher than 20,000 feet is subject to both high altitude effects and alti￾tude sickness, as described under Lack of Air/High Altitude in Chapter 3 of the DUNGEON MASTER’s Guide. Creatures acclimated to high altitude as described above receive a +4 bonus on their saving throws to resist high altitude effects and altitude sickness, but eventually even seasoned moun￾taineers must abandon these dangerous elevations.</p>
+<h2 id="_4">Зыбучие пески и топи<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<p>In moors, marshes, and other examples of sodden terrain, hidden, water-filled holes await the unwary. Obvious bogs are not very dangerous—everybody can recognize a mud￾hole or a scum-covered pond. However, some of these patches present a deceptively solid appearance and may trap careless characters. A character approaching a hidden bog or patch of quicksand at a normal pace is entitled to a Wilder￾ness Lore check (DC 8) to spot the danger before stepping in, but charging or running characters don’t have a chance to detect a hidden bog before blundering in. A typical patch of quicksand or quaking bog is (1d4+1)×5 feet in diameter; the momentum of a charging or running character carries him or her 1d2×5 feet into the bog.</p>
+<p>Effects of Quicksand: Characters in quicksand must make a Swim check (DC 10) every round to simply tread water in place, or a Swim check (DC 15) to move 5 feet in whatever direction is desired. If a trapped character fails this check by 5 or more, he sinks below the surface and begins to drown whenever he can no longer hold his breath. Characters below the surface of a bog may swim back to the surface with a successful Swim check (DC 15 +1 per con￾secutive round of being under the surface).</p>
+<p>Rescue: Pulling out a character trapped in quicksand can be difficult. A rescuer needs a branch, spear haft, rope, or similar tool that enables him to reach the victim with one end of it. Then he must make a Strength check (DC 15) to successfully pull the victim, and the victim must make a Strength check (DC 10) to hold onto the branch, pole, or rope. If the victim fails to hold on, he must make an imme￾diate Swim check (DC 15) to stay above the surface. If both checks succeed, the victim is pulled 5 feet closer to safety.</p>
+<h2 id="rain-snow-sleet-and-hail">RAIN, SNOW, SLEET, AND HAIL<a class="headerlink" href="#rain-snow-sleet-and-hail" title="Permanent link">&para;</a></h2>
+<p>Precipitation is a daily occurrence in the Silver Marches most of the year. Bad weather frequently slows or halts travel and makes it virtually impossible to navigate from one spot to another.</p>
+<p><strong>Rain:</strong> Rain is all too frequent in the North. Rain affects visibility, ranged attacks and Listen, Search, and Spot checks as described in Precipitation under Weather Hazards in Chapter 3 of the DUNGEON MASTER’s Guide. Characters caught out in steady rain become soaked in 2d6×10 minutes, which may make them more vulnerable to cold damage (see The Claws of the Cold earlier in this chapter).</p>
+<p><strong>Downpours:</strong> These sudden, heavy rains often cause flash floods in hilly or mountainous country. Downpours have all the properties of rain, except that visibility is reduced as de￾scribed below, and characters become soaked in 10 minutes, rendering them more susceptible to cold damage.</p>
+<p>Visibility in a downpour is limited to a range of 1d10×5 feet. Creatures closer than the absolute limit of visibility gain one-half concealment (20% miss chance).</p>
+<p><strong>Hail:</strong> The effects of hail are described in Precipitation under Weather Hazards in Chapter 3 of the DUNGEON MASTER’s Guide. Hail in the North can be unusually heavy and dangerous—there is a 10% chance that the hail deals 1 point of damage to all creatures caught in the open, and if this happens, there’s a 20% chance that hailstones the size of a human fist (or bigger) fall. This extra-large hail deals 1d4 points of damage to any creature caught in the open. Fallen hail reduces movement by half, just like a fall of snow. In moderate or warm temperatures, it takes 1d4 hours for fallen hail to melt. In cold temperatures, hail remains on the ground for 4d4 hours.</p>
+<p><strong>Sleet:</strong> The ice storms of the North are legendary for their destructive power. Sleet has the same effects on visibility, ranged attacks, and Listen, Search, and Spot checks as rain, and reduces movement by half.</p>
+<p>Sleet hisses as it falls, and coats everything with ice, creat￾ing slippery conditions for any skill checks affected by the conditions of the surface (Balance and Climb, for example). This slippery state lasts until snowfall covers the ice, or a thaw (one day of moderate or higher temperatures) melts it. In addition, sleet soaks characters in the open over the course of 2d6×10 minutes, making them more vulnerable to cold damage.</p>
+<p><strong>Snow:</strong> Falling snow has the same effects on visibility, ranged weapon attacks, and skill checks as rain, and reduces movement to half. A day of snowfall leaves 1d6 inches of snow on the ground. When the depth of the snow reaches half a creature’s height, movement is slowed to one-quarter normal, and when snow reaches a creature’s height, move￾ment is halved again.</p>
+<p>Snow melts off at the rate of 4 inches per day of moder￾ate temperatures, 8 inches per day of warm temperatures, or 12 inches per day of hot temperatures.</p>
+<p><strong>Heavy Snow:</strong> Heavy snowfall has the same effects as normal snowfall, but also restricts visibility as fog does (see Fog, earlier in this section). A day of heavy snow leaves 1d3 feet of snow on the ground. Heavy snow accompanied by strong or severe winds may result in snowdrifts 1d4×5 feet in depth, especially in and around objects big enough to de￾flect the prevailing wind—a cabin or large tent, for instance. There is a 10% chance that a heavy snowfall is accompa￾nied by lightning (see below).</p>
+<h2 id="lightning">LIGHTNING<a class="headerlink" href="#lightning" title="Permanent link">&para;</a></h2>
+<p>Thunderstorms are common in the summer and early fall in the Silver Marches. A mountain thunderstorm is nothing to stand around and admire; it can be deadly. Lightning some￾times accompanies heavy snowfalls, too.</p>
+<p><strong>Thunderstorms:</strong> During a day in which thunderstorms appear, creatures in the open encounter 1d3 distinct storms. Each storm lasts for 2d6×10 minutes. There is a 20% chance per storm that a bolt endangers a creature or group of creatures in the open. Each lightning bolt inflicts 1d10 8-sided dice of damage in a 10-foot radius. Roll randomly to determine which char￾acter is at the center of the strike. Any threatened character (including the character at the center) is entitled to a Reflex save (DC 15) to take only half damage.</p>
+<h2 id="sandstorms">SANDSTORMS<a class="headerlink" href="#sandstorms" title="Permanent link">&para;</a></h2>
+<p>Thanks to the dampness of the North, duststorms are un￾known in these lands, but sandstorms—heavy particles driven by furious winds from Anauroch—occur from time to time.</p>
+<p>They seldom reach west of Sundabar. Sandstorms reduce vis￾ibility to 1d10×5 feet and provide a –4 penalty on Listen, Search, and Spot checks. Sandstorms deal 1d3 points of subdual damage per hour to any creatures caught in the open, and leave a thin coating of sand (1d2 inches) in their wake.</p>
+<h1 id="random-encounters">Random Encounters<a class="headerlink" href="#random-encounters" title="Permanent link">&para;</a></h1>
+<p>TABLE 1: RAUVIN VALE AND SUNDABAR VALE ENCOUNTERS (SETTLED)</p>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>Night</th>
+<th>Encounter</th>
+<th>Number Encountered</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>—</td>
+<td>01–02</td>
+<td>Abishai, white</td>
+<td>1</td>
+</tr>
+<tr>
+<td>01–07</td>
+<td>03–05</td>
+<td>Bandits</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>—</td>
+<td>06</td>
+<td>Baneguardm</td>
+<td>1d8+2</td>
+</tr>
+<tr>
+<td>—</td>
+<td>07–08</td>
+<td>Bat,</td>
+<td>night</td>
+</tr>
+<tr>
+<td>08–11</td>
+<td>09</td>
+<td>Bear,</td>
+<td>brown</td>
+</tr>
+<tr>
+<td>12–16</td>
+<td>10–11</td>
+<td>Brantas</td>
+<td>1d6+2</td>
+</tr>
+<tr>
+<td>17–25</td>
+<td>12</td>
+<td>Deer</td>
+<td>(animal)s</td>
+</tr>
+<tr>
+<td>26–27</td>
+<td>13</td>
+<td>Dire</td>
+<td>bear</td>
+</tr>
+<tr>
+<td>28–29</td>
+<td>14</td>
+<td>Dire</td>
+<td>rat</td>
+</tr>
+<tr>
+<td>30–31</td>
+<td>15–16</td>
+<td>Dire</td>
+<td>wolf</td>
+</tr>
+<tr>
+<td>—</td>
+<td>17–18</td>
+<td>Dread</td>
+<td>warriorm</td>
+</tr>
+<tr>
+<td>32–34</td>
+<td>19</td>
+<td>Elk</td>
+<td>(animal)s</td>
+</tr>
+<tr>
+<td>35</td>
+<td>20–21</td>
+<td>Gargoyle</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>—</td>
+<td>22–23</td>
+<td>Ghast</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>—</td>
+<td>24–26</td>
+<td>Ghoul</td>
+<td>1d6</td>
+</tr>
+<tr>
+<td>36–37</td>
+<td>27–34</td>
+<td>Goblin</td>
+<td>raiders</td>
+</tr>
+<tr>
+<td>38–45</td>
+<td>35–39</td>
+<td>NPCs</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>46–53</td>
+<td>40</td>
+<td>Merchants</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>54</td>
+<td>41</td>
+<td>Mountain torrent</td>
+<td>SEE GROUPS</td>
+</tr>
+<tr>
+<td>—</td>
+<td>42</td>
+<td>Nythm</td>
+<td>1</td>
+</tr>
+<tr>
+<td>55–57</td>
+<td>43–48</td>
+<td>Ogre</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>58–59</td>
+<td>49–54</td>
+<td>Orc</td>
+<td>1d3+1</td>
+</tr>
+<tr>
+<td>60</td>
+<td>55–58</td>
+<td>Orc</td>
+<td>marauders</td>
+</tr>
+<tr>
+<td>61–69</td>
+<td>59–61</td>
+<td>Patrol</td>
+<td>see Groups1</td>
+</tr>
+<tr>
+<td>70–71</td>
+<td>62–63</td>
+<td>Perytonm</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>72</td>
+<td>64–65</td>
+<td>Planetouched,</td>
+<td>fey’rim</td>
+</tr>
+<tr>
+<td>73</td>
+<td>66–68</td>
+<td>Planetouched,</td>
+<td>tanarukkm</td>
+</tr>
+<tr>
+<td>74–78</td>
+<td>69–70</td>
+<td>Rothé,</td>
+<td>surfacef</td>
+</tr>
+<tr>
+<td>—</td>
+<td>71</td>
+<td>Spectral</td>
+<td>pantherm</td>
+</tr>
+<tr>
+<td>—</td>
+<td>72–73</td>
+<td>Skeleton,</td>
+<td>medium</td>
+</tr>
+<tr>
+<td>79–81</td>
+<td>74–75</td>
+<td>Red</td>
+<td>tiger</td>
+</tr>
+<tr>
+<td>82–84</td>
+<td>76–79</td>
+<td>Troll</td>
+<td>1</td>
+</tr>
+<tr>
+<td>—</td>
+<td>80–81</td>
+<td>Vampire</td>
+<td>spawn</td>
+</tr>
+<tr>
+<td>85</td>
+<td>82</td>
+<td>Wereboar</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>86–87</td>
+<td>83–84</td>
+<td>Werewolf</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>—</td>
+<td>85–87</td>
+<td>Wight</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>88–96</td>
+<td>88–90</td>
+<td>Wolf</td>
+<td>(animal)</td>
+</tr>
+<tr>
+<td>97–100</td>
+<td>91–97</td>
+<td>Worg</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>—</td>
+<td>98–100</td>
+<td>Zombie,</td>
+<td>medium</td>
+</tr>
+</tbody>
+</table>
+<p>TABLE 2: MOONLANDS, ADBAR VALE, AND COLD VALE ENCOUNTERS (FRONTIER)</p>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>Night</th>
+<th>Encounter</th>
+<th>Number Encountered</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>—</td>
+<td>01–02</td>
+<td>Abishai,</td>
+<td>whitem</td>
+</tr>
+<tr>
+<td>01–05</td>
+<td>03–04</td>
+<td>Bandits</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>—</td>
+<td>05–06</td>
+<td>Bat, night hunterm</td>
+<td>2d6</td>
+</tr>
+<tr>
+<td>06–10</td>
+<td>07</td>
+<td>Bear, brown (animal)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>08</td>
+<td>Behir</td>
+<td>1</td>
+</tr>
+<tr>
+<td>12–16</td>
+<td>09–10</td>
+<td>Brantas</td>
+<td>1d6+2</td>
+</tr>
+<tr>
+<td>17–18</td>
+<td>11–12</td>
+<td>Bugbear</td>
+<td>1d3+1</td>
+</tr>
+<tr>
+<td>19–25</td>
+<td>13</td>
+<td>Deer (animal)s</td>
+<td>2d6</td>
+</tr>
+<tr>
+<td>26–27</td>
+<td>14–15</td>
+<td>Dire bear</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28–29</td>
+<td>16–17</td>
+<td>Dire wolf</td>
+<td>1d4+4</td>
+</tr>
+<tr>
+<td>30</td>
+<td>18–19</td>
+<td>Dire wolverine</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>31–34</td>
+<td>20–24</td>
+<td>Dragon (see Table 2a)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>35</td>
+<td>25</td>
+<td>Dragonkinm</td>
+<td>2d4</td>
+</tr>
+<tr>
+<td>—</td>
+<td>26–27</td>
+<td>Dread warriorm</td>
+<td>1</td>
+</tr>
+<tr>
+<td>36–39</td>
+<td>28–29</td>
+<td>Dwarf patrol</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>40–43</td>
+<td>30</td>
+<td>Elk (animal)s</td>
+<td>1d6+2</td>
+</tr>
+<tr>
+<td>44</td>
+<td>31–34</td>
+<td>Ettin</td>
+<td>1d3+1</td>
+</tr>
+<tr>
+<td>—</td>
+<td>35–37</td>
+<td>Ghast</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>—</td>
+<td>38–41</td>
+<td>Ghoul</td>
+<td>1d6</td>
+</tr>
+<tr>
+<td>45–46</td>
+<td>42–47</td>
+<td>Goblin raiders</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>47</td>
+<td>48–51</td>
+<td>Hill giant</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>48–49</td>
+<td>52–53</td>
+<td>Leucrottam</td>
+<td>1d4</td>
+</tr>
+<tr>
+<td>—</td>
+<td>54</td>
+<td>Nishruum</td>
+<td>1</td>
+</tr>
+<tr>
+<td>50–53</td>
+<td>55</td>
+<td>Merchants</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>54–55</td>
+<td>56–57</td>
+<td>Mountain torrent</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>56–58</td>
+<td>58–59</td>
+<td>NPCs</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>59–60</td>
+<td>60–61</td>
+<td>Ogre</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>61–63</td>
+<td>62–67</td>
+<td>Orc</td>
+<td>marauders</td>
+</tr>
+<tr>
+<td>64</td>
+<td>68–69</td>
+<td>Planetouched,</td>
+<td>tanarukkm</td>
+</tr>
+<tr>
+<td>65–68</td>
+<td>70–71</td>
+<td>Rothé, surfacef</td>
+<td>1d10+10</td>
+</tr>
+<tr>
+<td>69–73</td>
+<td>72</td>
+<td>Argent Legion patrol</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>74–76</td>
+<td>73</td>
+<td>Red tiger (animal)s</td>
+<td>1</td>
+</tr>
+<tr>
+<td>77–79</td>
+<td>74–77</td>
+<td>Troll</td>
+<td>1d3+1</td>
+</tr>
+<tr>
+<td>80–85</td>
+<td>78–79</td>
+<td>Uthgardt scouts</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>—</td>
+<td>80–81</td>
+<td>Vampire spawn</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>86</td>
+<td>82</td>
+<td>Wereboar</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>87–89</td>
+<td>83–84</td>
+<td>Werewolf</td>
+<td>1d6+4</td>
+</tr>
+<tr>
+<td>—</td>
+<td>85–87</td>
+<td>Wight</td>
+<td>1d4+1</td>
+</tr>
+<tr>
+<td>—</td>
+<td>88–89</td>
+<td>Winter</td>
+<td>wolf</td>
+</tr>
+<tr>
+<td>90–95</td>
+<td>90–94</td>
+<td>Wolf (animal)</td>
+<td>1d6+10</td>
+</tr>
+<tr>
+<td>96–97</td>
+<td>95</td>
+<td>Wolverine (animal)</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>98–100</td>
+<td>96–100</td>
+<td>Worg</td>
+<td>1d2</td>
+</tr>
+</tbody>
+</table>
+<p>TABLE 2A: MOONLANDS, ADBAR VALE, AND COLD VALE DRAGONS</p>
+<table>
+<thead>
+<tr>
+<th>d%</th>
+<th>Dragon</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–10</td>
+<td>Fangm, juvenile</td>
+</tr>
+<tr>
+<td>11–18</td>
+<td>Gold, young</td>
+</tr>
+<tr>
+<td>19–45</td>
+<td>Red, young</td>
+</tr>
+<tr>
+<td>46–55</td>
+<td>Shadowm, juvenile</td>
+</tr>
+<tr>
+<td>56–100</td>
+<td>White, young adult</td>
+</tr>
+</tbody>
+</table>
+<p>TABLE 3: EVERMOORS ENCOUNTERS (WILDERNESS)</p>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>Night</th>
+<th>Encounter</th>
+<th>Number Encountered</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–02</td>
+<td>01–03</td>
+<td>Behir</td>
+<td>1</td>
+</tr>
+<tr>
+<td>—</td>
+<td>04–05</td>
+<td>Darkenbeastm</td>
+<td>1d2+2</td>
+</tr>
+<tr>
+<td>03–10</td>
+<td>06</td>
+<td>Deer (animal)s</td>
+<td>2d6</td>
+</tr>
+<tr>
+<td>11–14</td>
+<td>07–09</td>
+<td>Dire wolf</td>
+<td>1d4+4</td>
+</tr>
+<tr>
+<td>15–20</td>
+<td>10–14</td>
+<td>Dragon (see Table 3a)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>—</td>
+<td>15–17</td>
+<td>Dread warriorm</td>
+<td>1d4+3</td>
+</tr>
+<tr>
+<td>21–25</td>
+<td>18–21</td>
+<td>Ettin</td>
+<td>1d3+1</td>
+</tr>
+<tr>
+<td>26–28</td>
+<td>22–24</td>
+<td>Fog giantm</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>—</td>
+<td>25–27</td>
+<td>Ghast pack</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>—</td>
+<td>28–30</td>
+<td>Ghost see Groups</td>
+<td></td>
+</tr>
+<tr>
+<td>29–34</td>
+<td>31–35</td>
+<td>Hill giant</td>
+<td>1d3</td>
+</tr>
+<tr>
+<td>35–37</td>
+<td>36–37</td>
+<td>Ice serpentm</td>
+<td>1d3+1</td>
+</tr>
+<tr>
+<td>38–45</td>
+<td>38–44</td>
+<td>NPCs</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>46</td>
+<td>45–47</td>
+<td>Nishruum</td>
+<td>1</td>
+</tr>
+<tr>
+<td>47</td>
+<td>48–50</td>
+<td>Nythm</td>
+<td>1</td>
+</tr>
+<tr>
+<td>48–53</td>
+<td>51–54</td>
+<td>Ogre</td>
+<td>1d3+1</td>
+</tr>
+<tr>
+<td>54–61</td>
+<td>55–63</td>
+<td>Orc marauders</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>62–66</td>
+<td>64–67</td>
+<td>Rothé, ghostf</td>
+<td>1d10+10</td>
+</tr>
+<tr>
+<td>67–69</td>
+<td>68–69</td>
+<td>Shambling mound</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>70–71</td>
+<td>70–71</td>
+<td>Snowcloaks</td>
+<td>1d6+2</td>
+</tr>
+<tr>
+<td>—</td>
+<td>72</td>
+<td>Spectre</td>
+<td>1d6</td>
+</tr>
+<tr>
+<td>72–83</td>
+<td>73–77</td>
+<td>Troll</td>
+<td>1d3+1</td>
+</tr>
+<tr>
+<td>—</td>
+<td>78–80</td>
+<td>Wight</td>
+<td>1d8+1</td>
+</tr>
+<tr>
+<td>—</td>
+<td>81–82</td>
+<td>Will-o’-wisp</td>
+<td>1d6</td>
+</tr>
+<tr>
+<td>—</td>
+<td>83–84</td>
+<td>Wraith</td>
+<td>1d6</td>
+</tr>
+<tr>
+<td>84–86</td>
+<td>85–87</td>
+<td>Winter wolf</td>
+<td>1d6+5</td>
+</tr>
+<tr>
+<td>87–94</td>
+<td>88–90</td>
+<td>Wolf (animal)</td>
+<td>1d10+6</td>
+</tr>
+<tr>
+<td>95–99</td>
+<td>91–96</td>
+<td>Worg</td>
+<td>1d4+4</td>
+</tr>
+<tr>
+<td>100</td>
+<td>97–100</td>
+<td>Yeth hound</td>
+<td>1d6+5</td>
+</tr>
+</tbody>
+</table>
+<p>TABLE 3A: EVERMOORS DRAGONS</p>
+<table>
+<thead>
+<tr>
+<th>d%</th>
+<th>Dragon</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–10</td>
+<td>Black, young (clutch of 1d4+1)</td>
+</tr>
+<tr>
+<td>11–20</td>
+<td>Black, old</td>
+</tr>
+<tr>
+<td>21–45</td>
+<td>Red, juvenile</td>
+</tr>
+<tr>
+<td>46–52</td>
+<td>Shadowm, young</td>
+</tr>
+<tr>
+<td>53–61</td>
+<td>White, young (clutch of 1d4+1)</td>
+</tr>
+<tr>
+<td>62–95</td>
+<td>White, old</td>
+</tr>
+<tr>
+<td>96–98</td>
+<td>Dracolichf, white adult</td>
+</tr>
+<tr>
+<td>99–100</td>
+<td>Dracolichf, red young adult</td>
+</tr>
+</tbody>
+</table>
+<p>TABLE 4: HIGH FOREST ENCOUNTERS (WILDERNESS)</p>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>Night</th>
+<th>Encounter</th>
+<th>Number Encountered</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01</td>
+<td>01–02</td>
+<td>Abishai, greenm</td>
+<td>1d4</td>
+</tr>
+<tr>
+<td>—</td>
+<td>03–05</td>
+<td>Bat, night hunterm</td>
+<td>2d6</td>
+</tr>
+<tr>
+<td>—</td>
+<td>06–07</td>
+<td>Bat, sinisterm</td>
+<td>1d6+3</td>
+</tr>
+<tr>
+<td>02–07</td>
+<td>08–09</td>
+<td>Centaur</td>
+<td>1d4+4</td>
+</tr>
+<tr>
+<td>—</td>
+<td>10–11</td>
+<td>Crawling clawm</td>
+<td>4d6</td>
+</tr>
+<tr>
+<td>—</td>
+<td>12–14</td>
+<td>Darkenbeastm</td>
+<td>1d2+2</td>
+</tr>
+<tr>
+<td>08–15</td>
+<td>15</td>
+<td>Deer (animal)s</td>
+<td>2d6</td>
+</tr>
+<tr>
+<td>—</td>
+<td>16–17</td>
+<td>Dire bat</td>
+<td>1d4+4</td>
+</tr>
+<tr>
+<td>16–17</td>
+<td>18–19</td>
+<td>Dire bear</td>
+<td>1</td>
+</tr>
+<tr>
+<td>18–19</td>
+<td>20–21</td>
+<td>Dire rat</td>
+<td>1d10+10</td>
+</tr>
+<tr>
+<td>20–22</td>
+<td>22–24</td>
+<td>Dire wolf</td>
+<td>1d4+4</td>
+</tr>
+<tr>
+<td>23–24</td>
+<td>25</td>
+<td>Dire wolverine</td>
+<td>1</td>
+</tr>
+<tr>
+<td>—</td>
+<td>26–27</td>
+<td>Dread warriorm</td>
+<td>2d6</td>
+</tr>
+<tr>
+<td>25–30</td>
+<td>28–33</td>
+<td>Dragon</td>
+<td>(see 4a)</td>
+</tr>
+<tr>
+<td>31–34</td>
+<td>34</td>
+<td>Elk (animal)s</td>
+<td>1d6+2</td>
+</tr>
+<tr>
+<td>35</td>
+<td>35</td>
+<td>Forest fire</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>—</td>
+<td>36–37</td>
+<td>Ghast pack</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>36–41</td>
+<td>38–40</td>
+<td>Gnoll hunters</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>42–43</td>
+<td>41–44</td>
+<td>Gray render</td>
+<td>1</td>
+</tr>
+<tr>
+<td>44–45</td>
+<td>45–47</td>
+<td>Green hag</td>
+<td>(hag)</td>
+</tr>
+<tr>
+<td>46</td>
+<td>48–49</td>
+<td>Gulguthydram</td>
+<td>1</td>
+</tr>
+<tr>
+<td>47</td>
+<td>50</td>
+<td>Ibrandlinm</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>48–49</td>
+<td>51–54</td>
+<td>Kir-lananf</td>
+<td>1d4+1</td>
+</tr>
+<tr>
+<td>50–56</td>
+<td>55–57</td>
+<td>NPCs</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>57</td>
+<td>58</td>
+<td>Nymph</td>
+<td>1</td>
+</tr>
+<tr>
+<td>58–60</td>
+<td>59–61</td>
+<td>Ogre</td>
+<td>1d3+1</td>
+</tr>
+<tr>
+<td>61–65</td>
+<td>62–68</td>
+<td>Orc marauders</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>66</td>
+<td>69–70</td>
+<td>Phase spider</td>
+<td>1d4</td>
+</tr>
+<tr>
+<td>67–68</td>
+<td>71–73</td>
+<td>Planetouched, fey’rim</td>
+<td>1d2×10</td>
+</tr>
+<tr>
+<td>69–70</td>
+<td>74–75</td>
+<td>Planetouched, tanarukkm</td>
+<td>1d6+5</td>
+</tr>
+<tr>
+<td>71–72</td>
+<td>76</td>
+<td>Red tiger (animal)s</td>
+<td>1</td>
+</tr>
+<tr>
+<td>—</td>
+<td>77</td>
+<td>Shadow</td>
+<td>1d4+1</td>
+</tr>
+<tr>
+<td>73</td>
+<td>78</td>
+<td>Shambling mound</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>71–72</td>
+<td>70</td>
+<td>Planetouched,  fey’rim</td>
+<td>1d2×10</td>
+</tr>
+<tr>
+<td>73–74</td>
+<td>71</td>
+<td>Planetouched,  tanarukkm</td>
+<td>1d6+5</td>
+</tr>
+<tr>
+<td>75–76</td>
+<td>72</td>
+<td>Rock  wyrms</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>77–80</td>
+<td>73</td>
+<td>Rothé, ghostf</td>
+<td>1d10+10</td>
+</tr>
+<tr>
+<td>81–82</td>
+<td>74</td>
+<td>Argent  Legion  patrol</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>83–84</td>
+<td>75–77</td>
+<td>Snowcloaks</td>
+<td>1d6+2</td>
+</tr>
+<tr>
+<td>85–86</td>
+<td>78</td>
+<td>Uthgardt  scouts</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>—</td>
+<td>79–80</td>
+<td>Vampire</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>—</td>
+<td>81–82</td>
+<td>Vampire troupe</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>87–92</td>
+<td>83–84</td>
+<td>Wolf  (animal)</td>
+<td>1d8+8</td>
+</tr>
+<tr>
+<td>93–96</td>
+<td>85–90</td>
+<td>Worg</td>
+<td>1d4+4</td>
+</tr>
+<tr>
+<td>—</td>
+<td>91–93</td>
+<td>Wraith</td>
+<td>1d6+5</td>
+</tr>
+<tr>
+<td>97–99</td>
+<td>94–96</td>
+<td>Wyvern</td>
+<td>1d4+2</td>
+</tr>
+<tr>
+<td>100</td>
+<td>97–100</td>
+<td>Yrthak</td>
+<td>1d3+1</td>
+</tr>
+</tbody>
+</table>
+<p>TABLE 6A: NETHER AND RAUVIN MOUNTAINS DRAGONS</p>
+<table>
+<thead>
+<tr>
+<th>d%</th>
+<th>Dragon</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–10</td>
+<td>Blue, adult</td>
+</tr>
+<tr>
+<td>11–19</td>
+<td>Copper, adult</td>
+</tr>
+<tr>
+<td>20–39</td>
+<td>Fangm, mature adult</td>
+</tr>
+<tr>
+<td>40–47</td>
+<td>Gold, young adult</td>
+</tr>
+<tr>
+<td>48–59</td>
+<td>Red, young adult</td>
+</tr>
+<tr>
+<td>60–69</td>
+<td>Silver, young adult</td>
+</tr>
+<tr>
+<td>70–96</td>
+<td>White, old</td>
+</tr>
+<tr>
+<td>97–98</td>
+<td>Dracolichf, red young adult</td>
+</tr>
+<tr>
+<td>99–100</td>
+<td>Dracolichf, white mature adult</td>
+</tr>
+</tbody>
+</table>
+<p>TABLE 7: SPINE OF THE WORLD AND ICE MOUNTAINS ENCOUNTERS (DESOLATE)</p>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>Night</th>
+<th>Encounter</th>
+<th>Number Encountered</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–02</td>
+<td>01</td>
+<td>Arctic dwarf hunters</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>03</td>
+<td>02</td>
+<td>Avalanche/landslide</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>04–05</td>
+<td>03</td>
+<td>Bear, polar (animal)</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>06–08</td>
+<td>04</td>
+<td>Brantas</td>
+<td>1d6+2</td>
+</tr>
+<tr>
+<td>09–10</td>
+<td>05–06</td>
+<td>Cloud giant</td>
+<td>1</td>
+</tr>
+<tr>
+<td>11–14</td>
+<td>07–08</td>
+<td>Dire bear</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>15–19</td>
+<td>09–12</td>
+<td>Dire wolf</td>
+<td>1d4+4</td>
+</tr>
+<tr>
+<td>20–27</td>
+<td>13–20</td>
+<td>Dragon (see Table 7a)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28–33</td>
+<td>21</td>
+<td>Eagle, giant</td>
+<td>1d3+2</td>
+</tr>
+<tr>
+<td>34–38</td>
+<td>22–28</td>
+<td>Ettin</td>
+<td>1d3+1</td>
+</tr>
+<tr>
+<td>39–46</td>
+<td>29–37</td>
+<td>Frost giant</td>
+<td>1d4+1</td>
+</tr>
+<tr>
+<td>47–48</td>
+<td>38–43</td>
+<td>Frost worm</td>
+<td>1</td>
+</tr>
+<tr>
+<td>49–50</td>
+<td>44–49</td>
+<td>Goblin raiders</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>51–53</td>
+<td>50–52</td>
+<td>Hill giant</td>
+<td>1d4+1</td>
+</tr>
+<tr>
+<td>54–56</td>
+<td>53–54</td>
+<td>Mountain torrent</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>57–58</td>
+<td>55–56</td>
+<td>NPCs</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>59–62</td>
+<td>57–59</td>
+<td>Ogre</td>
+<td>1d3+1</td>
+</tr>
+<tr>
+<td>63–66</td>
+<td>60–66</td>
+<td>Orc marauders</td>
+<td>see Groups</td>
+</tr>
+<tr>
+<td>67–69</td>
+<td>67–69</td>
+<td>Orc warband</td>
+<td></td>
+</tr>
+<tr>
+<td>70–72</td>
+<td>70–73</td>
+<td>Planetouched, tanarukkm</td>
+<td>1d6+5</td>
+</tr>
+<tr>
+<td>73–76</td>
+<td>74–76</td>
+<td>Remorhaz</td>
+<td>1</td>
+</tr>
+<tr>
+<td>77–78</td>
+<td>77–78</td>
+<td>Rock wyrms</td>
+<td>1d2</td>
+</tr>
+<tr>
+<td>79–82</td>
+<td>79–80</td>
+<td>Rothé, ghostf</td>
+<td>1d10+10</td>
+</tr>
+<tr>
+<td>83–85</td>
+<td>81–84</td>
+<td>Snowcloaks</td>
+<td>1d6+2</td>
+</tr>
+<tr>
+<td>86–89</td>
+<td>85</td>
+<td>Wolf (animal)</td>
+<td>1d8+8</td>
+</tr>
+<tr>
+<td>90–95</td>
+<td>86–90</td>
+<td>Worg 1d4+4</td>
+<td></td>
+</tr>
+<tr>
+<td>—</td>
+<td>91–93</td>
+<td>Wraith</td>
+<td>1d6+5</td>
+</tr>
+<tr>
+<td>96–98</td>
+<td>94–96</td>
+<td>Wyvern</td>
+<td>1d4+2</td>
+</tr>
+<tr>
+<td>99–100</td>
+<td>97–100</td>
+<td>Yrthak</td>
+<td>1d3+1</td>
+</tr>
+</tbody>
+</table>
+<p>TABLE 7A: SPINE OF THE WORLD AND ICE MOUNTAINS DRAGONS</p>
+<table>
+<thead>
+<tr>
+<th>d%</th>
+<th>Dragon</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–22</td>
+<td>Fangm, old</td>
+</tr>
+<tr>
+<td>23–28</td>
+<td>Gold, adult</td>
+</tr>
+<tr>
+<td>29–39</td>
+<td>Red, adult</td>
+</tr>
+<tr>
+<td>40–45</td>
+<td>Silver, adult</td>
+</tr>
+<tr>
+<td>46–60</td>
+<td>White, juvenile (clutch of 1d4+1)</td>
+</tr>
+<tr>
+<td>61–95</td>
+<td>White, old</td>
+</tr>
+<tr>
+<td>96–97</td>
+<td>Dracolichf, red adult</td>
+</tr>
+<tr>
+<td>98–100</td>
+<td>Dracolichf, white mature adult</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_5">Группы неигровых персонажей<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h2>
+<p>Special groups called out in the preceding tables are described here. If the class of a humanoid is not specified, assume that it is a 1<sup>st</sup>-level warrior.</p>
+<p><strong>Argent Legion Patrol:</strong> 1d4+4 1<sup>st</sup>-level warriors and 1d3 leaders (level 1d4+1), mounted on light warhorses and armed with lances, crossbows, and longswords. To determine the leaders’ classes, roll d%: 01–20, cleric; 21–60, fighter; 61–70, paladin; 71–80, ranger; 81–90, sorcerer; 91–100, wizard. Argent Legion patrols are usually lawful neutral.</p>
+<p><strong>Avalanche/Landslide:</strong> A natural hazard threatens the characters; see the Encountering Natural Hazards sidebar and Avalanches and Landslides, later in this chapter. Refer also to Landslides and Avalanches in Chapter 3 of the DUN￾GEON MASTER’s Guide.</p>
+<p><strong>Arctic Dwarf Hunters:</strong> The hunting party consists of 1d4+2 arctic dwarf War1, 1d2 arctic dwarf  arbarians (level 1d3+2), and a leader of level 1d4+3. To determine the leader’s class, roll d%: 01–50, barbarian; 51–65, cleric; 66–75, druid; 76–80, fighter; 81–95, ranger; 96–100, rogue.</p>
+<p><strong>Bandits:</strong> 1d6+1 1<sup>st</sup>-level warriors and 1d2 NPC leaders of level 1d3+1. To determine the class of the leaders, roll d%: 01–15, cleric; 16–40, fighter; 41–60, rogue; 61–70, sorcerer; 71–100, warrior. Bandits are usually chaotic evil. For the race of the bandit group, roll d%: 01–10, dwarf; 11–70, human; 71–100, half-orc.</p>
+<p><strong>Bugbear Band:</strong> 1d10+10 bugbears, 1d3 bugbear warriors (level 1d3+1), and 1 bugbear fighter (level 1d4+3).</p>
+<p><strong>Dwarf Patrol:</strong> 1d4+4 1<sup>st</sup>-level shield dwarf warriors, 1d2 shield dwarf clerics (level 1d3), and 1 leader (level 1d4+2).For the leader’s class, roll d%: 01–15, barbarian; 16–35, cleric; 36–85, fighter; 86–90, paladin; 91–95, rogue; 96–100, wizard.</p>
+<p><strong>Forest Fire:</strong> In summer or fall, a forest fire endangers the characters. The fire covers a front 3d10×500 feet across, centered on the location of the party at the time the encounter was generated. See the Encountering Natural Hazards sidebar and Forest Fires, later in this chapter. In winter or spring, treat this as no encounter.</p>
+<p><strong>Ghast Pack:</strong> 1d3+1 ghasts and 1d6+1 ghouls.</p>
+<p>**Ghost:**This encounter consists of 1d4 ghosts of level 1d4+2. To determine the class of each ghost, roll d%: 01–05,bard; 06–20, cleric; 21–60, fighter; 61–65, ranger; 66–80, rogue; 81–90, sorcerer; 91–100, wizard. The ghosts are usu￾ally neutral evil. For the race of the ghosts, roll d%: 01–25, shield dwarf; 26–40, moon elf; 41–80, human; 81–90, half￾orc; 91–100, lightfoot halfling.</p>
+<p><strong>Gnoll Hunters:</strong> 1d4+2 gnolls, led by 1 gnoll ranger (level 1d3+2) and 1 gnoll adept (level 1d4) and accompanied by  1d2 dire wolves.</p>
+<p><strong>Goblin Raiders:</strong> 1d4+4 goblins, led by 1 goblin fighter (level 1d4+1) and 1 goblin adept (level 1d4). All the goblins are mounted on worgs.</p>
+<p><strong>Merchants:</strong> 2d4 1<sup>st</sup>-level commoners, 2d4 1<sup>st</sup>-level war￾riors, and 1d2 NPC leaders (level 1d4+1). To determine the leaders’ classes, roll d%: 01–10, cleric; 11–35, fighter; 36–55, rogue; 56–60, wizard; 61–75, warrior; 76–100, expert. Merchants match the normal alignment for their race (neutral if alignment is not specified). For the race of the merchants, roll d%: 01–20, shield dwarf; 21–25, moon elf; 26–75, human; 76–85, lightfoot halfling; 86–95, half￾orc; 96–100, rock gnome.</p>
+<p><strong>Mountain Torrent:</strong> The party encounters an unmarked stream in its path with no obvious means of crossing. There is a 50% chance that some kind of precarious crossing exists (a fallen log, or chain of boulders) that can be employed with a successful Balance check (DC 15). Failure on this check means that the character falls in the water and may be swept downstream; see Mountain Torrents under Floods in the following section. If the party is traveling along a road or trail, the stream is bridged in some fashion. Treat this as no encounter.</p>
+<p><strong>NPCs:</strong> The NPC party consists of 1d3+2 individuals (level 2d4). To determine the alignment, race, and class of each character, consult Tables 2–28 through 2–32 in the DUN￾GEON MASTER’s Guide, or use the corresponding tables in the FORGOTTEN REALMS DUNGEON MASTER’s Screen.</p>
+<p><strong>Orc Marauders:</strong> 1d10+5 orcs, 1d3+1 orc barbarians (level 1d3+1), and 1 orc adept (level 1d6) accompanied by 1d2 dire boars.</p>
+<p><strong>Orc Warband:</strong> 1d10+10 orcs, 1d3 orc barbarians (level 1d3+1), 1d3 orc fighters (level 1d3+1), 1 orc adept (level 1d6), and 1 orc leader (level 1d3+3), accompanied by 1d2 dire boars. To determine the leader’s class, roll d%: 01–30, barbarian; 31–45, cleric; 46–80, fighter; 81–85, ranger; 86–90, rogue; 91–100, sorcerer.</p>
+<p><strong>Uthgardt Scouts:</strong> 1d4+2 1<sup>st</sup>-level human warriors and 1d2 leaders (level 1d6+1). For the leaders’ classes, roll d%: 01–50, barbarian; 51–65, cleric; 66–75, druid; 76–85, ranger; 86–90, rogue; 91–100, sorcerer. There is a 30% chance the group belongs to the Sky Pony tribe and is mounted. Uthgardt scouts are usually chaotic neutral.</p>
+<p><strong>Vampire Troupe:</strong> 1d2 vampires and 1d4+1 vampire spawn.</p>
+<p><strong>Werewolf Raiders:</strong> 1d4+1 werewolves, 1d4+4 wolves, and 1 werewolf leader (level 1d6+1). To determine the leader’s class, roll d%: 01–15, cleric; 16–25, druid; 26–60, fighter;61–75, ranger; 76–90, rogue; 91–100, sorcerer.</p>
+<p><strong>Wood Elf Patrol:</strong> 1d4+4 1<sup>st</sup>-level wood elf warriors, 1d2 wood elf rogues (level 1d3+1), 1d2 wood elf sorcerers (level 1d3+1), and 1 leader (level 1d4+3). For the leader’s class, roll d%: 01–10, cleric; 11–20, druid; 21–50, fighter; 51–75, ranger; 76–80, rogue; 81–90, sorcerer; 91–100, wizard. Some of these patrols may include moon elves or sun elves</p>
+<h1 id="random-weather">Random Weather<a class="headerlink" href="#random-weather" title="Permanent link">&para;</a></h1>
+<p>Many different weather influences impact the Silver Marches.</p>
+<p>The prevailing weather patterns in this part of Faerûn tend to come from the Sea of Swords to the west, and the presence of high mountains on all sides often creates “cloud barriers” that force frequent precipitation. The presence of Anauroch nearby also influences the weather in unpredictable ways. Any particular day’s weather consists of three components: the temperature, the wind strength, and the precipitation.</p>
+<p>Tables 8 through 11 provide random weather combina￾tions based on each season, weighted toward more or less likely results. A sudden thaw in the mountains is possible in winter, but it’s not as likely as long stretches of bitter cold or heavy snow.</p>
+<h2 id="using-the-tables">USING THE TABLES<a class="headerlink" href="#using-the-tables" title="Permanent link">&para;</a></h2>
+<p>Any given weather condition lasts for 1d6 days before a new pattern sets in, so it’s only necessary to roll for new weather when the previous pattern ends, not every day. The weather tables are organized into three basic locations: river valleys, open country, and northern or alpine areas. Apply the same die roll to all three regions (this makes it less likely that the mountains will be experiencing a rare thaw at the same time the river valleys are suffering from a brutal cold snap).</p>
+<p><strong>River Valley:</strong> The Rauvin and Sundabar vales fall into this category, as well as the eaves of the High Forest. Although plagued by heavy fogs throughout the year, these regions are more sheltered than other parts of the Silver Marches.</p>
+<p><strong>Open Country:</strong> The Evermoors, Moonlands, Old Delzoun (except for Sundabar Vale), and the forests of the northern Silver Marches fall into this category.</p>
+<p><strong>Northern or Alpine Regions:</strong> The Ice, Nether, and Rauvin mountains fall into this category, as well as other lands that are hard against the Spine of the World, such as the Druar￾wood and the Lands Against the Wall.</p>
+<p>TABLE 8: WINTER (UKTAR 1–CHES 30)</p>
+<table>
+<thead>
+<tr>
+<th>River Valley</th>
+<th>Open Country</th>
+<th>North,Alpine</th>
+<th>Temp.</th>
+<th>Wind</th>
+<th>Precip.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–04</td>
+<td>01–02</td>
+<td>01</td>
+<td>Warm</td>
+<td>Fair</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>05–09</td>
+<td>03–06</td>
+<td>02–03</td>
+<td>Moderate</td>
+<td>Varies</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>10–15</td>
+<td>07–09</td>
+<td>04</td>
+<td>Moderate</td>
+<td>Fair</td>
+<td>Fog</td>
+</tr>
+<tr>
+<td>16–18</td>
+<td>10–12</td>
+<td>05–06</td>
+<td>Moderate</td>
+<td>Varies</td>
+<td>Rain</td>
+</tr>
+<tr>
+<td>19–23</td>
+<td>13–15</td>
+<td>07</td>
+<td>Moderate</td>
+<td>Varies</td>
+<td>DwnPr</td>
+</tr>
+<tr>
+<td>24–26</td>
+<td>16–17</td>
+<td>08</td>
+<td>Moderate</td>
+<td>Varies</td>
+<td>Hail</td>
+</tr>
+<tr>
+<td>27–39</td>
+<td>18–36</td>
+<td>09–20</td>
+<td>Cold</td>
+<td>Varies</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>40–50</td>
+<td>37–43</td>
+<td>21–29</td>
+<td>Cold</td>
+<td>Fair</td>
+<td>Fog</td>
+</tr>
+<tr>
+<td>51–65</td>
+<td>44–58</td>
+<td>30–42</td>
+<td>Cold</td>
+<td>Varies</td>
+<td>Snow</td>
+</tr>
+<tr>
+<td>66–72</td>
+<td>59–65</td>
+<td>43–48</td>
+<td>Cold</td>
+<td>Varies</td>
+<td>HSnow</td>
+</tr>
+<tr>
+<td>73–77</td>
+<td>66–71</td>
+<td>49–55</td>
+<td>Cold</td>
+<td>Varies</td>
+<td>Sleet</td>
+</tr>
+<tr>
+<td>78</td>
+<td>72–73</td>
+<td>56–59</td>
+<td>Cold</td>
+<td>Storm</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>79–83</td>
+<td>74–79</td>
+<td>60–65</td>
+<td>Cold</td>
+<td>Storm</td>
+<td>HSnow</td>
+</tr>
+<tr>
+<td>84–85</td>
+<td>80–81</td>
+<td>66–68</td>
+<td>Cold</td>
+<td>Storm</td>
+<td>Sleet</td>
+</tr>
+<tr>
+<td>86–90</td>
+<td>82–88</td>
+<td>69–77</td>
+<td>XCold</td>
+<td>Varies</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>91–93</td>
+<td>89–91</td>
+<td>78–88</td>
+<td>XCold</td>
+<td>Varies</td>
+<td>Snow</td>
+</tr>
+<tr>
+<td>94–98</td>
+<td>92–97</td>
+<td>89–95</td>
+<td>XCold</td>
+<td>Storm</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>99–100</td>
+<td>98–100</td>
+<td>96–100</td>
+<td>XCold</td>
+<td>Storm</td>
+<td>Snow</td>
+</tr>
+</tbody>
+</table>
+<p>TABLE 9: SPRING (TARSAKH 1–KYTHORN 25)
+River Valley| Open Country | North,Alpine | Temp. | Wind  | Precip.
+---------|----------|---------|----------|---------|---------
+01–04 | 01–02 | 01 | Warm | Fair | Clear
+01–07 | 01–06 | 01–04 | Warm | Varies | Clear
+08–14 | 07–12 | 05–07 | Warm | Varies | Rain
+15–19 | 13–16 | 08–09 | Warm | Varies | DwnPr
+20–25 | 17–21 | 10–13 | Warm | Storm | Clear
+26–30 | 22–25 | 14–16 | Warm | Storm | ThStrm
+31–36 | 26–31 | 17–24 | Moderate | Varies | Clear
+37–50 | 32–38 | 25–30 | Moderate | Fair | Fog
+51–59 | 39–51 | 31–37 | Moderate | Varies | Rain
+60–63 | 52–55 | 38–40 | Moderate | Varies | DwnPr
+64–67 | 56–59 | 41–45 | Moderate | Varies | Hail
+68–71 | 60–63 | 46–53 | Moderate | Storm | Clear
+72–76 | 64–66 | 54–56 | Moderate | Storm | DwnPr
+77–79 | 67–69 | 57–61 | Moderate | Storm | Hail
+80–83 | 70–74 | 62–68 | Cold | Varies | Clear
+84–87 | 75–77 | 69–76 | Cold | Fair | Fog
+88–92 | 78–86 | 77–88 | Cold | Varies | Snow
+93–94 | 87–89 | 89–91 | Cold | Varies | HSnow
+95 | 90–92 | 92–94 | Cold | Varies | Sleet
+96–97 | 93–95 | 95–97 | Cold | Storm | Clear
+98–99 | 96–97 | 98–99 | Cold | Storm | HSnow
+100 | 98–100 | 100 | Cold | Storm | Sleet</p>
+<p>TABLE 10: SUMMER (KYTHORN 26–ELEINT 4)</p>
+<table>
+<thead>
+<tr>
+<th>River Valley</th>
+<th>Open Country</th>
+<th>North,Alpine</th>
+<th>Temp.</th>
+<th>Wind</th>
+<th>Precip.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–09</td>
+<td>01–08</td>
+<td>—</td>
+<td>Hot</td>
+<td>Fair</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>10</td>
+<td>09–10</td>
+<td>—</td>
+<td>Hot</td>
+<td>Storm</td>
+<td>Sand</td>
+</tr>
+<tr>
+<td>11–30</td>
+<td>11–27</td>
+<td>01–17</td>
+<td>Warm</td>
+<td>Fair</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>31–39</td>
+<td>28–36</td>
+<td>18–23</td>
+<td>Warm</td>
+<td>Fair</td>
+<td>Rain</td>
+</tr>
+<tr>
+<td>40–45</td>
+<td>37–41</td>
+<td>24–25</td>
+<td>Warm</td>
+<td>Fair</td>
+<td>DwnPr</td>
+</tr>
+<tr>
+<td>46–54</td>
+<td>42–50</td>
+<td>26–35</td>
+<td>Warm</td>
+<td>Storm</td>
+<td>ThStrm</td>
+</tr>
+<tr>
+<td>55–74</td>
+<td>51–71</td>
+<td>36–49</td>
+<td>Moderate</td>
+<td>Varies</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>75–84</td>
+<td>72–76</td>
+<td>50–57</td>
+<td>Moderate</td>
+<td>Fair</td>
+<td>Fog</td>
+</tr>
+<tr>
+<td>85–93</td>
+<td>77–86</td>
+<td>58–67</td>
+<td>Moderate</td>
+<td>Varies</td>
+<td>Rain</td>
+</tr>
+<tr>
+<td>94–97</td>
+<td>87–90</td>
+<td>68–73</td>
+<td>Moderate</td>
+<td>Varies</td>
+<td>DwnPr</td>
+</tr>
+<tr>
+<td>98–100</td>
+<td>91–93</td>
+<td>74–77</td>
+<td>Moderate</td>
+<td>Varies</td>
+<td>Hail</td>
+</tr>
+<tr>
+<td>—</td>
+<td>94–95</td>
+<td>78–84</td>
+<td>Cold</td>
+<td>Varies</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>—</td>
+<td>96–97</td>
+<td>85–90</td>
+<td>Cold</td>
+<td>Fair</td>
+<td>Fog</td>
+</tr>
+<tr>
+<td>—</td>
+<td>98–99</td>
+<td>91–97</td>
+<td>Cold</td>
+<td>Varies</td>
+<td>Snow</td>
+</tr>
+<tr>
+<td>—</td>
+<td>—</td>
+<td>98</td>
+<td>Cold</td>
+<td>Varies</td>
+<td>HSnow</td>
+</tr>
+<tr>
+<td>—</td>
+<td>100</td>
+<td>99–100</td>
+<td>Cold</td>
+<td>Varies</td>
+<td>Sleet</td>
+</tr>
+</tbody>
+</table>
+<p>TABLE 11: FALL (ELEINT 5–MARPENOTH 30)</p>
+<table>
+<thead>
+<tr>
+<th>River Valley</th>
+<th>Open Country</th>
+<th>North,Alpine</th>
+<th>Temp.</th>
+<th>Wind</th>
+<th>Precip.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–03</td>
+<td>01–03</td>
+<td>—</td>
+<td>Hot</td>
+<td>Fair</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04–05</td>
+<td>—</td>
+<td>Hot</td>
+<td>Storm</td>
+<td>Sand</td>
+</tr>
+<tr>
+<td>05–13</td>
+<td>06–12</td>
+<td>01–03</td>
+<td>Warm</td>
+<td>Varies</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>14–17</td>
+<td>13–17</td>
+<td>04–05</td>
+<td>Warm</td>
+<td>Varies</td>
+<td>Rain</td>
+</tr>
+<tr>
+<td>18–19</td>
+<td>18–19</td>
+<td>06</td>
+<td>Warm</td>
+<td>Varies</td>
+<td>DwnPr</td>
+</tr>
+<tr>
+<td>20–21</td>
+<td>20–22</td>
+<td>07–08</td>
+<td>Warm</td>
+<td>Storm</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>22–26</td>
+<td>23–28</td>
+<td>09–15</td>
+<td>Warm</td>
+<td>Storm</td>
+<td>ThStrm</td>
+</tr>
+<tr>
+<td>27–34</td>
+<td>29–35</td>
+<td>16–23</td>
+<td>Moderate</td>
+<td>Varies</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>35–44</td>
+<td>36–39</td>
+<td>24–29</td>
+<td>Moderate</td>
+<td>Fair</td>
+<td>Fog</td>
+</tr>
+<tr>
+<td>45–54</td>
+<td>40–48</td>
+<td>30–37</td>
+<td>Moderate</td>
+<td>Varies</td>
+<td>Rain</td>
+</tr>
+<tr>
+<td>55–56</td>
+<td>49–51</td>
+<td>38–40</td>
+<td>Moderate</td>
+<td>Varies</td>
+<td>DwnPr</td>
+</tr>
+<tr>
+<td>57–58</td>
+<td>52–53</td>
+<td>41–43</td>
+<td>Moderate</td>
+<td>Varies</td>
+<td>Hail</td>
+</tr>
+<tr>
+<td>59–63</td>
+<td>54–59</td>
+<td>44–45</td>
+<td>Moderate</td>
+<td>Storm</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>64–65</td>
+<td>60–61</td>
+<td>46–48</td>
+<td>Moderate</td>
+<td>Storm</td>
+<td>DwnPr</td>
+</tr>
+<tr>
+<td>66–67</td>
+<td>62–63</td>
+<td>49–51</td>
+<td>Moderate</td>
+<td>Storm</td>
+<td>Hail</td>
+</tr>
+<tr>
+<td>68–76</td>
+<td>64–73</td>
+<td>52–61</td>
+<td>Cold</td>
+<td>Varies</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>77–84</td>
+<td>74–77</td>
+<td>62–66</td>
+<td>Cold</td>
+<td>Fair</td>
+<td>Fog</td>
+</tr>
+<tr>
+<td>85–90</td>
+<td>78–84</td>
+<td>67–76</td>
+<td>Cold</td>
+<td>Varies</td>
+<td>Snow</td>
+</tr>
+<tr>
+<td>91–92</td>
+<td>85–87</td>
+<td>77–79</td>
+<td>Cold</td>
+<td>Varies</td>
+<td>HSnow</td>
+</tr>
+<tr>
+<td>93–94</td>
+<td>88–89</td>
+<td>80–81</td>
+<td>Cold</td>
+<td>Varies</td>
+<td>Sleet</td>
+</tr>
+<tr>
+<td>95–96</td>
+<td>90–92</td>
+<td>82–85</td>
+<td>Cold</td>
+<td>Storm</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>97–98</td>
+<td>93–94</td>
+<td>86–88</td>
+<td>Cold</td>
+<td>Storm</td>
+<td>HSnow</td>
+</tr>
+<tr>
+<td>99–100</td>
+<td>95–96</td>
+<td>89–90</td>
+<td>Cold</td>
+<td>Storm</td>
+<td>Sleet</td>
+</tr>
+<tr>
+<td>—</td>
+<td>97–99</td>
+<td>91–98</td>
+<td>XCold</td>
+<td>Varies</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>—</td>
+<td>100</td>
+<td>99–100</td>
+<td>XCold</td>
+<td>Varies</td>
+<td>Snow</td>
+</tr>
+</tbody>
+</table>
+<h2 id="definitions">DEFINITIONS<a class="headerlink" href="#definitions" title="Permanent link">&para;</a></h2>
+<p>Results from Tables 8 through 11 are described below.</p>
+<p>Temp.: Temperature results fall into the following broad categories. Nighttime temperatures are generally 10 to 20 degrees colder and may actually fall into the next colder cat￾egory (50% chance).</p>
+<p>Hot: Between 86° and 110° F.</p>
+<p>Warm: Temperatures between 61° and 85° F.</p>
+<p>Moderate: Temperatures from 41° to 60° F.</p>
+<p>Cold: Temperatures between 0° and 40° F.</p>
+<p>Extreme Cold: Temperatures below 0° F.</p>
+<p>Wind: The strength of the prevailing wind. Periods of calm or sudden stronger gusts are possible. Wind strength de￾creases one category at night (severe to strong, for example).</p>
+<p>The three results on the Random Weather tables are fair, varies, and storm. Consult Table 12.</p>
+<p>TABLE 12: WIND STRENGTH</p>
+<table>
+<thead>
+<tr>
+<th>Fair</th>
+<th>Varies</th>
+<th>Storm</th>
+<th>Strength</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–70</td>
+<td>01–40</td>
+<td>—</td>
+<td>Light/moderate</td>
+</tr>
+<tr>
+<td>71–95</td>
+<td>41–70</td>
+<td>01–10</td>
+<td>Strong</td>
+</tr>
+<tr>
+<td>96–100</td>
+<td>71–90</td>
+<td>11–50</td>
+<td>Severe</td>
+</tr>
+<tr>
+<td>—</td>
+<td>91–100</td>
+<td>51–89</td>
+<td>Windstorm</td>
+</tr>
+<tr>
+<td>—</td>
+<td>—</td>
+<td>90–100</td>
+<td>Hurricane</td>
+</tr>
+</tbody>
+</table>
+<p>Wind effects are summarized on Table 3–17 in the DUN￾GEON MASTER’s Guide.</p>
+<p>Precip.: The type of precipitation that falls during the day. A solid day of rain is pretty rare—even during heavy bliz￾zards, clear spells hours long may appear.</p>
+<p>Clear: No precipitation of note.</p>
+<p>Downpour: 1d3 downpours lasting 1d4 hours each occur during the day. Otherwise, the day consists of rain.</p>
+<p>Fog: There is a 75% chance that the fog burns off during the af￾ternoon, resulting in 1d4+2 hours of clear weather before sunset.</p>
+<p>Hail: 1d3 hailstorms lasting 1d6×10 minutes each occur during the day. Otherwise the day consists of rain.</p>
+<p>Heavy Snow: Heavy snow falls throughout the day, although 1d3–1 clear spells lasting 1d4 hours each break up the day.</p>
+<p>Rain: Rain falls consistently throughout the day, although 1d4–1 clear spells lasting 1d4 hours each break up the day.</p>
+<p>Sandstorm: Sandstorm conditions persist throughout the day, punctuated by 1d4–2 breaks lasting 1d4 hours each.</p>
+<p>Snow: Snow falls steadily, but 1d4–1 clear breaks of 1d4 hours each interrupt the snowfall.</p>
+<p>Sleet: Sleet falls for most of the day, broken by 1d4–2 breaks lasting 1d4 hours each.</p>
+<p>Thunderstorm: 1d3 thunderstorms lasting 2d6×10 min￾utes each occur during the day. Otherwise the day is clear (50% chance) or rainy (50% chance).</p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2019 Palant и команда Киборгов и Чародеев
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/palikhov" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/AVPalikhov" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://linkedin.com/in/avpalikhov" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+          
+            
+              
+              
+                <script src="../../../assets/javascripts/lunr/lunr.ru.js"></script>
+              
+            
+          
+            
+              
+              
+            
+          
+          
+            <script src="../../../assets/javascripts/lunr/lunr.multi.js"></script>
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>

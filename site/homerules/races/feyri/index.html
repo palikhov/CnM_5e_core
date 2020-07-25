@@ -1,0 +1,1273 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.">
+      
+      
+      
+        <meta name="author" content="Антон Палихов aka Palant">
+      
+      
+        <meta name="lang:clipboard.copy" content="Копировать в буфер">
+      
+        <meta name="lang:clipboard.copied" content="Скопировано в буфер">
+      
+        <meta name="lang:search.language" content="en, ru, uk">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Совпадений не найдено">
+      
+        <meta name="lang:search.result.one" content="Найдено 1 совпадение">
+      
+        <meta name="lang:search.result.other" content="Найдено # совпадений">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Фейри (демонфеи) - D&D "Palant edition"</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../../../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#elf-feyri" tabindex="1" class="md-skip">
+        Перейти к содержанию
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../../.." title="D&D "Palant edition"" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">library_books</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                D&D "Palant edition"
+              </span>
+              <span class="md-header-nav__topic">
+                Фейри (демонфеи)
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Начните печатать для поиска
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+  
+
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../../.." title="Главная" class="md-tabs__link">
+        Главная
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../downtime-revisited/DOWNTIME-COMPLETE-LIST.MD" title="Downtime" class="md-tabs__link">
+          Downtime
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../shade/" title="Расы" class="md-tabs__link md-tabs__link--active">
+          Расы
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../classes/" title="Классы" class="md-tabs__link">
+          Классы
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../customizing/fighting-styles/" title="Опции персонажей" class="md-tabs__link">
+          Опции персонажей
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../spells/item-enchanting-spells/" title="Заклинания" class="md-tabs__link">
+          Заклинания
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../equipment/new-equipment/" title="Снаряжение" class="md-tabs__link">
+          Снаряжение
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../../.." title="D&D "Palant edition"" class="md-nav__button md-logo">
+      
+        <i class="md-icon">library_books</i>
+      
+    </a>
+    D&D "Palant edition"
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../.." title="Главная" class="md-nav__link">
+      Главная
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      Downtime
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Downtime
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/DOWNTIME-COMPLETE-LIST.MD" title="Downtime Completed" class="md-nav__link">
+      Downtime Completed
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/buying-a-magic-item/" title="Покупка волшебных вещей" class="md-nav__link">
+      Покупка волшебных вещей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/research/" title="Исследования" class="md-nav__link">
+      Исследования
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/crafting-an-item/" title="Создание предмета" class="md-nav__link">
+      Создание предмета
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/crime/" title="Преступления" class="md-nav__link">
+      Преступления
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/gambling/" title="Азартные игры" class="md-nav__link">
+      Азартные игры
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/pit-fighting/" title="Подпольные бои" class="md-nav__link">
+      Подпольные бои
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/relaxation/" title="Отдых-отдых-отдых" class="md-nav__link">
+      Отдых-отдых-отдых
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/religious-service/" title="Религиозная служба" class="md-nav__link">
+      Религиозная служба
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/scribing-a-spell-scroll/" title="Написание свитка заклинаний" class="md-nav__link">
+      Написание свитка заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/selling-a-magic-item/" title="Продажа волшебного предмета" class="md-nav__link">
+      Продажа волшебного предмета
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/training/" title="Training" class="md-nav__link">
+      Training
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-revisited/work/" title="Work" class="md-nav__link">
+      Work
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../downtime-activities.md" title="Новые возможности в простое" class="md-nav__link">
+      Новые возможности в простое
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" checked>
+    
+    <label class="md-nav__link" for="nav-3">
+      Расы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Расы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../shade/" title="Шейд" class="md-nav__link">
+      Шейд
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Фейри (демонфеи)
+      </label>
+    
+    <a href="./" title="Фейри (демонфеи)" class="md-nav__link md-nav__link--active">
+      Фейри (демонфеи)
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Содержание</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#feyri-demonic-features" title="FEY'RI DEMONIC FEATURES" class="md-nav__link">
+    FEY'RI DEMONIC FEATURES
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#feyri-demonic-features_1" title="Fey’ri Demonic Features" class="md-nav__link">
+    Fey’ri Demonic Features
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#history-the-feyri-and-daemonfey" title="HISTORY: THE FEY'RI AND DAEMONFEY" class="md-nav__link">
+    HISTORY: THE FEY'RI AND DAEMONFEY
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+    
+    <label class="md-nav__link" for="nav-4">
+      Классы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        Классы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/classes/" title="Классы" class="md-nav__link">
+      Классы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/arcanis-work/" title="Классы из Арканиса" class="md-nav__link">
+      Классы из Арканиса
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/barbarian/" title="Варвар" class="md-nav__link">
+      Варвар
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/elder-sorcerer/" title="Древние колдуны" class="md-nav__link">
+      Древние колдуны
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/fighter/" title="Боец (воин)" class="md-nav__link">
+      Боец (воин)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/mystic/" title="Мистик" class="md-nav__link">
+      Мистик
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/paladin/" title="Паладин" class="md-nav__link">
+      Паладин
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/ranger-rework/" title="Рейнджер" class="md-nav__link">
+      Рейнджер
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/rogue/" title="Специалист (авантюрист)" class="md-nav__link">
+      Специалист (авантюрист)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/shaman/" title="Шаман" class="md-nav__link">
+      Шаман
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/sorcerer/" title="Чародей (Sorcerer)" class="md-nav__link">
+      Чародей (Sorcerer)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/wizard/" title="Волшебник (маг)" class="md-nav__link">
+      Волшебник (маг)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../classes/warlock/" title="Колдун (Warlock)" class="md-nav__link">
+      Колдун (Warlock)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+    
+    <label class="md-nav__link" for="nav-5">
+      Опции персонажей
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        Опции персонажей
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/fighting-styles/" title="Боевые стили" class="md-nav__link">
+      Боевые стили
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/feats/" title="Навыки (feats)" class="md-nav__link">
+      Навыки (feats)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../customizing/combat-maneuvers/" title="Боевые маневры" class="md-nav__link">
+      Боевые маневры
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6">
+    
+    <label class="md-nav__link" for="nav-6">
+      Заклинания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-6">
+        Заклинания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/item-enchanting-spells/" title="Зачарование предметов" class="md-nav__link">
+      Зачарование предметов
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/cantrips/" title="Кантрипы" class="md-nav__link">
+      Кантрипы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/spells-3rd-lvl/" title="3й круг заклинаний" class="md-nav__link">
+      3й круг заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../spells/spells/" title="Общий список" class="md-nav__link">
+      Общий список
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7">
+    
+    <label class="md-nav__link" for="nav-7">
+      Снаряжение
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        Снаряжение
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/new-equipment/" title="Снаряжение" class="md-nav__link">
+      Снаряжение
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/drugs/" title="Наркотики" class="md-nav__link">
+      Наркотики
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../equipment/herbalism/" title="Травы и гербализм" class="md-nav__link">
+      Травы и гербализм
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Содержание</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#feyri-demonic-features" title="FEY'RI DEMONIC FEATURES" class="md-nav__link">
+    FEY'RI DEMONIC FEATURES
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#feyri-demonic-features_1" title="Fey’ri Demonic Features" class="md-nav__link">
+    Fey’ri Demonic Features
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#history-the-feyri-and-daemonfey" title="HISTORY: THE FEY'RI AND DAEMONFEY" class="md-nav__link">
+    HISTORY: THE FEY'RI AND DAEMONFEY
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/homerules/races/feyri.md" title="Редактировать страницу" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <h1 id="elf-feyri">Elf, Fey&rsquo;ri<a class="headerlink" href="#elf-feyri" title="Permanent link">&para;</a></h1>
+<p>Fey&rsquo;ri are a planetouched race, created in ancient times when four sun elf noble houses bred with demons in an attempt to strengthen their bloodline. Much like tieflings, they bred true as their own race, sharing common traits, but remain marked by their fiendish blood. Most fey&rsquo;ri are evil, but a few are able to shrug off the fiendish taint&rsquo;s influence on their behavior and emulate some small part of the innate good nature of their elven forebears. In general form they resemble sun elves, though most bear some marks of their demonic heritage, usually large batlike wings and a magical ability to disguise their appearance.</p>
+<p>Some fey&rsquo;ri don&rsquo;t manifest obvious demonic features at birth, and those who look &ldquo;normal” are perhaps the most dangerous of all. Some fey&rsquo;ri are born and raised among their elf cousins and do not even know the truth of their nature. It inevitably manifests, however—usually violently—when the fledgling fey&rsquo;ri comes of age.</p>
+<p>Thousands of years ago, in what is now the forest of Cormanthor, the elder sun elves of House Dlardrageth (in what is now the forest of Cormanthor) summoned demons (usually succubi in male or female form) to beget half-fiend children, some of whom in turn produced lesser demon¬touched elves called fey&rsquo;ri. They believed this would strengthen and perfect their bloodline. Instead, they allowed fiendish taint to corrupt the sun elf qualities that they prized the most.</p>
+<p>Fey&rsquo;ri are obviously different from normal elves and would quickly be killed by most other elves if discovered. Luckily for them, their demonic bloodline gives them several abilities, including the ability to change their shape. Thus they can pass freely among other creatures without causing an alarm. Members of the race can be found the world over, operating alone or in isolated small cells, often manipulating members of &ldquo;lesser races” to do their bidding. Those who specialize in disguising themselves as influential members of other races for long periods are known as &ldquo;skin-dancers.”</p>
+<p>The fey&rsquo;ri burrow into the foundations of mortal society in Faerun, seeking to sow chaos and have their revenge against elvenkind first of all, and anyone else second. They believe they have been cheated of their birthright, and their elven pride and innate demonic viciousness make them a scourge among the civilized realms as they work their subterfuge.</p>
+<p>Most fey&rsquo;ri live for revenge. They feel wronged by other elves, particularly moon elves, and superior to all other races (as befits their lineage, which ties them to the ancient elven kingdoms that predate human civilization). While their plans for revenge unfold, they wish to restore the glory of the elven empires with themselves at their head. Individual fey&rsquo;ri comply with these goals, knowing that their half-fiend rulers are too powerful to challenge and feeling that they themselves have been punished unfairly by the moon elves with their too-long magical imprisonment.</p>
+<p>Individual fey&rsquo;ri are usually patient, calculating, and suspicious, but their fiendish blood makes them prone to undeserved acts of cruelty and rage. Fey&rsquo;ri society is very close-knit. They are all close relations, and so each fey&rsquo;ri has a very good idea how each of his or her family members would react to a situation. Yet they have a subtle loathing for each other, both because their elven nature rejects the taint of their kin and because their demonic ancestors are so chaotic and rebellious that they find it difficult to work together.</p>
+<p>As a result, fey&rsquo;ri society is based on power and fear— power to make your commands obeyed, fear that your superiors could destroy you if you fail to comply. In Faerun today, they operate mostly as individuals or in small groups. They don&rsquo;t have the collective strength and organization to mount a fullscale incursion, but they are far from helpless.</p>
+<p>Of special note are the fey&rsquo;ri who have chosen to leave the banner of House Dlardrageth. The members of the house considered these renegade fey&rsquo;ri a great risk to their plans, for the Dlardrageth nobles knew their numbers were too small to survive a concerted effort to eradicate them—they must act in secrecy, or risk discovery and death. To this day, renegade fey&rsquo;ri are marked for death by those who have remained loyal to the house. These renegades must be even more cautious than their isolated kin, or they could be discovered and destroyed.</p>
+<p>Fey&rsquo;ri are usually chaotic evil. Some bear an echo of their elven heritage and are chaotic neutral, and a few may be entirely neutral. None have yet been found who are lawful good. Fey&rsquo;ri lie, cheat, and spin webs of deception to get their way. With their natural ability to change their face and shape, they often hide in plain sight or impersonate enemies so as to frame them for criminal activity. Blackmail is one of the fey&rsquo;ri&rsquo;s favorite devices, its use enhanced by their natural ability to conceal their true features.</p>
+<p>All fey&rsquo;ri know about the heritage of Dlardrageth, including the caches that the house created to store its most prized treasures. Those storage places have been looted over the centuries, meaning that the items the fey&rsquo;ri believe to be their possessions are now back in the world at large. No member of the race will pass up an opportunity to visit a curio shop or some other. purveyor of &ldquo;antiques,” in the hope of discovering one of the long-lost relics.</p>
+<p>Fey&rsquo;ri often act with antagonism toward anyone and everyone, but their trust can be earn theired. They respond well to intelligence and power, as well as a certain moral flexibility. They dislike those who delude themselves into thinking themselves equal to the fey&rsquo;ri, but love to compete with worthy rivals. Seeing through the disguise of a skin- dancer on multiple occasions without attacking draws the fey&rsquo;ri&rsquo;s attention. They offer interesting or witty creatures the chance to prove themselves worthy of an alliance.</p>
+<p>Fey&rsquo;ri still allied with the remnants of House Dlardrageth wish to recruit more sun elves into their breeding program, but hold no love for any other kind of elf, including drow. They have a sun elf&rsquo;s disdain for all other humanoid races, regardless of philosophy or politics, and particularly see humans as pretentious upstarts that have only acquired civilization on the ruins of elven kingdoms. </p>
+<p>Renegade fey&rsquo;ri form their own opinions of other races, but such views are colored by familial prejudice. They have difficulty dealing with elves other than sun elves. As for other planetourched races, Fey&rsquo;ri are indifferent toward genasi. Their demonic blood recoils</p>
+<p>from the celestially tainted presence of aasimar, making them natural enemies. They see tieflings as interesting potential allies, less worthy than a fey&rsquo;ri or a sun elf, but certainly more valuable than a normal human. The renegade fey&rsquo;ri also feel the closest to tieflings, for they too know the touch of evil and the desire to live a life not defined by their heritage.</p>
+<p>Fey&rsquo;ri have a strong talent for magic. Fey&rsquo;ri blood practically overflows with sorcerous power, so many fey&rsquo;ri characters become sorcerers. Those who don&rsquo;t often become rogues or fighters, although a fair number are sorcerer/rogues or sorcerer/fighters. The more traditional among them sometimes practice wizard spellcasting techniques instead, training as bladesingers and employing the deadly fighting art that marked them as among the greatest warriors in the Crown Wars.</p>
+<p>It is often said the fey&rsquo;ri resemble elves the way tieflings resemble humans, but one should not make the observation aloud to one of them: fey&rsquo;ri bristle at the suggestion that they are anything other than part of the sun elf race. Aside from their demonic wings and resemblance to sun elves, the chaotic nature of their ancestry ensures that no two fey&rsquo;ri look quite alike, though other common features include horns, fangs, forked tongues, and barbed tails.</p>
+<h2 id="feyri-demonic-features">FEY&rsquo;RI DEMONIC FEATURES<a class="headerlink" href="#feyri-demonic-features" title="Permanent link">&para;</a></h2>
+<p>All fey&rsquo;ri have one or more unusual features reflecting their fiendish heritage. Choose or roll from the following table to determine appropriate traits for a fey&rsquo;ri character.</p>
+<h3 id="feyri-demonic-features_1">Fey’ri Demonic Features<a class="headerlink" href="#feyri-demonic-features_1" title="Permanent link">&para;</a></h3>
+<p>d12 Quirk</p>
+<p>1-2 Fiery red eyes</p>
+<p>3-4 Fine scales all over the skin</p>
+<p>5-6 Long pointed tails</p>
+<p>7-8 Batlike ears</p>
+<p>9-10    Deep red skin</p>
+<p>11-12   The horns of a satyr</p>
+<p><strong>Ability Score Increase.</strong> Your Charisma score increases by 1.</p>
+<p><strong>Fey&rsquo;ri Magic.</strong> You can cast disguise self with this trait, using Charisma as your spellcasting ability. Once you cast this spell twice with this trait, you can&rsquo;t use this trait to do so again until you finish a short or long rest. Once you reach 5<sup>th</sup> level, there is no longer any limit on the number of times you can cast disguise self with this trait. Whenever you cast disguise self, it always allows you to hide your wings if you wish.</p>
+<p><strong>Fiendish Feature.</strong> Choose one of the following options for this trait:</p>
+<ul>
+<li>
+<p><strong>Abyssal Legacy.</strong> You gain the Infernal Legacy trait of a tiefling.</p>
+</li>
+<li>
+<p><strong>Demonic Wings.</strong> When you move on your turn in combat, you can fly for up to 30 feet of that movement. Once you use this trait, you can&rsquo;t use it again until after the end of your next turn. However, once you reach 5<sup>th</sup> level, this limitation is removed, and you instead gain a flying speed of 30 feet.</p>
+</li>
+<li>
+<p><strong>Demon&rsquo;s Tongue.</strong> You gain the Devil&rsquo;s Tongue variant tiefling trait from Sword Coast Adventurer&rsquo;s Guide.</p>
+</li>
+</ul>
+<p><strong>Fires of the Abyss.</strong> When you take fire damage, you can use your reaction to roll a d6. Add your Charisma modifier to the number rolled, and reduce the damage by that total. After you use this trait, you cannot use it again until you finish a short or long rest. Once you reach 6<sup>th</sup> level, you replace this trait with resistance to fire damage.</p>
+<p><strong>Fiendish Language.</strong> You can speak, read, and write Abyssal.</p>
+<h2 id="history-the-feyri-and-daemonfey">HISTORY: THE FEY&rsquo;RI AND DAEMONFEY<a class="headerlink" href="#history-the-feyri-and-daemonfey" title="Permanent link">&para;</a></h2>
+<p>The original half-fiends who were the progenitors of the fey&rsquo;ri race later became known as the daemonfey. Before they were eventually discovered by their fellow elves and imprisoned in a series of caverns, the sun elves of House Dlardrageth and their fiendish offspring allied with three minor noble houses of the elven nation of Siluvanede in the High Forest. These nobles bred with demons as well, and acquired caches of Dlardrageth magic items, using these items and their fiendish powers to strike out at their enemies. These nobles were defeated and magically imprisoned in the same Dlardrageth cache sites where they had acquired their own eldritch relics.</p>
+<p>Three Dlardrageth half-fiends were accidentally released when Hellgate Keep was destroyed in 1 369 DR. When they broke through the magical seals on their old armories, they were surprised to find the descendants of their allies from Siluvanede within. Once freed, the Siluvanede fey&rsquo;ri joined with their old allies and began to enact their long-awaited plans. However, they suffer from unfamiliarity with the changes to the world and are still learning about its current state. Though they have had the intervening century to adjust, many fey&rsquo;ri still view this new world as strange and difficult.</p>
+<p>To make matters worse for them, the Dlardrageth leaders vanished only a few years later when they were at the head of a fey&rsquo;ri attack on the fledgling kingdom of Cormanthor, leaving the surviving fey&rsquo;ri directionless in a foreign land.</p>
+<p>The fey&rsquo;ri associated with House Dlardrageth originally numbered less than 60. Since their release, some of these fey&rsquo;ri have broken from their families, trying to find a place in the world after centuries of magical imprisonment.</p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../shade/" title="Шейд" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Назад
+                </span>
+                Шейд
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../../classes/" title="Общее" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Вперед
+                </span>
+                Общее
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2019 Palant и команда Киборгов и Чародеев
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/palikhov" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/AVPalikhov" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://linkedin.com/in/avpalikhov" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+          
+            
+              
+              
+                <script src="../../../assets/javascripts/lunr/lunr.ru.js"></script>
+              
+            
+          
+            
+              
+              
+            
+          
+          
+            <script src="../../../assets/javascripts/lunr/lunr.multi.js"></script>
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>

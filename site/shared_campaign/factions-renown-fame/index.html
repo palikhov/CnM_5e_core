@@ -1,0 +1,2120 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.">
+      
+      
+      
+        <meta name="author" content="Антон Палихов aka Palant">
+      
+      
+        <meta name="lang:clipboard.copy" content="Копировать в буфер">
+      
+        <meta name="lang:clipboard.copied" content="Скопировано в буфер">
+      
+        <meta name="lang:search.language" content="en, ru, uk">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Совпадений не найдено">
+      
+        <meta name="lang:search.result.one" content="Найдено 1 совпадение">
+      
+        <meta name="lang:search.result.other" content="Найдено # совпадений">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Factions - D&D "Palant edition"</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/application.11e41852.css">
+      
+        <link rel="stylesheet" href="../../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+      <script src="../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400i,700|Ubuntu+Mono">
+        <style>body,input{font-family:"Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Ubuntu Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#factions" tabindex="1" class="md-skip">
+        Перейти к содержанию
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../.." title="D&D "Palant edition"" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon">library_books</i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                D&D "Palant edition"
+              </span>
+              <span class="md-header-nav__topic">
+                Factions
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Поиск" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Начните печатать для поиска
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+        
+
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../.." title="Главная" class="md-tabs__link md-tabs__link--active">
+        Главная
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../homerules/downtime-revisited/DOWNTIME-COMPLETE-LIST.MD" title="Downtime" class="md-tabs__link">
+          Downtime
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../homerules/races/shade/" title="Расы" class="md-tabs__link">
+          Расы
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../homerules/classes/" title="Классы" class="md-tabs__link">
+          Классы
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../homerules/customizing/fighting-styles/" title="Опции персонажей" class="md-tabs__link">
+          Опции персонажей
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../homerules/spells/item-enchanting-spells/" title="Заклинания" class="md-tabs__link">
+          Заклинания
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../homerules/equipment/new-equipment/" title="Снаряжение" class="md-tabs__link">
+          Снаряжение
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../.." title="D&D "Palant edition"" class="md-nav__button md-logo">
+      
+        <i class="md-icon">library_books</i>
+      
+    </a>
+    D&D "Palant edition"
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/palikhov/DnD_Palant_edition/" title="Перейти к репозиторию" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      palikhov/DnD_Palant_edition
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." title="Главная" class="md-nav__link">
+      Главная
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      Downtime
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Downtime
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/DOWNTIME-COMPLETE-LIST.MD" title="Downtime Completed" class="md-nav__link">
+      Downtime Completed
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/buying-a-magic-item/" title="Покупка волшебных вещей" class="md-nav__link">
+      Покупка волшебных вещей
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/research/" title="Исследования" class="md-nav__link">
+      Исследования
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/crafting-an-item/" title="Создание предмета" class="md-nav__link">
+      Создание предмета
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/crime/" title="Преступления" class="md-nav__link">
+      Преступления
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/gambling/" title="Азартные игры" class="md-nav__link">
+      Азартные игры
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/pit-fighting/" title="Подпольные бои" class="md-nav__link">
+      Подпольные бои
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/relaxation/" title="Отдых-отдых-отдых" class="md-nav__link">
+      Отдых-отдых-отдых
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/religious-service/" title="Религиозная служба" class="md-nav__link">
+      Религиозная служба
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/scribing-a-spell-scroll/" title="Написание свитка заклинаний" class="md-nav__link">
+      Написание свитка заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/selling-a-magic-item/" title="Продажа волшебного предмета" class="md-nav__link">
+      Продажа волшебного предмета
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/training/" title="Training" class="md-nav__link">
+      Training
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-revisited/work/" title="Work" class="md-nav__link">
+      Work
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/downtime-activities.md" title="Новые возможности в простое" class="md-nav__link">
+      Новые возможности в простое
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Расы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Расы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/races/shade/" title="Шейд" class="md-nav__link">
+      Шейд
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/races/feyri/" title="Фейри (демонфеи)" class="md-nav__link">
+      Фейри (демонфеи)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+    
+    <label class="md-nav__link" for="nav-4">
+      Классы
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        Классы
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/" title="Общее" class="md-nav__link">
+      Общее
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/classes/" title="Классы" class="md-nav__link">
+      Классы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/arcanis-work/" title="Классы из Арканиса" class="md-nav__link">
+      Классы из Арканиса
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/barbarian/" title="Варвар" class="md-nav__link">
+      Варвар
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/elder-sorcerer/" title="Древние колдуны" class="md-nav__link">
+      Древние колдуны
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/fighter/" title="Боец (воин)" class="md-nav__link">
+      Боец (воин)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/mystic/" title="Мистик" class="md-nav__link">
+      Мистик
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/paladin/" title="Паладин" class="md-nav__link">
+      Паладин
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/ranger-rework/" title="Рейнджер" class="md-nav__link">
+      Рейнджер
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/rogue/" title="Специалист (авантюрист)" class="md-nav__link">
+      Специалист (авантюрист)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/shaman/" title="Шаман" class="md-nav__link">
+      Шаман
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/sorcerer/" title="Чародей (Sorcerer)" class="md-nav__link">
+      Чародей (Sorcerer)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/wizard/" title="Волшебник (маг)" class="md-nav__link">
+      Волшебник (маг)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/classes/warlock/" title="Колдун (Warlock)" class="md-nav__link">
+      Колдун (Warlock)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+    
+    <label class="md-nav__link" for="nav-5">
+      Опции персонажей
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        Опции персонажей
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/customizing/fighting-styles/" title="Боевые стили" class="md-nav__link">
+      Боевые стили
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/customizing/feats/" title="Навыки (feats)" class="md-nav__link">
+      Навыки (feats)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/customizing/combat-maneuvers/" title="Боевые маневры" class="md-nav__link">
+      Боевые маневры
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6">
+    
+    <label class="md-nav__link" for="nav-6">
+      Заклинания
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-6">
+        Заклинания
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/spells/item-enchanting-spells/" title="Зачарование предметов" class="md-nav__link">
+      Зачарование предметов
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/spells/cantrips/" title="Кантрипы" class="md-nav__link">
+      Кантрипы
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/spells/spells-3rd-lvl/" title="3й круг заклинаний" class="md-nav__link">
+      3й круг заклинаний
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/spells/spells/" title="Общий список" class="md-nav__link">
+      Общий список
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7">
+    
+    <label class="md-nav__link" for="nav-7">
+      Снаряжение
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        Снаряжение
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/equipment/new-equipment/" title="Снаряжение" class="md-nav__link">
+      Снаряжение
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/equipment/drugs/" title="Наркотики" class="md-nav__link">
+      Наркотики
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../homerules/equipment/herbalism/" title="Травы и гербализм" class="md-nav__link">
+      Травы и гербализм
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Содержание</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#faction-template" title="Faction template" class="md-nav__link">
+    Faction template
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faction" title="Faction" class="md-nav__link">
+    Faction
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#renown-ranks" title="Renown &amp; Ranks" class="md-nav__link">
+    Renown &amp; Ranks
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fame" title="Fame" class="md-nav__link">
+    Fame
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#infamy" title="Infamy" class="md-nav__link">
+    Infamy
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#factions-benefits" title="Faction's benefits" class="md-nav__link">
+    Faction's benefits
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faction-magic-items" title="Faction magic items" class="md-nav__link">
+    Faction magic items
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#uncommon" title="Uncommon" class="md-nav__link">
+    Uncommon
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rare" title="Rare" class="md-nav__link">
+    Rare
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#very-rare" title="Very Rare" class="md-nav__link">
+    Very Rare
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#signature-item" title="Signature Item" class="md-nav__link">
+    Signature Item
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#available" title="Available" class="md-nav__link">
+    Available
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rewards" title="Rewards" class="md-nav__link">
+    Rewards
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#spellcasting-services-available-for-faction-members" title="Spellcasting services available for faction members" class="md-nav__link">
+    Spellcasting services available for faction members
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#base" title="Base" class="md-nav__link">
+    Base
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#advanced" title="Advanced" class="md-nav__link">
+    Advanced
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#high-level" title="High-level" class="md-nav__link">
+    High-level
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faction-safe-house" title="Faction safe house" class="md-nav__link">
+    Faction safe house
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faction-contacts" title="Faction contacts" class="md-nav__link">
+    Faction contacts
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faction-downtime-activity" title="Faction downtime activity" class="md-nav__link">
+    Faction downtime activity
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faction-support" title="Faction support" class="md-nav__link">
+    Faction support
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#zhentarim" title="Zhentarim" class="md-nav__link">
+    Zhentarim
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tools-language-training" title="Tools &amp; Language training" class="md-nav__link">
+    Tools &amp; Language training
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tools" title="Tools" class="md-nav__link">
+    Tools
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#language" title="Language" class="md-nav__link">
+    Language
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other-training" title="Other training" class="md-nav__link">
+    Other training
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/palikhov/DnD_Palant_edition/edit/master/docs/shared_campaign/factions-renown-fame.md" title="Редактировать страницу" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                <h1 id="factions">Factions<a class="headerlink" href="#factions" title="Permanent link">&para;</a></h1>
+<p>Disfavor with a faction imposes disadvantage on all Charisma (Persuasion) and Charisma (Intimidate) skill checks made with that faction. In the case of Favors with large groups, you only gain this penalty when interacting with those of high station such as a general, a king, or the patriarch of a patrician family associated with that power.</p>
+<ul>
+<li>
+<p>You may use a Favor to cancel a Disfavor from the same faction. This voids both the Favor and Disfavor immediately.</p>
+</li>
+<li>
+<p>You may spend a Favor with a given faction/group/individual (at GM’s discussion) to gain the benefits of a one-time expenditure of 3 fame with that faction/group/individual. You may spend two favors with the same factionBto gain the benefits of a 5-point fame expenditure.</p>
+</li>
+</ul>
+<h2 id="faction-template">Faction template<a class="headerlink" href="#faction-template" title="Permanent link">&para;</a></h2>
+<p><strong>Motto</strong></p>
+<p>Beliefs.</p>
+<p>Goals.</p>
+<p>Typical Quests.</p>
+<p>Faction ranks.</p>
+<p>Attitudes of Organization Members. </p>
+<p>Perks.</p>
+<p>Downtime Activities.</p>
+<h2 id="faction">Faction<a class="headerlink" href="#faction" title="Permanent link">&para;</a></h2>
+<ol>
+<li>Lord&rsquo;s Alliance</li>
+<li>Knights in Silver</li>
+<li>Harpers</li>
+<li>Emerald Enclave</li>
+<li>Zhentarim (Shadow Conclave of Silverymoon)</li>
+<li>Citadel Adbar (Iron Guard)</li>
+</ol>
+<h2 id="renown-ranks">Renown &amp; Ranks<a class="headerlink" href="#renown-ranks" title="Permanent link">&para;</a></h2>
+<p>Renown | Significant quests | Min. character level rank | Faction benefits
+---------|----------|---------
+ 0 | 0 | 1 | Base Faction spellcasting services
+ 5 | 0 | 2 |Faction magic items (uncommon), Signature Item, Faction safe house, Faction downtime activity
+ 5 | 1 | 3 |Tools &amp; Language training
+ 15 | 1 | 4 | Faction magic item (rare), ,  Faction support,
+ 25 | 3 | 5 | Faction magic item (very rare), Other rewards
+ 50 | 10 | 6 |</p>
+<h2 id="fame">Fame<a class="headerlink" href="#fame" title="Permanent link">&para;</a></h2>
+<h2 id="infamy">Infamy<a class="headerlink" href="#infamy" title="Permanent link">&para;</a></h2>
+<h2 id="factions-benefits">Faction&rsquo;s benefits<a class="headerlink" href="#factions-benefits" title="Permanent link">&para;</a></h2>
+<h2 id="faction-magic-items">Faction magic items<a class="headerlink" href="#faction-magic-items" title="Permanent link">&para;</a></h2>
+<h3 id="uncommon">Uncommon<a class="headerlink" href="#uncommon" title="Permanent link">&para;</a></h3>
+<h3 id="rare">Rare<a class="headerlink" href="#rare" title="Permanent link">&para;</a></h3>
+<h3 id="very-rare">Very Rare<a class="headerlink" href="#very-rare" title="Permanent link">&para;</a></h3>
+<h3 id="signature-item">Signature Item<a class="headerlink" href="#signature-item" title="Permanent link">&para;</a></h3>
+<h3 id="available">Available<a class="headerlink" href="#available" title="Permanent link">&para;</a></h3>
+<h3 id="rewards">Rewards<a class="headerlink" href="#rewards" title="Permanent link">&para;</a></h3>
+<h2 id="spellcasting-services-available-for-faction-members">Spellcasting services available for faction members<a class="headerlink" href="#spellcasting-services-available-for-faction-members" title="Permanent link">&para;</a></h2>
+<h3 id="base">Base<a class="headerlink" href="#base" title="Permanent link">&para;</a></h3>
+<h3 id="advanced">Advanced<a class="headerlink" href="#advanced" title="Permanent link">&para;</a></h3>
+<h3 id="high-level">High-level<a class="headerlink" href="#high-level" title="Permanent link">&para;</a></h3>
+<h2 id="faction-safe-house">Faction safe house<a class="headerlink" href="#faction-safe-house" title="Permanent link">&para;</a></h2>
+<h2 id="faction-contacts">Faction contacts<a class="headerlink" href="#faction-contacts" title="Permanent link">&para;</a></h2>
+<h2 id="faction-downtime-activity">Faction downtime activity<a class="headerlink" href="#faction-downtime-activity" title="Permanent link">&para;</a></h2>
+<h2 id="faction-support">Faction support<a class="headerlink" href="#faction-support" title="Permanent link">&para;</a></h2>
+<h3 id="zhentarim">Zhentarim<a class="headerlink" href="#zhentarim" title="Permanent link">&para;</a></h3>
+<p>Mercenaries, info, illegal goods</p>
+<h2 id="tools-language-training">Tools &amp; Language training<a class="headerlink" href="#tools-language-training" title="Permanent link">&para;</a></h2>
+<h3 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h3>
+<h3 id="language">Language<a class="headerlink" href="#language" title="Permanent link">&para;</a></h3>
+<h3 id="other-training">Other training<a class="headerlink" href="#other-training" title="Permanent link">&para;</a></h3>
+<p>Важный момент. Члены фракция делятся на регуляров и нерегуляров. Регулярные члены фракции работают за деньги на фракцию и получают урезанные бенефиты. Нерегуляры обладают большей свободой, и в зависимости от ситуации могут даже отказаться от задания.</p>
+<p>Конкретная реализация зависит в каждом случае от конкретной игры, мастера, игрока и задания.
+Пример. Белдора Арфист в СКТ - регуляр.</p>
+<p>Персонажи в Лунном море и приключениях сезонных Лиги - регуляры.</p>
+<p>Персонаж арфист в ОоотА, СКТ, Принцах Апокалипсиса - не регуляр.</p>
+<p>Season 2 Elemental Evil/Mulmaster
+Rank 3 (Stalwart) Downtime Activities
+Members of the five factions that have achieved
+rank 3 have access to the following special
+downtime activities when adventuring in and
+around Mulmaster.
+Harpers: Arcane Amnesty
+You have friends within the Cloaks—an order of
+arcanists in Mulmaster—that are sympathetic to
+the Harpers’ cause. You have advantage on any
+social interaction checks to exonerate you or
+anyone in your group for using restricted magic
+in and around the city. In addition, you can
+spend downtime days to have an arrested caster
+freed from prison or harsh punishment. The cost
+is 1 downtime day per level of the violating spell.
+Order of the Gauntlet: Judge Friend
+You are a dueling judge, and have overseen
+many duels in Mulmaster. You have the ear of
+friends within the dueling judge community, and
+can call upon the services of a battlehardened
+warrior to lend you aid. At the beginning of an
+adventure or when appropriate, you can spend 5
+downtime days to recruit a veteran (see
+appendix B of the Monster Manual). The veteran
+performs any tasks within reason and capability,
+but parts ways with you after taking part in one
+combat or at the end of the adventure.
+Emerald Enclave: Secluded Haven
+You have a secret place just outside the city
+where you and your allies can rest, recuperate,
+and find mounts. When you use the recuperating
+downtime activity (see the Basic Rules or the
+Player’s Handbook), you can apply the effects to
+your entire group. In addition, at the beginning of
+an adventure or when appropriate, you can
+spend downtime days to borrow mounts (riding
+horses, ponies, or mules) for yourself and your
+group. The cost is 1 downtime day per mount
+borrowed. All mounts must be returned at the
+end of the adventure. If any mount dies during
+the course of the adventure, you must pay half
+its value in gold.
+Lords’ Alliance: Hawk Association
+You are part of the Hawks, the secret police of
+Mulmaster. You maintain law and order through
+intimidation and strongarm tactics. You can
+coerce information from the common folk for
+your benefit, gaining advantage on any
+Charisma (Intimidation) checks to do so. Once
+per adventure at the beginning of an adventure,
+you can spend 3 downtime days to learn an
+adventure secret. The Dungeon Master provides
+you with a secret that only you know about the
+adventure, and you gain advantage on all
+checks to recall related information for the
+duration of the adventure.
+Zhentarim: Procure Illicit Goods
+You have contacts among smugglers residing in
+the ghettos of the city, who are able to procure
+restricted and illicit items for you. At the
+beginning of an adventure or when appropriate,
+you can spend 2 downtime days to gain one of
+the following items for the duration of the
+adventure: carrion crawler mucus, serpent
+venom, or a moldering scroll holding a 1<sup>st</sup>-level
+spell of your choice. Then roll on the Procure
+Illicit Goods table to see what happens as a
+result of your dealings.
+Procure Illicit Goods (Mulmaster)
+d20 Result
+1–3 You are caught red-handed and jailed
+for 1d8 days. You do not gain the item.
+You must spend additional downtime
+days to cover this jail time, but you do
+not spend your lifestyle costs for these
+days. You can avoid jail by paying 50 gp
+per day of jail time.
+4–6 You are accosted by the city watch
+while making the deal. You lose 100 gp
+and begin the adventure at half your hit
+point maximum, but you manage to
+retain possession of the item.
+7–12 You find a fence willing to sell you the
+item, but it’s going to cost you. Make a
+DC 10 Charisma (Persuasion) check. If
+you succeed, you pay 50 gp for the
+item. If you fail, you pay 200 gp for the
+item.
+13–18 You are able to swindle or fast-talk your
+way into obtaining the item, gaining it for
+free.
+19–20 You manage to obtain one item for free
+while attempting to steal another. Make
+a DC 10 Dexterity (Sleight of Hand)
+check. If you succeed, choose two
+different items instead of one. You gain
+both of the items for free. If you fail, you
+instead gain one item for free.
+Season 3 Rage of Demons/Hillsfar
+Rank 3 (Stalwart) Downtime Activities
+Members of the five factions who have achieved
+rank 3 have access to the following special
+downtime activities when adventuring in and
+around Hillsfar and in the Underdark beneath
+the city.
+Harpers—Mental Fortitude. You are a
+Brightcandle of the Harpers. Under the tutelage
+of your faction-mates in Elventree, you have
+learned the secrets of healing the mind. If you
+are afflicted with any type of madness, you can
+spend one downtime day to reduce your
+madness level by 1, and to cure any short-term
+madness or long-term madness that afflicts you.
+You can do the same for allies, but the cost is
+three downtime days per ally cured. You cannot
+use this benefit to cure indefinite madness, and
+you cannot reduce your madness level to 0 if
+you are afflicted with indefinite madness.
+Members of the five factions who have achieved
+rank 3 have access to the following special
+downtime activities when adventuring in and
+around Hillsfar and in the Underdark beneath
+the city.
+Order of the Gauntlet—Investiture of the
+Divine. You are a Whitehawk in the Order of the
+Gauntlet, and have been a participant in prayer
+circles and rites to combat the demons spilling
+from the Underdark. You can spend ten
+downtime days to gain an investiture of the
+divine that lasts until your next long rest. While
+your investiture is active, you can use a bonus
+action on each of your turns to grant you or an
+ally within 30 feet of you the ability to bypass
+damage resistances on the next attack made
+against a demon. This benefit does not bypass a
+demon’s immunities.
+Emerald Enclave—Madness Ward. You are an
+Autumnreaver of the Emerald Enclave, and
+know that the madness creeping to the surface
+world from the depths of the Underdark is wholly
+unnatural. By performing cleansing rituals and
+warding areas where demonic madness has
+been seen or felt, you and your companions can
+bolster your resistance to that madness. For
+each downtime day you spend, you can grant
+yourself or an ally a madness ward that lasts
+until your next long rest. A creature with this
+madness ward can use a reaction to gain
+advantage on a saving throw against madness.
+A character can have only one madness ward
+active at a time.
+Lords’ Alliance—Rally the Troops. You are a
+Stingblade of the Lords’ Alliance, dedicated to
+helping the common folk stand strong against
+the demonic influences pouring forth from the
+Underdark. By spending ten downtime days to
+rally the locals—whether surface dwellers or
+Underdark denizens—you can call three
+bandits (see appendix B of the Monster
+Manual) to your assistance. By spending fifteen
+downtime days, you can rally three bandits and
+one bandit captain to your aid. These allies
+perform any tasks within reason and capability,
+but they part ways with you after taking part in
+one combat or at the end of the adventure,
+whichever comes first. If things are looking grim
+and you do not already have these allies (and
+have not already called them during the current
+adventure), you can use a bonus action to
+spend an additional five downtime days (for a
+total of fifteen or twenty downtime days) and
+have these allies immediately show up in a
+place of the Dungeon Master’s choosing.
+Zhentarim—Opportunist. You are a Viper of
+the Zhentarim and are adept at slithering your
+way into advantageous positions. Despite the
+Red Plumes’ grip on trade in the region and the
+chaos spreading as a result of madness in the
+Underdark, you are in a perfect position to profit.
+While you adventure, you are able collect
+valuables without the other party members’
+knowledge, then sell those valuables at a later
+date. For each ten downtime days you spend
+before an adventure, increase your gold rewards
+from the adventure by 10 percent, up to a
+maximum of 50 percent for that adventure.</p>
+<p>Harpers Rank 3
+(Brightcandle) Downtime Activities
+You gain access to Harper-specific downtime
+activities that give you additional benefits when
+you use then. If your faction has any specific
+downtime activities for the current storyline
+season, they can be found in the D&amp;D
+Adventurers League Dungeon Master’s Guide.
+Members of the Harpers that have achieved
+rank 3 have access to the following special
+downtime activity when adventuring in and
+around Mulmaster.
+Harpers: Arcane Amnesty
+You have friends within the Cloaks—an order of
+arcanists in Mulmaster—that are sympathetic to
+the Harpers’ cause. You have advantage on any
+social interaction checks to exonerate you or
+anyone in your group for using restricted magic
+in and around the city. In addition, you can
+spend downtime days to have an arrested caster
+freed from prison or harsh punishment. The cost
+is 1 downtime day per level of the violating spell.
+Members of the Harpers who have achieved
+rank 3 have access to the following special
+downtime activity when adventuring in and
+around Hillsfar and in the Underdark beneath
+the city.
+Harpers—Mental Fortitude. You are a
+Brightcandle of the Harpers. Under the tutelage
+of your faction-mates in Elventree, you have
+learned the secrets of healing the mind. If you
+are afflicted with any type of madness, you can
+spend one downtime day to reduce your
+madness level by 1, and to cure any short-term
+madness or long-term madness that afflicts you.
+You can do the same for allies, but the cost is
+three downtime days per ally cured. You cannot
+use this benefit to cure indefinite madness, and
+you cannot reduce your madness level to 0 if
+you are afflicted with indefinite madness.
+Item Procurement
+With an expenditure of resources, you can
+acquire a magic item from your faction. To
+procure the item, you must go on minor
+adventures for your faction (represented by
+downtime days), and perform bribes, charitable
+acts, and provide provisions (represented by the
+expenditure of gold) in service of your faction.
+The item received in exchange for this increases
+your magic item count and is not tradeable. A
+character may purchase any number of items so
+long as they pay the associated downtime day
+and gold costs for each item.
+Item Procurement Costs
+Rarity Downtime Gold
+Uncommon 50 500gp
+Rare 100 5,000gp
+Item Procurement Options
+Uncommon Rarity 
+Order of the Gauntlet Rank 3
+(Whitehawk) Downtime Activities
+Members of the Order of the Gauntlet that have
+achieved rank 3 have access to the following
+special downtime activity when adventuring in
+and around Mulmaster.
+Order of the Gauntlet: Judge Friend
+You are a dueling judge, and have overseen
+many duels in Mulmaster. You have the ear of
+friends within the dueling judge community, and
+can call upon the services of a battlehardened
+warrior to lend you aid. At the beginning of an
+adventure or when appropriate, you can spend 5
+downtime days to recruit a veteran (see
+appendix B of the Monster Manual). The veteran
+performs any tasks within reason and capability,
+but parts ways with you after taking part in one
+combat or at the end of the adventure.
+Members of the Order of the Gauntlet who have
+achieved rank 3 have access to the following
+special downtime activity when adventuring in
+and around Hillsfar and in the Underdark
+beneath the city.
+Order of the Gauntlet—Investiture of the
+Divine. You are a Whitehawk in the Order of the
+Gauntlet, and have been a participant in prayer
+circles and rites to combat the demons spilling
+from the Underdark. You can spend ten
+downtime days to gain an investiture of the
+divine that lasts until your next long rest. While
+your investiture is active, you can use a bonus
+action on each of your turns to grant you or an
+ally within 30 feet of you the ability to bypass
+damage resistances on the next attack made
+against a demon. This benefit does not bypass a
+demon’s immunities.
+Item Procurement
+With an expenditure of resources, you can
+acquire a magic item from your faction. To
+procure the item, you must go on minor
+adventures for your faction (represented by
+downtime days), and perform bribes, charitable
+acts, and provide provisions (represented by the
+expenditure of gold) in service of your faction.
+The item received in exchange for this increases
+your magic item count and is not tradeable. A
+character may purchase any number of items so
+long as they pay the associated downtime day
+and gold costs for each item.
+Item Procurement Costs
+Rarity Downtime Gold
+Uncommon 50 500gp
+Rare 100 5,000gp
+Item Procurement Options
+Uncommon Rarity Rare Rarity
++1 Weapon
++1 Shield +1 Armor
+Cloak of Protection Ring of Resistance</p>
+<p>Emerald Enclave Rank 3
+(Autumnreaver) Downtime Activities
+Members of the Emerald Enclave that have
+achieved rank 3 have access to the following
+special downtime activity when adventuring in
+and around Mulmaster.
+Emerald Enclave: Secluded Haven
+You have a secret place just outside the city
+where you and your allies can rest, recuperate,
+and find mounts. When you use the recuperating
+downtime activity (see the Basic Rules or the
+Player’s Handbook), you can apply the effects to
+your entire group. In addition, at the beginning of
+an adventure or when appropriate, you can
+spend downtime days to borrow mounts (riding
+horses, ponies, or mules) for yourself and your
+group. The cost is 1 downtime day per mount
+borrowed. All mounts must be returned at the
+end of the adventure. If any mount dies during
+the course of the adventure, you must pay half
+its value in gold.
+Members of the Emerald Enclave who have
+achieved rank 3 have access to the following
+special downtime activity when adventuring in
+and around Hillsfar and in the Underdark
+beneath the city.
+Emerald Enclave—Madness Ward. You are an
+Autumnreaver of the Emerald Enclave, and
+know that the madness creeping to the surface
+world from the depths of the Underdark is wholly
+unnatural. By performing cleansing rituals and
+warding areas where demonic madness has
+been seen or felt, you and your companions can
+bolster your resistance to that madness. For
+each downtime day you spend, you can grant
+yourself or an ally a madness ward that lasts
+until your next long rest. A creature with this
+madness ward can use a reaction to gain
+advantage on a saving throw against madness.
+A character can have only one madness ward
+active at a time.
+Item Procurement
+With an expenditure of resources, you can
+acquire a magic item from your faction. To
+procure the item, you must go on minor
+adventures for your faction (represented by
+downtime days), and perform bribes, charitable
+acts, and provide provisions (represented by the
+expenditure of gold) in service of your faction.
+The item received in exchange for this increases
+your magic item count and is not tradeable. A
+character may purchase any number of items so
+long as they pay the associated downtime day
+and gold costs for each item.
+Item Procurement Costs
+Rarity Downtime Gold
+Uncommon 50 500gp
+Rare 100 5,000gp
+Item Procurement Options
+Uncommon Rarity Rare Rarity
++1 Weapon +1 Armor
++1 Shield Ring of Animal Influence
+Cloak of the Manta Ray</p>
+<p>Lord’s Alliance Rank 3
+(Stingblade) Downtime Activities
+Members of the Lord’s Alliance that have
+achieved rank 3 have access to the following
+special downtime activity when adventuring in
+and around Mulmaster.
+Lords’ Alliance: Hawk Association
+You are part of the Hawks, the secret police of
+Mulmaster. You maintain law and order through
+intimidation and strongarm tactics. You can
+coerce information from the common folk for
+your benefit, gaining advantage on any
+Charisma (Intimidation) checks to do so. Once
+per adventure at the beginning of an adventure,
+you can spend 3 downtime days to learn an
+adventure secret. The Dungeon Master provides
+you with a secret that only you know about the
+adventure, and you gain advantage on all
+checks to recall related information for the
+duration of the adventure.
+Members of the Lord’s Alliance who have
+achieved rank 3 have access to the following
+special downtime activity when adventuring in
+and around Hillsfar and in the Underdark
+beneath the city.
+Lords’ Alliance—Rally the Troops. You are a
+Stingblade of the Lords’ Alliance, dedicated to
+helping the common folk stand strong against
+the demonic influences pouring forth from the
+Underdark. By spending ten downtime days to
+rally the locals—whether surface dwellers or
+Underdark denizens—you can call three
+bandits (see appendix B of the Monster
+Manual) to your assistance. By spending fifteen
+downtime days, you can rally three bandits and
+one bandit captain to your aid. These allies
+perform any tasks within reason and capability,
+but they part ways with you after taking part in
+one combat or at the end of the adventure,
+whichever comes first. If things are looking grim
+and you do not already have these allies (and
+have not already called them during the current
+adventure), you can use a bonus action to
+spend an additional five downtime days (for a
+total of fifteen or twenty downtime days) and
+have these allies immediately show up in a
+place of the Dungeon Master’s choosing.
+Item Procurement
+With an expenditure of resources, you can
+acquire a magic item from your faction. To
+procure the item, you must go on minor
+adventures for your faction (represented by
+downtime days), and perform bribes, charitable
+acts, and provide provisions (represented by the
+expenditure of gold) in service of your faction.
+The item received in exchange for this increases
+your magic item count and is not tradeable. A
+character may purchase any number of items so
+long as they pay the associated downtime day
+and gold costs for each item.
+Item Procurement Costs
+Rarity Downtime Gold
+Uncommon 50 500gp
+Rare 100 5,000gp
+Item Procurement Options
+Uncommon Rarity Rare Rarity
++1 Weapon +1 Armor
++1 Shield Cape of the Mountebank
+Ring of Mind Shielding 
+Zhentarim Rank 3
+(Viper) Downtime Activities
+Members of the Zhentarim that have achieved
+rank 3 have access to the following special
+downtime activity when adventuring in and
+around Mulmaster.
+Zhentarim: Procure Illicit Goods
+You have contacts among smugglers residing in
+the ghettos of the city, who are able to procure
+restricted and illicit items for you. At the
+beginning of an adventure or when appropriate,
+you can spend 2 downtime days to gain one of
+the following items for the duration of the
+adventure: carrion crawler mucus, serpent
+venom, or a moldering scroll holding a 1<sup>st</sup>-level
+spell of your choice. Then roll on the Procure
+Illicit Goods table to see what happens as a
+result of your dealings.
+Procure Illicit Goods (Mulmaster)
+d20 Result
+1–3 You are caught red-handed and jailed
+for 1d8 days. You do not gain the item.
+You must spend additional downtime
+days to cover this jail time, but you do
+not spend your lifestyle costs for these
+days. You can avoid jail by paying 50 gp
+per day of jail time.
+4–6 You are accosted by the city watch
+while making the deal. You lose 100 gp
+and begin the adventure at half your hit
+point maximum, but you manage to
+retain possession of the item.
+7–12 You find a fence willing to sell you the
+item, but it’s going to cost you. Make a
+DC 10 Charisma (Persuasion) check. If
+you succeed, you pay 50 gp for the
+item. If you fail, you pay 200 gp for the
+item.
+13–18 You are able to swindle or fast-talk your
+way into obtaining the item, gaining it for
+free.
+19–20 You manage to obtain one item for free
+while attempting to steal another. Make
+a DC 10 Dexterity (Sleight of Hand)
+check. If you succeed, choose two
+different items instead of one. You gain
+both of the items for free. If you fail, you
+instead gain one item for free.
+Members of the Zhentarim who have achieved
+rank 3 have access to the following special
+downtime activity when adventuring in and
+around Hillsfar and in the Underdark beneath
+the city.
+Zhentarim—Opportunist. You are a Viper of
+the Zhentarim and are adept at slithering your
+way into advantageous positions. Despite the
+Red Plumes’ grip on trade in the region and the
+chaos spreading as a result of madness in the
+Underdark, you are in a perfect position to profit.
+While you adventure, you are able collect
+valuables without the other party members’
+knowledge, then sell those valuables at a later
+date. For each ten downtime days you spend
+before an adventure, increase your gold rewards
+from the adventure by 10 percent, up to a
+maximum of 50 percent for that adventure.
+Item Procurement
+With an expenditure of resources, you can
+acquire a magic item from your faction. To
+procure the item, you must go on minor
+adventures for your faction (represented by
+downtime days), and perform bribes, charitable
+acts, and provide provisions (represented by the
+expenditure of gold) in service of your faction.
+The item received in exchange for this increases
+your magic item count and is not tradeable. A
+character may purchase any number of items so
+long as they pay the associated downtime day
+and gold costs for each item.
+Item Procurement Costs
+Rarity Downtime Gold
+Uncommon 50 500gp
+Rare 100 5,000gp
+Item Procurement Options
+Uncommon Rarity Rare Rarity
++1 Weapon +1 Armor
++1 Shield Ring of Evasion
+Slippers of Spider Climbing </p>
+<h1 id="downitme-activities">Downitme activities<a class="headerlink" href="#downitme-activities" title="Permanent link">&para;</a></h1>
+<p>Members of the five factions that have achieved rank 3 have access to the following special downtime activities when adventuring in and around Mulmaster.
+Harpers: Arcane Amnesty
+You have friends within the Cloaks—an order of arcanists in Mulmaster—that are sympathetic to the Harpers&rsquo; cause. You have advantage on any social interaction checks to exonerate you or anyone in your group for using restricted magic in and around the city. In addition, you can spend downtime days to have an arrested caster freed from prison or harsh punishment. The cost is 1 downtime day per level of the violating spell.
+Order of the Gauntlet: Judge Friend
+You are a dueling judge, and have overseen many duels in Mulmaster. You have the ear of friends within the dueling judge community, and can call upon the services of a battlehardened warrior to lend you aid. At the beginning of an adventure or when appropriate, you can spend 5 downtime days to recruit a veteran (see appendix B of the Monster Manual). The veteran performs any tasks within reason and capability, but parts ways with you after taking part in one combat or at the end of the adventure.
+Emerald Enclave: Secluded Haven
+You have a secret place just outside the city where you and your allies can rest, recuperate, and find mounts. When you use the recuperating downtime activity (see the Basic Rules or the Player’s Handbook), you can apply the effects to your entire group. In addition, at the beginning of an adventure or when appropriate, you can spend downtime days to borrow mounts (riding horses, ponies, or mules) for yourself and your group. The cost is 1 downtime day per mount borrowed. All mounts must be returned at the end of the adventure. If any mount dies during the course of the adventure, you must pay half its value in gold.
+Lords’ Alliance: Hawk Association
+You are part of the Hawks, the secret police of Mulmaster. You maintain law and order through intimidation and strongarm tactics. You can coerce information from the common folk for your benefit, gaining advantage on any Charisma (Intimidation) checks to do so. Once per adventure at the beginning of an adventure, you can spend 3 downtime days to learn an adventure secret. The Dungeon Master provides you with a secret that only you know about the adventure, and you gain advantage on all checks to recall related information for the duration of the adventure.
+Zhentarim: Procure Illicit Goods
+You have contacts among smugglers residing in the ghettos of the city, who are able to procure restricted and illicit items for you. At the beginning of an adventure or when appropriate, you can spend 2 downtime days to gain one of the following items for the duration of the adventure: carrion crawler mucus, serpent venom, or a moldering scroll holding a 1<sup>st</sup>-level spell of your choice. Then roll on the Procure Illicit Goods table to see what happens as a result of your dealings.
+Procure Illicit Goods (Mulmaster) d20 Result
+1-3 You are caught red-handed and jailed for 1d8 days. You do not gain the item. You must spend additional downtime days to cover this jail time, but you do not spend your lifestyle costs for these days. You can avoid jail by paying 50 gp per day of jail time.
+4-6 You are accosted by the city watch
+while making the deal. You lose 100 gp and begin the adventure at half your hit point maximum, but you manage to retain possession of the item.
+7-12 You find a fence willing to sell you the item, but it&rsquo;s going to cost you. Make a DC 10 Charisma (Persuasion) check. If you succeed, you pay 50 gp for the item. If you fail, you pay 200 gp for the item.
+13-18 You are able to swindle or fast-talk your way into obtaining the item, gaining it for free.
+19-20 You manage to obtain one item for free while attempting to steal another. Make a DC 10 Dexterity (Sleight of Hand) check. If you succeed, choose two different items instead of one. You gain both of the items for free. If you fail, you instead gain one item for free.
+Season 3 Rage of Demons/Hillsfar
+Rank 3 (Stalwart) Downtime Activities
+Members of the five factions who have achieved rank 3 have access to the following special downtime activities when adventuring in and around Hillsfar and in the Underdark beneath the city.
+Harpers—Mental Fortitude. You are a
+Brightcandle of the Harpers. Under the tutelage of your faction-mates in Elventree, you have learned the secrets of healing the mind. If you are afflicted with any type of madness, you can spend one downtime day to reduce your madness level by 1, and to cure any short-term madness or long-term madness that afflicts you. You can do the same for allies, but the cost is three downtime days per ally cured. You cannot use this benefit to cure indefinite madness, and you cannot reduce your madness level to 0 if you are afflicted with indefinite madness.
+Members of the five factions who have achieved rank 3 have access to the following special downtime activities when adventuring in and around Hillsfar and in the Underdark beneath the city.
+Order of the Gauntlet—Investiture of the Divine. You are a Whitehawk in the Order of the Gauntlet, and have been a participant in prayer circles and rites to combat the demons spilling from the Underdark. You can spend ten downtime days to gain an investiture of the divine that lasts until your next long rest. While your investiture is active, you can use a bonus action on each of your turns to grant you or an ally within 30 feet of you the ability to bypass damage resistances on the next attack made against a demon. This benefit does not bypass a demon&rsquo;s immunities.
+Emerald Enclave—Madness Ward. You are an
+Autumnreaver of the Emerald Enclave, and know that the madness creeping to the surface world from the depths of the Underdark is wholly unnatural. By performing cleansing rituals and warding areas where demonic madness has been seen or felt, you and your companions can bolster your resistance to that madness. For each downtime day you spend, you can grant yourself or an ally a madness ward that lasts until your next long rest. A creature with this madness ward can use a reaction to gain advantage on a saving throw against madness. A character can have only one madness ward active at a time.
+Lords’ Alliance—Rally the Troops. You are a
+Stingblade of the Lords&rsquo; Alliance, dedicated to helping the common folk stand strong against the demonic influences pouring forth from the Underdark. By spending ten downtime days to rally the locals—whether surface dwellers or Underdark denizens—you can call three bandits (see appendix B of the Monster Manual) to your assistance. By spending fifteen downtime days, you can rally three bandits and one bandit captain to your aid. These allies perform any tasks within reason and capability, but they part ways with you after taking part in one combat or at the end of the adventure, whichever comes first. If things are looking grim and you do not already have these allies (and have not already called them during the current adventure), you can use a bonus action to spend an additional five downtime days (for a total of fifteen or twenty downtime days) and have these allies immediately show up in a place of the Dungeon Master&rsquo;s choosing.
+Zhentarim—Opportunist. You are a Viper of the Zhentarim and are adept at slithering your way into advantageous positions. Despite the Red Plumes&rsquo; grip on trade in the region and the chaos spreading as a result of madness in the Underdark, you are in a perfect position to profit. While you adventure, you are able collect valuables without the other party members&rsquo; knowledge, then sell those valuables at a later date. For each ten downtime days you spend before an adventure, increase your gold rewards from the adventure by 10 percent, up to a maximum of 50 percent for that adventure.
+EMERALD ENCLAVE
+The Emerald Enclave is a widespread group of wilderness survivalists who preserve the natural order while rooting out unnatural threats.
+Goals
+•   Restore and preserve the natural order.
+•   Destroy all that is unnatural.
+•   Keep the elemental forces of the world in check.
+•   Keep civilization and the wilderness from destroying each other.
+Beliefs
+•   The natural order must be respected and preserved.
+•   Forces that upset the natural order must be destroyed.
+•   Civilization and the wilderness must learn to coexist peacefully.
+For more information on the Enclave, please visit the Emerald Enclave&rsquo;s Facebook page
+Prestige    Objectives for advancement
+Spring Warden
+(prestige 1)    o Prevent magical forces from disrupting weather or crops o Slay an evil dragon (wyrmling) o Make peaceful contact with reclusive tribes o Free a captured beast
+o Report information about a devastation orb, influence of Malar, Red wizards of Thay or other major threat to the natural order o Prevent destruction of natural area
+o Achieve any objective not listed above that previously earned an extra renown point for Emerald Enclave in a tier 1 AL module o Join the Emerald Enclave facebook group
+Summer Strider
+(prestige 2)    o Forgo your downtime to assist in revegetation projects o Have the faction agent background o Own a cloak of the manta Ray
+o Make peaceful contact with a treant or awakened tree or animal
+o Recover samples from unnatural creatures o Find a scroll containing a druid or ranger spell o Achieve any objective not listed above that previously earned an extra renown point for Emerald Enclave in a tier 2 AL module
+Autumn Reaver
+(prestige 3)    o Spend Downtime to gain proficiency in herbalism kit, woodcarver&rsquo;s tools, cartographer&rsquo;s tools o Own a ring of animal influence o Capture a will-o-the wisp o Slay an evil dragon (young) o Recruit unaligned named NPC to the faction o Receive an endorsement from a prestige 4 or 5 member of the faction
+o Achieve any objective not listed above that previously earned a special or secret mission for Emerald Enclave in an AL module o Complete any epic adventure with an Emerald Enclave character</p>
+<p>Winter Stalker
+(prestige 4)    o Defeat an unnatural creature of at least CR 10 o Slay an evil dragon (adult or ancient) o Own any three very rare magic items o Receive an endorsement from a prestige 5 member of the faction
+o Endorse a prestige 3 member of your faction o Achieve any objective not listed above that previously earned an extra renown point for Emerald Enclave in a tier 3 or 4 AL module
+Master of the Wild
+(prestige 5)    No further advancement is needed, but keep working hard.
+Prestige
+Objectives for advancement</p>
+<p>HARPERS
+The Harpers is a scattered network of spellcasters and spies who advocate equality and covertly oppose the abuse of power.
+Goals
+•   Gather information throughout Faerûn.
+•   Promote fairness and equality by covert means.
+•   Thwart tyrants and leaders, governments, and organizations that grow too powerful.
+•   Aid the weak, poor and oppressed.
+Beliefs
+•   One can never have too much information or arcane knowledge.
+•   Too much power leads to corruption. The abuse of magic must be closely monitored.
+•   No one should be powerless.
+For more information on the Harpers, please visit the Harper&rsquo;s Den Facebook page
+Prestige    Objectives for advancement
+Watcher
+(prestige 1)    o Recover a lost or stolen magic item o Recover lost knowledge o Decipher another organisation&rsquo;s codes o Capture a spy o Find a spellbook or scroll o Recover code book
+o Achieve any objective not listed above that previously earned an extra renown point for Harpers in a tier 1 AL module o Join the Harper&rsquo;s Den facebook group
+Harpshadow
+(prestige 2)    o Have the faction agent background o Forgo your downtime to deliver information to key NPCs o Own a cloak of elven kind
+o Identify and report corruption (eg cultist hiding among the cloaks of Mulmaster)
+o Free at least ten slaves in one adventure o Recover a spellbook or scroll of higher level than you can cast. o Achieve any objective not listed above that previously earned an extra renown point for Harpers in a tier 2 AL module
+Brightcandle
+(prestige 3)    o Spend Downtine to gain proficiency in Musical Instrument, Calligrapher&rsquo;s supplies, or Disguise Kit o Own a ring of protection o Collect a sample from a pool of radiance o Gain assistance to have an NPC Harper spy join another organisation (such as the Cloaks, Hawks, Black Fist) o Recruit unaligned named NPC to the faction o Receive an endorsement from a prestige 4 or 5 member of the faction
+o Achieve any objective not listed above that previously earned a special or secret mission for Harpers in an AL module o Complete any epic adventure with a Harper character</p>
+<p>Wise Owl
+(prestige 4)    o Slay an evil dragon (adult or ancient) o Slay a fiend of at least CR 14 o Cast a 9<sup>th</sup> level spell
+o Receive an endorsement from a prestige 5 member of the faction
+o Endorse a prestige 3 member of your faction o Achieve any objective not listed above that previously earned an extra renown point for Harpers in a tier 3 or 4 AL module
+High Harper
+(prestige 5)    No further advancement is needed, but keep working hard.
+Prestige
+Objectives for advancement</p>
+<p>The Zhentarim is an unscrupulous shadow network that seeks to expand its influence and power throughout Faerun.
+Goals
+•   Amass wealth.
+•   Look for opportunities to seize power.
+•   Gain influence over important people and organizations.
+•   Dominate Faerun.
+Beliefs
+•   The Zhentarim is your family. You watch out for it, and it watches out for you.
+•   You are the master of your own destiny. Never be less than what you deserve to be.
+•   Everything—and everyone—has a price.
+For more information on the Zhentarim, please visit the Black Network&rsquo;s Facebook page
+Prestige    Objectives for advancement
+Fang    o   Rescue a zhent agent
+(prestige 1)    o   Find and map a location that may serve as a zhent base
+    o   Assist the reputation of another zhent (eg by clearing their name)
+    o   Recover trade maps (that did not belong to the zhents
+    o   Capture an enemy that has information
+    o   Find source of illicit substance (eg Silkroot)
+    o   Achieve any objective not listed above that previously earned an extra renown point for zhents in a tier 1 AL module
+    o   Join the Black Network facebook group
+Wolf    o   Have the faction agent background
+(prestige 2)    o   Forgo your downtime to help with smuggling operations
+    o   Own Slippers of Spiderclimb
+    o   Find a scroll containing a warlock spell
+    o   Find lost Zhent agent
+    o   Secretly execute an enemy of the zhents
+    o   Achieve any objective not listed above that previously earned an extra renown point for zhents in a tier 2 AL module
+Viper   o   Spend Downtime to gain proficiency in Disguise Kit, Forgery kit,
+(prestige 3)        Poisoner&rsquo;s Kit Thieves&rsquo; Tools
+    o   Own a ring of evasion
+    o   Collect poison from a creature that has a save DC of at least 13
+    o   Demonstrate the power of the zhents by publicly winning single combat against a significant opponent (at least CR 3).
+    o   Recruit unaligned named NPC to the faction
+    o   Receive an endorsement from a prestige 4 or 5 member of the faction
+    o   Achieve any objective not listed above that previously earned a special or secret mission for Zhent in an AL module
+    o   Complete any epic adventure with a Zhent character</p>
+<p>Ardragon    o   Slay a dragon (adult or ancient)
+(prestige 4)    o   Rescue a newborn child of a devil or demon
+    o   Own any three very rare magic items
+    o   Receive an endorsement from a prestige 5 member of the faction
+    o   Endorse a prestige 3 member of your faction
+    o   Achieve any objective not listed above that previously earned an extra renown point for zhents in a tier 3 or 4 AL module
+Dread Lord
+(prestige 5)    No further advancement is needed, but keep working hard.
+Prestige
+Objectives for advancement</p>
+<p>LORD’S ALLIANCE
+The Lords&rsquo; Alliance is a loose coalition of established political powers concerned with mutual security and prosperity.
+Goals
+•   Ensure the safety and prosperity of cities and other settlements of Faerun.
+•   Maintain a strong coalition against the forces of disorder.
+•   Proactively eliminate threats to the established powers.
+•   Bring honor and glory to one&rsquo;s leaders and one&rsquo;s homeland.
+Beliefs
+•   If civilization is to survive, all must unite against the dark forces that threaten it.
+•   Fight for your realm. Only you can bring honor, glory, and prosperity to your lord and homeland.
+•   Don&rsquo;t wait for the enemy to come to you. The best defence is a strong offense.
+For more information on the Alliance, please visit the Lord&rsquo;s Alliance Facebook page
+Prestige    Objectives for advancement
+Cloak   o   Deliver key information to the nobility
+(prestige 1)    o   Assist a trader
+    o   Uncover deception that affects nobility (such as a false pedigree)
+    o   Protect or recover the property of a noble (eg prevent house burning down)
+    o   Persuade the child of a noble house to abandon a cult
+    o   Stop bandits on any major trade route
+    o   Achieve any objective not listed above that previously earned an extra renown point for Lord&rsquo;s Alliance in a tier 1 AL module
+    o   Join the Lord&rsquo;s Alliance facebook group
+Red Knife   o   Have the faction agent background
+(prestige 2)    o   Forgo your downtime to spend time at court
+    o   Own a ring of mind shielding
+    o   Rescue a kidnapped lord or high-prestigeing member of the alliance
+    o   Identify and report corruption (eg cultist hiding among the cloaks of Mulmaster)
+    o   Retrieve key business documents from a secure location
+    o   Achieve any objective not listed above that previously earned an extra renown point for Lord&rsquo;s Alliance in a tier 2 AL module
+Sting Blade o   Spend Downtime to gain proficiency in Jewelers tools, Mason&rsquo;s
+(prestige 3)        tools, Navigator&rsquo;s tools, Painters supplies, Gaming Set, Any Standard Language
+    o   Own a cape of the mountebank
+    o   Slay a dragon (young)
+    o   Be involved in the transition of power in any major city
+    o   Recruit unaligned named NPC to the faction
+    o   Receive an endorsement from a prestige 4 or 5 member of the faction
+    o   Achieve any objective not listed above that previously earned a special or secret mission for Lord&rsquo;s Alliance in an AL module
+    o   Complete any epic adventure with a Lord&rsquo;s Alliance character</p>
+<p>War Duke
+(prestige 4)    o Slay a dragon (Adult or ancient) o Own any three very rare magic items o Own property by story award, special certificate or outright purchase)
+o Receive an endorsement from a prestige 5 member of the faction
+o Endorse a prestige 3 member of your faction o Achieve any objective not listed above that previously earned an extra renown point for Lord&rsquo;s Alliance in a tier 3 or 4 AL module
+Lion Crown
+(prestige 5)    No further advancement is needed, but keep working hard.
+Prestige
+Objectives for advancement</p>
+<p>ORDER OF THE GAUNTLET
+The Order of the Gauntlet is composed of faithful and vigilant seekers of justice who protect others from the depredations of evildoers.
+Goals
+•   Be armed and vigilant against evil.
+•   Identify evil threats such as secretive power groups and inherently evil creatures.
+•   Enforce justice.
+•   Enact retribution against evil actions—do not strike preemptively.
+Beliefs
+•   Faith is the greatest weapon against evil—faith in one&rsquo;s god, one&rsquo;s friends, and one&rsquo;s self.
+•   Battling evil is an extraordinary task that requires extraordinary strength and bravery.
+•   Punishing an evil act is just. Punishing an evil thought is not.
+For more information on the Order, please visit the Order of the Gauntlet&rsquo;s Facebook page
+Prestige    Objectives for advancement
+Chevall
+(prestige 1)    o Rescue a member of the order o Report evidence of an infernal cult o Fight honourably in a public training match o Free captives from bandits o Find source of illicit substance (eg Silkroot) o Recover cultist plans
+o Achieve any objective not listed above that previously earned an extra renown point for Order of the Gauntlet in a tier 1 AL module
+o Join the Order of the gauntlet facebook group
+Marcheon
+(prestige 2)    o Have the faction agent background o Forgo your downtime to assist with religious rites o Own a cloak of protection o Find a scroll containing a cleric or paladin spell o Return key prisoner for questioning
+o Identify and report corruption (eg cultist hiding among the cloaks of Mulmaster)
+o Achieve any objective not listed above that previously earned an extra renown point for Order of the Gauntlet in a tier 2 AL module</p>
+<p>Whitehawk   o   Spend Downtime to gain proficiency in smith&rsquo;s tools,
+(prestige 3)    o   leatherworking tools, carpenter&rsquo;s tools, mason&rsquo;s tools, vehicles Own a ring of warmth
+    o   Protect the reputation of the order by Keeping any dealing with demons, devils, beholders, mind flayers a secret.
+    o   Slay a fiend or undead of at least CR 7
+    o   Recruit unaligned named NPC to the faction
+    o   Receive an endorsement from a prestige 4 or 5 member of the faction
+    o   Achieve any objective not listed above that previously earned a special or secret mission for Order of the Gauntlet in an AL module
+    o   Complete any epic adventure with an Order of the Gauntlet character
+Vindicator  o   Put to rest a ghost, mummy or vampire of a once good
+(prestige 4)    o   character.
+Slay an undead or fiend of at least CR 14
+    o   Cast a 9<sup>th</sup> level divine spell
+    o   Receive an endorsement from a prestige 5 member of the faction
+    o   Endorse a prestige 3 member of your faction
+    o   Achieve any objective not listed above that previously earned an extra renown point for Order of the Gauntlet in a tier 3 or 4 AL module
+Righteous Hand  No further advancement is needed, but keep working hard.
+(prestige 5)    L_<br />
+Prestige
+Objectives for advancement</p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2019 Palant и команда Киборгов и Чародеев
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="../../assets/fonts/font-awesome.css">
+    
+      <a href="https://github.com/palikhov" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://twitter.com/AVPalikhov" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://linkedin.com/in/avpalikhov" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+          
+            
+              
+              
+                <script src="../../assets/javascripts/lunr/lunr.ru.js"></script>
+              
+            
+          
+            
+              
+              
+            
+          
+          
+            <script src="../../assets/javascripts/lunr/lunr.multi.js"></script>
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>
