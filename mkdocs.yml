@@ -12,7 +12,7 @@ copyright: 'Copyright &copy; 2019 Palant и команда Киборгов и �
 nav:
     - Главная: index.md
     - Downtime:
-            - Downtime Completed: homerules/downtime-revisited/DOWNTIME-COMPLETE-LIST.MD
+            - Downtime Completed: homerules/downtime-revisited/downtime.md
             - Покупка волшебных вещей: homerules/downtime-revisited/buying-a-magic-item.md
             - Исследования: homerules/downtime-revisited/research.md
             - Создание предмета: homerules/downtime-revisited/crafting-an-item.md
