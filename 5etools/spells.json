@@ -1,0 +1,59 @@
+{
+	"name": "Holy Power",
+	"level": 4,
+	"school": "T",
+	"time": [
+		{
+			"number": 1,
+			"unit": "action"
+		}
+	],
+	"range": {
+		"type": "point",
+		"distance": {
+			"type": "self"
+		}
+	},
+	"duration": [
+		{
+			"type": "timed",
+			"duration": {
+				"type": "minute",
+				"amount": 10
+			}
+		}
+	],
+	"classes": {
+		"fromClassList": [
+			{
+				"name": "Cleric",
+				"source": "PalantGuidetoCombat-CodexofAlliesandThreats"
+			},
+			{
+				"name": "Palant",
+				"source": "PalantGuidetoCombat-CodexofAlliesandThreats"
+			}
+		]
+	},
+	"entries": [
+		"text"
+	],
+	"source": "PalantGuidetoCombat-CodexofAlliesandThreats",
+	"components": {
+		"v": true,
+		"s": true,
+		"m": true
+	},
+	"page": 2,
+	"subschools": [
+		"Divine Power"
+	],
+	"entriesHigherLevel": [
+		{
+			"name": "At Higher Levels",
+			"entries": [
+				"text 2"
+			]
+		}
+	]
+}
