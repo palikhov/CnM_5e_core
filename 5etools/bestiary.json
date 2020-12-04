@@ -1,0 +1,148 @@
+{
+	"name": "War Priest",
+	"isNpc": true,
+	"source": "PalantGuidetoCombat-CodexofAlliesandThreats",
+	"page": 1,
+	"size": "M",
+	"type": {
+		"type": "humanoid",
+		"tags": [
+			"human"
+		]
+	},
+	"alignment": [
+		"A"
+	],
+	"ac": [
+		{
+			"ac": 16,
+			"from": [
+				"{@item chain mail|phb}"
+			]
+		}
+	],
+	"hp": {
+		"formula": "5d8 + 10",
+		"average": 32
+	},
+	"speed": {
+		"walk": 30
+	},
+	"str": 15,
+	"dex": 10,
+	"con": 14,
+	"int": 11,
+	"wis": 15,
+	"cha": 13,
+	"save": {
+		"wis": "+4",
+		"cha": "+3"
+	},
+	"skill": {
+		"deception": "+3",
+		"history": "+2",
+		"religion": "+2",
+		"athletics": "+4"
+	},
+	"passive": 12,
+	"languages": [
+		"Common",
+		"Draconic",
+		"Infernal"
+	],
+	"cr": "2",
+	"spellcasting": [
+		{
+			"name": "Spellcasting",
+			"headerEntries": [
+				"Warpriest is a 5th-level spellcaster that uses Wisdom as his spellcasting ability (spell save {@dc 14}, {@hit 6} to hit with spell attacks). Warpriest has the following spells prepared from the cleric spell list:"
+			],
+			"spells": {
+				"0": {
+					"spells": [
+						"{@spell light}",
+						"{@spell sacred flame}",
+						"{@spell thaumaturgy}"
+					]
+				},
+				"1": {
+					"spells": [
+						"{@spell command}",
+						"{@spell cure wounds}",
+						"{@spell divine favor}",
+						"{@spell healing word}",
+						"{@spell sanctuary}",
+						"{@spell searing smite}"
+					],
+					"slots": 4
+				},
+				"2": {
+					"spells": [
+						"{@spell aid}",
+						"{@spell calm emotions}",
+						"{@spell hold person}",
+						"{@spell spiritual weapon}"
+					],
+					"slots": 3
+				},
+				"3": {
+					"spells": [
+						"{@spell mass healing word}",
+						"{@spell spirit guardians}"
+					],
+					"slots": 2
+				}
+			},
+			"ability": "wis",
+			"type": "spellcasting"
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"entries": [
+				"Warpriest attacks twice."
+			]
+		},
+		{
+			"name": "Halberd",
+			"entries": [
+				"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d6 + 4}) slashing damage."
+			]
+		}
+	],
+	"actionTags": [
+		"Multiattack"
+	],
+	"languageTags": [
+		"C",
+		"DR",
+		"I"
+	],
+	"damageTags": [
+		"S"
+	],
+	"miscTags": [
+		"MW"
+	],
+	"shortName": "warpriest",
+	"level": 5,
+	"isNamedCreature": true,
+	"spellcastingTags": [
+		"CC"
+	],
+	"trait": [
+		{
+			"name": "Martial Advantage",
+			"entries": [
+				"Once per turn, the warpriest can deal an extra 7 ({@damage 2d6}) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the warpriest that isn't {@condition incapacitated}."
+			]
+		}
+	],
+	"group": "Clerics",
+	"fluff": {
+		"entries": [
+			"War priest has selected domain of War"
+		]
+	}
+}
