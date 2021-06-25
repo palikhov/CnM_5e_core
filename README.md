@@ -1,15 +1,25 @@
-# README
+# Initial page
 
-Набор домашних правил, изменений и дополнений к правилам D&D 5 редакции.
+## Getting Super Powers
 
-**ОСНОВНОЙ АВТОР** Anton Palikhov aka Palant
+Becoming a super hero is a fairly straight forward process:
 
-Также над материалом работали и работают: xattttta, strateg, Mongo, Byrricade, Damir, Hellfell
+```
+$ give me super-powers
+```
 
-С помощью команды [Киборгов и Чародеев](https://discord.gg/r3tDdWm)
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
 
-[Наш блог, посвященный D&D 5e и Лиге Авантюристов](https://adventurersleague.wordpress.com/)
+Once you're strong enough, save the world:
+
+{% code title="hello.sh" %}
+```bash
+# Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+{% endcode %}
 
 
 
-LICENSE: MIT
