@@ -36,7 +36,11 @@
 
 ## Rules
 
-* [Languages](rules/languages.md)
+* [ОТДЫХ](rules/otdykh.md)
+
+## Rules <a id="rules-1"></a>
+
+* [Languages](rules-1/languages.md)
 
 ---
 
