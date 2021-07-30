@@ -38,3 +38,9 @@
 
 * [Languages](rules/languages.md)
 
+---
+
+* [Вторичные навыки](vtorichnye-navyki.md)
+* [Отдых](otdykh.md)
+* [Skills](skills.md)
+
