@@ -2,9 +2,8 @@
 
 ##  SIMPLE MELEE WEAPONS
 
-|  |  |  |  |  |  |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | **Weapon Name** | **Cost, gp** | **Damage** | **Range, normal/long, ft** | **Weight, lb** | **Properties** |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | Bayonet | 5 | 5 |  | 0 | Special |
 | Belaying pin | 2 | 2 |  | 0 | Light |
 | Boar-spear | 3 | 3 |  | 5 | Versatile \(1d8\), winged |
