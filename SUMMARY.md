@@ -25,6 +25,7 @@
 
 ## Characters
 
+* [Untitled](characters/untitled.md)
 * [Races](characters/races/README.md)
   * [Untitled](characters/races/untitled-1.md)
   * [Untitled](characters/races/untitled.md)
@@ -32,4 +33,8 @@
 ---
 
 * [Киборги и Чародеи](https://cyborgsandmages.wordpress.com/)
+
+## Rules
+
+* [Languages](rules/languages.md)
 
