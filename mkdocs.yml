@@ -1,10 +1,10 @@
 # Project information
-site_name: D&D "Palant edition"
-site_description: Набор необходимых, по моему мнению, изменений, tweaks, fixes к правилам 5й редакции Подземелий и Драконов.
+site_name: RPG - 5e Core by Palant and Cyborgs&Mages
+site_description: Измененные правила и материалы для 5e
 site_author: Антон Палихов aka Palant
 # Repository
-repo_name: 'palikhov/DnD_Palant_edition'
-repo_url: 'https://github.com/palikhov/DnD_Palant_edition'
+repo_name: 'palikhov/RPG_5E_Palant_Core'
+repo_url: 'https://github.com/palikhov/RPG_5E_Palant_Core'
 # trade marks and copyright
 
 copyright: 'Copyright &copy; 2019 Palant и команда Киборгов и Чародеев'
@@ -107,7 +107,8 @@ extra:
       link: 'https://twitter.com/AVPalikhov'
     - type: 'linkedin'
       link: 'https://linkedin.com/in/avpalikhov'
-      
+     - type: 'facebook'
+      link: 'https://linkedin.com/in/avpalikhov'     
 # Extensions
 markdown_extensions:
     - smarty
