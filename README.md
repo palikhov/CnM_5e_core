@@ -1,6 +1,10 @@
 ---
-description: Ссылки на связаннные репозитории
+description: Прочти меня
 ---
+# Сделать подпапку для релизов шаблонов докуентов
+# упорядочить файлі
+
+# Связанные репозитории
 
 https://github.com/palikhov/srd-dnd-5e-ru https://github.com/palikhov/1111
 
