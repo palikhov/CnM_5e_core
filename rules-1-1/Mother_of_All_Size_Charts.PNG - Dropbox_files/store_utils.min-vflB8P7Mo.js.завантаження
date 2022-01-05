@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,r){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.observeStore=void 0,r.observeStore=function(e,r,t,o){var i=o,n=function(){var o=r(e.getState());o!==i&&(t(i,o),i=o)},u=e.subscribe(n);return n(),u}}));
+//# sourceMappingURL=store_utils.min.js-vflJz-Fcd.map

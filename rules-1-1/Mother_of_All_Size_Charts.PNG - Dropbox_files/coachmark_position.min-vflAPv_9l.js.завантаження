@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,r){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.areCoachmarkPositionsEqual=void 0,r.areCoachmarkPositionsEqual=function(e,r){return null===e||null===r?e===r:Object.keys(e).every((function(n){return e[n]===r[n]}))}}));
+//# sourceMappingURL=coachmark_position.min.js-vflb_Qfbe.map

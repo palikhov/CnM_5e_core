@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,t){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.createCommentFileIdentifier=void 0,t.createCommentFileIdentifier=function(e,t){return t||e}}));
+//# sourceMappingURL=types.amd.min.js-vflWEULA5.map

@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,r){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.middleware=void 0,r.middleware=function(e){return function(){return function(r){return function(n){return"@@previews/triggerDynamicRoutingModalCheck"===n.type&&e.triggerDynamicRoutingModalCheck(),r(n)}}}}}));
+//# sourceMappingURL=cloud_docs.min.js-vflnep4HN.map

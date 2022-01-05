@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,t){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.canvasToImage=void 0,t.canvasToImage=function(e){return e.toDataURL().split(",",2).pop()}}));
+//# sourceMappingURL=canvasToImage.min.js-vflx28Qbm.map

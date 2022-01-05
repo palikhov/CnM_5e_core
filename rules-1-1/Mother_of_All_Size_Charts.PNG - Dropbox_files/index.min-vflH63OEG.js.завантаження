@@ -1,0 +1,2 @@
+define(["require","exports","file-viewer/zoom/plugin/loader","file-viewer/zoom/plugin/plugin"],(function(e,o,r,i){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.ZOOM_PLUGIN_ID=o.makeZoomPluginLoader=void 0,Object.defineProperty(o,"makeZoomPluginLoader",{enumerable:!0,get:function(){return r.makeZoomPluginLoader}}),Object.defineProperty(o,"ZOOM_PLUGIN_ID",{enumerable:!0,get:function(){return i.ZOOM_PLUGIN_ID}})}));
+//# sourceMappingURL=index.min.js-vflK4RwAr.map

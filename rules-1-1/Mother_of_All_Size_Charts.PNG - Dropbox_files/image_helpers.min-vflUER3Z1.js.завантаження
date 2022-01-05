@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,t){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.preloadImage=void 0,t.preloadImage=function(e,t){return new Promise((function(r,n){var o=Date.now(),s=new Image;s.onload=function(){r({started:o,completed:Date.now()})},s.onerror=function(){n({started:o,failed:Date.now()})},t&&(t.srcset&&(s.srcset=t.srcset),t.sizes&&(s.sizes=t.sizes)),s.src=e}))}}));
+//# sourceMappingURL=image_helpers.min.js-vflYkSvfl.map

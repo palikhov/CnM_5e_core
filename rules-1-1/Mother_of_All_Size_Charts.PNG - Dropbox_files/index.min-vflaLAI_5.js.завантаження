@@ -1,0 +1,2 @@
+define(["require","exports","tslib","file-viewer/watermarking/plugin/redux/actions","file-viewer/watermarking/plugin/redux/store"],(function(e,r,i,t,n){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),i.__exportStar(t,r),i.__exportStar(n,r)}));
+//# sourceMappingURL=index.min.js-vflRzxzcd.map

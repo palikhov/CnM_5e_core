@@ -1,0 +1,2 @@
+define(["require","exports","tslib"],(function(e,r,t){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.reportExceptionMiddleware=void 0,r.reportExceptionMiddleware=function(e){var r=this;return function(){return function(n){return function(i){return t.__awaiter(r,void 0,void 0,(function(){return t.__generator(this,(function(r){return"@@previews/reportException"===i.type&&e.reportException(i.payload.error,i.payload.fileType),[2,n(i)]}))}))}}}}}));
+//# sourceMappingURL=report_exception.min.js-vflq71WDZ.map

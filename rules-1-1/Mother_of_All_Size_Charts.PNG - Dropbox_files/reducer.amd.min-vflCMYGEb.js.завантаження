@@ -1,0 +1,2 @@
+define(["require","exports","tslib"],(function(e,o,r){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.setApprovalForm=o.approvalReducer=o.Action=void 0,(o.Action||(o.Action={})).SetApprovalForm="@@approval/setApprovalForm",o.approvalReducer=function(e,t){void 0===e&&(e={});var p=t.type,a=t.payload;switch(p){case o.Action.SetApprovalForm:return r.__assign(r.__assign({},e),a);default:return e}},o.setApprovalForm=function(e){return{type:o.Action.SetApprovalForm,payload:e}}}));
+//# sourceMappingURL=reducer.amd.min.js-vflMzezeT.map

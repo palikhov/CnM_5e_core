@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,r){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.getImageFromFile=void 0,r.getImageFromFile=function(e){return new Promise((function(r,n){var o=new FileReader;o.addEventListener("load",(function(){if(null!=o.result){var e=new Image;e.onload=function(){r(e)},e.onerror=function(e){n(e)},e.crossOrigin="anonymous",e.src=o.result}else n(new Error("File reader result was null"))})),o.addEventListener("error",(function(e){n(e)})),o.readAsDataURL(e)}))}}));
+//# sourceMappingURL=getImageFromFile.min.js-vflwdSube.map

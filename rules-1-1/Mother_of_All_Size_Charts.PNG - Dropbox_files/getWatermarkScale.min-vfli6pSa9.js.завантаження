@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,r){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.getWatermarkScale=void 0;r.getWatermarkScale=function(e){return"ssr_doc"===e?300/72:1}}));
+//# sourceMappingURL=getWatermarkScale.min.js-vflzxB1JZ.map

@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,i){"use strict";Object.defineProperty(i,"__esModule",{value:!0}),i.getImageDefaultSizes=i.DEFAULT_SIZES=void 0,i.DEFAULT_SIZES={size:1,minSize:.2,maxSize:5},i.getImageDefaultSizes=function(e,t){if(!e||!t)return i.DEFAULT_SIZES;var S=e.width/t.width,r=e.height/t.height,a=Math.max(S,r);if(a*i.DEFAULT_SIZES.maxSize<=.9)return i.DEFAULT_SIZES;var n=.9/a;return{size:n/5,minSize:n/25,maxSize:n}}}));
+//# sourceMappingURL=getImageDefaultSizes.min.js-vflp5vmBR.map

@@ -1,0 +1,2 @@
+define(["require","exports","modules/clean/unity/features"],(function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.portableOpenInDesktop=void 0,n.portableOpenInDesktop=function(e,n){var r=e.nsId,u=e.nsPath,o=e.user,s=n.onSuccess,i=n.onError;t.UnityFeatures.open_file(r||null,u||"/",o.id,(function(e){return null==s||s(e),t.UnityFeatures.standard_open_file_handler(e)}),(function(e){null==i||i(e),t.UnityFeatures.standard_open_file_handler(!1)}),!0)}}));
+//# sourceMappingURL=open_desktop.min.js-vflbbmL3_.map

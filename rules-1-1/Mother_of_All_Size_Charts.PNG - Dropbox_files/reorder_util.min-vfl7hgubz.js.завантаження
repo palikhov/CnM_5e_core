@@ -1,0 +1,2 @@
+define(["require","exports","tslib"],(function(r,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.reorder=void 0,e.reorder=function(r,e,n){for(var i=Array.from(r),o=[],u=i.length-1;u>=0;u--)e.includes(u)&&o.unshift(i.splice(u,1)[0]);var f=Array.from(new Set(e)),l=f.filter((function(r){return r<n})),s=Math.max(l.length-1,0),a=Array.from({length:f.length},(function(r,e){return e+n-s}));return i.splice.apply(i,t.__spreadArrays([a[0],0],o)),{result:i,indicesAfterDrag:a}}}));
+//# sourceMappingURL=reorder_util.min.js-vfl3sKvrR.map

@@ -1,0 +1,25 @@
+:root {
+    /* Matching $file_viewer_z_index in legacy file-viewer */
+    --file_viewer_z_index: 500;
+    --file_viewer_modal_overlay_z_index: 501;
+}
+
+.fvsdk-container {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: var(--file_viewer_z_index);
+}
+
+.fvsdk-mount-point {
+    flex: 1;
+    overflow: hidden;
+}
+
+.file-viewer-modal-overlay.mc-modal-overlay {
+    z-index: var(--file_viewer_modal_overlay_z_index);
+}

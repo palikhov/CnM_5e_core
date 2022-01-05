@@ -1,0 +1,2 @@
+define(["require","exports","tslib","react","dig-components/buttons"],(function(e,t,n,a,i){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.CancelButton=void 0,a=n.__importStar(a),t.CancelButton=a.memo((function(e){var t=e.label,n=e.disabled,o=e.onClick,r=e.size,s=e.className;return a.createElement(i.Button,{className:s,disabled:n,onClick:o,variant:"transparent",size:r},t)}))}));
+//# sourceMappingURL=cancel_button.min.js-vfl4caPj7.map

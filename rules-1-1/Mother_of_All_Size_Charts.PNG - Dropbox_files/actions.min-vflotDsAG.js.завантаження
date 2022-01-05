@@ -1,0 +1,2 @@
+define(["require","exports"],(function(t,e){"use strict";var c;Object.defineProperty(e,"__esModule",{value:!0}),e.searchContactsResult=e.searchContacts=e.MentionsAction=void 0,(c=e.MentionsAction||(e.MentionsAction={})).SearchContacts="@@contacts/search",c.SearchContactsResult="@@contacts/searchResult",e.searchContacts=function(t){return{type:"@@contacts/search",payload:t}},e.searchContactsResult=function(t){return{type:"@@contacts/searchResult",payload:t}}}));
+//# sourceMappingURL=actions.min.js-vflCNRBX_.map

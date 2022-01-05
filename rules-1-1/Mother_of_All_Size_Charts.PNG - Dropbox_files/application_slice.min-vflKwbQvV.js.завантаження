@@ -1,0 +1,2 @@
+define(["require","exports","@reduxjs/toolkit"],(function(i,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.reducer=e.setApplicationInitialized=e.applicationSlice=void 0;e.applicationSlice=t.createSlice({name:"application",initialState:{initialized:!1},reducers:{setApplicationInitialized:function(i,e){i.initialized=e.payload}}}),e.setApplicationInitialized=e.applicationSlice.actions.setApplicationInitialized,e.reducer=e.applicationSlice.reducer}));
+//# sourceMappingURL=application_slice.min.js-vfl3LdRS-.map

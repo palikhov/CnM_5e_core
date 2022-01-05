@@ -1,0 +1,2 @@
+define(["require","exports","file-viewer/core/index","file-viewer/core/data/selectors"],(function(e,r,i,t){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.getCurrentPreviewType=void 0,r.getCurrentPreviewType=function(e,r){var l=r.fileViewerId,n=t.getCurrentFile(e,l);return null==n||null==n.file_id?null:i.resolvePreviewType(e.previewData[n.previewKey.serialized])}}));
+//# sourceMappingURL=preview_type.min.js-vflh5pGDC.map

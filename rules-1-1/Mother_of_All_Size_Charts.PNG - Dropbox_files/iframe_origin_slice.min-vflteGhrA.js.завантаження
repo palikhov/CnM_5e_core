@@ -1,0 +1,2 @@
+define(["require","exports","@reduxjs/toolkit"],(function(e,i,r){"use strict";Object.defineProperty(i,"__esModule",{value:!0}),i.reducer=i.setIframeOrigin=i.iframeOriginSlice=void 0;i.iframeOriginSlice=r.createSlice({name:"iframeOrigin",initialState:{value:""},reducers:{setIframeOrigin:function(e,i){e.value=i.payload}}}),i.setIframeOrigin=i.iframeOriginSlice.actions.setIframeOrigin,i.reducer=i.iframeOriginSlice.reducer}));
+//# sourceMappingURL=iframe_origin_slice.min.js-vfllzk4MW.map

@@ -1,0 +1,2 @@
+define(["require","exports"],(function(n,t){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.isEditingAnnotation=t.isAnnotating=void 0,t.isAnnotating=function(n){return"annotating"===n||"annotating-ax"===n},t.isEditingAnnotation=function(n){return"annotating"===n||"annotating-ax"===n||"commenting"===n}}));
+//# sourceMappingURL=utils.min.js-vflv5_9u4.map

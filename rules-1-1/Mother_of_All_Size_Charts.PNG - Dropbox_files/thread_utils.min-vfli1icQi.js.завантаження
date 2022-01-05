@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,r){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.findCommentThread=void 0,r.findCommentThread=function(e,r){for(var n=0,t=e;n<t.length;n++)for(var o=t[n],i=0,d=o.comments;i<d.length;i++){var f=d[i];if(f.id===r)return{comment:f,thread:o}}return null}}));
+//# sourceMappingURL=thread_utils.min.js-vflohwdIH.map

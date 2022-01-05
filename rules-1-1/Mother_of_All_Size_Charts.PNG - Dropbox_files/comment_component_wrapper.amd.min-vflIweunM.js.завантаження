@@ -1,0 +1,2 @@
+define(["require","exports","tslib","typescript/libraries/comments2/src/components/comment/index","react"],(function(e,t,m,n,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.BaseComment=void 0,o=m.__importDefault(o),t.BaseComment=o.default.memo((function(e){return o.default.createElement(n.Comment,Object.assign({},e))})),t.BaseComment.displayName="BaseComment"}));
+//# sourceMappingURL=comment_component_wrapper.amd.min.js-vfl3nLgK5.map

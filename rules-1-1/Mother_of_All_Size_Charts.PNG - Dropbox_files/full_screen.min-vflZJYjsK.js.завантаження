@@ -1,0 +1,2 @@
+define(["require","exports","modules/clean/react/file_viewer/full_screen_helpers"],(function(e,n,r){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.makeFullScreenClient=void 0,n.makeFullScreenClient=function(){return{enterFullScreen:function(e){return r.enterFullScreen({dispatchFunction:e,shouldDispatchReduxAction:!1})},exitFullScreen:function(){return r.exitFullScreen()}}}}));
+//# sourceMappingURL=full_screen.min.js-vfl_12Y8v.map

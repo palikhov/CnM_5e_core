@@ -1,0 +1,2 @@
+define(["require","exports"],(function(e,r){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.getCurrentWatermarkOptions=r.isSupportedPreviewType=void 0;var t=[".pdf",".jpg",".jpeg",".png",".bmp"];r.isSupportedPreviewType=function(e){return t.includes(e)},r.getCurrentWatermarkOptions=function(e,r){var t=r.mode,i=r.textWatermarkOptions,n=r.imageWatermarkOptions;return"image"===t[e]?n[e]:i[e]}}));
+//# sourceMappingURL=selectors.min.js-vflzxCARd.map

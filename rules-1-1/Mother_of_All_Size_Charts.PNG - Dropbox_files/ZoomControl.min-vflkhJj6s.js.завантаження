@@ -1,0 +1,2 @@
+define(["require","exports","tslib","react","file-viewer/plugins/index"],(function(e,o,t,r,i){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.ZoomControl=void 0,r=t.__importStar(r),o.ZoomControl=function(e){var o=e.platform.intl;return r.createElement(i.BasePluginSidebarControl,Object.assign({iconId:"zoom",label:o.formatMessage({id:"cCjbve",defaultMessage:"Zoom"})},e))}}));
+//# sourceMappingURL=ZoomControl.min.js-vfly9TgYQ.map

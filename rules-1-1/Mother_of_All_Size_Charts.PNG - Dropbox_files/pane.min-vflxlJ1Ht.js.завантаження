@@ -1,0 +1,2 @@
+define(["require","exports","tslib","react","classnames"],(function(e,a,t,r,n){"use strict";Object.defineProperty(a,"__esModule",{value:!0}),a.Pane=void 0,r=t.__importStar(r),n=t.__importDefault(n);var s="pane__mr8CWsBI-a__pane";a.Pane=function(e){return r.createElement("div",{role:"tabpanel",className:n.default(s,e.className)},e.children)}}));
+//# sourceMappingURL=pane.min.js-vflFbbfW0.map

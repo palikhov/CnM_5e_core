@@ -1,0 +1,2 @@
+define(["require","exports","tslib","api_v2/user_client"],(function(e,t,i,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.getPageInfos=void 0,t.getPageInfos=function(e,t){return i.__awaiter(this,void 0,Promise,(function(){return i.__generator(this,(function(i){switch(i.label){case 0:return[4,(new n.UserApiV2Client).ns("app_directory").rpc("list_page_info",{app_identifiers:e},{subjectUserId:t})];case 1:return[2,i.sent().page_infos]}}))}))}}));
+//# sourceMappingURL=client.min.js-vflbtdw0i.map

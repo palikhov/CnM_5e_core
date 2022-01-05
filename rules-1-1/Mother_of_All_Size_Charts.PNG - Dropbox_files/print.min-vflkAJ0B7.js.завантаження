@@ -1,0 +1,2 @@
+define(["require","exports","modules/clean/previews/actions","file-viewer/core/index"],(function(e,i,n,r){"use strict";Object.defineProperty(i,"__esModule",{value:!0}),i.makePrintClient=void 0,i.makePrintClient=function(){return{print:function(e,i){i===r.PreviewType.SsrDoc?n.docPrint(e):i===r.PreviewType.Image&&n.imagePrint(e)}}}}));
+//# sourceMappingURL=print.min.js-vflgWGRhH.map

@@ -1,0 +1,2 @@
+define(["require","exports","file-viewer/file_viewer/file_viewer","file-viewer/file_viewer/bootstrap"],(function(e,r,i,t){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.createFileViewerFactory=r.FileViewer=void 0,Object.defineProperty(r,"FileViewer",{enumerable:!0,get:function(){return i.FileViewer}}),Object.defineProperty(r,"createFileViewerFactory",{enumerable:!0,get:function(){return t.createFileViewerFactory}})}));
+//# sourceMappingURL=index.min.js-vflUOMch9.map

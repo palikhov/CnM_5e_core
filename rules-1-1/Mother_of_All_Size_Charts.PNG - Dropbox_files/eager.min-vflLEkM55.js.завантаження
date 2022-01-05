@@ -1,0 +1,2 @@
+define(["require","exports","tslib","file-viewer/comments2/plugin/index"],(function(e,n,t,i){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.makeLoader=void 0,n.makeLoader=function(e,n){var r=this;return void 0===n&&(n={}),function(o){return t.__awaiter(r,void 0,void 0,(function(){return t.__generator(this,(function(r){return[2,(function(i){function r(t){return i.call(this,o,t,n,e)||this}return t.__extends(r,i),r})(i.Comments2Plugin)]}))}))}}}));
+//# sourceMappingURL=eager.min.js-vflRbPpzi.map

@@ -1,0 +1,2 @@
+define(["require","exports","file-viewer/zoom/plugin/components/ZoomSidebar","file-viewer/zoom/plugin/components/ZoomControl"],(function(e,o,r,n){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.ZoomControl=o.ZoomSidebar=void 0,Object.defineProperty(o,"ZoomSidebar",{enumerable:!0,get:function(){return r.ZoomSidebar}}),Object.defineProperty(o,"ZoomControl",{enumerable:!0,get:function(){return n.ZoomControl}})}));
+//# sourceMappingURL=index.min.js-vflw5KDe2.map
