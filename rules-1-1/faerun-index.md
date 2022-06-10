@@ -12,10 +12,15 @@ Abbreviations
 -------------
 
 FRA = Forgotten Realms Adventures
+
 GToR = A Grand Tour of the Realms (Forgotten Realms Campaign Setting)
+
 RtR = Running the Realms (Forgotten Realms Campaign Setting)
+
 Sh = Shadowdale (Forgotten Realms Campaign Setting)
+
 FRCSMC = Forgotten Realms Campaign Setting: Monstrous Compendium
+
 sheets
 FRCSmap = Forgotten Realms Campaign Setting: maps
 FRCS3e = Forgotten Realms Campaign Setting (3rd Edition)
