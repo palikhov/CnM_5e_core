@@ -1,0 +1,107 @@
+/*Red title and Credit to HB font*/
+@import url("https://rawcdn.githack.com/5e-Cleric/fonts-/6ff92242119b0024c605ae83a45f87dbc2cff366/extradndfonts.css");
+
+/*After the fonts goes all the code*/
+.BackCover {
+	position:absolute;
+  	top:0px;
+  	left:-20px; 
+		height:100%;
+    width:420px;
+background-image:url(https://i.imgur.com/zi4SkEt.png);   /*Sets the Black half page cover*/
+		background-position:bottom center;
+		background-repeat:no-repeat;
+  	background-size:cover;
+}
+
+.BackCover h1+p::first-letter{ /*Unsets the drop cap*/
+all:unset;
+}
+
+.BackCover h1+p::first-line{  /*Unsets the small caps first line*/
+	all:unset;
+}
+
+.BackCover h1 {          /*Back Title, red caps*/
+position:relative;
+	min-width:400px;
+	padding-top:90px;
+	padding-right:80px;
+	padding-left:70px;
+	margin-bottom:15px;
+  font-size:400%;
+  font-family:nodesto_caps_condensed_bold-webfont; 
+	color:#ED1C24	;
+  font-variant:small-caps;
+}
+
+.block.BackCover p {  /*configures how normal text will be*/
+	padding-left:55px;
+	padding-right:75px;
+	color:#fff
+}
+
+.BackCover img {     /*Sets your bakcground image, you will likely have to change this values for your own image*/
+	position:absolute;
+  	top:0px;
+    left:0px;
+		height:1056px;
+	z-index: -1;
+}
+
+
+.page .BackCover hr {
+		position: relative;
+		top: 35px;
+		height: 4em;
+		width: 230px;
+		visibility: visible;
+		margin: auto;
+		background-image : url(https://i.imgur.com/U4Cveto.png);
+		background-size: 100% 50%;
+		background-repeat: no-repeat;
+		border: none;
+	}
+	
+
+	
+
+	.page .BackCover hr+p {
+		padding-left:100px;
+		padding-right:100px;
+		font-family: "martel_sansextrabold";
+		text-align:center;
+		margin-top:30px;
+	}
+
+
+
+.Made{
+	min-height:200px;
+	filter:invert(100%);
+	background-image:url(https://i.imgur.com/r7nvH4z.png); /*Sets the HB cauldron, please leave this as is or change it's size, but do not delete it as we should give them appropiate credit*/
+	background-blend-mode:multiply;
+	background-position:middle center;
+	background-repeat:no-repeat;
+  background-size:30%;
+	position:absolute;
+	 left:35%;
+		bottom:10px;
+	padding-right:160px;
+}
+
+.Made:before {
+		filter:invert(100%);
+	Position:absolute;
+	bottom:210px;
+	left:-22px;
+content:"Made with The Homebrewery"; /*sets the credit line: made with the homebrewery*/
+	color:#fff;
+	font-family:nodesto_caps_condensed_bold-webfont;
+	font-size:150%;
+	-webkit-transform:scale(1.6, 1.0);
+}
+
+.page#p1:after{ /*Unsets the golden line at the end of the page for page 1(#p1)*/
+	all:unset;
+}

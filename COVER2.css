@@ -1,0 +1,103 @@
+
+
+@import url("https://rawcdn.githack.com/5e-Cleric/fonts-/6ff92242119b0024c605ae83a45f87dbc2cff366/extradndfonts.css");
+
+/*This template is made for you, and therefore, you can adjust everything, if you need any help, look at google, if you don't find anything, look again, still nothing? then ask me at https://www.reddit.com/user/5e_Cleric or mention me (u/5e_Cleric) on a reddit post*/
+
+.CoverTitle {
+position:absolute;
+    top:1%;
+    right:0%;
+    height:72px;
+    width:100%;
+    padding-top:75px;
+    text-align:center;
+    color: #58180D;
+	background-image:url(https://i.imgur.com/hBdjwi6.png);   /*Sets the DND symbol*/
+	background-position:top center;
+	background-repeat:no-repeat;
+    background-size:contain;
+}
+
+.CoverTitle h1 {
+	padding-right:40px;
+	padding-left:40px;
+  font-size:645%;
+	text-transform:uppercase;
+  font-family:nodesto_caps_condensed_bold-webfonT; /*gives you the title of the book*/
+	color:#FFF;
+  font-variant:small-caps;
+	-webkit-text-stroke: 0.5px black;
+		--shadow-x0: #000 0px 0px 3px;
+		--shadow-x1: var(--shadow-x0), var(--shadow-x0), var(--shadow-x0);
+		--shadow-x2: var(--shadow-x1), var(--shadow-x1), var(--shadow-x1);
+		--shadow-x3: var(--shadow-x2), var(--shadow-x2), var(--shadow-x2);
+		text-shadow: var(--shadow-x3), var(--shadow-x3), var(--shadow-x3);
+}
+
+.page .CoverTitle hr {
+		position: relative;
+		height: 4em;
+		top: -5px;
+		width: 430px;
+		visibility: visible;
+		margin: auto;
+		margin-top: -10px;
+		margin-bottom: -4px;
+		background-image : url(https://i.imgur.com/U4Cveto.png);
+		background-size: 100% 100%;
+		border: none;
+	}
+
+.CoverTitle h1 + p:first-letter { /*unsets the drop cap*/
+    all:unset;    
+}
+.CoverTitle h1 + p:first-line {  /*unsets the small caps on the first line after a h1*/
+    all: unset;
+}
+
+.CoverTitle p {          /*Sets the book's resume*/
+	position:absolute;
+    bottom:-900px;
+	text-align:center;
+	text-justify:center;
+	padding-right:100px;
+	padding-left:100px;
+	font-size:180%;
+	font-weight:900;
+	font-family:ModestoW01-LightText;
+	color:#fff;
+	text-shadow:
+    -2px -2px 0 #000,
+     0   -2px 0 #000,
+     2px -2px 0 #000,
+     2px  0   0 #000,
+     2px  2px 0 #000,
+     0    2px 0 #000,
+    -2px  2px 0 #000,
+    -2px  0   0 #000;
+}
+
+.CoverTitle p:first-letter {
+	text-transform:uppercase !important;
+}
+
+.CoverTitle :after {   /*Sets the Flag*/
+position:absolute;
+	top:-260px;
+	left:0px;
+		height:240px;
+    width:450px;
+	content:'';
+background-image:url(https://i.imgur.com/LyG6SdT.png);   
+		background-position:bottom center;
+		background-repeat:no-repeat;
+  	background-size:contain;
+		z-index: 2;
+}
+
+
+	
+.page#p1:after {    /*Unsets the golden line footer*/
+display:none;
+}
